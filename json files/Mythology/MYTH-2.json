@@ -1,0 +1,895 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 14,
+    "num_bonuses_shown": 14,
+    "bonuses": [
+      {
+        "id": 34550,
+        "number": 7,
+        "round": "01",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This man aided the Argonauts on their voyage by drowning out the Sirens’ song with his music. For 10 points each:",
+        "created_at": "2018-09-09T18:54:14.751Z",
+        "updated_at": "2018-09-09T18:54:14.751Z",
+        "formatted_leadin": "This man aided the Argonauts on their voyage by drowning out the Sirens’ song with his music. For 10 points each:",
+        "texts": [
+          "Identify this demigod, whose singing head may have floated down the Hebrus River after he was torn to pieces. This musician was skilled at playing the lyre.",
+          "Orpheus failed to rescue this woman from the underworld after he looked back and saw her before reaching the surface. This wife of Orpheus died from a snakebite.",
+          "This brother of Orpheus taught music to both Orpheus and Heracles. This man was killed by Heracles after he pointed out that Heracles was making a lot of errors."
+        ],
+        "answers": [
+          "Orpheus",
+          "Eurydice (“yoo-rid-uh-see”)",
+          "Linus &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Identify this demigod, whose singing head may have floated down the Hebrus River after he was torn to pieces. This musician was skilled at playing the lyre.",
+          "Orpheus failed to rescue this woman from the underworld after he looked back and saw her before reaching the surface. This wife of Orpheus died from a snakebite.",
+          "This brother of Orpheus taught music to both Orpheus and Heracles. This man was killed by Heracles after he pointed out that Heracles was making a lot of errors."
+        ],
+        "formatted_answers": [
+          "<strong>Orpheus</strong>",
+          "<strong>Eurydice</strong> (<strong>“yoo-rid-uh-see”</strong>)",
+          "<strong>Linus</strong> &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34550",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34579,
+        "number": 15,
+        "round": "02",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Answer the following about the hunt of the Calydonian Boar. For 10 points each:",
+        "created_at": "2018-09-09T18:54:51.109Z",
+        "updated_at": "2018-09-09T18:54:51.109Z",
+        "formatted_leadin": "Answer the following about the hunt of the Calydonian Boar. For 10 points each:",
+        "texts": [
+          "This Greek goddess of the hunt sent the boar to ravage Calydon after King Oeneus failed to honor her.",
+          "Meleager, who slew the boar with his spear, was a member of this group of Greek heroes that accompanied Jason on the way to Colchis to find the Golden Fleece.",
+          "This virgin huntress also accompanied the Calydonian Boar Hunt. She was the first to strike and draw blood from the boar, and was given the skin by Meleager afterwards."
+        ],
+        "answers": [
+          "Artemis",
+          "Argonauts [or Minyans; or Argonautai]",
+          "Atalanta &lt;David Dennis&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "This Greek goddess of the hunt sent the boar to ravage Calydon after King Oeneus failed to honor her.",
+          "Meleager, who slew the boar with his spear, was a member of this group of Greek heroes that accompanied Jason on the way to Colchis to find the Golden Fleece.",
+          "This virgin huntress also accompanied the Calydonian Boar Hunt. She was the first to strike and draw blood from the boar, and was given the skin by Meleager afterwards."
+        ],
+        "formatted_answers": [
+          "<strong>Artemis</strong>",
+          "<strong>Argonaut</strong>s [or <strong>Minyan</strong>s; or <strong>Argonaut</strong>ai]",
+          "<strong>Atalanta</strong> &lt;David Dennis&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34579",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34597,
+        "number": 12,
+        "round": "03",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "If you like stories about gods sneezing out other gods, then Shinto has the stories for you! For 10 points each:",
+        "created_at": "2018-09-09T18:54:51.801Z",
+        "updated_at": "2018-09-09T18:54:51.801Z",
+        "formatted_leadin": "If you like stories about gods sneezing out other gods, then Shinto has the stories for you! For 10 points each:",
+        "texts": [
+          "Shinto is the indigenous religion of this Asian country. This country’s emperor is said to be descended from Jimmu, who himself was a descendant of Amaterasu (“ah-mah-te-rah-soo”).",
+          "This kami was born after Izanagi washed his nose. This god also drew the Kusanagi sword from the body of Orochi and gave it to his sister, Amaterasu.",
+          "The kami of the sea took the form of this creature and owned jewels that he used to control the waves. That kami who took this creature’s form was Ryujin."
+        ],
+        "answers": [
+          "ANSWER: Japan [or Nihon; or Nippon]",
+          "Susano'o [or Susanowo; or Susanoo; or Takehaya Susanoo-no-Mikoto; or His-Swift-Imperial-Male-Augustness]",
+          "Dragons [prompt on snakes] &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Shinto is the indigenous religion of this Asian country. This country’s emperor is said to be descended from Jimmu, who himself was a descendant of Amaterasu (<strong>“ah-mah-te-rah-soo”</strong>).",
+          "This kami was born after Izanagi washed his nose. This god also drew the Kusanagi sword from the body of Orochi and gave it to his sister, Amaterasu.",
+          "The kami of the sea took the form of this creature and owned jewels that he used to control the waves. That kami who took this creature’s form was Ryujin."
+        ],
+        "formatted_answers": [
+          "ANSWER: <strong>Japan</strong> [or <strong>Nihon</strong>; or <strong>Nippon</strong>]",
+          "<strong>Susano'o</strong> [or <strong>Susanowo</strong>; or <strong>Susanoo</strong>; or Takehaya <strong>Susanoo</strong>-no-Mikoto; or <strong>His-Swift-Imperial-Male-Augustness</strong>]",
+          "<strong>Dragon</strong>s [prompt on snakes] &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34597",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34611,
+        "number": 5,
+        "round": "04",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "With his son, this man escaped his employer by making wings that were held together by wax. For 10 points each:",
+        "created_at": "2018-09-09T18:54:52.337Z",
+        "updated_at": "2018-09-09T18:54:52.337Z",
+        "formatted_leadin": "With his son, this man escaped his employer by making wings that were held together by wax. For 10 points each:",
+        "texts": [
+          "Name this inventor, who escaped from Minos after building the labyrinth. His son Icarus drowned after flying too close to the sun during their escape attempt.",
+          "Minos angered this god after he refused to sacrifice a white bull. With the help of Aphrodite, this god of the sea caused Pasiphae to fall in love with a bull, resulting in the birth of the Minotaur.",
+          "In one myth, Daedalus pushed this nephew of his off of a cliff after this man invented the saw. Athena turned this man into a partridge in order to prevent his death."
+        ],
+        "answers": [
+          "Daedalus",
+          "Poseidon",
+          "Perdix [or Talus; or Calos] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this inventor, who escaped from Minos after building the labyrinth. His son Icarus drowned after flying too close to the sun during their escape attempt.",
+          "Minos angered this god after he refused to sacrifice a white bull. With the help of Aphrodite, this god of the sea caused Pasiphae to fall in love with a bull, resulting in the birth of the Minotaur.",
+          "In one myth, Daedalus pushed this nephew of his off of a cliff after this man invented the saw. Athena turned this man into a partridge in order to prevent his death."
+        ],
+        "formatted_answers": [
+          "<strong>Daedalus</strong>",
+          "<strong>Poseidon</strong>",
+          "<strong>Perdix</strong> [or <strong>Talus</strong>; or <strong>Calos</strong>] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34611",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34627,
+        "number": 21,
+        "round": "04",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This creature was later turned into a constellation after being caught in a paradox. For 10 points each:",
+        "created_at": "2018-09-09T18:54:52.942Z",
+        "updated_at": "2018-09-09T18:54:52.942Z",
+        "formatted_leadin": "This creature was later turned into a constellation after being caught in a paradox. For 10 points each:",
+        "texts": [
+          "Name this dog from Greek mythology that was destined to catch any prey she pursued. To solve the paradox, Zeus would eventually turn her into Canis Major.",
+          "Laelaps was caught in a paradox when Amphitryon sent her to catch a gigantic one of these animals who was destined to never be caught. Zeus turned this animal into Canis Minor.",
+          "Before turning them into constellations, Zeus first resolved the paradox by performing this action. The eyes of Medusa also had the power to perform this action."
+        ],
+        "answers": [
+          "Laelaps",
+          "ANSWER: Teumessian Fox [or the Cadmean Fox; or Vixen]",
+          "Turned them into stone [or petrification; or word forms, such as petrifying] &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this dog from Greek mythology that was destined to catch any prey she pursued. To solve the paradox, Zeus would eventually turn her into Canis Major.",
+          "Laelaps was caught in a paradox when Amphitryon sent her to catch a gigantic one of these animals who was destined to never be caught. Zeus turned this animal into Canis Minor.",
+          "Before turning them into constellations, Zeus first resolved the paradox by performing this action. The eyes of Medusa also had the power to perform this action."
+        ],
+        "formatted_answers": [
+          "<strong>Laelaps</strong>",
+          "ANSWER: Teumessian <strong>Fox</strong> [or the Cadmean <strong>Fox</strong>; or <strong>Vixen</strong>]",
+          "<strong>Turned them into stone</strong> [or <strong>petrification</strong>; or word forms, such as <strong>petrifying</strong>] &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34627",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34638,
+        "number": 11,
+        "round": "05",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Answer the following about Native American mythology. For 10 points each:",
+        "created_at": "2018-09-09T18:55:39.502Z",
+        "updated_at": "2018-09-09T18:55:39.502Z",
+        "formatted_leadin": "Answer the following about Native American mythology. For 10 points each:",
+        "texts": [
+          "In some myths, this figure created man by kicking a ball of mud. This canine trickster figure of Native American mythology is nicknamed the “Old Man.”",
+          "The Ojibwe believe in this type of evil creature, which is often depicted as an emaciated skeleton. These spirits could possess a human’s body and turn them to cannibalism.",
+          "This being appears in stories from many Pacific Northwest tribes about fighting Whale. It creates its namesake phenomenon by dropping Whale into the ocean or by flapping its wings."
+        ],
+        "answers": [
+          "Coyote",
+          "Wendigo [or windigo]",
+          "ANSWER: Thunderbird &lt;Jacob O’Rourke&gt;"
+        ],
+        "formatted_texts": [
+          "In some myths, this figure created man by kicking a ball of mud. This canine trickster figure of Native American mythology is nicknamed the “Old Man.”",
+          "The Ojibwe believe in this type of evil creature, which is often depicted as an emaciated skeleton. These spirits could possess a human’s body and turn them to cannibalism.",
+          "This being appears in stories from many Pacific Northwest tribes about fighting Whale. It creates its namesake phenomenon by dropping Whale into the ocean or by flapping its wings."
+        ],
+        "formatted_answers": [
+          "<strong>Coyote</strong>",
+          "<strong>Wendigo</strong> [or <strong>windigo</strong>]",
+          "ANSWER: <strong>Thunderbird</strong> &lt;Jacob O’Rourke&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34638",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34667,
+        "number": 19,
+        "round": "06",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This man killed the 108 suitors of his wife after stringing his bow and shooting an arrow through twelve axe heads. For 10 points each:",
+        "created_at": "2018-09-09T18:55:40.290Z",
+        "updated_at": "2018-09-09T18:55:40.290Z",
+        "formatted_leadin": "This man killed the 108 suitors of his wife after stringing his bow and shooting an arrow through twelve axe heads. For 10 points each:",
+        "texts": [
+          "Name the mythical king of Ithaca, who returned home to his wife Penelope after wandering for ten years after the Trojan War in a namesake epic by Homer.",
+          "During his wanderings, Odysseus blinded this giant being by using a wooden stake. Odysseus introduced himself as “Nobody” to this son of Poseidon.",
+          "Polyphemus was a member of this race of one-eyed giants. Three of these creatures named Brontes, Steropes and Arges created Zeus’ thunderbolts."
+        ],
+        "answers": [
+          "Odysseus",
+          "Polyphemus",
+          "Cyclops [or Cyclopes] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name the mythical king of Ithaca, who returned home to his wife Penelope after wandering for ten years after the Trojan War in a namesake epic by Homer.",
+          "During his wanderings, Odysseus blinded this giant being by using a wooden stake. Odysseus introduced himself as “Nobody” to this son of Poseidon.",
+          "Polyphemus was a member of this race of one-eyed giants. Three of these creatures named Brontes, Steropes and Arges created Zeus’ thunderbolts."
+        ],
+        "formatted_answers": [
+          "<strong>Odysseus</strong>",
+          "<strong>Polyphemus</strong>",
+          "<strong>Cyclop</strong>s [or <strong>Cyclope</strong>s] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34667",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34677,
+        "number": 8,
+        "round": "07",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "As punishment for his involvement in the death of Baldr, this god writhes in pain when snake venom drips onto his face, which is the cause of earthquakes. For 10 points each:",
+        "created_at": "2018-09-09T18:55:40.612Z",
+        "updated_at": "2018-09-09T18:55:40.612Z",
+        "formatted_leadin": "As punishment for his involvement in the death of Baldr, this god writhes in pain when snake venom drips onto his face, which is the cause of earthquakes. For 10 points each:",
+        "texts": [
+          "Name this god, who kills Fimafeng in a dialogue-heavy text that is partly named for him. This god is the Norse trickster god.",
+          "This eight legged steed of Odin was born when Loki turned into a mare and mated with the stallion Svadilfari in order to stop a giant from completing the walls of Asgard.",
+          "Fimafeng was a servant of this Norse god of the sea, who was the father of the nine Billow Maidens. This god hosts the feast that the Lokasenna is set during."
+        ],
+        "answers": [
+          "Loki [or Loptr; or Hveorungr]",
+          "Sleipnir",
+          "Aegir [or Hler; or Gymir] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this god, who kills Fimafeng in a dialogue-heavy text that is partly named for him. This god is the Norse trickster god.",
+          "This eight legged steed of Odin was born when Loki turned into a mare and mated with the stallion Svadilfari in order to stop a giant from completing the walls of Asgard.",
+          "Fimafeng was a servant of this Norse god of the sea, who was the father of the nine Billow Maidens. This god hosts the feast that the <em>Lokasenna</em> is set during."
+        ],
+        "formatted_answers": [
+          "<strong>Loki</strong> [or <strong>Loptr</strong>; or <strong>Hveorungr</strong>]",
+          "<strong>Sleipnir</strong>",
+          "<strong>Aegir</strong> [or <strong>Hler</strong>; or <strong>Gymir</strong>] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34677",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34703,
+        "number": 13,
+        "round": "08",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This god’s cult center at Avaris flourished after the Hyksos chose him as their patron god. For 10 points each:",
+        "created_at": "2018-09-09T18:55:45.222Z",
+        "updated_at": "2018-09-09T18:55:45.222Z",
+        "formatted_leadin": "This god’s cult center at Avaris flourished after the Hyksos chose him as their patron god. For 10 points each:",
+        "texts": [
+          "Name this husband of Nepthys. This Egyptian god of the desert and storms dismembered the body of his brother Osiris and spread it out all over Egypt.",
+          "Set often guarded the boat of Ra, who was the deity of this celestial body, which provides light and warmth to the world.",
+          "During its nightly journey through the underworld, Ra’s solar barge was attacked by this serpent, who represented chaos."
+        ],
+        "answers": [
+          "Set [or Seth]",
+          "the sun [or solar barque; or solar barge]",
+          "Apophis [or Apep; or Apepi; or Aapep] &lt;Jacob O’Rourke&gt;"
+        ],
+        "formatted_texts": [
+          "Name this husband of Nepthys. This Egyptian god of the desert and storms dismembered the body of his brother Osiris and spread it out all over Egypt.",
+          "Set often guarded the boat of Ra, who was the deity of this celestial body, which provides light and warmth to the world.",
+          "During its nightly journey through the underworld, Ra’s solar barge was attacked by this serpent, who represented chaos."
+        ],
+        "formatted_answers": [
+          "<strong>Set</strong> [or <strong>Seth</strong>]",
+          "the <strong>sun</strong> [or <strong>solar barque</strong>; or <strong>solar barge</strong>]",
+          "<strong>Apophis</strong> [or <strong>Apep</strong>; or <strong>Apepi</strong>; or <strong>Aapep</strong>] &lt;Jacob O’Rourke&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34703",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34719,
+        "number": 8,
+        "round": "09",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This king received his most notable ability after he assisted Silenus, who he found passed out in his garden. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.326Z",
+        "updated_at": "2018-09-09T18:56:18.326Z",
+        "formatted_leadin": "This king received his most notable ability after he assisted Silenus, who he found passed out in his garden. For 10 points each:",
+        "texts": [
+          "Name this king of Phrygia, who washed away a gift from Dionysus in the Pactolus River. This man washed away his golden touch after his food became inedible.",
+          "While a child, Midas was fed by these animals, who carried wheat to his mouth while he slept. According to Ovid, the Myrmidons, Achilles’ soldiers, were created from these insects.",
+          "While judging a music contest, Midas favored Pan instead of this god, who gave him the ears of an ass. This god of light and music killed the Python and established the Oracle at Delphi."
+        ],
+        "answers": [
+          "King Midas",
+          "ANSWER: ants [prompt on bugs or insects]",
+          "ANSWER: Apollo [or Phoebus] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this king of Phrygia, who washed away a gift from Dionysus in the Pactolus River. This man washed away his golden touch after his food became inedible.",
+          "While a child, Midas was fed by these animals, who carried wheat to his mouth while he slept. According to Ovid, the Myrmidons, Achilles’ soldiers, were created from these insects.",
+          "While judging a music contest, Midas favored Pan instead of this god, who gave him the ears of an ass. This god of light and music killed the Python and established the Oracle at Delphi."
+        ],
+        "formatted_answers": [
+          "King <strong>Midas</strong>",
+          "ANSWER: <strong>ant</strong>s [prompt on bugs or insects]",
+          "ANSWER: <strong>Apollo</strong> [or <strong>Phoebus</strong>] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34719",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34736,
+        "number": 4,
+        "round": "10",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This being was fed by the primordial cow Audumla. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.742Z",
+        "updated_at": "2018-09-09T18:56:18.742Z",
+        "formatted_leadin": "This being was fed by the primordial cow Audumla. For 10 points each:",
+        "texts": [
+          "Name this primordial being, who was the ancestor of the giants. This giant’s body was used by the sons of Bor, including Vili and Ve, to create the universe.",
+          "With his brothers Vili and Ve, this god killed Ymir. This “All-Father” was the chief of the Norse pantheon.",
+          "While seeking knowledge, Odin sacrificed one of these body parts to drink from the Well of Mimir."
+        ],
+        "answers": [
+          "Ymir [or Aurgelmir; or Brimir; or Bláinn]",
+          "Odin [or Ooinn; or Woden; or Wodan; or Wuotan; or Wotan]",
+          "eyes [or eyeballs] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this primordial being, who was the ancestor of the giants. This giant’s body was used by the sons of Bor, including Vili and Ve, to create the universe.",
+          "With his brothers Vili and Ve, this god killed Ymir. This “All-Father” was the chief of the Norse pantheon.",
+          "While seeking knowledge, Odin sacrificed one of these body parts to drink from the Well of Mimir."
+        ],
+        "formatted_answers": [
+          "<strong>Ymir</strong> [or <strong>Aurgelmir</strong>; or <strong>Brimir</strong>; or <strong>Bláinn</strong>]",
+          "<strong>Odin</strong> [or <strong>Ooinn</strong>; or <strong>Woden</strong>; or <strong>Wodan</strong>; or <strong>Wuotan</strong>; or <strong>Wotan</strong>]",
+          "<strong>eye</strong>s [or <strong>eyeball</strong>s] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34736",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34769,
+        "number": 16,
+        "round": "11",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "A sea monster was sent to devour Hesione after a king of this city cheated Poseidon and Apollo after they built its walls. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.563Z",
+        "updated_at": "2018-09-09T18:56:19.563Z",
+        "formatted_leadin": "A sea monster was sent to devour Hesione after a king of this city cheated Poseidon and Apollo after they built its walls. For 10 points each:",
+        "texts": [
+          "Name this city in Asia Minor, which was destroyed by the Greeks in an epic poem by Homer. This city’s army was led by the prince Hector.",
+          "This king of Troy during the Trojan War was the father of Paris and Hector. This man was killed by Neoptolemus, and his wife Hecuba was sold as a slave to Odysseus.",
+          "Priam was the youngest son of this king of Troy, who ordered Poseidon and Apollo to build Troy’s walls. He was killed by Heracles after Heracles rescued his daughter Hesione."
+        ],
+        "answers": [
+          "Troy [or Troia; or Troja; or Ilion; or Ilios; or Ilium]",
+          "Priam [or Podarces]",
+          "Laomedon &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this city in Asia Minor, which was destroyed by the Greeks in an epic poem by Homer. This city’s army was led by the prince Hector.",
+          "This king of Troy during the Trojan War was the father of Paris and Hector. This man was killed by Neoptolemus, and his wife Hecuba was sold as a slave to Odysseus.",
+          "Priam was the youngest son of this king of Troy, who ordered Poseidon and Apollo to build Troy’s walls. He was killed by Heracles after Heracles rescued his daughter Hesione."
+        ],
+        "formatted_answers": [
+          "<strong>Troy</strong> [or <strong>Troia</strong>; or <strong>Troja</strong>; or <strong>Ilion</strong>; or <strong>Ilios</strong>; or <strong>Ilium</strong>]",
+          "<strong>Priam</strong> [or <strong>Podarces</strong>]",
+          "<strong>Laomedon</strong> &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34769",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34780,
+        "number": 6,
+        "round": "12",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Answer the following about creatures in Celtic mythology and folklore. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.873Z",
+        "updated_at": "2018-09-09T18:56:19.873Z",
+        "formatted_leadin": "Answer the following about creatures in Celtic mythology and folklore. For 10 points each:",
+        "texts": [
+          "These figures are typically very mischievous and often grant 3 wishes if humans catch them. An urban legend typically states that they have pots of gold hidden at the end of the rainbow.",
+          "These female spirits are usually considered an omen of death and are known for emitting bloodcurdling screams when someone is about to die.",
+          "These sinister spirits that haunt Scottish and Irish rivers often transform into horses. After drowning their victims, these spirits would sometimes throw the entrails to the water’s edge."
+        ],
+        "answers": [
+          "ANSWER: Leprechauns",
+          "Banshees",
+          "ANSWER: Kelpies [or water kelpies] &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "These figures are typically very mischievous and often grant 3 wishes if humans catch them. An urban legend typically states that they have pots of gold hidden at the end of the rainbow.",
+          "These female spirits are usually considered an omen of death and are known for emitting bloodcurdling screams when someone is about to die.",
+          "These sinister spirits that haunt Scottish and Irish rivers often transform into horses. After drowning their victims, these spirits would sometimes throw the entrails to the water’s edge."
+        ],
+        "formatted_answers": [
+          "ANSWER: <strong>Leprechaun</strong>s",
+          "<strong>Banshee</strong>s",
+          "ANSWER: <strong>Kelpie</strong>s [or water <strong>kelpie</strong>s] &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34780",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34817,
+        "number": 1,
+        "round": "14",
+        "category_id": 14,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This hero rescued Derbforgaill from being sacrificed by the Fomorians. For 10 points each:",
+        "created_at": "2018-09-09T18:57:59.429Z",
+        "updated_at": "2018-09-09T18:57:59.429Z",
+        "formatted_leadin": "This hero rescued Derbforgaill from being sacrificed by the Fomorians. For 10 points each:",
+        "texts": [
+          "Name this hero, who single handedly fights the army of Queen Medb during the Cattle Raid of Cooley. He gained a new name after accidentally killing a fierce guard dog as a youth.",
+          "Scathach gives Cú Chulainn the Gáe Bulg, which is one of these types of weapons that can only be wielded with one’s toes. Odin’s Gungnir is another example of these weapons.",
+          "Cú Chulainn is a hero from the mythology of this island’s Ulster Cycle. Other mythological figures from this island include Finn MacCool of the Fenian Cycle."
+        ],
+        "answers": [
+          "ANSWER: Cú Chulainn [or Cu Chulaind; or Cuchulainn; or Cuhullin; or Setanta; or Culann’s Hound; or the Hound of Culann]",
+          "ANSWER: spears [or lances; or javelins; or pikes; or halberds]",
+          "Ireland [or Eire; or the Irish Free State] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this hero, who single handedly fights the army of Queen Medb during the Cattle Raid of Cooley. He gained a new name after accidentally killing a fierce guard dog as a youth.",
+          "Scathach gives Cú Chulainn the Gáe Bulg, which is one of these types of weapons that can only be wielded with one’s toes. Odin’s Gungnir is another example of these weapons.",
+          "Cú Chulainn is a hero from the mythology of this island’s Ulster Cycle. Other mythological figures from this island include Finn MacCool of the Fenian Cycle."
+        ],
+        "formatted_answers": [
+          "ANSWER: <strong>Cú Chulainn</strong> [or <strong>Cu Chulaind</strong>; or <strong>Cuchulainn</strong>; or <strong>Cuhullin</strong>; or <strong>Setanta</strong>; or <strong>Culann’s Hound</strong>; or the <strong>Hound</strong> of <strong>Culann</strong>]",
+          "ANSWER: <strong>spear</strong>s [or <strong>lance</strong>s; or <strong>javelin</strong>s; or <strong>pike</strong>s; or <strong>halberd</strong>s]",
+          "<strong>Ireland</strong> [or <strong>Eire</strong>; or the <strong>Irish Free State</strong>] &lt;Dinis Trindade&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34817",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

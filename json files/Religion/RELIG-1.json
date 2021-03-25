@@ -1,0 +1,585 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 9,
+    "num_bonuses_shown": 9,
+    "bonuses": [
+      {
+        "id": 31542,
+        "number": 11,
+        "round": "1",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In some stories, this Hindu god was born from a golden egg, and became the father of humanity. For 10 points each,",
+        "created_at": "2018-08-02T15:50:55.299Z",
+        "updated_at": "2018-08-02T15:50:55.299Z",
+        "formatted_leadin": "In some stories, this Hindu god was born from a golden egg, and became the father of humanity. For 10 points each,",
+        "texts": [
+          "Name this creator god, who is a member of the Trimurti along with Shiva and Vishnu.",
+          "The Trimurti is often called the Hindu version of this Christian concept, which defines God as one being that is comprised of the Father, Son, and Holy Spirit.",
+          "In some legends, Brahma was born from one of these Indian water flowers, which represent purity and are also symbolic to Buddhism."
+        ],
+        "answers": [
+          "Brahma (do not accept “brahman”)",
+          "holy trinity",
+          "sacred lotus (accept “Indian lotus”)"
+        ],
+        "formatted_texts": [
+          "Name this creator god, who is a member of the Trimurti along with Shiva and Vishnu.",
+          "The Trimurti is often called the Hindu version of this Christian concept, which defines God as one being that is comprised of the Father, Son, and Holy Spirit.",
+          "In some legends, Brahma was born from one of these Indian water flowers, which represent purity and are also symbolic to Buddhism."
+        ],
+        "formatted_answers": [
+          "<strong>Brahma</strong> (do not accept “brahman”)",
+          "holy <strong>trinity</strong>",
+          "sacred <strong>lotus</strong> (accept “Indian <strong>lotus</strong>”)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31542",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31561,
+        "number": 10,
+        "round": "2",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This man had ten sons with Leah, Bilhah, and Zilpah. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.319Z",
+        "updated_at": "2018-08-02T15:51:45.319Z",
+        "formatted_leadin": "This man had ten sons with Leah, Bilhah, and Zilpah. For 10 points each,",
+        "texts": [
+          "Name this biblical figure, later named Israel, who was the father of Benjamin with his favorite wife, Rachel.",
+          "This son of Jacob was the older brother of Benjamin. His beautiful coat made his brothers jealous enough to sell him into slavery in Egypt.",
+          "To earn the right to marry Rachel, Jacob worked for this resident of Paddan Aram [pah-dahn ah- rahm] for fourteen years. This man was Rachel’s father, and was the brother of Jacob’s mother, Rebecca."
+        ],
+        "answers": [
+          "Jacob",
+          "Joseph (accept Yosef)",
+          "Laban [lay-behn]"
+        ],
+        "formatted_texts": [
+          "Name this biblical figure, later named Israel, who was the father of Benjamin with his favorite wife, Rachel.",
+          "This son of Jacob was the older brother of Benjamin. His beautiful coat made his brothers jealous enough to sell him into slavery in Egypt.",
+          "To earn the right to marry Rachel, Jacob worked for this resident of Paddan Aram [pah-dahn ah- rahm] for fourteen years. This man was Rachel’s father, and was the brother of Jacob’s mother, Rebecca."
+        ],
+        "formatted_answers": [
+          "<strong>Jacob</strong>",
+          "<strong>Joseph</strong> (accept <strong>Yosef</strong>)",
+          "<strong>Laban</strong> [lay-behn]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31561",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31585,
+        "number": 14,
+        "round": "3",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "[MODERATOR: Do not reveal the alternate answers to part 1 if they are not given by players] This structure was likely built on or near its namesake Mount in Jerusalem. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.035Z",
+        "updated_at": "2018-08-02T15:51:46.035Z",
+        "formatted_leadin": "[MODERATOR: Do not reveal the alternate answers to part 1 if they are not given by players] This structure was likely built on or near its namesake Mount in Jerusalem. For 10 points each,",
+        "texts": [
+          "Name this building, which was planned by a warlike King of Israel and built by his son. This building housed the Ark of the Covenant, which had formerly rested in the Tabernacle of Moses.",
+          "The First Temple was built by this wise King of Israel, who consorted with the Queen of Sheba and discovered a child’s real mother by threatening to cut the baby in half.",
+          "Solomon was Bathsheba’s second son by this king, who defeated the giant Goliath as a young man."
+        ],
+        "answers": [
+          "First Temple (accept  Solomon’s Temple or Temple of Solomon; prompt on “Temple in Jerusalem;” prompt on “Holy Temple;” prompt on “Temple” alone)",
+          "King Solomon (accept Shlomo; accept Suleyman; accept Jedediah)",
+          "King David (accept Dawud)"
+        ],
+        "formatted_texts": [
+          "Name this building, which was planned by a warlike King of Israel and built by his son. This building housed the Ark of the Covenant, which had formerly rested in the Tabernacle of Moses.",
+          "The First Temple was built by this wise King of Israel, who consorted with the Queen of Sheba and discovered a child’s real mother by threatening to cut the baby in half.",
+          "Solomon was Bathsheba’s second son by this king, who defeated the giant Goliath as a young man."
+        ],
+        "formatted_answers": [
+          "<strong>First Temple</strong> (accept <strong> Solomon’s Temple</strong> or <strong>Temple of Solomon</strong>; prompt on “Temple in Jerusalem;” prompt on “Holy Temple;” prompt on “Temple” alone)",
+          "King <strong>Solomon</strong> (accept <strong>Shlomo</strong>; accept <strong>Suleyman</strong>; accept <strong>Jedediah</strong>)",
+          "King <strong>David</strong> (accept <strong>Dawud</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31585",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31610,
+        "number": 19,
+        "round": "4",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Answer the following about women in the Old Testament, for 10 points each.",
+        "created_at": "2018-08-02T15:51:46.717Z",
+        "updated_at": "2018-08-02T15:51:46.717Z",
+        "formatted_leadin": "Answer the following about women in the Old Testament, for 10 points each.",
+        "texts": [
+          "This niece of Mordecai became a Persian queen, and intervened with King Xerxes to save the Jewish people.",
+          "Deborah was the only woman known to hold this title as the leader of the Tribes of Israel. Other people to hold this position included Gideon.",
+          "This Judge harvested honey from the corpse of a lion and defeated many Philistines, but lost his incredible strength when his hair was cut by Delilah."
+        ],
+        "answers": [
+          "Esther (accept Hadassah)",
+          "Judges of Israel (accept shofet or shoftim; do not accept “King” or similar answers)",
+          "Samson"
+        ],
+        "formatted_texts": [
+          "This niece of Mordecai became a Persian queen, and intervened with King Xerxes to save the Jewish people.",
+          "Deborah was the only woman known to hold this title as the leader of the Tribes of Israel. Other people to hold this position included Gideon.",
+          "This Judge harvested honey from the corpse of a lion and defeated many Philistines, but lost his incredible strength when his hair was cut by Delilah."
+        ],
+        "formatted_answers": [
+          "<strong>Esther</strong> (accept <strong>Hadassah</strong>)",
+          "<strong>Judge</strong>s of Israel (accept <strong>shofet</strong> or <strong>shoftim</strong>; do not accept “King” or similar answers)",
+          "<strong>Samson</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31610",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31615,
+        "number": 4,
+        "round": "5",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Answer the following about death in Asian religions, for 10 points each.",
+        "created_at": "2018-08-02T15:51:46.948Z",
+        "updated_at": "2018-08-02T15:51:46.948Z",
+        "formatted_leadin": "Answer the following about death in Asian religions, for 10 points each.",
+        "texts": [
+          "Unlike Abrahamic religions, which prohibit or discourage this in favor of burial, this is the typical means of disposing of a body in religions with Indian origins, like Hinduism and Buddhism.",
+          "In Hinduism and Sikhism, the ashes of the deceased are usually placed in this type of location. The Punjab region, where Sikhism originated, is named for five of these watery features.",
+          "After a Japanese corpse is cremated, the family picks out bones using these utensils. They are used to eat in Japan and China, but are never left standing vertically in rice because of funerary connotations."
+        ],
+        "answers": [
+          "cremation (accept clear equivalents like burning)",
+          "river",
+          "chopsticks (accept hashi; accept kuaizi)"
+        ],
+        "formatted_texts": [
+          "Unlike Abrahamic religions, which prohibit or discourage this in favor of burial, this is the typical means of disposing of a body in religions with Indian origins, like Hinduism and Buddhism.",
+          "In Hinduism and Sikhism, the ashes of the deceased are usually placed in this type of location. The Punjab region, where Sikhism originated, is named for five of these watery features.",
+          "After a Japanese corpse is cremated, the family picks out bones using these utensils. They are used to eat in Japan and China, but are never left standing vertically in rice because of funerary connotations."
+        ],
+        "formatted_answers": [
+          "<strong>cremation</strong> (accept clear equivalents like <strong>burning</strong>)",
+          "<strong>river</strong>",
+          "<strong>chopsticks</strong> (accept <strong>hashi</strong>; accept <strong>kuaizi</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31615",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31634,
+        "number": 3,
+        "round": "6",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This holy book is divided into 114 chapters called suras. For 10 points each,",
+        "created_at": "2018-08-02T15:51:47.500Z",
+        "updated_at": "2018-08-02T15:51:47.500Z",
+        "formatted_leadin": "This holy book is divided into 114 chapters called suras. For 10 points each,",
+        "texts": [
+          "Name this holy book that was revealed to Muhammad by the angel Jibreel [jee-breel]. It is the primary religious text of Islam.",
+          "A Muslim who has become a hafiz must have done this with the text of the Quran.",
+          "The Quran frequently mentions these invisible creatures made of “smokeless fire.” One of these creatures, Iblis [ee-bliss], refused to bow to Adam and became Shaitan, the Islamic version of the Devil."
+        ],
+        "answers": [
+          "Quran",
+          "memorized it (accept obvious equivalents such as “learned it from memory”)",
+          "jinn (accept genies)"
+        ],
+        "formatted_texts": [
+          "Name this holy book that was revealed to Muhammad by the angel Jibreel [jee-breel]. It is the primary religious text of Islam.",
+          "A Muslim who has become a hafiz must have done this with the text of the Quran.",
+          "The Quran frequently mentions these invisible creatures made of “smokeless fire.” One of these creatures, Iblis [ee-bliss], refused to bow to Adam and became Shaitan, the Islamic version of the Devil."
+        ],
+        "formatted_answers": [
+          "<strong>Quran</strong>",
+          "<strong>memorize</strong>d it (accept obvious equivalents such as “<strong>learned it</strong> from <strong>memory</strong>”)",
+          "<strong>jinn</strong> (accept <strong>genie</strong>s)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31634",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31670,
+        "number": 19,
+        "round": "7",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In Christian lore, God acts directly to influence the lives of many biblical figures. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.659Z",
+        "updated_at": "2018-08-02T15:51:48.659Z",
+        "formatted_leadin": "In Christian lore, God acts directly to influence the lives of many biblical figures. For 10 points each,",
+        "texts": [
+          "Give this name for divine acts, often used to restore faith or reward the faithful. Jesus performed several of these acts, including turning water into wine and bringing Lazarus back to life.",
+          "This Jewish prophet interpreted writing on the wall during Belshazzar’s feast. He was later thrown into the lion’s den, but escaped unharmed.",
+          "Another Old Testament miracle is this one, which God performed so that Joshua could continue fighting for more than a day to defend Gibeon [note: not Gideon]."
+        ],
+        "answers": [
+          "miracles",
+          "Daniel",
+          "the sun and moon standing still in the sky (accept any reasonable description of this phenomenon, such as “the sun not moving” or “the sun staying up for two days”)"
+        ],
+        "formatted_texts": [
+          "Give this name for divine acts, often used to restore faith or reward the faithful. Jesus performed several of these acts, including turning water into wine and bringing Lazarus back to life.",
+          "This Jewish prophet interpreted writing on the wall during Belshazzar’s feast. He was later thrown into the lion’s den, but escaped unharmed.",
+          "Another Old Testament miracle is this one, which God performed so that Joshua could continue fighting for more than a day to defend Gibeon [note: not Gideon]."
+        ],
+        "formatted_answers": [
+          "<strong>miracle</strong>s",
+          "<strong>Daniel</strong>",
+          "the <strong>sun</strong> and moon <strong>stand</strong>ing <strong>still</strong> in the sky (accept any reasonable description of this phenomenon, such as “the <strong>sun</strong> not moving” or “the <strong>sun</strong> staying up for two days”)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31670",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31707,
+        "number": 16,
+        "round": "9",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This concept is symbolized by a solid line and a broken line; the ba gua are the eight possible trigrams formed from a set of three of those lines, and represent concepts like fire and water. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.888Z",
+        "updated_at": "2018-08-02T15:51:49.888Z",
+        "formatted_leadin": "This concept is symbolized by a solid line and a broken line; the ba gua are the eight possible trigrams formed from a set of three of those lines, and represent concepts like fire and water. For 10 points each,",
+        "texts": [
+          "Give this Chinese philosophical term that describes complementary, yet opposing, forces. It is also symbolized by a circle with swirling black and white regions.",
+          "This text, dating to before 1000 BCE, lists and describes hexagrams, the 64 possible pairs of ba gua. Its title is sometimes translated as \"Book of Changes,\" and it can be used for divination.",
+          "The bagua for wind and water give their name to this practice of creating harmony within one's surroundings. It strives to properly control qi [chee], or life energy, by carefully placing of buildings within an area or items within a room."
+        ],
+        "answers": [
+          "Yin and Yang",
+          "I Ching (or Zhouyi)",
+          "feng shui"
+        ],
+        "formatted_texts": [
+          "Give this Chinese philosophical term that describes complementary, yet opposing, forces. It is also symbolized by a circle with swirling black and white regions.",
+          "This text, dating to before 1000 BCE, lists and describes hexagrams, the 64 possible pairs of ba gua. Its title is sometimes translated as \"Book of Changes,\" and it can be used for divination.",
+          "The bagua for wind and water give their name to this practice of creating harmony within one's surroundings. It strives to properly control qi [chee], or life energy, by carefully placing of buildings within an area or items within a room."
+        ],
+        "formatted_answers": [
+          "<strong>Yin</strong> and <strong>Yang</strong>",
+          "<strong>I Ching</strong> (or Zhouyi)",
+          "<strong>feng shui</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31707",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31728,
+        "number": 17,
+        "round": "10",
+        "category_id": 19,
+        "subcategory_id": 57,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, answer the following about a man who was ejected from the Garden of Eden.",
+        "created_at": "2018-08-02T15:51:50.635Z",
+        "updated_at": "2020-01-14T20:07:03.623Z",
+        "formatted_leadin": "For 10 points each, answer the following about a man who was ejected from the Garden of Eden.",
+        "texts": [
+          "In Christianity, Eve was created from the rib of this first human.",
+          "Adam and Eve were the parents of this farmer, who was condemned to wander the earth for murdering his brother.",
+          "In some traditions, this demon was Adam’s first wife. Created as his twin, she left Eden when Adam did not allow this woman to be his equal."
+        ],
+        "answers": [
+          "Adam",
+          "Cain",
+          "Lilith (accept Lilit)"
+        ],
+        "formatted_texts": [
+          "In Christianity, Eve was created from the rib of this first human.",
+          "Adam and Eve were the parents of this farmer, who was condemned to wander the earth for murdering his brother.",
+          "In some traditions, this demon was Adam’s first wife. Created as his twin, she left Eden when Adam did not allow this woman to be his equal."
+        ],
+        "formatted_answers": [
+          "<strong>Adam</strong>",
+          "<strong>Cain</strong>",
+          "<strong>Lilith</strong> (accept <strong>Lilit</strong>)"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31728",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+          "id": 57,
+          "name": "Religion Christianity",
+          "created_at": "2017-09-03T04:03:37.236Z",
+          "updated_at": "2017-09-03T04:03:37.236Z",
+          "url": "https://www.quizdb.org/api/subcategories/57"
+        }
+      }
+    ]
+  }
+}

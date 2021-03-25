@@ -1,0 +1,1225 @@
+This book traces a shift from practitioners asking “What's the matter with you?” in the 18th century to asking “Where does it hurt?” in the 19th. For 10 points each:
+Name this 1963 book that discusses how scholars like Marie-Francois Bichat [bee-SHAH] began seeing bodies as clusters of symptoms. Its introduction oh-so-humbly calls it “a book about space, about language, about death.”
+This bald French post-structuralist discussed how patients are subjected to the “medical gaze” in The Birth of the Clinic. He also wrote Discipline and Punish.
+Foucault was influenced by this earlier French doctor and social theorist, who analyzed 19th-century conceptions of “biology” and “disease” in The Normal and the Pathological.
+The Birth of the Clinic: An Archaeology of Medical Perception [or Naissance de la clinique: une archéologie du regard médical]
+Michel Foucault [foo-KOH]
+Georges Canguilhem [kawn-ghee-lem] &lt;MJ&gt;
+Mikhail Bakhtin introduced the terms “heteroglossia” and “chronotope” in a collection of essays named for this kind of <em>Imagination</em>. For 10 points each:
+Name this concept that Bakhtin contrasted with dialectics. This term also denotes the main philosophical form used by Plato.
+This twentieth-century German philosopher developed a “philosophy of dialogue,” which theorizes relational and objectifying modes of encounter named for the two word-pairs “I-You” and “I-It.”
+This other philosopher argued that Buber’s model of dialogue mistakenly envisions the I-You as reciprocal and not asymmetrical, and fails to account for the third-person “illeity” necessary to the structure.
+dialogue [accept word forms like dialogical; accept The Dialogic Imagination]
+Martin Buber
+Emmanuel Levinas &lt;JM&gt;
+Shortly after MIT philosopher George Boolos died, many of his essays were collected in the anthology <em>Logic, Logic, and Logic.</em> For 10 points each:
+Many essays in Logic, Logic, and Logic are about this German logician. This author of the Begriffschrift analyzed two forms of meaning in the sentence “Hesperus is Phosphorus” in the essay “Sense and Reference.”
+A Boolos essay on this kind of logic defends it from Quine’s claim that it’s merely a form of set theory. By Frege’s Theorem, Hume’s principle is enough to derive all of Peano arithmetic within this form of logic.
+A trollish essay near the end of Logic, Logic, and Logic purports to prove this mathematical result using only words of one syllable in length. The Lucas–Penrose argument attempts to conclude from this result that minds are not entirely mechanistic.
+Gottlob Frege
+second-order logic [prompt on higher-order logic]
+Gödel’s Second Incompleteness Theorem &lt;MJ&gt;
+In <em>Allegories of Reading</em>, Paul de Man calls Nietzsche and this man “Archie De-Bunkers” who are unafraid to ask, “What’s the difference?”. For 10 points each:
+Name this French post-structuralist who attacked the logocentric “metaphysics of presence” using his trademark method of deconstruction in books like Of Grammatology.
+Derrida entered into an unlikely debate with this philosopher after he accused Derrida’s essay “Signature Event Context” of misrepresenting J.L. Austin’s theories. Derrida replied to this author with the mocking book Limited Inc.
+This Harvard sociologist attempted to explain the tenor and cause of Derrida’s reception in America in the essay “How to Become a Dominant French Philosopher.” This pioneer of boundary-work employed that methodology in The Dignity of Working-Men.
+Jacques Derrida [or Jackie Élie Derrida]
+John (Rogers) Searle
+Michèle Lamont &lt;JM/DG&gt;
+This philosopher argued that if Hobbes himself were as selfish as he claims people are in general, then he wouldn’t have tried to better humanity by writing <em>Leviathan</em>. For 10 points each:
+Name this English philosopher who described people’s attitudes toward their own affections as a “moral sense” identical to the sense of beauty in his Characteristics of Men, Manners, Opinions, Times.
+In the third dialogue of this philosopher’s Alciphron, the character Euphranor rebuts the realist aesthetic views of Shaftesbury and Francis Hutcheson by showing that the beauty of a chair or a door is dependent on its function. This British empiricist also wrote Three Dialogues between Hylas and Philonous.
+In an Allan Ramsay dialogue on this faculty, Colonel Freeman claims that only by convention would a Corinthian capital by less beautiful upside-down. A David Hume essay identifies the “standard” of this faculty of aesthetic judgment as the “joint verdict” of “true critics.”
+Earl of Shaftesbury [accept Lord Anthony Ashley-Cooper]
+George Berkeley
+taste &lt;SK&gt;
+This work attacks positions it dubs “ersatzist” in the chapter “Paradise on the Cheap?” For 10 points each:
+Name this modal realist work, which argues that the title entities exist in the ordinary language sense, are causally isolated from each other, and can thus each be properly considered “actual” relative to the people in them.
+In On the Plurality of Worlds, David Lewis also advances counterpart theory as an alternative to the modal semantics developed by this philosopher. This philosopher argued that names are “rigid designators” in Naming and Necessity.
+On the Plurality of Worlds also introduced these two terms for positions in philosophy of identity. One holds objects to be wholly present at any time, and the other that objects are “extended” across temporal parts. Give either.
+On the Plurality of Worlds (by David Lewis)
+Saul (Aaron) Kripke
+endurantism OR perdurantism [accept word forms of either and of the words endure and perdure; prompt on three-dimensionalism or four-dimensionalism; anti-prompt on more specific types of perdurantism like stage theory, space-time worm theory, or exdurantism and word forms] &lt;JG&gt;
+This thinker wrote that “nature is Messianic by reason of its eternal and total passing away” in a puzzling “Theological-Political Fragment.” For 10 points each:
+Name this German philosopher who described “the messianic” as a “weak power” and formulated the notion of “messianic time.”
+Benjamin is best-known for an essay analyzing how the “aura” around these things has changed “in the Era of Mechanical Reproduction,” which subverts the danger of the aestheticization of politics. Richard Wagner advocated a “total” form of these things encompassing as many forms as possible.
+This contemporary philosopher argued that Benjamin’s “messianic time” was a reprise of Pauline theology in his book The Time That Remains. His most famous work includes the volume Remnants of Auschwitz.
+Walter Benjamin [BEN-yuh-meen]
+works of art [or (Gesamt)kunstwerken]
+Giorgio Agamben &lt;JM&gt;
+Nancy Cartwright rejects Carl Hempel’s covering-law account of <em>these</em> entities on the grounds that it relies on implausible <em>ceteris paribus</em> constraints. For 10 points each:
+Identify these things that “lie” according to the title of one of Cartwright’s books. That book favors a simulacrum account of explanation.
+Cartwright’s claim that causal explanations, but not theoretical explanations, have “truth built into them” is a partial version of this thesis that our best theories describe entities that actually exist in the world. Hilary Putnam’s “no miracles” argument supports it.
+Duke philosopher Alex Rosenberg has assessed the status of laws in this social science discipline. Milton Friedman argued that theories in the “positive” form of this discipline should be judged by the accuracy of their predictions rather than their assumptions.
+laws of physics [prompt on scientific laws or laws of nature]
+scientific realism
+economics [accept more specific answers like microeconomics] &lt;SK&gt;
+For 10 points each—answer the following about medieval theories of language:
+A medieval philosopher with this surname expanded on Augustine’s theory of linguistic signs as triadic relations in his work De signis. A later philosopher with this surname advocated the scientific method in his Novum Organum.
+Roger Bacon’s idea that a common grammar underlies all languages influenced this school of philosophers across northern Europe, whose most famous member was Thomas of Erfurt. These philosophers emphasized that signification relies on understanding, which itself is grounded in the external world.
+Thomas of Erfurt is suspected to have studied in the arts faculty at this university, where St. Thomas Aquinas studied under Albertus Magnus. John Buridan was a lifelong arts master at this university.
+Bacon [accept Roger Bacon or Francis Bacon]
+Modists [or Modistae; or Modism; or speculative grammarians]
+University of Paris [accept Sorbonne] &lt;SK&gt;
+Postmodern philosophy’s use of this word’s adjectival form is prefigured by Walter Benjamin’s reference to this sort of “messianic power.” For 10 points each:
+Identify this attribute that names a type of theology introduced by John Caputo that focused on God’s instability and a type of “thought” advocated by Gianni Vattimo that avoids the claims to certainty made in metaphysics.
+Caputo wrote about this thinker’s “religion without religion” in a book titled for his “prayers and tears.” Caputo’s book about postmodernism and the church, What Would Jesus Deconstruct?, is titled for a method this French thinker advanced in Of Grammatology.
+The phrase “weak messianic power” appears in this Benjamin essay, which compares materialist perspectives on the title subject to the mechanical Turk and imagines an angel with his “face turned towards the past.”
+weakness [or weak; accept weak messianic power or weak theology or weak thought]
+Jacques Derrida [or Jackie Élie Derrida]
+“Theses on the Philosophy of History” [or “On the Concept of History”; or “Über den Begriff der Geschichte”]
+In response to John Norris and Mary Astell, a thinker with this maiden name argued that God is the sole proper object of our love in <em>A Discourse Concerning the Love of God</em>. For 10 points each:
+Give this maiden name of the philosopher Damaris Masham. Masham corresponded with Leibniz about the philosophy of her father, had this surname and wrote works rebutting “hylozoic” atheism.
+Masham’s Occasional Thoughts argues for this opportunity for women, which was also advocated by Mary Astell. Rousseau argued that women should receive this right to be more pleasing to men in his treatise on it, Emile.
+Masham’s father, Ralph Cudworth, was a member of this philosophical movement. Anne Conway, whose vitalism influenced Leibniz’s idea of monads, was associated with this movement.
+Cudworth [accept Damaris Cudworth Masham or Ralph Cudworth]
+education [accept equivalents such as learning or being taught or schooling]
+Cambridge Platonists [prompt on “Neoplatonism”]
+The presence of this condition at the conclusion typically distinguishes early Platonic dialogues from middle and late dialogues. For 10 points each:
+Give this Greek term for the state of puzzlement frequently arrived at by Socrates and his interlocutors in the early dialogues.
+In this non-aporetic middle dialogue by Plato, the immortality of the soul is discussed within Socrates’s jail cell. At the end of this dialogue, Socrates asks Crito to sacrifice a cock to Asclepius after taking the hemlock.
+This early Platonic dialogue on the nature of beauty introduces the Platonic idea of “that which is good in and of itself.” Its main interlocutor defines beauty first as “a pretty girl,” and then as “gold,” and then as being “rich and respected.”
+aporia
+Phaedo
+Hippias Major [prompt on “Hippias”]
+A philosopher of this religion applied a doctrine typically translated as “dependent origination” to analyzing a chain of twelve causes. For 10 points each:
+Name this religion. A proposition can be both true and false or neither true nor false in the “tetralemma,” or Catuṣkoṭi form of argumentation used by Nagarjuna, a sage of this religion’s Mahayana branch.
+The namesake of this Greek school of thought expounded a doctrine almost identical to Nagarjuna’s method of fourfold negation, which he likely encountered in India. Adrian Kuzminski’s book titled for this school examines “How the Ancient Greeks Reinvented Buddhism,” and it titles the major work of Sextus Empiricus.
+This school of Hindu philosophy, a frequent target of Nagarjuna’s writing, instead used a two-valued logic system in its writings. This school prefigured contemporary reliabilism by accepting four knowledge-sources, or pramanas, as legitimate ways of gaining knowledge.
+Buddhism [accept Mahayana Buddhism]
+Pyrrhonism [accept Pyrrhonian skepticism or answers mentioning Pyrrho of Elis; prompt on “skepticism”]
+Nyaya
+While in Athens, this thinker produced the first Latin translations of Pseudo-Dionysius. For 10 points each:
+Name this 9th-century Irish philosopher who defined god as universitas rerum, or the totality of things, in his magnum opus Periphyseon, or On the Division of Things.
+Eriugena was heavily inspired by this philosophical tradition, which began with Plotinus and held that reality was the emanation of a single principle called “the One.”
+Eriugena’s translations helped revive Neoplatonic thought several hundred years after this historical event, which scholars typically use to mark the end of Neoplatonism. Following this event, Damascius and his followers fled to the court of Khosrau.
+John Scotus Eriugena [or Joannes Scottigena; prompt on Scotus; do not accept or prompt on “(John) Duns Scotus”]
+Neoplatonism [prompt on “platonism”]
+Justinian I closing the Platonic Academy [accept the School of Athens in place of “the Platonic Academy”; accept any answer mentioning the Academy or School of Athens and the idea of shutting it down]
+One version of this argument compares a heated poker and the Greenwich meridian to argue that its target cannot account for change. For 10 points each:
+Identify this argument advanced by J. M. E. McTaggart, which holds that the B-series account of its subject is inadequate and that the A-series view leads to an infinite regress.
+This student of McTaggart argued that the regress in the argument is based on a misleading replacement of copulas. This openly-gay philosopher proposed what is now called the “growing block” theory of time and advocated emergentism in The Mind and Its Place in Nature.
+Like his teacher F. H. Bradley, McTaggart was part of this British branch of this movement, which Russell developed analytic philosophy in reaction to. Kant developed a “transcendental” form of this position, which broadly holds that reality is created by thought.
+J. M. E. McTaggart’s argument for the unreality of time [accept answers indicating that time is not real; accept “The Unreality of Time”]
+C. D. Broad [or Charlie Dunbar Broad]
+idealism [accept transcendental idealism or forms of the words ideal or idealist]
+Functionalist attempts to preserve this belief system despite its “explanatory impotence” are analogized to alchemy in a paper that treats it “as a theory.” For 10 points each:
+Give this two-word term for the belief system whose existence and use as a theory for tasks like “mindreading” is posited by the “theory-theory.” Jerry Fodor has argued that a mature science will vindicate the core tenets of this theory.
+The aforementioned Paul Churchland paper is titled for “eliminative materialism and” these mental states posited by folk psychology. The content of these mental states are expressed with “that-clauses,” such as “John believes that snow is white.”
+Fodor has defended folk psychological explanations of behavior as deriving from the input of desire and this concept. Edmund Gettier challenged the conception of knowledge as “justified true” instances of this state of mind.
+folk psychology [or FP; accept, but DO NOT REVEAL, belief-desire psychology]
+propositional attitudes [prompt on propositions or attitudes]
+beliefs [accept justified true beliefs]
+The Walloon Consistory objected to this thinker’s portrayal of a biblical king’s amorality in the “David” section of his best-known book. For 10 points each:
+Name this French philosopher who buried his controversial ideas on topics such as religious toleration in the lengthy footnotes to his magnum opus, a “historical and critical” reference book that greatly influenced the Enlightenment.
+That “historical and critical” work by Bayle was a text of this sort. It is considered a precursor of a later text of this sort compiled by Jean d’Alembert and Denis Diderot.
+The Walloon Church’s targeting of Bayle compelled him to publish a set of pieces of this title on his views on Manicheism and skepticism. Nicolas Malebranche defended his theory of “vision in God” in the tenth of sixteen pieces of this type he appended to The Search after Truth.
+Pierre Bayle
+philosophical dictionary [or encyclopedia; or a philosophical lexicon; or encyclopédie; or dictionnaire; accept Historical and Critical Dictionary or Dictionnaire Historique et Critique]
+clarifications [or eclaircissements]
+The “Basic Laws” of this subject title a work whose Basic Law V (“five”) was shown to be subject to a set paradox in a letter Bertrand Russell wrote to its author while the second volume was at the printing presses. For 10 points each:
+Name this specific subject whose “foundations” title an 1884 treatise that introduced the context principle in its introduction and proved that the Peano axioms can be derived in second-order logic from Hume’s principle.
+The Foundations of Arithmetic and The Basic Laws of Arithmetic are key works of logicist philosophy of mathematics by this German thinker, who also wrote “On Sense and Reference.”
+Michael Dummett pinpointed paragraph 62 of Frege’s Foundations of Arithmetic as the start of this event, which he identified with the birth of analytic philosophy. This term was popularized by a 1967 Richard Rorty anthology of the same name.
+arithmetic [or arithmetik; accept The Foundations of Arithmetic or Die Grundlagen der Arithmetik; prompt on “mathematics”]
+Gottlob Frege [or Friedrich Ludwig Gottlob Frege]
+linguistic turn [accept The Linguistic Turn: Essays in Philosophical Method]
+C.B. Martin introduced the idea of “finkish” properties of this type, which are lost when they are tested for. For 10 points each:
+Name these properties, which categorical monism holds are actually categorical properties. The brittleness of glass is an example of this sort of property given in The Concept of Mind, which contrasts these properties with “occurrences.”
+This philosopher presented the eyebrow-raising argument that the motives of actions are dispositional and shouldn’t be explained with reference to hidden mental processes in his aforementioned book, The Concept of Mind.
+The Concept of Mind discusses this type of practical knowledge as a “multi-track” disposition and attacks the “intellectualist legend” that it derives from the type of propositional knowledge with which it is usually contrasted.
+dispositions [prompt on propensities]
+Gilbert Ryle
+knowing-how [or knowledge-how]
+The “Meinongian’s” (my-NONG-ee-an's) inability to account for the restriction of the “range of quantification” on statements about this domain is addressed in a David Lewis paper titled for “truth in” this topic. For 10 points each:
+Name this subject whose relation to philosophy is the subject of the book Love’s Knowledge. That book, which contains the essays “Flawed Crystals” and “Finely Aware and Richly Responsible,” holds that this subject can constitute a kind of moral philosophy and that it represents a “paradigm of moral activity.”
+Those views on the alliance of fiction and ethical theory are a signature position of this University of Chicago philosopher, whose reading of Plato’s Symposium is presented in The Fragility of Goodness.
+In “Truth in Fiction,” David Lewis applied his theory of these entities to analyzing statements like “Holmes lived at 221B Baker Street.” In modal logic, a necessary fact is true in all of these entities, and Leibniz claimed we lived in the best of all of them.
+literature [or fiction; or novels; accept Truth in Fiction; prompt on “art”]
+Martha C. Nussbaum [or Martha Craven Nussbaum]
+possible worlds [prompt on “worlds” or “alternate universes”]
+The first comprehensive treatment of this idea is found in a “manual” by Nicomachus of Gerasa. For 10 points each:
+Name this idea related to the order of the universe that is also discussed in Cicero’s Dream of Scipio, in which Scipio Africanus explains this concept that his grandson perceives as “tantus et tam dulcis.”
+The first section of this late antiquity thinker’s De institutione musica discusses the music of the spheres, which is greater than the music of spiritual harmony and instrumental music produced by humans. He was executed shortly after completing a work framed around the fickleness of fortune.
+The concept of the music of the spheres is credited to this mystic, who banned his followers from eating beans, taught the transmigration of souls, and is credited with devising a fundamental geometrical theorem.
+music of the spheres [or musica universalis; or universal music; or harmony of the spheres]
+Boethius [or Anicius Manlius Severinus Boëthius; or Boetius]
+Pythagoras of Samos
+A chapter on this concept and freedom claims that, “from the very beginning, existentialism defined itself as a philosophy of” this concept. For 10 points each:
+Name this concept, the “ethics” of which titles a 1947 book that works out a moral system based on Jean-Paul Sartre’s Being and Nothingness.
+The Ethics of Ambiguity is a work by this existentialist philosopher, who wrote that “one is not born, but rather becomes, a woman” in her book The Second Sex.
+Maurice Merleau-Ponty held that the “ambiguity of being-in-the-world is translated by that of” this entity in his book The Phenomenology of Perception. The “image” of this concept is discussed throughout the book, which argues that this thing is a subject that perceives the world and not a mere object.
+ambiguity [accept forms of the word ambiguous such as ambiguousness; accept The Ethics of Ambiguity]
+Simone de Beauvoir
+the body [or le corps; accept body-image or body subject or le corps propre]
+A statement about this action was partly rescinded in a passage comparing it to the right “a tortured man has to scream” and raising the broader question of whether “you can go on living.” For 10 points each:
+Name this action that a critic called “barbaric” because it represented “absolute reification” presupposing “intellectual progress as one of its elements” in the essay “Cultural Criticism and Society.”
+This leading cultural critic of the Frankfurt School discussed his remark that “to write poetry after Auschwitz is barbaric” in Negative Dialectics, published 19 years after his Dialectic of Enlightenment.
+This critic wrote Poetry after Auschwitz, a study in which she argued that Adorno’s remark sparked a tradition of writing Holocaust poetry. With Sandra Gilbert, she authored a feminist interpretation of Victorian literature titled The Madwoman in the Attic.
+writing poetry after Auschwitz [accept answers mentioning poetry or poems in the wake of Auschwitz; prompt on less-specific answers along the lines of “writing poetry after the Holocaust” or “writing poetry” or “writing after Auschwitz”]
+Theodor W. Adorno [or Theodor Wiesengrund Adorno; or Theodor Ludwig Wiesengrund]
+Susan D. Gubar
+In Edmund Husserl’s phenomenology, “intentional” features of this sort encapsulate anticipated elements of experience, such as the unseen sides of a house. For 10 points each:
+Name this type of feature that is used to metaphorically refer to a historically effected interpretative perspective in Hans-Georg Gadamer’s Truth and Method, which describes the gaining of a common understanding as the “fusion” of these features.
+The notion of the horizon is central to Gadamer’s account of this field that involves the theory and methodology of interpretation. Friedrich Schleiermacher and Wilhelm Dilthey were 19th-century developers of this field.
+In Truth and Method, Gadamer contrasts Erfahrung, a type of ongoing, horizon-widening experience, with the more immediate type of lived experience denoted by this German word, whose history is the subject of a chapter in the book.
+horizons
+hermeneutics
+Erlebnis
+To illustrate these constructs, the author applies them to Baron Liebig’s investigations of death by metal poisoning. For 10 points each:
+What five tools for identifying causal relationships consist of ones of “agreement,” “difference,” “concomitant variations,” and “residues” and a “joint” one that combines “agreement and difference”?
+The “method of agreement” introduced in Mill’s A System of Logic is aimed at showing that a condition has this property, while the “method of difference” is aimed at establishing a “sufficient” condition. A condition that is both this and sufficient creates an if and only if relationship.
+A System of Logic lays out Mill’s “direct reference” theory of these terms, which holds that the meaning of one of them is only its referent. Saul Kripke disputed the “descriptivist” theory of these terms, which associates their meaning with a collection of descriptions.
+John Stuart Mill’s methods [or John Stuart Mill’s canons; accept answers mentioning methods or canons and John Stuart Mill or A System of Logic; prompt on “methods” or “canons”]
+necessary [accept necessity]
+names
+A book by this thinker used a theological form of phenomenology developed in his country to argue that the individual and community come together via the process of “participation.” For 10 points each:
+Name this author of a 1969 book variously translated into English as Person and Act or The Acting Person.
+John Paul II’s The Acting Person drew from a Polish scholarly tradition of blending phenomenology with the metaphysics of this Italian Church Doctor, a student of Albertus Magnus who distinguished essence and existence in his extensive commentaries on Aristotle.
+John Paul II commented on this aspect of the Creation, which, according to Aquinas, is present in humanity’s capacity to know and love the divine. Aquinas also wrote that this concept mentioned in Genesis was partly lost in the fall of man.
+Saint John Paul II [or Karol Józef Wojtyła; accept John Paul the Great; prompt on “John Paul”]
+Thomas Aquinas
+image of God [or imago Dei; or tzelem Elohim; accept any answer indicating humankind was created in God’s image; prompt on “image” or “imago”]
+A Francis Perkins book treats Gottfried Leibniz’s interest in this country, with which he wanted to establish a “commerce of light.” For 10 points each:
+Name this country, whose “natural theology” is the subject of a discourse by Leibniz. Leibniz also corresponded with the Jesuit Joachim Bouvet about hexagrams used for divination in this country.
+Part I of Discourse on the Natural Theology of the Chinese ends by arguing that Chinese philosophy contains this Leibnizian doctrine, which holds that mind and body do not interact, but appear to because they have been synchronized by God.
+This thinker delivered the 1721 Speech on the Ethics of the Chinese as his farewell address to the University of Halle. This leader of the German Enlightenment is traditionally seen as the link between Leibniz and Kant.
+China
+principle of pre-established harmony
+Christian Wolff
+This phrase, which likely found its first use in the work of G. W. F. Hegel, makes up the adverbial part of the Edmund Husserl concept of the “immer schon da.” For 10 points each:
+Name this two-word adverbial phrase, popularized by Martin Heidegger and Jacques Derrida, that denotes the ever-present existence of a concept or condition.
+Lisa Gitelman’s 2006 book Always Already New traces new media through the development of this system from ARPANET. Sociologists have studied the “social implications” of this system, including the “digital divide.”
+Paul Ricoeur wrote that this concept applies to human experience, which “is always already symbolically mediated,” in a book about “time” and this concept.
+always already
+internet [or world wide web; accept any answer indicating cyberspace or online or similar]
+narratives [or récit; accept Time and Narrative or Temps et récit or narratology or other forms of the word narrative; prompt on answers mentioning “story” or “stories” or similar]
+Answer the following about the 13th-century scholastic philosopher Henry of Ghent, for 10 points each.
+Henry specially privileged theologians in his theory of the “divine” form of this process, which holds that God’s grace is necessary for human knowledge. Book VI of the Republic contains an analogy comparing this phenomenon to truth’s source in the Good.
+Henry participated in the commission that enacted the 1277 one of these events at the University of Paris. Stephen Tempier banned the teaching of over 200 theses in that one of these events, which Pierre Duhem credited with ending the chokehold of Aristotle and paving the way for modern science.
+In Henry’s philosophy, this concept, called quidditas, is more central than existence. Jean-Paul Sartre claimed that existence precedes this concept, which is the fundamental set of properties or intrinsic nature of an entity.
+illumination [or light; or sunlight]
+condemnations
+essence
+Laurence Bonjour switched allegiances to this position after introducing an influential argument for its rival. For 10 points each:
+Name this view on epistemic justification that a belief is justified by being built on a set of basic beliefs. It is opposed by coherentism, which holds that a belief is justified by being part of a system of mutually-supporting beliefs.
+A whacky alternative in the foundationalism/coherentism debate is Peter Klein’s theory that chains of belief can have this property. David Hilbert imagined a hotel with this many rooms in a paradox about sets with this property.
+Elements of the two theories were combined into “foundherentism” by this philosopher. She has written against “vulgar Rortyism” and disputes Rorty’s claims to be a pragmatist in Charles Sanders Peirce’s tradition.
+foundationalism [accept word forms such as foundationalist]
+infinity [accept word forms such as infinite]
+Susan Haack
+John Martin Fischer developed a “semi-” version of this philosophical position. For 10 points each:
+Give this term for positions that attempt to reconcile free will and determinism, such as by holding that moral responsibility can exist in a deterministic universe.
+John Martin Fischer’s position of semi-compatibilism draws on the account of moral responsibility presented in this 1962 essay, which discusses the “reactive attitudes” that we would have even if convinced of the truth of determinism.
+This philosopher revitalized attempts to reconcile determinism and moral responsibility by proposing namesake cases that violate the Principle of Alternate Possibility. The 2016 election revived interest in his book On Bullshit.
+compatibilism [accept semi-compatibilism or forms of the world compatibilist]
+“Freedom and Resentment” [by P. F. Strawson]
+Harry Frankfurt [or Harry Gordon Frankfurt]
+<em>The Book of the Wise Philosophers</em> popularized a cave-dwelling philosopher from this modern-day country. For 10 points each:
+Name this modern-day country home to the author of the 1667 treatise Hatata, who was compared by Claude Sumner to one of his contemporaries for his discussion of the means of knowing God’s existence.
+The Ethiopian philosopher Zera Yacob is often considered an analog to this European. Rwandan philosopher Alexis Kagame held that this man’s statement “I think, therefore I am” would be incoherent among the Bantu.
+Anton Wilhelm Amo, an 18th-century Ghanaian philosopher who began lecturing at this university in 1840, argued, against Descartes, that the mind could not sense material things. Fichte’s alleged atheism got him dismissed from this university, where another philosopher saw the “world spirit” enter its city on horseback in 1806.
+Ethiopia [or Federal Democratic Republic of Ethiopia; or Itiyoppya Federalawi Demokiasiyawi Repeblik]
+Rene Descartes [or Renatus Cartesius]
+University of Jena [The “world spirit” philosopher is G. W. F. Hegel.]
+A work from this period compares propositions like “here is one hand” to a bed on which the river of language runs. For 10 points each:
+Identify this phase of a philosopher’s output that included the Blue and Brown Books, On Certainty, and a work that appears to reject the picture theory in favor of a more fluid view of language.
+Against the narrative of the early and later Wittgensteins, Cora Diamond emphasized the continuity in his work in an essay titled for this action. According to Tractatus 6.54, this metaphorical action must be performed by “anyone who understands me” after they recognize the work as nonsensical.
+The aforementioned later Wittgenstein work is this aphoristic book, which discusses language games and criticizes the idea of a private language.
+the later Wittgenstein [accept any answer mentioning Ludwig (Josef Johann) Wittgenstein and the idea of his later period of work]
+throwing away the ladder [accept synonyms for “throwing away” such as discarding]
+Philosophical Investigations [or Philosophische Untersuchungen]
+Simplicius argued that the authors of these texts should not fall short of the <em>megalonoia</em>, or greatness of intellect, of their source. For 10 points each:
+Name this type of text, the best known of which was authored by Alexander of Aphrodisias. Avicenna claimed to have read a book 40 times without understanding before being helped by al-Farabi’s text of this type.
+Simplicius’s commentaries include important transcriptions of older writings, such as this author’s Proem to his On Nature. This Eleatic philosopher makes the “third man argument” in his namesake Socratic dialogue.
+Commentators on Aristotle disagree on an enigmatic half-page chapter from De Anima III in which Aristotle speaks of an “active” form of this concept that is “unaffected and unmixed.” Thomas Aquinas’s text “On the Unity of” this concept disputed the interpretation that Averroes advanced.
+commentaries on Aristotle [accept commentaries on specific Aristotle works, such as Metaphysics; prompt on answers using terms like exegeses or treatises in place of commentaries]
+Parmenides of Elea
+intellect [or mind; or nous; accept On the Unity of the Intellect against the Averroists; prompt on similar answers]
+The debate between these two thinkers on ontology concerned one’s distinction between internal and external questions about existence. For 10 points each:
+Name these two philosophers. In an essay, one of them criticized the other’s use of “state descriptions” and drew from that other thinker’s major book to claim that our statements do not “face the tribunal of” a type of “experience not individually but only as a corporate body.”
+The book Dear Carnap, Dear Van collects letters that Quine sent Carnap while the latter was working in this city along with other logical empiricist thinkers such as Otto Neurath.
+In “Two Dogmas of Empiricism,” Quine takes Carnap to task for Carnap’s reductionist project of translating statements into a language about these things. J. L. Austin criticized A. J. Ayer’s theory of these entities, which are the immediate objects of perception.
+W. V. O. Quine [or Willard Van Orman Quine] and Rudolf Carnap
+Vienna [or Wien; accept Vienna Circle or Wiener Kreis]
+sense data [or sense datum]
+A thought experiment that seeks to illustrate this concept asks if you would help a child drowning in a shallow pond. For 10 points each:
+Name this concept proposed in W. E. H. Lecky’s History of European Morals, which originally only included the family. A 1981 book titled for this concept tracks our “Moral Progress,” beginning with “The Origins of Altruism.”
+Peter Singer’s The Expanding Circle deals with the implications of this field for ethics. The name of this field, which draws from evolutionary psychology to explain human behavior, was coined in a book subtitled The New Synthesis.
+Both Lecky and Singer believe that our expanding circles are just beginning to include these beings, whose “liberation” is advocated by Singer.
+expanding circle [prompt on moral circle]
+sociobiology
+animals &lt;RK, Philosophy&gt;
+This philosopher introduced the “turnstile” symbol, which denotes logical consequence. For 10 points each:
+Name this author of the highly influential Foundations of Arithmetic, who also wrote “On Sense and Reference.”
+This British expert on Frege, who developed the Quota Borda voting system, coined the term “logical harmony” to refer to the idea that there are constraints on the rules of inference that can be used in a logical system.
+To argue against logical harmony, Arthur Prior introduced this connective, which allows any statement to be deduced from any starting point. That argument was critiqued in a Nuel Belnap paper supplementing this connective with “plonk” and “plink.”
+Gottlob Frege (“FRAY-guh”) [or Friedrich Ludwig Gottlob Frege]
+Michael Dummett [or Michael Anthony Eardley Dummett]
+tonk &lt;WN, Philosophy&gt;
+In a book on this concept “and its limits,” Timothy Williamson argued that it cannot be broken down into other concepts. For 10 points each:
+Name this concept that is typically broken down into three components by defining it as “justified true belief,” sometimes with a fourth condition added.
+Lehrer and Paxson define knowledge as justified true belief, with the extra condition that there must not be any propositions of this type. In Lehrer and Paxson’s example, “Tom Grabit’s mother testifies that Tom’s identical twin brother was in the library” serves as this type of proposition.
+Alvin Goldman added a fourth condition based on this concept. According to a theory of reference based on this concept, referents are fixed by a “dubbing” or “initial baptism.”
+knowledge
+defeaters
+causality [or causation; or causal chains] &lt;WN, Philosophy&gt;
+This philosopher edited a 2014 collection titled <em>The Aesthetic Turn in Political Thought</em>. For 10 points each:
+Name this Canadian philosopher who outlined the need for critical theory to help present alternatives to the status quo through the idea of “reflective disclosure” in his book Critique and Disclosure.
+Kompridis’s idea of “reflective disclosure” is a reaction to the work of this philosopher, who proposed a distinction between the “system” and “lifeworld” in a book that discusses “ideal speech situations” in describing how rationality can arise through discourse.
+Kompridis contrasts Habermas’s rule-based approach to democratic politics with the possibility of a romantic democratic politics in the tradition of this author of The Human Condition and The Origins of Totalitarianism.
+Nikolas Kompridis
+Jürgen Habermas (“YUR-gun HAH-bur-moss”)
+Hannah Arendt (“AIR-unt”) [or Johanna Arendt] &lt;AK, Philosophy&gt;
+Answer the following about the question of whether or not existence is a predicate, for 10 points each:
+Kant rejected this argument for the existence of God by arguing that existence is not a real predicate, and therefore a “supremely perfect being” need not necessarily exist.
+In a book of this two-word title, Terence Parsons argued that things like “existence” and “being possible” are extranuclear predicates. Meinong’s jungle is populated by things described by this two-word phrase.
+In his book Towards Non-Being, this philosopher adopted Richard Routley’s noneism (“NUN-ism”), the theory that some things do not exist, based on the notion that existence is a predicate. He’s better known for defending dialetheism (“die-uh-LETH-ee-ism”).
+ontological argument
+non-existent objects
+Graham Priest &lt;WN, Philosophy&gt;
+In a paper classifying “I” as an “essential indexical,” this philosopher recalled following a trail of sugar on the supermarket floor to try to catch the shopper with the torn bag, only to realize he himself was that shopper. For 10 points each:
+Name this philosopher known for his work with Jon Barwise on situation semantics. He won an Ig Nobel prize for his theory of structured procrastination.
+Barwise and Perry also discussed the “slingshot argument,” which states that all sentences with this property stand for the same thing. Theories of this property include the correspondence and coherence theories.
+This philosopher presented a version of the slingshot argument which states that all true sentences refer to the same Great Fact. His other papers include “A Nice Derangement of Epitaphs,” “Truth and Meaning” and “Actions, Reasons, and Causes.”
+John Perry
+true [or truth]
+Donald Davidson [or Donald Herbert Davidson] &lt;WN, Philosophy&gt;
+In an interview published in 1976 titled “Only a God Can Save Us,” the interviewee defended ideas which he had earlier presented in a speech in this city, in which he claimed to have opposed the “politicizing of science.” For 10 points each:
+Name this city, where the “Knowledge Service” was argued to bind “the people to the destiny of the state in a spiritual mission.” The speaker aimed to realize “the primordial and full essence of science,” and argued that “academic freedom” was “not genuine” and “meant… freedom from concern,” and was thus “banished.”
+That speech on “The Self-Assertion of the German University” was given by this philosopher, who controversially took up the position of Rector of the University of Freiburg during the Nazi period. He invoked his concept of Dasein (“DAH-zine”) on a number of occasions during the speech.
+A German thinker with this surname shaped the idea of the modern research university by founding the University of Berlin, which is today named for him and his brother. He pioneered the idea of academic freedom, while his brother pioneered a new type of Romantic science in works like Kosmos.
+Freiburg im Breisgau, Germany
+Martin Heidegger
+von Humboldt [accept Humboldt University of Berlin; accept Wilhelm von Humboldt or Alexander von Humboldt] &lt;MC, European History&gt;
+Answer the following about what philosophers in the Middle Ages knew about Greek philosophy, for 10 points each:
+Thanks to Porphyry’s Isagoge (“eye-suh-GO-gay”), medieval philosophers adopted a version of Aristotle’s classification of this many predicables (“PRED-icables”), or possible relations between predicates and subjects.
+Many Greek texts, including Porphyry’s Isagoge, were read in Latin translations by this medieval philosopher. The title allegorical figure wears a gown with a ladder connecting the letter pi to the letter theta in his Consolation of Philosophy.
+This was the only surviving Platonic dialogue throughout most of Middle Ages due to a partial translation by Calcidius. This dialogue describes the orbits of planets and the creation of the “World Soul” by the demiurge.
+five [accept five predicables or quinque voces]
+Boethius (“bo-EE-thee-us”) [or Boetius; or Anicius Manlius Severinus Boëthius]
+Timaeus &lt;AK, Philosophy&gt;
+A book illustrates these two attitudes by contrasting a Tennyson poem about plucking a flower with a Bashō haiku about seeing a flower. For 10 points each:
+Name these two attitudes which title that 1976 Erich Fromm book. A French philosopher linked these attitudes with problems and primary reflection on the one hand, and mystery and secondary reflection on the other hand.
+This is the aforementioned French philosopher, a Christian existentialist who wrote Being and Having and The Mystery of Being.
+Fromm claims that human character can change from the having mode to the being mode given four conditions on overcoming ill-being, which correspond to the Four Noble Truths of this philosophical tradition.
+having and being [accept answers in either order; accept To Have or to Be? or Being and Having]
+Gabriel Marcel [or Gabriel Honoré Marcel]
+Buddhism &lt;EC, Philosophy&gt;
+A book by Axel Honneth defines this concept as “forgetfulness of recognition,” citing research by Peter Hobson and Michael Tomasello. For 10 points each:
+Name this concept which was popularized in a chapter titled “[This concept] and the Consciousness of the Proletariat” in a 1923 book.
+“Reification and the Consciousness of the Proletariat” is a chapter of this 1923 defense of Bolshevism written by György Lukács (“George LOO-kotch”).
+Lukács introduces reification by quoting a passage from this economic treatise by Karl Marx describing how the product of an individual’s labor becomes alienated from them.
+reification (“RAY-ih-fication”) [accept “Reification and the Consciousness of the Proletariat”]
+History and Class Consciousness: Studies in Marxist Dialectics [or Geschichte und Klassenbewußtsein – Studien über marxistische Dialektik]
+Das Kapital: Kritik der politischen Ökonomie [or Capital: Critique of Political Economy] &lt;AK, Philosophy&gt;
+Four reflective judgements are outlined in Immanuel Kant’s book on this branch of philosophy, which is also explored in a book by John Dewey that considers its subject “as Experience.” For 10 points each:
+Name this branch of philosophy that studies the nature of concepts such as art and beauty.
+In The Work of Art in the Age of Mechanical Reproduction, Walter Benjamin (“VALL-tuh BEN-yah-meen”) argues that mechanical reproduction devalues this quality of a work of art, its unique “presence in time and space.”
+George Dickie is known for defending this theory of art, as is Arthur Danto, who defined art as an object existing in an “atmosphere of artistic theory” known as the “artworld.”
+aesthetics
+aura
+institutional theory of art &lt;AK, Philosophy&gt;
+This philosopher collaborated with David Sloan Wilson on a book about the evolution of unselfish behavior called <em>Unto Others</em>. For 10 points each:
+Name this philosopher who helped establish the philosophy of biology as a subfield with his book The Nature of Selection: Evolutionary Theory in Philosophical Focus.
+Sober’s most recent book is a “user’s manual” for this metaphorical object, which is another name for the law of parsimony.
+The philosophy of biology is sometimes traced back to this biologist who wrote Toward a New Philosophy of Biology and defined a species as a group of individuals which can only breed among themselves.
+Elliott Sober
+Occam’s razor
+Ernst (Walter) Mayr (“MY-ur”) &lt;WN, Philosophy&gt;
+Name some critics of Thomas Hobbes, for 10 points each:
+In a paper on Hobbes’s concept of obligation, this philosopher criticized his moral theory for being based on self-interest. He argued against reductionism in the philosophy of mind in the paper “What Is It Like to Be a Bat?”
+This mathematician, who introduced the infinity sign, started a pamphlet war with Hobbes after Hobbes published an erroneous solution to the problem of squaring the circle.
+This theologian included the appendix “The Catching of Leviathan, the Great Whale” in his book Castigation of Hobbes’ Animadversions. Hobbes carried on a back-and-forth with this man about questions concerning free will.
+Thomas Nagel
+John Wallis
+John Bramhall &lt;WN, Philosophy&gt;
+Diodorus Cronus responded to this problem with his “master argument,” which set out three propositions, arguing that they cannot all be simultaneously true. For 10 points each:
+Name this problem illustrated by an example involving a sea-battle in Aristotle’s On Interpretation.
+According to David Sedley, Diodorus Cronus popularized this paradox, which concerns how many grains of sand are required to form a heap.
+Diodorus Cronus received a nickname recognizing his skill at this art, whose name also refers to a process by which the contradiction between a thesis and antithesis is resolved via synthesis in Hegelian philosophy.
+problem of future contingents
+sorites (“so-RYE-teez”) paradox
+dialectic [accept the Dialectician] &lt;EC, Philosophy&gt;
+An extension of one of this philosopher’s ideas emphasizes the phrase “enough and as good” and requires that claiming property must not make others worse off. For 10 points each:
+Name this philosopher who is the namesake of a “proviso” discussed in Anarchy, State, and Utopia.
+This philosopher responded to John Rawls by considering the Lockean proviso and advocating a minimal state in his Anarchy, State, and Utopia.
+In Philosophical Explanations, Nozick considers Locke’s example of the prince and the cobbler from An Essay Concerning Human Understanding to formulate a theory of identity based on which person has this role.
+John Locke [accept Lockean proviso]
+Robert Nozick
+closest continuer [accept anything with the words close and continue in it] &lt;AK, Philosophy&gt;
+In a treatise on this philosophical field, Kant distinguished between four types of reflective judgement. For 10 points each:
+Name this subject of Kant’s Critique of Judgement, as well as his Observations on the Feeling of the Beautiful and Sublime.
+This philosopher sought to formulate an institutional definition of art in The Transfiguration of the Commonplace. He also coined the term “artworld” and said a piece of art consists of its meaning and embodiment in the 2013 book What Art Is.
+Danto wrote the introduction to the 1988 edition of this earlier American philosopher’s book about aesthetics, The Sense of Beauty. He said that beauty should be treated like a science because it is an objectified pleasure.
+aesthetics
+Arthur Danto
+George Santayana &lt;Ed. HB&gt;
+In a work co-written with Whitehead, this philosopher proves one plus one equals two, and then remarks “The above proposition is occasionally useful.” For 10 points each:
+Name this English philosopher and coauthor of the Principia Mathematica, who also created a namesake teapot about the existence of God.
+Russell also wrote this essay, in which he characterizes the title kinds of phrases “solely in virtue of [their] form”. It also posits a descriptivist theory of names.
+In “On Denoting”, Russell describes this thinker’s theory of objects by referencing the “present King of France” and “the round square,” before insisting that those objects violate the principle of contradiction.
+Bertrand Russell
+“On Denoting”
+Alexius Meinong &lt;Ed. HB&gt;
+This place expels poets as they can only create imitations, and it is ruled by philosopher kings. For 10 points each:
+Name this utopia described in a Platonic dialogue. Glaucon dismissed an earlier version one as being inhabited by pigs.
+A later Platonic attempt at describing a utopia is this recipient of the title statues in the Laws. It’s often considered to be the more realistic and measured response to the naive ideal of The Republic.
+In The Republic’s myth of the metals, the people of this metal, along with iron, are told to be the builders and the producers of The Republic. Their children, however, are not necessarily producers and can rise to auxiliary level.
+The Republic [accept Kallipolis]
+Magnesia [accept answers about the city of the Magnetes]
+Bronze [also accept brass] &lt;Ed. HB&gt;
+This situation occurs when a person is correctly morally evaluated despite the fact that much of what the person is assessed on is beyond their control. For 10 points each:
+Identify this situation, that Bernard Williams said he first thought was an oxymoron.
+This thinker identified four types of moral luck in his 1979 essay on the subject. This NYU professor also wrote about consciousness in “What Is it Like to Be a Bat?"
+This principle about moral luck says, according to Nagel, “people cannot be morally assessed for what is not their fault.”
+moral luck
+Thomas Nagel
+Control Principle &lt;HB&gt;
+This book contains a frame story written to one of its author’s students to try to get him to understand the Merkabah. For 10 points each:
+Identify this work of philosophy whose first book says God can only be described by using negative terms. This text also criticizes the natural science of Aristotle in favor of scriptural and natural evidence.
+The Guide was written by this Jewish philosopher who also wrote a code of Jewish law called the Mishneh Torah.
+Maimonides criticized the anthropomorphized God of this literalist school of Islamic theology. One of the Sunni Orthodox branches of this school of thought is Ash’ari.
+The Guide for the Perplexed
+Moses Maimonides [or Moses ben Maimon]
+ʿIlm al-Kalām &lt;HB&gt;
+For 10 points each, answer the following about the morally questionable theories of Social Darwinism.
+This German scientist was an early proponent of social Darwinism but is likely better known for organizing plant and animal species in his Art Forms of Nature. He rejected the monogenesis of the “human races” and supported the theories of Schleicher, who said different races had different evolutionary ancestors.
+This four word-phrase, developed in Herbert Spencer’s Principles of Biology, ostensibly tries to summarize the concept of natural selection. It was integrated into On the Origin of Species starting with the 5th edition.
+This other British social Darwinist was the first editor of The Economist. He was a member of the so-called Struggle School, which advanced the imperialist idea that nations achieve success by primarily defeating other nations in war.
+Ernst Haeckel
+survival of the fittest
+Walter Bagehot &lt;HB&gt;
+This thinker’s eponymous collections of dialogues and sayings includes a discussion of the “well field system” of tax policy and was edited by Zhao Qi in the second century. For 10 points each:
+Identify this thinker who formulated four innate ethical dispositions, including righteousness or yi. He is perhaps more notable for saying human nature is fundamentally good.
+Mencius was the “second sage” of the school of philosophy named after this author of The Analects.
+Though not a Confucian, the philosopher Mozi wrote extensively about ethics and advocated this ethical position that aimed at “the benefit of all under heaven”. In the “egoist” version of his non-utilitarian ethical system, the morally right action is the one that has the best results for the person making the decision.
+Mencius [or Mengzi or Master Meng]
+Confucius
+(dao) consequentialism [or state consequentialism] &lt;HB&gt;
+Expanding on G.E.M. Anscombe, this philosopher differentiated “brute physical facts” and “institutional facts”. For 10 points each:
+Name this Berkeley professor who said that institutional facts describe more contrived features of the world in The Construction of Social Reality.
+Searle is perhaps best known for this thought experiment that attacks the position of Strong AI. In it, a person cannot understand a language but uses a program to output that language as if he did.
+This 2015 book by Searle argues that when we view objects in our minds, we are just viewing the objects with our eyes with no mediation or cognitive jumps, a la Descartes. In this book, Searle admits that illusions are caused by a lack of a condition of satisfaction.
+John Rogers Searle
+the Chinese Room
+Seeing Things as They Are: A Theory of Perception &lt;Ed. HB&gt;
+This trait is divided into the qualities of impetuosity and weakness and then further classified by the causes of pleasure or anger. For 10 points each:
+Name this ancient Greek term for weakness of will, which is contrasted with a word that means “in power.” An example of this trait is when someone chooses something when they know something else is the best.
+This philosopher’s 1970 paper “How is Weakness of the Will Possible?” answered the title question by asserting that irrationality is real. He formulated the Swampman thought experiment in “Knowing One’s Own Mind.”
+Aristotle’s characterization of the impulse to do bad that overcomes reason during akrasia resembles this philosopher’s view that evil actions were only possible due to ignorance. In Plato’s Protagoras, this philosopher argues against a sophist.
+akrasia [or akratic]
+Donald Herbert Davidson
+Socrates &lt;Ed. HB&gt;
+In this philosopher’s <em>The Moralists</em>, the character Theocles mentions the author of “a certain fair <em>Inquiry</em>,” referring to this philosopher and his <em>Inquiry Concerning Virtue and Merit.</em> For 10 points each:
+Name this English philosopher, some of whose works were collected in the 1711 volume Characteristicks of Men, Manners, Opinions, Times.
+According to Shaftesbury, his parents’ marriage was negotiated by this philosopher. He more famously discussed a tabula rasa in his Essay Concerning Human Understanding.
+Shaftesbury compiled the sermons of Benjamin Whichcote into one of his early publications. Whichcote himself led this group named after a university, which included Henry More and tried to reconcile Christianity with Renaissance humanism.
+Anthony Ashley-Cooper, 3rd Earl of Shaftesbury [accept either underlined name]
+John Locke
+Cambridge Platonists [prompt on partial answers] &lt;Ed. HB&gt;
+Answer the following about different philosophical views on logic. For 10 points each:
+This German logician developed a formal notation for reasoning in his Begriffsschrift. Sentences in his logical system denote truth values, such that the statement 2 squared = 6 would denote false.
+As part of his study of logic, Alfred Tarski developed a theory of the “language of the general theory” of these logical objects. In NGB set theory, the proper version of these objects can be treated explicitly, unlike in ZF set theory.
+This thinker’s two “Incompleteness Theorems” are central to formal logic as studied today. His first theorem roughly states that for any consistent formal system F, from which some arithmetic can be carried out, there are statements in the language of F which cannot be proven or disproven.
+Gottlob Frege
+classes [accept proper classes; or small classes]
+Kurt Gödel &lt;HB&gt;
+For 10 points, answer the following about a philosopher who wouldn’t hesitate to potentially push you down the stairs: Arthur Schopenhauer.
+Schopenhauer’s doctoral thesis was “On the Fourfold Root of” this concept. This concept, which generally states that all actions must have a cause, was formulated along with the principle of contradiction in the Monadology.
+This book, Schopenhauer’s magnum opus, includes a refutation of Kant’s idea that sensation is caused by an outside, unknowable object and instead says that only the human body has both of the title concepts.
+This other German pessimistic philosopher said that life is absolutely worthless and was inspired by Kant and Schopenhauer to write his Philosophy of Redemption. Nietzsche criticized this writer, along with von Hartmann and Bahnsen, for not being good pessimists like Schopenhauer in The Gay Science.
+Principle of Sufficient Reason
+The World as Will and Representation [or Die Welt als Wille und Vorstellung]
+Philip Mainländer &lt;HB&gt;
+Some attribute the start of this philosophical position to Islamic thinkers like Abu al-Hasan al-Ash'ari. For 10 points each:
+Identify this philosophical theory which, according to Malebranche, states that “there is only one true cause because there is only one true God.”
+While not an occasionalist, this Irish thinker said in his De Motu that physical objects were fundamentally passive because of God’s power. He also wrote Three Dialogues between Hylas and Philonous.
+This Cartesian philosopher coined the term “occasional cause” in his Treaty of the Spirit of Man. His “global occasionalist” argument is based on the way he thought God conserved an existent extended substance.
+occasionalism
+George Berkeley
+Louis de la Forge &lt;HB&gt;
+Answer the following about philosophical paradoxes. For 10 points each:
+This philosopher’s namesake “ass” is a donkey that is equally hungry and thirsty, but cannot choose between eating hay and drinking water because the donkey is equidistant from the two objects.
+This paradox from set theory says that considering an ordinal number of the set of the ordinal numbers creates a contradiction because, under the definition of a Von Neumann ordinal, the ordinal number would itself be a set, which is impossible. The New Foundations set theory creates a work around to this paradox.
+This Ancient Greek philosopher from Elea created a paradox about Achilles and a tortoise and another paradox where a moving arrow is stationary at any given moment.
+Jean Buridan
+Burali-Forti’s Paradox
+Zeno of Elea [do NOT accept “Zeno of Citium”] &lt;HB&gt;
+This Christian philosopher often wrote about how humans live in a “broken world.” For 10 points each:
+Identify this thinker who, in his two-volume The Mystery of Being, wrote about how “transcendence” is not “transcending experience,” but rather that transcendence must be possible.
+Gabriel Marcel was a part of the “existential” branch of this field of philosophy, which titles an 1807 philosophical work which develops the theory of the master-slave dialectic.
+The Phenomenology of Spirit was a momentous book in philosophy by this German philosopher, who also wrote The Science of Logic.
+Gabriel Marcel
+phenomenology
+Georg Wilhelm Friedrich Hegel &lt;Ed. HB&gt;
+This text discusses the apparent “logocentrism” present in signification, but argues the most important signifiers are intelligible. For 10 points each:
+Name this 1967 book, whose “Exergue” section discusses the “future of our anterior.” Published by the author of Writing and Difference, it argues that the privileging of writing is embedded throughout Western metaphysics.
+Of Grammatology was written by this French philosopher, who founded deconstructionism and wrote the essay collection Acts of Literature.
+This French term, coined by Heidegger, was used by Derrida and others to indicate that a word was inadequate yet necessary. This two-word-term is usually translated as “under erasure,” and shows the limited nature of language.
+Of Grammatology [or De la grammatologie]
+Jacques Derrida
+Sous rature &lt;Ed. HB&gt;
+Some attribute the start of this philosophical position to Islamic thinkers like Abu al-Hasan al-Ash'ari. For 10 points each:
+Identify this philosophical theory which, according to Malebranche, states that “there is only one true cause because there is only one true God.”
+While not an occasionalist, this Irish thinker said in his De Motu that physical objects were fundamentally passive because of God’s power. He also wrote Three Dialogues between Hylas and Philonous.
+This Cartesian philosopher coined the term “occasional cause” in his Treaty of the Spirit of Man. His “global occasionalist” argument is based on the way he thought God conserved an existent extended substance.
+occasionalism
+George Berkeley
+Louis de la Forge &lt;HB&gt;
+This book draws on the work of Bergson when developing its notion that virtual ideas were relations that could be thought of as multiplicities. For 10 points each:
+Identify this philosophical text that examines each of the two title concepts “for itself.” The second title concept is contrasted with “generality” in the introduction, and the first title concept is likened to a mathematical derivative.
+Difference and Repetition was written by this French philosopher who collaborated with Felix Guattari on Anti-Oedipus, which defines their concept of “desiring-production.”
+Deleuze wrote an “introduction to” this other French Philosopher, who authored The History of Sexuality and Madness and Civilization.
+Difference and Repetition
+Gilles Deleuze
+Michel Foucault
+This principle holds that if S knows P and S knows that P entails Q, then S knows Q. For 10 points each:
+Name this idea that knowledge is transferable via entailment. It was argued against by Fred Dretske and is generally opposed by knowledge reliabilists.
+This philosopher also argued against the closure principle in his Philosophical Explanations. He critiqued Rawls’ Theory of Justice in Anarchy, State, and Utopia.
+Robert Nozick espoused this theory of knowledge, which claims that S can be said to know P if S can determine whether or not P is true through all possible worlds.
+epistemic closure principle
+Robert Nozick
+truth tracking theory of knowledge [accept other forms, like the tracking theory of truth]
+A major text from this philosophical movement asserts that people have the power to remove their superfluous troubles and that we must act for the sake of the cosmopolis. For 10 points each:
+Name this school of thought that influenced Marcus Aurelius and advocated detachment from destructive emotions.
+Marcus Aurelius was greatly influenced by Epictetus, whose teachings were compiled by Arian into this four-volume work. This work establishes three disciplines known as the three topoi one must follow to be happy.
+This concept central to the philosophy of Epictetus refers to things that are within our power. In other words, it refers to choices that we can make of our own volition.
+Stoicism
+Discourses [or Diatribai]
+prohairesis
+At the beginning of an essay, this philosopher described a yellowish “after-image” and argues that seeing the afterimage is not itself a brain process, but rather the reporting of a brain process. For 10 points each:
+Identify this Australian philosopher who authored “Sensations and the Brain Process” and originated mind-brain identity theory with Ullin Place.
+A common objection to J.J.C. Smart’s identity theory is this thesis, which states that mental states can be implemented in different kinds of systems, even if they don’t have a brain. Jerry Fodor is a proponent of this thesis.
+Another proponent of multiple realizability is Hilary Putnam, who names an indispensability thesis about mathematical entities with this author of Word and Object and Two Dogmas of Empiricism.
+John Jamieson Carswell Smart
+multiple realizability
+William Van Orman Quine
+This work revitalized interest in Kierkegaard’s The Book on Adler, and it contains an essay analyzing King Lear and an essay analyzing Endgame. For 10 points each:
+Name this collection that includes an essay that seeks to determine how we can expose fraudulence in art, titled “Music Discomposed.”
+Must We Mean What We Say? is an essay collection by Stanley Cavell, who wrote about this other philosopher in The Claim of Reason. This philosopher wrote Philosophical Investigations.
+In Philosophy the Day After Tomorrow, Cavell defined a “passionate” version of this J.L. Austin concept, which is a sentence capable of actually doing an action or changing the world.
+Must We Mean What We Say?
+Ludwig Wittgenstein
+performative utterance
+This philosopher described the process through which one piece of literature borrows ideas from and is influenced by other pieces of literature, which she called “intertextuality.” For 10 points each:
+Name this feminist philosopher who used the term “abjection” to describe the process by which a child learns to develop a sense of self separately from his or her mother. She also wrote The Powers of Horror.
+Julia Kristeva contrasted this concept with the “symbolic.” While the “symbolic” denotes all that is covered by everything that can be expressed with communicative discourse, this concept refers to the subjective field that lies outside of that.
+Julia Kristeva was greatly influenced by this Austrian thinker who authored Civilization and Its Discontents and originated the concept of the Oedipus complex.
+Julia Kristeva
+the semiotic [do not accept “semiotics”]
+Sigmund Freud
+This concept opposes political order and creates often uncontrollable chaos, and one may overcome it by becoming strong like a lion and cunning like a fox. For 10 points each:
+Name this concept that may be tamed like a woman if one possesses enough virtu, which is the quality of being able to accomplish great things.
+Virtu and fortuna are discussed at length in The Prince, a work written for the Medici family by this Italian political theorist.
+This philosopher pinpointed Machiavelli as the first modern thinker in his ancients-modern dichotomy. This philosopher analyzed the relationship between The Prince and Discourses on Livy in his Thoughts on Machiavelli.
+fortuna [accept fortune]
+Niccolo Machiavelli
+Leo Strauss
+In this work’s first book, the author ponders whether natural slaves exist, distinguishing between men who are slaves by law and men who are so different from other humans that they are slaves by nature. For 10 points each:
+Name this work that defines the concept of the “citizen” and claims that man is by nature a social animal.
+Politics is a work by this philosopher, who authored De Anima and proposed the doctrine of the golden mean in Nicomachean Ethics.
+In Politics, Aristotle defines three different pairs of “good” and “bad” governments. This type of government is the “bad” version of the “polity,” which contains more people than a monarchy or aristocracy.
+Politics
+Aristotle
+democracy
+The originator of this doctrine used it to defend the act of killing in self-defense, and it is frequently referred to in debates about abortion. For 10 points each:
+Name this doctrine that states that an action that causes both a good result and an inseparable, harmful result is okay if the good outweighs the harmful.
+The doctrine of double effect originated in this Aquinas text, which attempts to synthesize Aristotelian philosophy with Christianity and offers five proofs for the existence of God.
+This philosopher applied the doctrine of double effect to her analysis of a problem in which a person may choose to pull a switch to change a trolley’s path, sacrificing one person’s life to save five others.
+doctrine of double effect
+Summa Theologica [or Summa Theologiæ]
+Philippa Foot
+This concept is distinct from a similar concept because it is concerned with an authentic, human sense of being, rather than a factual sense of being. For 10 points each:
+Name this concept that is realized when one takes a “leap of faith” towards transcendence and copes with his or her freedom and ability to make decisions.
+The concept of existenz was developed by this German philosopher who authored The Origin and Goal of History and coined the term “axial age.”
+Jaspers made note to distinguish his concept of existenz from this other philosopher’s concept of dasein. This philosopher wrote Being and Time.
+existenz
+Karl Jaspers
+Martin Heidegger
+These two concepts title the first chapter of Bertrand Russell’s Problems of Philosophy, which asks if there is any knowledge in the world that we can be certain of. For 10 points each:
+Name these two concepts. Another British titled a book after these two concepts, defines one of the concepts as ordinary things, including physical objects and abstract notions that help us understand aspects of the second title concept.
+Appearance and Reality was written by this philosopher, who was a leading thinker in the British idealism movement before it was effectively neutralized by Bertrand Russell and G.E. Moore.
+This other idealist argued that “to be is to perceive” in such works as Treatise Concerning the Principles of Human Knowledge. He claimed that reality was composed solely of ideas.
+appearance and reality
+Francis Herbert Bradley
+George Berkeley
+This figure is examined in a book in which the author claims that he is terrifyingly normal and seems more like a “buffoon” than a demon. For 10 points each:
+Name this man that inspired a philosopher to remark that he was no Iago or Macbeth while discussing the “banality of evil.”
+Eichmann in Jerusalem was written by this 20th century philosopher who analyzed how Nazism and Stalinism gained power in The Origins of Totalitarianism.
+In The Human Condition, Arendt equates this concept with “freedom” and states that it is an end in itself. Along with labor and work, this concept is part of Arendt’s tripartite theory of the vita activa.
+Adolf Eichmann
+Hannah Arendt
+action
+This work disagrees with Nietzsche’s characterization of saints as weak, slavish people, and the third lecture in this work argues for the “reality of the unseen.” For 10 points each:
+Name this work that contrasts the “healthy-minded” with the “sick soul” and categorizes the title phenomena as ineffable and noetic.
+The Varieties of Religious Experience is based on lectures by this American pragmatist who also authored The Will to Believe and The Principles of Psychology.
+William James called this 19th century American philosophical movement the “religion of the healthy-minded.” This movement was led by Phineas Quimby, who taught Mary Baker Eddy and claimed that God is infinite and everywhere.
+The Varieties of Religious Experience
+William James
+New Thought
+This field was founded by Clarence Irving Lewis, who introduced its systems S1 through S5, and his work was expanded by Ruth Marcus, who worked on the quantification of this field. For 10 points each:
+Identify this form of logic for which Saul Kripke would create his namesake “semantics.”
+While modal logic represents possibility with a triangle, this property is represented by a square. This property is paired with Naming in the title of a Saul Kripke work.
+Arthur Prior based this system of logic off of modal logic. This system’s binary modal operators are “release” and “until,” and this system is used to model properties in formal verification.
+modal logic
+necessity
+temporal logic [accept tense logic]
+This text argues that “authority in sacred matters belongs wholly to sovereign power” and argues that the purpose of Scripture is to instill obedience in its readers. For 10 points each:
+Name this text that argues that the Torah should be understood as a political constitution for ancient Israel that is now invalid because ancient Israel no longer exists.
+This Jewish Dutch philosopher authored the Tractatus Theologico-Politicus, in addition to claiming that God is nature in Ethics.
+In Ethics, Spinoza espouses this principle, which states that each thing strives to preserve its being. This principle is likened to the idea of inertia since this term technically refers to an object in motion.
+Tractatus Theologico-Politicus
+Baruch Spinoza
+conatus principle
+This man adopts Lenin's question "Who? Whom?" as a useful way to begin understanding political events.
+Name this man who defends a "realist" approach to political philosophy against an "ethics-first" one in Philosophy and Real Politics.
+Geuss attacked this man as exemplifying the "ethics-first" approach. He postulated a principle stating that social inequalities are acceptable if everyone has equal opportunity and the inequalities improve the lives of the worst-off.
+Rawl's difference principle was part of his second principle of this concept. He conceived of it "as fairness," and titled his most famous book for "a theory of" it.
+Raymond Geuss
+John (Bordley) Rawls
+justice
+This man outlined his theory of physics in the letter to a non-historian Herodotus.
+Name this philosopher, many of whose works are very literally preserved thanks to Mount Vesuvius's eruption and whose On Nature served as the foundation for Lucretius' poem On the Nature of Things.
+Epicurus's physics came from this Greek school of thought that included Leucippus and Democritus. This materialist school claimed all matter was clusters of tiny particles moving through a void.
+Unlike Democritus, Lucretius and Epicurus believed atoms possessed weight and could also do this. Atoms' ability to do this explains why bodies larger than single atoms exist and also allows for free will.
+Epicurus
+atomism
+swerve [accept clinamen or clinamina]
+This essay opens with a brief overview of the approach to science taken by such figures as Bacon, Kepler, and Darwin.
+Name this essay which ends with a comparison of the methods of "tenacity" and "authority" with the scientific method, suggesting the last of these as the best way of achieving the title overcoming of doubt.
+"The Fixation of Belief" is by this American pragmatist polymathic philosopher and semiotician, who also wrote "How to Make Our Ideas Clear".
+Peirce's semiotics divides signs into three classes: icons, which resemble their object; symbols, which are connected to their object only through convention; and these signs, which are connected to their object by existential or physical connection.
+"The Fixation of Belief"
+C(harles) S(anders) Peirce
+index [or indexical sign]
+In a postscript, this man claimed scientists gain tacit knowledge of the existing paradigm by working with ubiquitous concrete examples he called exemplars.
+ Name this author of The Structure of Scientific Revolutions.
+Kuhn and Paul Feyerabend both used this term to describe the impossibility of reducing internally coherent but competing theories down to a shared set of primitive concepts. This thesis has often been taken to mean two paradigms are incomparable
+This is the name Kuhn gives to the "puzzle-solving" science that goes on within a given paradigm. When enough anomalies accumulate to make this type of science no longer tenable, there is a crisis and the paradigm changes.
+Thomas (Samuel) Kuhn
+ incommensurability thesis
+normal science
+This man wrote a sarcastic reply to the Duke of Bedford and Earl of Lauderdale, claiming that being spoken ill of by them was more flattering than any praise could be. 
+Name this man, who parodied Bolingbroke's attack on the established Church with an attack on any sort of organized government in A Vindication of Natural Society.
+Along with the far scarier and wackier Joseph de Maistre, Burke is viewed as one of the founders of this political persuasion, usually opposed to liberalism.
+This author of Of Human Conduct and "On Being Conservative" presented a long list of what it meant to be conservative, including things like preferring "the familiar to the unknown" and "present laughter to utopian bliss."
+ Edmund Burke
+conservatism
+Michael (Joseph) Oakeshott
+This paper uses the example of understanding Kurt when he says "Es regnet" and encourages the methodological stance of assuming what speakers say to be true.
+Name this paper, which describes a methodology that finds the meaning of an utterance in extralinguistic reasons, without reference to another language. It expands on a similar idea developed by W.V. Quine.
+"Radical Interpretation" was written by this American philosopher. This man argued that though generalizations may exist linking the mental and physical, laws connecting the two were a priori impossible in "Mental Events."
+In his paper "Truth and Meaning," Davidson follows this man's reasoning on "the true" being the referent for all true statements. This author of The Foundations of Arithmetic invented modern logic.
+"Radical Interpretation"
+Donald (Herbert) Davidson
+ (Friedrich Ludwig) Gottlob Frege
+This essay opens with a brief overview of the approach to science taken by such figures as Bacon, Kepler, and Darwin.
+Name this essay which ends with a comparison of the methods of "tenacity" and "authority" with the scientific method, suggesting the last of these as the best way of achieving the title overcoming of doubt.
+"The Fixation of Belief" is by this American pragmatist polymathic philosopher and semiotician, who also wrote "How to Make Our Ideas Clear".
+Peirce's semiotics divides signs into three classes: icons, which resemble their object; symbols, which are connected to their object only through convention; and these signs, which are connected to their object by existential or physical connection.
+"The Fixation of Belief"
+C(harles) S(anders) Peirce
+index [or indexical sign]
+Peter Novick wrote a work that studies this concept and the rise and fall of its popularity among American historians.
+Name this concept, whose "Question" is the subject of That Noble Dream. E.H. Carr attacked one historian's idea of this concept in chapter one of What is History? by noting that "the historian is necessarily selective."
+Carr attacked this 19th century Prussian positivist, who wrote that he sought to represent the past "as it really was" in his History of the Latin and Teutonic Nations. His other works include an attempt at a universal history up to the time of Ancient Greece, and he attacked Hegel for ignoring individual agency.
+Ranke is noted for being one of the first historians to methodically employ this type of material in his works. Materials of this type are created by people who were present at or otherwise had first-hand knowledge of what they describe, and can include treaties, wills, and diaries.
+objectivity
+Leopold von Ranke
+primary sources
+This work argues that the highest truths are inherently paradoxical notions believed through a process of "passionate inwardness" and that therefore "truth is subjectivity".
+Name this work whose title reflects its status as a follow-up to its author's Philosophical Fragments. It was one of three works published under the name of Johannes Climacus.
+The Concluding Unscientific Postscript is by this Danish existentialist philosopher, who included "The Diary of the Seducer" in his Either/Or.
+In Either/Or, Kierkegaard discusses how Don Giovanni's pursuit of the aesthetic ideal is an avoidance of this concept, while Judge Wilhelm's ethical approach misconstrues this concept as "sameness". This term also titles a Kierkegaard work written under the pseudonym Constantin Constantius.
+Concluding Unscientific Postscript to Philosophical Fragments [or Afsluttende uvidenskabelig Efterskrift til de philosophiske Smuler]
+Soren (Aabye) Kierkegaard
+repetition [or Gjentagelsen]
+Prove that you understand some Hegelian concepts,
+Though it is debated whether he advocated this model, Hegel's dialectical triad is usually divided into the three stages of thesis, antithesis, and this stage, in which the best parts of the thesis and antithesis combine into one entity.
+In Elements of the Philosophy of Right, Hegel contrasts the individualistic moral concept of "Abstract Right", with this system of social customs that regulates moral behavior within civilization.
+The "Objective Logic" section of Hegel's The Science of Logic is divided into books concerning "being" and this concept, which is defined as "being" that mediates with itself through negativity.
+synthesis [or sublation; or aufhebung; or aufheben]
+ethical life [or ethical substance; or ethical order; or Sittlichkeit]
+essence [or wesen]
+His masterwork was an eighteen-volume theological work printed in 1482 that argued for the Classical conception of the immortality of the soul within a Christian framework.
+Name this Italian philosopher who translated and assembled the modern Corpus Hermeticum, and who further attempted to syncretize Classical and Christian thought in his Three Books on Life.
+Ficino was the leading figure in the Italian Renaissance iteration of this philosophical movement. At Cosimo de Medici's behest, Ficino led the Florentine version of the Academy named for this movement's eponymous thinker.
+This humanist tract, written by a younger contemporary of Ficino's, discusses the hierarchy of angels that help our species, which attempts to attain perfection through our unique capacity for selftransformation.
+Marsilio Ficino [or Marcilius Ficinus]
+Neo-Platonism [prompt on "Platonism"; accept word forms, like "Neo-Platonic"]
+Oration on the Dignity of Man [or De hominis dignitate]
+According to their formulator, these statements are not true or false, but are rather felicitous or infelicitous, the latter term applying to them if they misfire.
+Name these speech acts that through their utterance cause something to be so. They are opposed to constative acts, which describe things.
+The concept of performative utterances is part of the theory of speech acts introduced by this British philosopher in How to Do Things with Words.
+The infamous Searle-Derrida debate of the 1970's was set off by this paper, in which Derrida argues that the iterability of communication means that Austin's performative utterances are always prey to infelicity and his concept of intention is never unproblematized. This essay was later reprinted as the first chapter of Limited Inc.
+performative utterance(s)
+J(ohn) L(angshaw) Austin
+"Signature Event Context"
+This man divided grammatical rules into internal ones governing how words can interact with other words and "application-rules" that connect words to the external world.
+Name this author of The General Theory of Knowledge, who defended his philosophy against criticisms by Max Planck in "Positivism and Realism".
+Schlick was a member of this group of Logical Positivists influenced by Wittgenstein's Tractatus. Other members included Friedrich Waismann and Rudolf Carnap.
+Waismann and Carnap began developing a logical theory of this field after reading the fifth chapter of the Tractatus. Carnap developed a measure for this based on assigning equal weight to groups of first-order sentences called structure descriptions.
+(Friedrich Albert) Moritz Schlick
+Vienna Circle [or Wiener Kreis]
+probability
+This man's teacher Roscelin promoted an extreme nominalism that led to his being condemned for believing in three gods
+Name this theologian, whose own works include three logical treatises and a book of contradictory statements that brought the ire of Bernard of Clairvaux, Sic et Non.
+Abelard contrasted this notion of possibility with de sensu possibility. Statements expressing this kind of possibility are of the form "there exists some x that is possibly F" rather than "it is possible there exists some x that is F."
+Abelard used this word, which also titles his last logical treatise, to name his widely copied style of alternating between opposing theses to find the truth common to both.
+Peter Abelard [or Pierre le Pallet]
+de re or per divisionem
+dialectic or Dialectica
+John Etchemendy criticized this man's concept of logical consequence for being over-reliant on the logical connectives of first-order logic.
+Name this Polish logician, who also proved the undefinability of models of arithmetic, a result frequently used in proof of GÃ¶del's first incompleteness theorem.
+Tarski developed a rigorous semantic theory of this concept in a 1933 paper on it "in formal languages." A sentence like "snow is white" possesses this property if and only if snow is white.
+Etchemendy draws attention between the similarities of Tarski's logical consequence and this nineteenth-century mathematician's concept of deducibility, introduced in a less-famous Wissenschaftslehre.
+Alfred Tarski [or Alfred Teitelbaum]
+truth
+Bernhard (Placidus Johann Nepomuk) Bolzano
+An interesting predecessor to this philosophical idea was developed by the Ash'arite school, who stated that God moves every atom at every instant. For 10 points each:
+Name this philosophical stance that says that God is the only true causal agent working in the world. It was notably espoused by Nicholas Malebranche.
+Malebranche espoused his occasionalist views in this magnum opus, which was placed on the Index of Banned Books.
+Malebranche also wrote a book titled Dialogue Between a Christian Philosopher and a philosopher from here. This nation was home to a type of consequentialist philosophy which adhered to a set of teachings called the Ten Doctrines.
+occasionalism
+The Search After Truth
+China 
+ In his book Thick and Thin, this philosopher attempts to demonstrate the existence of a "minimal morality," which is enriched by various cultures to form their own, distinct morality. For 10 points each:
+Identify this author of Just and Unjust Wars and Spheres of Justice.
+Walzer's approach to morality distinguishes him from philosopher, who deduces and applies ethical rules from general principles of justice understood as fairness. He authored A Theory of Justice.
+Walzer's approach also distinguishes him from Jurgen Habermas and this man, who developed the "transcendental pragmatics" approach to morality in works such as Understanding and Explanation.
+Michael Walzer 
+John Bordley Rawls 
+Karl-Otto Apel
+The title character of this dialogue is silent as most of the talking is done by his Sophist friend Protarchus, who ultimately agrees there are diverse kinds of pleasure. For 10 points each:
+Name this dialogue in which Socrates argues that pleasure is not the highest virtue
+This philosopher used a chair, a chandelier and printed excerpts from Philebus and Mallarme in an odd, elaborately staged lecture about literature in 1969, shortly after the publication of Writing and Difference.
+ An analysis of Philebus is featured in this thinker's early "Plato's Dialectical Ethics" and his late essay "Plato as Portraitist." Another notable short work by this 20th century thinker is "The Relevance of the Beautiful."
+Philebus 
+Jacques Derrida 
+Hans-Georg Gadamer 
+In an article co-authored with David Chalmers, this philosopher popularized the notion of the "extended mind," and he argued that cognition depends on a feedback cycle between the organism and its environment in Natural Born Cyborgs. For 10 points each:
+Identify this philosopher at the University of Edinburgh who also authored Mindware.
+Clark is a noted proponent of this theory, which holds that many cognitive features are dependent on the physical characteristics of an agent.
+Prominent embodiment advocate Hubert Dreyfus has argued that artificial intelligence will continue to fail unless it adopts a more phenomenological approach akin to that of this philosopher who wrote Being and Time.
+Andy Clark
+embodied cognition [accept embodiment]
+Martin Heidegger 
+A long-running triangular debate among this thinker, Richard Dawkins, and Mary Midgley began with his 1978 review of The Selfish Gene, relating the latter to his pet theory of moral skepticism. For 10 points each:
+Name this Anglo-Australian pupil of John Anderson. He is best known for 1977's Ethics: Inventing Right From Wrong, which argues that all morals are artificial via the so-called "argument from queerness."
+Mackie subscribed to this view according to which the universe is deterministic, but humans still have free will. Mackie defined it in opposition to "hard determinism" and "libertarianism."
+Mackie's The Cement of the Universe is about this concept, as is a Mackie essay about a house almost burning down. Hume's Inquiry notes that the problem of induction makes it difficult to define this concept, which he illustrated using billiard balls.
+John Leslie Mackie
+compatibilism
+causation [accept word forms like cause or causality]
+Adherents of this school of thought support the arguments of the Athenians in the Melian dialogue from Thucydides' History of the Peloponnesian War. For 10 points each:
+Name this major school of international relations, which believes that the international system is in a state of anarchy and that states are primarily concerned with survival and compete for power.
+Prominent realists include this man, who wrote the 1948 book Politics Among Nations. Today, he is classified as a Classical Realist in contrast to contemporary Neo-Realists.
+Other prominent early realist texts include this 1939 book by E.H. Carr, which harshly criticized the idealistic foreign policies popular after World War I.
+Realism
+Hans Morgenthan
+The Twenty Years Crisis 
+In answering a question posed by the title of one essay in this collection, its author claimed that "orthodoxy refers exclusively to method." For 10 points each:
+Identify this collection of philosophical essays which includes "What is Orthodox Marxism?" as well as "Critical Observations on Rosa Luxemburg's 'Critique of the Russian Revolution.'"
+History and Class Consciousness is the most famous work of this Hungarian Marxist, whose literary philosophy is found in his The Theory of the Novel.
+Lukacs' application of philosophy to literature also led him to conclude Franz Kafka was an inferior author to this man, whose work Lukacs praised for being "rooted firmly in a particular social and historical situation." That work includes novellas like Tonio Kroger and larger works like Buddenbrooks.
+History and Class Consciousness [or Geschichte und KlassenbewuÃŸtsein: Studien Ã¼ber marxistische Dialektik]
+Georgy Lukacs
+Thomas Mann
+This work postulates that the "good" that is opposed to "bad" is in conflict with the "good" that is opposed to "evil." For 10 points each:
+Name this Nietzsche work opening "We knowers are unknown to ourselves." It claims that the master morality judges actions based on consequences, whereas the slave morality judges actions based on intentions.
+In On the Genealogy of Morality, Nietszche introduced this term for men whose leonine intellectual predatory instincts make them a superior type. He used this term again in The Twilight of the Idols.
+The second treatise of The Genealogy of Morals argues that the origin and utility of historical facts must be differentiated due to the will to power. It adduces this point by considering the different uses of this social behavior, which, per the text, increases alienation, the opposite of its obvious use.
+On the Genealogy of Morals [or On the Genealogy of Morality; or Zur Genealogie der Moral]
+the blond beast [or blonde Bestie]
+punishment [accept close equivalents]
+This work opens with the assertion that "Men will always deceive themselves by abandoning experience to follow imaginary systems." For 10 points each:
+Name this book that was published pseudonymously in 1770.  It advocated for philosophical materialism and expressed its author's atheistic viewpoint.
+The System of Nature is the best-known work of this 18th-century philosopher, whose other works include Christianity Unveiled.  He is thought to have been the model for the atheistic Wolmar in Rousseau's Julie, or the New Heloise.
+Holbach's materialism derived from his study of this 17th-century English philosopher, whose De Cive and De Homine he translated into French.
+The System of Nature (or, the Laws of the Moral and Physical World) [or SystÃ¨me de la Nature (ou Des Loix du Monde Physique et du Monde Moral)]
+Paul-Henri Thiry, Baron d'Holbach (accept either underlined part)
+Thomas Hobbes
+This philosophical dispute is generally believed to have begun with one author's publication of his first work, titled A Critical Exposition of the Philosophy of Leibniz. For 10 points each:
+Identify this doubly-eponymous dispute between the philosopher and logician responsible for The Philosophy of Logical Atomism and his idealist contemporary, the author of Appearance and Reality.
+On Russell's side of the divide was this contemporary who disputed the proposition that "esse is pecipi" in his "Refutation of Idealism" and argued that "good" could not be further defined in the Principia Ethica.
+Stewart Candlish at the University of Western Australia has argued against the myth, which he claims was perpetuated by Russell, that Bradley was an adherent of this theory of truth. Adherents of this theory of truth hold that the truth of a proposition is dependent on how well it meshes with other propositions.
+Russell-Bradley dispute [accept either order]
+George Edward Moore
+coherence theory 
+This philosopher argued that "to see something as art requires... an atmosphere of artistic theory," in his seminal paper, "The Artworld." For 10 points each:
+Identify this longtime Columbia philosopher of art, who argued that works like "a square of primed canvas" are about "their aboutness, and their content is the concept of art," in his "The Transfiguration of the Commonplace."
+This philosopher developed an aesthetic theory around what he called "symbol systems" which he combined with "modes of reference" in his seminal work on aesthetics, Languages of Art.
+In his 1983 presidential address to the American Philosophical Association, Danto advocated an approach to philosophy that treated it more like this type of human activity, examples of which given by Danto include Don Quixote and the poetry of Wordsworth.
+Arthur Danto
+Nelson Goodman
+literature [prompt on "writing"]
+This work's first appendix asks "Why anything? Why this?" and develops what its author calls the "triple theory," which holds than an act is wrong "just when such acts are disallowed by some principle that is optimific, uniquely universally willable, and not reasonably rejectable." For 10 points each:
+Identify this two-volume work of moral philosophy by Derek Parfit.
+Parfit is a notable adherent of this view, according to which statements of moral obligations are statements of fact akin to a report of natural facts. A stronger version of this thesis holds that moral entities objectively exist.
+ Parfit's "triple theory" is an attempt to combine consequentialism and contractualism with the philosophy of this deontologist, whose categorical imperative advocates treating people as ends rather than means.
+On What Matters 
+moral realism
+Immanuel Kant 
+Originally formulated in the book Philosophical Explanations, this theory consists of two conditions applied to a belief: if P were not true, then some person S would not believe that P; and, if P were true, S would believe that P. For 10 points each:
+Identify this epistemic theory.
+The truth-tracking theory of epistemology was developed as a response to Gettier problems by this philosopher, better known for his reply to John Rawls, Anarchy, State, and Utopia.
+The second chapter of Philosophical Explanations is titled after with question, which according to Martin Heidegger is the "fundamental question of metaphysics." Nozick opens by noting that the question seems impossible to answer.
+truth-tracking 
+Robert Nozick
+"Why is there something rather than nothing?" [accept variants like "why do things exist rather than not," prompt on any variant of "why do things exist" which doesn't mention the alternative]
+In his appropriately titled paper "The Future of Philosophy," this thinker argued that all philosophical problems will either turn out to be confusions of language, or will actually turn out to be problems of science. For 10 points each:
+Identify this philosopher who advocated for verification as a criterion of meaning in his "Meaning and Verification," and attempted a systematic grounding of scientific epistemology in A General Theory of Knowledge.
+Along with Otto Neurath and Rudolf Carnap, Schlick was a member of this philosophical group, which met in its namesake city on and off from 1924 to 1936.
+In 1920, Schlick published a philosophical exposition of this new theory, whose "ABC" titled an exposition of the same theory by Bertrand Russell.
+Moritz Schlick
+Vienna Circle [or Weiner Kreiss]
+Einstein's theory of relativity [accept either special or general relativity if given]
+In one episode in this work, a man named Cook Ding carves an ox for his lord so skillfully that the lord learns how to nurture life from that performance. For 10 points each:
+Identify this philosophical work whose notable "Inner Chapters" contain a "Discourse on Making All Things Equal," which argues that all things may be looked at from two points of view.
+The Zhuangzhi is a foundational text of this philosophical school, which is focused on an ambiguous concept called "the way."
+Hui Shi, a common interlocutor in the Inner Chapters of the Zhuangzhi, was a real historical thinker who was a member of a loose school of sophistic thought concerned with a theory of, and named after, these linguistic concepts.
+Zhuangzhi [or Chuang-Tzu]
+Daoism [or Taoism]
+names 
+This work defines "face" as "The way in which the other presents himself, exceeding the idea of the other in me," and argues that our relationship to the "other" should parallel Descartes' relation between the cogito and God. For 10 points each:
+Identify this philosophical work, subtitled "An Essay on Exteriority."
+This Jewish philosopher authored Totality and Infinity as well as Time and the Other and Existence and Existents.
+This philosopher drew on Levinas' work to characterize the relationship between men and women as one in which man is coded as Absolute while woman is coded as the "other," in her work, The Second Sex.
+Totality and Infinity [or TotalitÃ© et Infini: essai sur l'extÃ©rioritÃ©]
+Emmanuel Levinas
+Simone de Beauvoir
+This editor of the newspaper The New Order led the walkout at the Livorno Congress in 1921. For 10 points each:
+Name this Marxist politician and philosopher, whose thought is contained in his Prison Notebooks.
+his idealist philosopher who advanced the "via smarrita" theory of Italian history penned " "Manifesto of the Anti‐Fascist Intellectuals" and History as the Story of Liberty. He led the Italian Liberal Party in the 1940s.
+Gramsci's favorite word was this concept for the use of hidden coercion by which one class dominates others in all aspects of culture and creates "masks of consent." Gramsci locates it in the superstructure rather than the relations of production.
+Antonio Gramsci
+Benedetto Croce
+"hegemony"
+Karl Popper denied this issue by claiming the underlying process is irrelevant to science, and it was first identified by David Hume. For 10 points each:
+Identify this philosophical question about whether and how past evidence can predict the future, which is starkly illustrated by asking whether a non‐raven item proves the blackness of ravens.
+The so‐called "new riddle of induction" was formulated using the example of strange emeralds that exist in these two fictional colors.
+This philosopher put forth the "grue and bleen" argument in his book Fact, Fiction, and Forecast. Contemporary philosophers might be more interested in his aesthetic works such as Languages of Art.
+the problem of induction
+grue and bleen [don't accept partial answers but order not important]
+Nelson Goodman
+This man's Blue and Brown Books were used as preliminary studies for a work that argues on the incoherence of private languages. For 10 points each:
+Name this philosopher who claimed that "the world is all that is the case."
+Members of this group, which included Moritz Schlick, believed in logical positivism. They loved Wittgenstein's Tractatus Logico-Philosophicus.
+This member of the Vienna Circle claimed that given an infinite series of parameters A(1) though A(n+1) you can infer the conclusion (x)A(x), which is known as the omega rule, in his Logical Syntax of Language.
+Ludwig Wittgenstein
+Vienna Circle
+Rudolf Carnap
+This doctrine asserts that regardless of a whether the object is God or man, their goodness only differs in degree. For 10 points each:
+Name this term which describes properties that only differ in degree when applied to different objects, but are not fundamentally different.
+This other term refers to the properties of a thing that make it that particular thing, as opposed to quiddity, noumenon, and hypokeimenon. It's a neo-Latin term for "thisness."
+This Scholastic philosopher employed univocity of being and created the concept of haecceity, and was given the nickname Doctor Subtilis for his arguments. He lends his name to a "cap" that might be used on those making similarly dumb arguments.
+univocity of being
+haecceity
+John Duns Scotus
+This book criticizes Lacan for equating the square root of negative one with "the erectile organ," and it also criticizes Luce Irigaray for referring to E=mc^2 as a "sexed equation." For 10 points each:
+Name this critique of postmodernism that was written during the so-called "science wars." It attacks the improper usage of scientific concepts by a number of French intellectuals.
+Along with Jean Bricmont, this man wrote Fashionable Nonsense. He is better known for his namesake affair, in which his paper subtitled "Towards a Transformative Hermeneutics of Quantum Gravity" was published in Social Text.
+This man criticized Sokal in an article contained in his Paper Machine. This French philosopher is better known for writing Of Grammatology.
+Fashionable Nonsense [accept Impostures Intellectuelles or Intellectual Impostures]
+Alan Sokal
+Jacques Derrida
+The first chapter of this work states that there is no first principle of criticism; another section defines existence as being in flux, determined by external relations, and subject to perturbations from irrelevant events. For 10 points each:
+Name this treatise which states that philosophy must begin with instinct-based action, or in media res.
+Skepticism and Animal Faith is the major epistemological treatise of this Harvard philosopher, who in another work stated that those who don't learn from history are doomed to repeat it.
+This other work by Santayana is a series of lectures on aesthetics. This work outlines how a pile of sand is just as infinite in the universe, but that the infinitesimal doesn't capture the imagination.
+Skepticism and Animal Faith
+George Santayana
+The Sense of Beauty: Being the Outlines of Aesthetic Theory
+This work theorizes that religious ideals are simply externalizations of features already inherent in humans, and Max Stirner responded to it in The Ego and Its Own. For 10 points each:
+Name this philosophical work that claims belief in revelation "poisons" the innate moral sense of people and identifies humanity itself as the title concept.
+The Essence of Christianity was written by this German philosopher, who first developed the book's ideas in his earlier study Pierre Bayle.
+Eleven short "Theses on Feuerbach" were written by this other German thinker who advocated historical materialism and emphasized the dialectical nature of class struggle.
+The Essence of Christianity [or Das Wesen des Christentums]
+Ludwig Feuerbach
+Karl Marx
+This man cited Giambattista Vico and Johann Herder as early sources for his value pluralism. For 10 points each:
+Name this man, who distinguished between positive and negative liberty in "Two Concepts of Liberty" and wrote "The Hedgehog and the Fox."
+Vico and Herder were categorized by Berlin as opponents of this philosophical movement. Voltaire and Denis Diderot were a part of this movement, which promoted societal reform through science and reason.
+Berlin called this man's thought "one of the darkest of the reactionary forms" of the Counter-Enlightenment. This French monarchist called the executioner "the horror and bond of human association" in his St. Petersburg Dialogues, and defended Papal infallibility in On the Pope.
+Isaiah Berlin
+The Enlightenment 
+Joseph de Maistre 
+It popularized the work of the Vienna Circle, and distinguishes between "strong" and "weak" verification. For 10 points each:
+Name this book defense of logical positivism, which characterizes ethical statements as subjective, and argues that philosophy should follow the verification principle.
+This man criticized Ayer's use of argument from illusion in his book Sense and Sensibilia, whose title is a humorous reference to his name. He is also known for a set of collected lectures titled How to Do Things with Words.
+Ayer wrote a book about this man and G.E. Moore, subtitled The Analytical Heritage. He is known for such works as the essay "On Denoting" and collaboating with Alfred Whitehead on Principia Mathematica.
+Language, Truth and Logic
+John Langshaw Austin
+Bertrand Arthur William Russell
+This author of What is Political Philosophy? argued that philosophers have historically been forced to censor their ideas, requiring careful interpretation of their texts, in his book Persecution and the Art of Writing. For 10 points each:
+Name this political philosopher whose students included Paul Wolfowitz.
+Another student of Leo Strauss was this philosopher who responded to the 1969 storming of the Cornell administration building by students demanding more "relevant" courses with his book The Closing of the American Mind. Saul Bellow's Ravelstein was a fictional account of this man.
+Strauss wrote wrote "Thoughts on" this thinker, in which he claimed that this thinker's "anti-theological ire" was the source of modernity. This thinker wrote Discourses on Livy and The Prince.
+Leo Strauss 
+Allan Bloom
+Niccolo Machiavelli
+These entities collect and arrange the boolean output value for each combination of values of two input propositions. For 10 points each:
+Name these objects useful for determining the logical connection between two statements. Wittgenstein is often credited with their creation in his Tractatus.
+This is the name for logics of higher order than propositional logic. In this type of logic, formulae take the form of a function of one or more variables which may be quantified. The functions may then be true for some arguments and false for others.
+In first order logic, this process is the removal of all existential quantifiers to make a statement into the namesake normal form. The resulting statement may not be logically equivalent to the original, but it will be equisatisfiable with it.
+truth tables
+predicate logic [prompt on first-order logic or second-order logic or anything like logic of order higher than zero]
+Skolemization
+A discussion of Hume's bundle theory in this man's most famous work introduced the idea of his namesake "regress", which he dealt with by suggesting that relations between objects are not "independently real". For 10 points each:
+Identify this prominent British Idealist, whose works include Essays on Truth and Reality and Appearance and Reality.
+Bradley got posthumously trashed in this 1936 work, whose author criticizes Bradley's statement "The Absolute enters into, but is itself incapable of, evolution and progress" for failing to meet the standards of the verification principle.
+Late in Language, Truth, and Logic, Ayer discusses distinguishing a "conscious man" from an "unconscious machine", thus prefiguring this AI test introduced in its namesake's paper Computing Machinery and Intelligence.
+Francis Herbert Bradley
+Language, Truth, and Logic
+Turing test    
+Evans proposed a "hybrid" theory of this philosophical phenomenon, in his book on The Varieties of it. For 10 points each:
+Identify this concept in identity theory that is defined as the object of a descriptivist label. It is usually distinguished from "sinn," the way an object is expressed, as opposed to the relationship between the label and the actual object itself.
+Reference theory partially originated in the works of this German that wrote about the distinction between the two title qualities in his On Sense and Reference.
+This other thinker provided a history of the proto-theories of reference from the medieval era in Reference and Generality. This logician wrote the wildly popular Logic Matterrs, and is the widower of Elizabeth Anscombe.
+reference
+Gottlob Frege 
+Peter Geach
+He posits there are rational ways of answering moral questions in his work Moral Thinking: Its Levels, Methods and Point. For 10 points each:
+Name this British philosopher who introduced the theory of universal prescriptivism in his 1952 work The Language of Morals.
+This student of Hare is perhaps best known for his controversial animal rights position, elucidated in works like 1990's Animal Liberation.
+Hare subscribed to a two-level view of this philosophy, which aimed to integrate its "act" variety with its "rule" variety, the latter of which holds that if we find a principle that produces the greatest good we must adhere to it at all times.
+Richard Mervyn Hare
+Peter Albert David Singer
+utilitarianism
+In its preface, it divides the "two great kingdoms of nature" into the intellectual world containing minds and the material world consisting of the whole "system of bodies" in the universe. For 10 points each:
+Name this set of essays which includes sections "Of Reasoning", "Of Conception", and "Of Taste", which defended a common-sense epistemology.
+This Scottish enlightenment philosopher wrote both the Essays on the Intellectual Powers of Man and the Essays on the Active Powers of Man.
+Thomas Reid responded to this philosophical position by stating that perception should be held above reason. Another response to this position is Hilary Putnam's semantic externalism.
+Essays on the Intellectual Powers of Man
+Thomas Reid 
+skepticism
+This philosopher answered Porphyry's question of whether the species into which living things are categorized in are mere constructions of the mind or not with a three-fold distinction. For 10 points each:
+Identify this medieval philosopher who refuted Averroes' psychological theories in his De unitate intellectus contra Averroistas, and argued that the good is both the final cause of the order of forms, and the First Cause.
+Albertus Magnus's pupil was this Scholastic who defended the truth of Catholicism against the error of the infidels in Summa Contra Gentiles and wrote the aforementioned Summa Theologica.
+Albertus Magnus paraphrased this work on logic, then used it to weigh in on the problem of the universals debate. This Aristotelian compilation by the Peripatetics consists of six works, including On Interpretation, Topics, and Sophistical Refutations.
+Albertus Magnus [or Albert the Great; prompt on Albert of Cologne]
+St. Thomas Aquinas [or Thomas of Aquino; or Doctor Angelicus; or Doctor Universalis; or Doctor Communis]
+Organon
+This man used the example of a man who exclaims "gavagai!" upon seeing a rabbit to argue the indeterminacy of translation. For 10 points each:
+Name this analytic philosopher, who wrote Two Dogmas of Empiricism and Word and Object.
+Quine's idea of "indeterminacy of translation" is an example of this broader idea that he held. According to this theory, for any set of observations, there are many different theories that could account for them given different assumptions; thus, many different scientific theories may all be true.
+This philosopher referenced Quine's Word and Object in the title of his Person and Object. This foundationalist wrote commentaries on Franz Brentano, in addition to distinguishing between "Methodist" and "particularist" epistemologists in his book, The Foundations of Knowing.
+Willard Van Orman Quine 
+ontological relativity 
+Roberick Chisholm
+This Neapolitan philosopher developed a view of art as emotional expression. For 10 points each:
+Name this thinker whose aesthetic theory was based on the concept of immanentism, as expounded in his 1902 work Aesthetic as Science of Expression and General Linguistic.
+This English philosopher promulgated Croce's aesthetics in his The Principles of Art. He is better known for developing a theory of history as recollection of the thinking of historical figures in his The Idea of History.
+In his 1934 work Art as Experience, this American philosopher developed an altogether different aesthetic theory based on functional psychology.
+Benedetto Croce 
+Robin George Collingwood 
+John Dewey
+Answer the following about Taoism, for 10 points each:
+Taoist philosophy is based mostly on this namesake text often attributed to Laotzu.
+In the Tao Te Ching, Laotzu's spiritual success was due to his being occupied with "acts without effort," which would be formulated into this central Taoist principle.
+This martial art form attempted to practice Taoist principles, especially wu wei, as the Tao Te Ching claims that the "hard and stiff will be broken" and the "soft and supple will prevail."
+Tao Te Ching or Daodejing
+wu wei
+Taichichuan or Taijiquan
+One work by this thinker criticizes Judith Butler for not offering a positive political program; that work is an essay titled "The Professor of Parody." For 10 points each:
+Identify this feminist philosopher who argued against the use of shame and disgust in her work Hiding From Humanity and also authored Sex and Social Justice and Women and Human Development.
+Initially a classicist, Nussbaum made her name with a book titled The Fragility of Goodness, which contains a chapter in which she defends the speech of Alcibiades from this Platonic dialogue set in the house of Agathon.
+Nussbaum teamed up with Amartya Sen to pioneer this approach to social theory, which holds that people's well-being and freedom are primarily predicated on their opportunities and the sorts of things they can do.
+Martha Nussbaum [or Martha Craven]
+the Symposium
+capability approach
+This philosopher cast himself as Parrhesiast, or "Truth-Speaker" in a philosophical dialogue called The Fisher in which a mob of other philosophers attempts to stone him for calumny. For 10 points each:
+Identify this philosopher from Samosata whose accounts include the Life of Demonax and Death of Peregrinus.
+Lucian was a philosopher from this loose tradition, which takes its name from the Greek for "dog" and whose most colorful exemplar is probably Diogenes.
+Among the things prized by the Cynics was this feature, which was praised by Dio Chrysostom and haters of which were the subject of Julian the Apostate's satirical Misopogon.
+Lucian
+cynicism
+beard [prompt on hair]
+This philosopher articulated the need for a formal scientific language in his posthumously published The Language of Calculation. For 10 points each:
+Identify this empiricist thinker who argued that all operations of the mind derive from sensatons in his appropriately titled Treatise on Sensations.
+Condillac billed his Essay on the Origin of Human Knowledge as a "supplement" to a famous work by this philosopher, who argued that a blind person given sight would not be able to distinguish between a globe and a cube despite knowing them by touch in his Essay Concerning Human Understanding.
+Contrary to Condillac, this philosopher argued for a solution to Molyneux's problem that was predicated on the ability of the eye to learn and adjust after being operated on in his Letter on the Blind.
+Etienne Bonnot de Condillac
+John Locke
+Denis Diderot
+This philosophical work has a tripartite structure which is supposed to mirror the course of historical development, with the first section dedicated to the ancient and the Christian worlds. For 10 points each:
+Identify this work, a critique of the author's fellow-Hegelians, whose "future" second section foresees the triumph of radical individualism.
+The Ego and His Own is the most famous work of this Young Hegelian, who argued that schools are too often treat the pupil as an object rather than someone capable of subjective self-realization in "The False Principle of Our Education."
+Stirner comes in for some 300 pages' worth of criticism in this philosopher's The German Ideology; this thinker's other works include Kapital.
+The Ego and His Own [or The Unique Individual and his Property; or Der Einzige und sein Eigenthum]
+Max Stirner [or Johann Caspar Schmidt]
+Karl Marx
+This thinker is the subject of a book by Hubert Dreyfus and Paul Rabinow titled Beyond Structuralism and Hermeneutics. For 10 points each:
+Identify this philosopher whose lectures on the term parrhesia were collected in Discourse and Truth.
+The opening chapter of Dreyfus and Rabinow's book is mostly concerned with this work of Foucault, which details the confinement of the insane in the throughout history.
+This work by Foucault opens with a description of Las Meninas and argues that an "archaeological mutation" occurred which signaled the collapse of the Classical age.
+Michel Foucault
+Madness and Civilization [or Histoire de la folie a l'age classique]
+The Order of Things [or Les Mots et les choses]
+This work conceives of its project as exploring the hypothesis that language use corresponds to a sort of rule-governed behavior in an introductory section which asks "Why study" the title concepts. For 10 points each:
+Identify this "Essay in the Philosophy of Language," which argues that reference is an example of the title concept, while predication is not.
+Speech Acts is a seminal work by this philosopher, who may be more famous for his paper "Minds, Brains, and Programs," which formulated the Chinese Room argument against strong AI.
+The third section of Speech Acts explicates "the structure of illocutionary acts" via examples of this type of act, which Searle breaks down into sincere and insincere variants.
+Speech Acts: An Essay in the Philosophy of Language
+John Searle
+making a promise [accept anything that mentions promises]
+This philosopher's most famous work grew out of his 1951-52 Gifford Lectures and rejects the ideal of scientific detachment while trying to apply Gestalt psychology to science. For 10 points each:
+Identify this philosopher who advanced those views in his book Personal Knowledge.
+The second section of Personal Knowledge is concerned with this component of knowledge, which Polanyi identified with knowledge that could not be put into words.
+The opening chapter of Personal Knowledge concerns the philosophical lessons of this event, which according to Polanyi ousted man from the central position accorded him by the Ptolemaic system.
+Michael Polanyi
+tacit knowledge
+Copernican Revolution [accept anything mentioning Copernicus]
+This work defines three types of anxiety, each of which was prominent at a different period in man's history: ontic anxiety at the end of the ancient period, moral at the end of the medieval, and spiritual at the end of the modern. For 10 points each:
+Name this work whose titular concept consists of being oneself, participating and uniting that faith in a sort of God above God, the power of being-itself.
+This German-American Christian existentialist wrote The Courage to Be, as well as a book that applies symbols of revelation to the problems of existentialism in a "method of correlation," Systematic Theology.
+Tillich's existentialism was strongly influenced by his interactions with this philosopher, who explored the question of dasein in his magnum opus Being and Time.
+The Courage to Be 
+Paul Tillich
+Martin Heidegger 
+This work begins by arguing that since every truth is as true as any other truth, this state of affairs would be impossible unless there were only "one mediating principle in all knowledge." For 10 points each:
+Identify this work, published in 1800, which attempted to trace the evolution of the thinking subject through the "absolute I" coming to know itself.
+System of Transcendental Idealism was written by this German philosopher and erstwhile friend of Fichte.
+Schelling's work became known to the English speaking world mostly through the efforts of this philosopher, who drew heavily on Schelling's Naturphilosophie in writing his Biographia Literaria.
+System of Transcendental Idealism [or System des transcendentalen Idealismus]
+Friedrich Wilhelm Joseph von Schelling
+Samuel Taylor Coleridge 
+Variants of this problem allow one to act by pushing a fat man or a fat villain. For 10 points each:
+Name this philosophical problem first proposed by Philippa Foot. It asks if it is morally right to flip a switch in order to kill one person, or not to act and allow five to die.
+One solution to the trolley problem relies on this moral doctrine, according to which a normally moral action with bad side results may still be acceptable given three criteria. In the original formulation, homicide in self-defense may be acceptable if the actor intends the good effect, and the good effect outweighs the bad.
+The doctrine of double effect originates in Summa Theologica, which is by this moral philosopher.
+trolley problem [or tram problem]
+the doctrine of double effect [or principle of double effect or rule of double effect]
+St. Thomas Aquinas
+This semiotician cited the works of historian Jules Michelet to that distance from objects of analysis is essential. For 10 points each:
+Identify this thinker who argued that language and style are products of convention and that writing consists in rearranging them in Writing Degree Zero.
+Barthes' analyzed Balzac's Sarasine in S/Z using five of these semiotic entities, which define what Barthes called networks of meaning. Barthes called his five Hermeneutic, Proairetic, Semic, Symbolic, and Referential.
+This work of fiction by Barthes concerns itself with the title character's efforts to meaningfully proclaim his affections, including a notable passage about how the declaration of affection loses its meaning after the first utterance.
+Roland GÃ©rard Barthes
+codes
+A Lover's Discourse: Fragments [or Fragments d'un discours amoureux]
+Sometimes considered a companion to The Revolt of the Masses, this book focuses on the interplay of generations in history; it includes chapters like "Fifteenth-Century Man," "Renaissance and Return," and "The Idea of the Generation." For 10 points each:
+Name this Ortega y Gasset book which, as its Spanish title suggests, asks why a certain seventeenth-century scientist interests us.
+Ortega y Gasset was ambiguous about being labeled an existentialism; conversely, this philosopher actively rejected the label Existentialist. He penned Absurd Man, Absurd Reasoning and Absurd Creation, and wrote an essay concluding "One must imagine Sisyphus happy."
+This later French philosopher once speculated what Camus might say after giving a review of La Peste, not knowing Camus was in fact the audience. This thinker's phenomenological approach to hermeneutics can be seen in his Interpretation Theory, a follow-up to his study of Freud.
+Man and Crisis [or About Galileo or En Torno A Galileo]
+Albert Camus 
+Paul Ricoeur 
+Answer the following about the Medieval study of logic, for 10 points each.
+This Scholastic philosopher presented his view on logic in his Dialectica and the Logica 'ingredientibus', but he is better remembered today for his theological work Sic et non.
+The Logica 'ingredientibus'  consists of close textual commentary on a number of traditional logic texts, including the Isagoge, an introduction to Aristotle's Categories written by this Neoplatonist.
+The Logica 'ingredientibus' also comments on this logic book by Boethius, which compares similar works by Cicero and Themistius and which suggests that each of the title concepts has an associated "maximal sentence."
+Peter Abelard
+Porphyry
+On Topical Differences [or De topicis differentiis] 
+This work predicts that the title movement will result in the end of metanarratives. For 10 points each:
+Name this philosophical work, which posits that those metanarratives cannot exist in a world with mass communications and other technological developments.
+This French philosopher and prominent proponent of Postmodernism wrote The Postmodern Condition.
+Lyotard predicted that metanarratives would be destroyed by the abundance of these concepts. Wittgenstein provided a famous example of these based around the words "block," "pillar," "slab," and "beam."
+The Postmodern Condition: A Report on Knowledge
+Jean-Francois Lyotard
+language-games
+This branch of philosophy titles Monroe Beardsley's most famous work, and is the topic of Kant's Critique of Judgment. For 10 points each:
+Identify this branch of philosophy which is concerned with understanding the nature of art.
+This Columbia professor wrote the book The Philosophical Disenfranchisement of Art and coined the term "the artworld" in an article called "The Artworld." He also wrote After the End of Art which said some Hegelian things about historical changes in the definition of "art."
+This philosopher developed a cognitivist approach to art in his Languages of Art, though he's better known for questioning warrants to certain inductive claims in his work Fact, Fiction, and Forecast.
+aesthetics 
+Arthur Danto
+Nelson Goodman
+This work criticizes Wilhelm Dilthey's claim that the correct interpretation of a text requires understanding the intention of the author. For 10 points each:                                                                                                                
+Name this work that discusses a method of interpreting texts called "fusions of horizons," which takes into account the reader's historical circumstances.                                                 
+Truth and Method is a work of this student of Heidegger who was a pioneer in the development of "philosophical hermeneutics."
+In his later years, Gadamer was periodically engaged in debates over the differences between hermeneutics and deconstruction with this philosopher, the author of Writing and Difference and Of Grammatology.
+Truth and Method [or Wahrheit und Methode]
+Hans-Georg Gadamer 
+Jacques Derida 
+Judith Jarvis Thompson created several corollaries to this problem, including the Fat Man and the Loop scenario. For 10 points each:
+Name this thought experiment which involves saving five innocent people at the expense of one innocent person by rerouting the trajectory of its namesake conveyance.
+The trolley problem was first proposed by this British philosopher of Natural Goodness and "Morality as a System of Hypothetical Imperatives."
+Foot, one of the founding contributors of the virtue ethics movement, also wrote extensively about this kind of ethics, which ties ethical actions to duty, rather than judging them by their consequences. Francis Kamm's essay "Principle of Permissible Harm" tried to find this kind of system for the trolley problem.
+trolley problem
+: Philippa Ruth Foot [or Philippa Bosanquet]
+deontological ethics [accept word forms; prompt on "Kantian ethics"]
+This thinker's most famous work contains a version of the Ten Modes of Aenesidemus, which are considerations intended to induce a suspension of judgment. For ten points each:
+Identify this philosopher who used the characteristics and experiences of various animals to argue for relativism. He is the author of such works as Against the Grammarians and Against the Rhetoricians, both sections of his Against the Mathematicians.
+Sextus Empiricus is best known for his Outline of Pyrrhonism, a work which advocates this philosophy, of whose strongest form Pyrrho was a famous exponent. Members of this school considered their opponents "Dogmatists," and argued that true knowledge, rather than knowledge of appearances, was impossible.
+The aforementioned suspension of judgment advocated by Pyrrho and other skeptics is designated by this Greek term, which was borrowed by Husserl to describe the process of withdrawing implied beliefs about the world.
+Sextus Empiricus
+skepticism [accept word forms]
+epoche [do not accept or prompt on "bracketing"]
+This book's fourth chapter posits an individual who is said to be "meta-stable," because she has doubts about the finality of her vocabulary. For ten points each:
+Identify this work, whose seventh chapter analyzes books that "help us become less cruel;" that chapter is titled "The barber of Kasbeam," and concerns "Nabokov on cruelty."
+Contingency, Irony, and Solidarity is a work by this American philosopher and neopragmatist, who sought to change the way we speak of the mind in his Philosophy and the Mirror of Nature.
+This collection of Rorty essays contains a piece in which he looks back from the year 2096, as well as the essay, "On Heidegger's Nazism." It begins with an autobiographical piece in which Rorty reconciles artistic and political commitments, "Trotsky and the Wild Orchids."
+Contingency, Irony, and Solidarity
+Richard McKay Rorty
+Philosophy and Social Hope
+This work claims that "when a tradition becomes Burkean... it is always dying or dead," and that the classical utilitarian theories give people no reason to believe in their claims. For ten points each:
+Identify this work of moral philosophy which seeks to rehabilitate Aristotelian ethics by investigating what sorts of things lead to an individual's flourishing.
+After Virtue is the most famous work of thie neo-Aristotelian who continued his critique of Enlightenment liberalism in Whose Justice? Which Rationality?
+Much of MacIntyre's moral philosophy is drawn from this work, which consists of a series of "questions," representing topics, followed by arguments for and against them. It is the masterwork of Thomas Aquinas.
+After Virtue
+Alasdair Chalmers MacIntyre
+Summa Theologiae (accept grudgingly Summa Theologica)
+This man argued that teaching effective thinking should be the primary goal of education in How We Think, and founded the American Association of University Professors with Arthur Lovejoy. For 10 points each:
+Name this early pragmatist who expanded his views on teaching in Experience and Education and Democracy and Education.
+Dewey's major foray into aesthetics is this collection of lectures like "The Live Creature" and "The Human Contribution," which holds that aesthetic encounters are crucial to human nature.
+This protÃ©gÃ© was nicknamed "Dewey's bulldog" for his defense of Dewey's ideas. He discussed the role of individuals in world events in The Hero in History and rejected Marxism in books like Marx and the Marxists.
+John Dewey 
+Art as Experience 
+Sidney Hook
+This essay claims most scientists are “astoundingly mediocre,” comparing them to bees shut up in a cell of their hives. For 10 points each:
+Name this book chapter which applies its author's thesis that the 19th century automatically produces the "mass-man" to science, calling the modern scientist a "learned ignoramus" because he "only knows the small corner in which he is an active investigator."
+"The Barbarism of Specialization" appears in this book by Jose Ortega y Gassett, which attacks 20th century society for its bland mediocrity and suggests that power be held by the intellectual.
+Ortega y Gassett titled the series of lectures that became Man and Crisis after this scientist. Paul Feyeraband argues that the advances he put forth in Dialogue Concerning the Two Chief World Systems were less based in rationality than the arguments of the Catholic Church.
+"The Barbarism of Specialization"
+The Revolt of the Masses
+Galileo Galilei
+These qualities include color, taste, and smell, which do not have significance independent of observation but draw their meaning from their affect on an observer. For 10 points each:
+Name these qualities which are distinguished from their counterparts in An Essay Concerning Human Understanding.
+This author of An Essay Concerning Human Understanding postulated the distinction between primary and secondary qualities.
+Locke's association with Robert Boyle influenced his adoption of this theory of matter in the Essay. Like atomism, it holds that matter is composed of minute particles moving in space, but unlike atomism, it allows for the division of these particles.
+secondary qualities
+John Locke
+corpuscular theory or hypothesis [accept anything in which a form of the word "corpuscle" is included]
+This concept was inspired by Hans Vaihinger's The Philosophy of "As If", and common examples given include the existence of heaven and hell. For 10 points each:
+Name these unrealistic goals people hold about themselves and the world, which motivate them to escape inferiority.
+Fictional finalisms are a key concept in this man's theory. This Austrian conceptualized the Individual Psychology and the inferiority complex after breaking from Freud.
+The Adlerian concept of "lifestyle" was strongly dependent on this factor, which can result in feelings of "dethronement" and varying amounts of attention from parents.
+fictional finalisms [or fictional final goals]
+Alfred Alder 
+birth order [accept equivalents]
+This thinker criticized the tendency of western philosophy to prefer unity of multiplicity, a preference he termed the "Eleatic-Platonic bias." For 10 points each:
+Name this philosopher who collaborated with the psychoanalyst Felix Guattari on the two volumes of Capitalism and Schizophrenia.
+Deleuze attacked the traditional ordered and hierarchical nature of most philosophy as "treelike." In contrast, he used this botanical term to label his own seemingly chaotic approach, with its multivalent and non hierarchical nature.
+The first book of Deleuze's Capitalism and Schizophrenia is named for this man. In The Philosophy of Right, Hegel claimed his act of taking responsibility for his actions and blinding himself marked a departure from the oracular nature of Greek morality.
+Gilles Deleuze
+rhizome [or rhizomatic]
+Oedipus 
+This work holds that the Cartesian quest for certainty is an anachronistic relic of an age dominated by the search for God. For 10 points each:
+Name this controversial 1979 text which argues that an overdependence on a representational model of reality has caused most of the problems of analytical philosophy to be unanswerable and irrelevant.
+Philosophy and the Mirror of Nature was written by this Pragmatist author of Contingency, Irony, and Solidarity and Achieving Our Country.
+The autobiographical Trotsky and the Wild Orchids" opens this 1999 Rorty collection, which includes essays explaining his pragmatism and applying it to politics, particularly to contemporary America.
+Philosophy and the Mirror of Nature
+Richard Rorty
+Philosophy and Social Hope
+This man's namesake dialectic involves the conflict between a thesis and its antithesis being resolved by a synthesis. For 10 points each:
+Name this German philosopher who authored The Philosophy of Right and Phenomenology of Spirit.
+This philosopher discusses the contribution of the ancients to Hegel's ideas in a collection of "five hermeneutical studies" titled Hegel's Dialectic. He wrote about the impossibility of objectivity in the text Truth and Method.
+This Ã©migrÃ© philosopher influenced Jean Hyppolite with his series of lectures on Phenomenology of Spirit in 1930s Paris. He wrote an Introduction to the Reading of Hegel and inspired Fukuyama with his theory of the "end of history."
+George Wilhelm Friedrich Hegel
+Hans-Georg Gadamer 
+Alexandre Kojeve 
+Bernard Bolzano charted the area between structure and theory in his 1837 book titled for this concept. For 10 points each:
+Name this system of transcendental idealism which takes its name from the German for "science of knowledge."
+The Wissenschaftslehre was the lifelong project of this student of Kant. He wrote An Attempt at a Critique of All Revelation and The Vocation of Man.
+Fichte used this Kant work as the jumping off point for the Wissenschaftslehre. It argues that morality causes freedom and that the categorical imperative is the only possible moral law.
+Wissenschaftslehre
+Johann Gottlieb Fichte
+Critique of Practical Reason [or Kritik der praktischen Vernunft]
+A problem involving the confusion of "plus" and "quus" is generally ascribed to this entity, which Christopher Norris used in the title of an essay about its "monsters." For 10 points each:
+Name this portmanteau of the names of two philosophers which refers to a philosophy proposed in a book about "Rules and Private Language."
+Kripke argued that proper names were an example of these phenomena, because unlike descriptions, they refer to the same thing in every possible world.
+One of Kripke's chief examples of a rigid designator is this substance, which he claimed is always equal to its chemical formula. In the Twin Earth of Hilary Putnam's thought experiment, this substance's formula is XYZ.
+Kripkenstein
+rigid designator
+water
+The central figure in this vision passes the civil service exam, marries a beautiful woman, and becomes a powerful minister before being betrayed and killed. For 10 points each:
+Name this dream had by Lu Dongbin in the time it took a certain food to cook.
+This Taoist thinker wondered whether he was dreaming he was a butterfly or a butterfly was dreaming it was him.
+Zhuangzi was a successor to this mythical founder of Taoism who wrote the Tao Te Ching and was one of the Three Pure Ones.
+Yellow Millet Dream
+Zhuangzi
+Lao Tzu [or Laozi]
+This idea was introduced in the text Human Nature and the Social Order. For 10 points each:
+Name this concept, the conception people have of themselves based on the imagined attitudes other people have towards them.
+This founding member of the American Sociological Association theorized the looking-glass self after observing his own children.
+Cooley's concept of "self" built on the work of this philosopher and psychologist who wrote The Will to Believe and Pragmatism.
+looking-glass self
+Charles Horton Cooley
+William James
+The author of this essay challenges the unreality of time by noting that he had breakfast that morning. For 10 points each:
+Name this essay which describes a challenge to skepticism in which the author holds up his hand and claims "here is one hand."
+"A Defense of Common Sense" was written by this English philosopher who identified the "naturalistic fallacy" in his book Principia Ethica.
+"A Defense of Common Sense" also attacks this problem of justifying that people who are not oneself are capable of thinking and feeling in the same way.
+A Defense of Common Sense 
+George Edward Moore 
+the problem of other minds 
+Scholastic philosophy held that the four cardinal examples of this concept were prudence, justice, restraint, and courage. For 10 points each:
+Name this word which names a contemporary branch of epistemology which is divided between reliabilists and responsibilists.
+The term "virtue" names a concentration that joins deontology and consequentialism as the three main branches of the normative type of this philosophy. Aristotle discussed the golden mean in a work of this field named for his son.
+In After Virtue, this philosopher pointed out the inadequacy of modern justifications for social norms and suggested a modification of Aristotelian ethics instead.
+virtues 
+ethics 
+Alasdair MacIntyre 
+The Pythagoreans used this term for the beginning number of a series, and Giordano Bruno theorized three types of them as "God, souls and atoms" in a book titled for this term, "Number, and Figure." For 10 points each:
+Name these indestructible substances which are synchronized with each other by God but which are immaterial because they lack spatial extension.
+This author discussed monads in depth in the The Monadology. He composed some New Essays on Human Understanding but achieved greater fame as a mathematician.
+Leibniz's extensive correspondence with this French theologian laid the groundwork for his Discourse on Metaphysics and Monadology. Blaise Pascal defended this leading Jansenist in Les Provinciales.
+monads 
+Gottified Leibniz 
+Antoine Arnauld 
+This term is paired with "reason" in the title of a book of five lectures. For 10 points each:
+Name this term which is defined in the books Way to Wisdom and Man and the Modern Age as the transcendently authentic inner nature of a person.
+This chief theorizer of "existenz" discussed Nazis in The Question of German Guilt and suggested an "axial age" of the development of human civilization in The Origin and Goal of History.
+This other existentialist discussed "bad faith" in the text Being and Nothingness.
+existenz 
+ Karl Jaspers 
+Jean-Paul Sartre 
+This concept is defined as the universal, which applies to everyone at all times and has "nothing outside itself that is its telos but is itself the telos of everything outside itself." For 10 points each:
+Name this stage between the "aesthetic" stage and the "religious" stage, which can be "teleologically suspended" according to an 1843 text.
+The concept of the "teleological suspension of the ethical" appears in this Soren Kierkegaard work, which discusses the case of Abraham's sacrifice of Isaac.
+Most Kierkegaard scholars agree that he wrote Fear and Trembling partially to explain his motivations for breaking off his relationship with this woman.
+the ethical
+Fear and Trembling [or Frygt of Baeven]
+Regine Olsen [or Regine Schlegel]
+In one paper, this philosopher defended McTaggart's argument intended to prove "the unreality of time," though he is more famous for his arguments concerning the rejection of semantic realism. 
+Identify this British philosopher, whose major works include Truth and Other Enigmas and The Logical Basis of Metaphysics.
+Dummett is one of the foremost interpreters of of this German philosopher, who wrote The Foundations of Arithmetic and On Sense and Reference.
+In a review of Nelson Goodman's Structure of Appearance, Dummett claimed that Goodman adhered to this doctrine due to his failure to understand Frege. One form of this doctrine holds that there are no universals, only particulars, and it is often associated with William of Ockham.
+Michael Anthony Eardely Dummett
+Friedrich Ludwig Gottlob Frege
+nominalism
+Part 2 of this work argues for an exhaustive enumeration of instances of phenomena, including negative instances that fail to confirm a held belief. For 10 points each: 
+Identify this 1620 work of philosophy subtitled "or True Directions Concerning the Interpretation of Nature." 
+In Chapter 19 of the Novum Organum Francis Bacon outlines these four phantoms that "beset men's minds." They include those of "the Tribe," "the Marketplace," "the Theater," and "The Cave." 
+In the first part of the Novum, Bacon discusses the beliefs of this pre-Socratic philosopher who argued against polytheism and the contemporary belief in the virtue of athletics. Plato treated this Ionian as the founder of the Eleatics. 
+Novum Organon or Novum Organum 
+idols or eidolon 
+Xenophanes of Colophon
+Identify these logicians, for 10 points each. 
+Later collected in the volume Illustrations of the Logic of Science, both "How to Make Our Ideas Clear" and "The Fixation of Belief" were written by this American philosopher who was also well known for his work with what he termed the "semeiotic."
+At the age of sixteen, this man wrote an essay inventing a semantics for modal logics which was later the basis of semantics for other non-classical logics. His other well-known contributions include his interpretations of Wittgenstein and the book Naming and Necessity. 
+This logician's namesake undefinability theorem limits the existence of formal definitions of truth within a theory. He wrote "The Concept of Truth in Formalized Languages."
+Charles Sanders Peirce
+Saul Kripke 
+Alfred Tarski 
+This philosopher coined the phrase "the end of history." For 10 points each: 
+Identify this Russian-born French philosopher best known for his "Introduction to the Reading of Hegel." 
+Kojeve maintained a close correspondence with this American philosopher, a teacher of Alan Bloom notable for his studies of Greek democracy and works such as On Tyranny and Natural Right and History. 
+Kojeve's lectures on Hegel were an important influence on this man who discussed technology in Our Posthuman Future, but who is best known for arguing that it is the rise of democracies based on capitalism that signals The End of History in a book with the same name. 
+Alexander Kojeve 
+Leo Strauss 
+Francis Fukuyama 
+It examines the formation of a hyperdemocracy and a "new barbarism," and claims that the rise of a particular group has led to the subversion of "vital reason" with the "reason of unreason." For 10 points each: 
+Identify this 1930 work which attempts to link social development to contemporary European crises, and which blames much of those crises on the titular group's aspirations towards satisfaction, rather than true change.
+This thinker, who examined his country's internal development from the age of exploration to its current limitations in Invertebrate Spain, wrote The Revolt of the Masses. 
+Ortega y Gasset compiled a series of lectures he gave in Madrid in 1929, including "Life as Performance" and "Concerning Radical Reality," into a tract whose title wonders "What is" this titular concept. 
+The Revolt of the Masses or La Rebelion de las Massas 
+Jose Ortega y Gasset 
+Knowledge
+Identify the following about anarchist thinkers and their works, for 10 points each. 
+Considered to be the founder of Anarchism, this Russian guy escaped from Siberia by going through, Japan, the Panama Canal, and San Francisco before writing Federalism, Socialism and Anti-Theologism and fighting with Marx 
+This New England born Anarchist wrote No Treason, Vices Are Not Crimes, and Essay on the Trial By Jury. He founded the American Letter Mail Company, to compete with the USPS. 
+This American, who attempted to kill Henry Clay Frick, became disillusioned with Bolshevism and turned to anarchism. He wrote such as The Anti-Climax and Prison Memoirs of an Anarchist. 
+Mikhail Bakunin 
+Lysander Spooner 
+Alexander Berkman 
+Answer the following about these very “human” works of philosophy. For 10 points each –
+Name this work that coincided with the author’s break with Richard Wagner, subtitled a Book for Free  Spirits, and contains the aphorism “Convictions are the more dangerous enemies of truth than lies.”
+Humanism and Terror, an essay on the Communist Problem was written by this French existential phenomenologist, who also wrote The Phenomenology of Perception.
+In this defense of the title form of philosophy, Jean-Paul Sartre offers that his system is not one of despair and contemplative quietism but it is a recognition of the condition he and his readers find themselves.
+Human, All Too Human
+Maurice Merleau-Ponty
+Existentialism is a Humanism

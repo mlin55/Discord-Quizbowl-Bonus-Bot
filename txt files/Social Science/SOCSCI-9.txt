@@ -1,0 +1,1435 @@
+The Kalai–Smorodinsky solution to this problem satisfies resource monotonicity, but not independence of irrelevant alternatives. For 10 points each:
+Name this problem where agents must either mutually agree on an allocation of a shared surplus, or accept the payoffs associated with a breakdown point.
+This mathematician proposed a solution to the bargaining problem that satisfies IIA (“eye-eye-A”), but not resource monotonicity, in his dissertation, which also proved the existence of his namesake equilibrium in game theory.
+In his model of alternating prices, Ariel Rubinstein proved that in dynamic bargaining problems, agents play these strategies, which are Nash equilibrium strategies for each subset of an extensive form game.
+bargaining problem
+John Nash
+subgame perfect equilibrium [or subgame perfect Nash equilibrium; or SPE] &lt;AE, Social Science: Economics&gt;
+This hedge fund’s board included Nobel-Prize-winning economists Myron Scholes and Robert Merton. For 10 points each:
+Name this hedge fund that aggressively leveraged itself to take advantage of arbitrage opportunities. It collapsed in 1998, losing 4.6 billion dollars, when the Russian government defaulted on its bonds.
+After the collapse of LTCM, this CEO of Berkshire Hathaway gave its board only an hour to consider a 250-million-dollar buyout. This “Sage of Omaha” advocates value investing.
+A year earlier, the market experienced a “mini-crash” when this nation’s currency, the baht, collapsed, triggering the 1997 Asian financial crisis.
+Long-Term Capital Management [or LTCM]
+Warren Buffett
+Thailand &lt;CK, Other Academic&gt;
+A type of this phenomenon that occurs in sentences where the embedded sentence is accusative often occurs in the presence of exceptional case-marking verbs. For 10 points each:
+Name this syntactic phenomenon that involves the movement of an argument from a subordinate clause up to the matrix clause. It is often contrasted with the superficially similar phenomenon of control.
+The subject of a clause that contains a raising predicate does not receive one of these values. They formally represent a predicate’s argument structure, distinguishing between nouns that are agents, patients, and experiencers.
+These verbs have more than one argument because they take direct objects. In English, “kiss” is one of these verbs, but “sit” is not.
+raising
+theta-roles [or thematic relations]
+transitive verbs &lt;CK, Social Science: Linguistics&gt;
+A 1993 study concerning this ability found that ratings given to graduate student TAs based on a 30-second video often matched the TAs’ end-of-semester evaluations. For 10 points each:
+Nalini Ambody and Robert Rosenthal coined what term that describes the ability of individuals to find patterns based only on narrow windows of experience?
+The accuracy of thin-slicing may be due to the fact that individuals rely on these concepts, which are overgeneralized beliefs about a particular category of people.
+Joshua Aronson and this social psychologist discovered “stereotype threat” in a 1995 study, finding that black students did worse on a standardized exam when they were told that it was “diagnostic of intellectual ability.”
+thin-slicing
+stereotypes
+Claude Steele &lt;CK, Social Science: Psychology&gt;
+This paradox was first illustrated using a scenario involving two urns: one contains exactly 50 red balls and 50 yellow balls, while the other contains red and yellow balls in an unknown proportion. For 10 points each:
+Name this decision-theoretic paradox proposed by its namesake as a counterexample to Leonard Savage’s “sure thing principle.” This paradox is often taken as evidence that agents are ambiguity-averse.
+The Ellsberg paradox can be explained using this psychological theory of decision-making. It models agents as loss-averse with an S-shaped utility function that is steepest at a reference point.
+Prospect theory explains this effect in which agents prefer to keep an object they own rather than get an object of equivalent value that they do not own. Kahneman, Knetch, and Thaler showed that this effect leads to violations of the Coase (“koce”) theorem in an experiment where participants did not freely trade coffee mugs.
+Ellsberg paradox
+prospect theory
+endowment effect &lt;CK, Social Science&gt;
+These two economists examine tax-avoidance strategies employed by the ultra-rich in their 2019 book <em>The Triumph of Injustice</em>. For 10 points each:
+Name these two French economists at UC Berkeley who imagined implementing a revenue-maximizing wealth tax on the Forbes 400 in their widely-cited 2019 paper “Progressive Wealth Taxation.”
+Gabriel Zucman is a leading expert on these places, which he discussed in his 2015 book The Hidden Wealth of Nations. The OECD divides these places into “conduits” and “sinks.”
+Using a quantum of funds scale, Zucman showed that this nation is the world’s largest tax haven. Paul Krugman derided this county’s strategy of inflating its GDP by becoming a tax haven as “leprechaun economics.”
+Emmanuel Saez (“sah-EZZ”) AND Gabriel Zucman [accept in any order]
+corporate tax havens [or offshore financial centers; or OFCs]
+Ireland &lt;CK, Social Science&gt;
+The simulation theory of empathy contends that empathy arises because these cells allow people to understand other’s actions and emotions. For 10 points each:
+Name these cells that are activated both when you perform an action and when you see someone else perform that same action. They are believed to be closely-related to humans’ theory of mind.
+A popular theory holds that this disorder arises from “broken” mirrors neurons. Simon Baron Cohen controversially argued that individuals with this spectrum disorder have an “extreme male brain.”
+This UC San Diego neuroscientist popularized the “broken mirrors” theory. In a paper with Baland Jalal, he argued that the mirror neuron system causes “Ghostly Bedroom Intruder” hallucinations during sleep paralysis.
+mirror neurons [prompt on partial answers]
+autism
+V. S. Ramachandran [or Vilayanur Subramanian Ramachandran] &lt;CK, Social Science: Psychology&gt;
+Charles William Booth colored streets orange if they were wealthy and black if they were deprived on a map showing the distribution of poverty in this city. For 10 points each:
+Name this city where Jon Snow plotted clusters of cholera cases on a map of Soho to trace an epidemic to its source at the Broad Street Pump.
+This statistician praised the high data-to-ink ratio of Snow’s outbreak maps in The Visual Display of Quantitative Information. He popularized the term “sparklines” to refer to small inline graphs.
+Tufte also praised this French engineer’s chart of the invasion of Russia by Napoleon, which showed the decreasing size of the French army as a line of diminishing thickness.
+London
+Edward Tufte (“TUFF-tee”)
+Charles Joseph Minard &lt;EM, Other Academic&gt;
+The ADIA, Abu Dhabi’s fund of this type, is the third largest in the world, with holdings estimated at over 700 billion dollars worth of assets. For 10 points each:
+Name these large, often opaque funds that a country holds to fund future investments and that likely hold over 20 trillion dollars combined worldwide. Norway’s pension fund is made up of two of these funds that combine for over 1 trillion dollars in net worth.
+The “Norway model” of investing sovereign wealth funds is sometimes contrasted with a model named after this institution, which advocates splitting assets into 6 types and dividing money equally between them. That model is typically credited to David F. Swensen, who managed this institution’s investments for nearly 35 years.
+Financier Jho Low worked with two Goldman Sachs employees to defraud this country’s 1MDB (“one-M-D-B”) sovereign wealth fund of over 4.5 billion dollars, leading to the arrest of this country’s former PM Najib Razak, who had been replaced by Mahathir Mohamad.
+sovereign wealth funds [or SWFs; accept sovereign investment funds or social wealth funds]
+Yale University [accept the Yale model; prompt on the endowment model]
+Malaysia &lt;VS, Modern World&gt;
+The Duggan–Schwartz theorem generalizes this result, showing that any anonymous, non-imposed method is manipulable by both “optimistic” and “pessimistic” voters. For 10 points each:
+Name this result which states that if a resolute voting system with more than three candidates is not susceptible to tactical voting, then it is a dictatorship.
+After it was pointed out that this system was susceptible to tactical voting, its namesake retorted that it was “intended for only honest men.” This system assigns candidates points according to their position on a ballot.
+Tactical voting in the form of compromising is extremely common under this voting system in which voters vote for a single candidate and the candidate with the most votes wins.
+Gibbard–Satterthwaite theorem
+Borda count
+simple plurality voting [or first-past-the-post voting; or FPTP voting; or winner-takes-all voting; or single-choice voting] &lt;CK, Social Science: Political Science&gt;
+Anthony Giddens’s book <em>The Constitution of Society</em> argues that these two concepts should be treated as mutually constitutive (“CON-stih-TOO-tiv”) entities with “equal ontological status.” For 10 points each:
+Name these two competing sociological concepts. One denotes an individual’s capacity to act independently, while the other denotes how societal arrangements restrict choices and opportunities.
+This sociologist illustrated the relationship between agency and structure in his namesake “boat” diagram. He wrote a namesake 1966 report about racial disparities in the US educational system.
+The structural functionalist Davis–Moore theory controversially contends that this phenomenon arises from “functional necessity.” This phenomenon refers to the division of society into socioeconomic classes.
+agency AND structure [accept in any order]
+James Coleman [accept Coleman Report]
+social stratification [or word forms] &lt;CK, Social Science&gt;
+A representative household can be found if and only if one of these functions can be expressed in Gorman polar form. For 10 points each:
+Name these quasi-convex, degree-zero homogeneous functions, which take in a set of prices and an income and output a utility. The Marshallian demand is related to a ratio of partials of this function by Roy’s identity.
+This utility function’s indirect utility function is homothetic. Two elasticities denoted alpha and beta sum to one in this function, which is the limiting case of the CES as gamma goes to 0.
+The marginal rate of substitution for a homothetic function has this property along a ray. It describes the “return to scales” produced by the Cobb–Douglas function that are neither increasing nor decreasing.
+indirect utility functions [prompt on utility functions]
+Cobb–Douglas production function [or Cobb–Douglas utility function; prompt on production function]
+constant &lt;VS, Social Science: Economics&gt;
+Endel Tulving posited the three defining characteristics of this type of memory: subjective sense of time, connection to the self, and autonoetic (“auto-no-ET-ick”) consciousness. For 10 points each:
+Tulving posited that declarative memory can be divided into semantic memory, which stores knowledge about the world, and what other type of memory, which stores personal experiences?
+Memories are stored for later retrieval in this process. Tulving argued that recall is easier in contexts that resemble those in which this process occurred, a principle known as its namesake “specificity.”
+These particularly vivid episodic memories are formed when something surprising or consequential occurs. A common example is people remembering where they were during the 9/11 attacks.
+episodic memory
+encoding [or word forms; accept encoding specificity]
+flashbulb memory &lt;CK, Social Science: Psychology&gt;
+Several of these works generated by MIT’s SciGen program through a context-free grammar were attributed to “Herbert Schlangemann.” For 10 points each:
+Name this type of work. In 2018, a trio of authors submitted twenty of these works, whose topics included a reinterpretation of Mein Kampf, to several journals in an attempt to expose fields they called “grievance studies.”
+The three authors involved in the grievance studies affair were influenced by this physicist’s hoax article “Transgressing the Boundaries,” which he and Jean Bricmont discussed in their book Fashionable Nonsense.
+Jeffrey Beall used this adjective to describe publishing models that often accept hoax articles, have little quality control, and charge exorbitant publishing fees. The slogan “Think. Check. Submit.” warns authors about journals described by this adjective.
+academic papers [or research papers; or scientific articles; or journal articles; or scholarly articles; or conference papers; or hoax articles; prompt on academic hoaxes by asking “what type of text was the hoax?”]
+Alan Sokal
+predatory journals [or predatory conferences; or predatory meetings] &lt;AP, Other Academic&gt;
+Proponents of this theory have advocated controlling inflation by replacing NAIRU (“NYE-roo”) with a concept defined in terms of a buffer employment ratio. For 10 points each:
+Name this heterodox macroeconomic theory which holds that inflation is the only constraint on government spending. Its leading exponent, Stephanie Kelton, served as an economic advisor to Bernie Sanders.
+Modern Monetary Theorists support this type of policy where the government serves as the employer of last resort. The Green New Deal would implement this type of policy, ensuring full employment.
+The Senate version of the Green New Deal was sponsored by this liberal senator from Massachusetts, who is facing a 2020 primary challenge from Joe Kennedy III.
+Modern Monetary Theory [or modern money theory; or MMT; or neo-Chartalism]
+federal job guarantee
+Edward “Ed” Markey &lt;CK, Modern World&gt;
+In this task’s classic presentation, participants are given four cards whose visible faces show 3, 8, red, and brown, and are then asked what cards should be flipped, to test the proposition that if a card shows an even number on one face, then its opposite face is red. For 10 points each:
+Name this task that shows that most people fail to reason using either modus ponens or modus tollens.
+These two evolutionary psychologists found that participants performed markedly better on the Wason task if the problem was stated in terms of social relations. Together with Jerome Barkow, they critiqued the Standard Social Science Model in their book The Adapted Mind.
+Cosmides and Tooby argue that the Standard Social Science Model is rooted in this psychological tradition associated with John Watson and B. F. Skinner, which emphasized studying observable actions.
+Wason selection task
+Leda Cosmides (“KOZ-mid-eez”) AND John Tooby
+behaviorism [accept word forms] &lt;CK, Social Science: Psychology&gt;
+A 1969 article analyzes this event through three contrasting “conceptual models”: the rational policy model, the organizational process model, and the bureaucratic politics model. For 10 points each:
+Name this event analyzed in that paper by Graham T. Allison, which he expanded into his 1971 book Essence of Decision.
+Allison teaches at this university’s Kennedy School of Government whose other faculty members include Samantha Power and Larry Summers.
+This Harvard political scientist used two-level game theory to model negotiations at the G7. He argued that increased social capital allowed Northern Italy to outperform Southern Italy in his book Making Democracy Work.
+Cuban Missile Crisis
+Harvard University
+Robert Putnam &lt;CK, Social Science: Political Science&gt;
+Elliot Aronson first observed this effect in an experiment at the University of Minnesota where confederates auditioning for <em>College Bowl</em> pretended to accidentally spill a cup of coffee. For 10 points each:
+Name this psychological effect in which a mistake increases the likeability of someone perceived to be competent, but decreases the likeability of someone perceived to be incompetent.
+Karen Dion conducted a classic experiment on this effect at Minnesota, showing that individuals ascribe positive personality traits to photographs of attractive individuals.
+Robert Zajonc (“ZYE-unce”) discovered this effect that causes people to like things that are familiar. For example, Zajonc discovered individuals who had previously seen Chinese characters were more likely to rate them positively.
+pratfall effect
+halo effect
+mere-exposure effect &lt;CK, Social Science: Psychology&gt;
+The Cox, Ross, and Rubinstein method creates a binomial lattice that is a discrete-time approximation of this model’s central PDE. For 10 points each:
+Name this option pricing model which assumes that the log return of stock price is an infinitesimal random walk with constant drift and volatility.
+The Black–Scholes model establishes the existence of a “neutral” portfolio where this quantity is zero. This quantity equals the partial derivative of an option’s value with respect to the price of the underlying.
+Since volatility is usually non-constant, GARCH models often outperform the Black–Scholes model because they predict future volatility based on a series of data points indexed by this variable.
+Black–Scholes model [or Black–Scholes–Merton model]
+delta
+time [accept time series] &lt;CK, Social Science: Economics&gt;
+The 1994 Omni One Cohort was added to this longitudinal study to assess the health effects of race. For 10 points each:
+Name this ongoing study. In 2002, it started examining the grandchildren of its Original Cohort, who were recruited in 1948 in a namesake Massachusetts town. An algorithm for estimating 10-year cardiovascular risk was developed from this study.
+The Seven Countries Study, begun in 1956, observed the lowest rates of coronary heart disease in cohorts from Japan and this seaside region. It is home to a namesake diet high in olive oil, vegetables, and fish, and low in meat.
+Ancel Keys led the Seven Countries study and a namesake starvation study from this university. Keys used this university’s Multiphasic Personality Inventory to assess the psychological impact of diet restriction.
+Framingham Heart Study [or FHS; accept Framingham Risk Score]
+the Mediterranean [accept Mediterranean diet]
+University of Minnesota [prompt on UMN; accept Minnesota Starvation Experiment] &lt;JS, Other Academic&gt;
+Answer the following about the social psychologist Carol Tavris, for 10 points each.
+Tavris and Elliott Aronson co-authored the book Mistakes Were Made (But Not by Me), which examines how people experience this phenomenon of mental discomfort associated with contradictions between facts and beliefs.
+Mistakes Were Made analyzes this Stanford psychologist’s study of the belief that making mistakes reflects on inherent abilities, which draws on her pioneering work on “fixed” and “growth” mindsets.
+Tavris’s article “Beware the Incest-Survivor Machine” got her named as a co-defendant in the case Taus v. Loftus, one of the key events of this controversy in psychology that titles a book by Frederick Crews. A description is acceptable.
+cognitive dissonance
+Carol S. Dweck
+the memory wars [accept anything indicating a controversy over recovered or repressed memories] &lt;Social Science&gt;
+The first of this book’s three volumes ends with a chapter titled for “What is Possible.” For 10 points each:
+Identify this book that focuses on the connection between alienation and the trivialities associated with the title concept. It was a major influence on the 1968 student protests in Frrance.
+Critique of Everyday Life is the best-known work of Henri Lefebvre, a sociologist who drew many of his ideas from this Gerrman theorist, whose many catchy concepts include the economic “base” and the political “superstructure.”
+In a 1968 work, Lefebfre introduced this concept, which consists in participation and appropriation. According to this idea, its namesake environments are to be structured according to the desires of those who lived within them.
+Critique of Everyday Life [or Critique de la vie quotidienne]
+Karl Marx [accept word forms like Marxist]
+right to the city [or droit à la ville] &lt;Philosophy&gt;
+This thinker argued that modern political parties largely advocate for the preferences of narrow coalitions of so-called “policy demanders” in his book <em>Affluence and Influence</em>. For 10 points each:
+Name this Princeton political scientist who, in a widely-cited 2014 paper co-authored with Benjamin Page, presented a multivariate analysis of U.S. policy issues to argue that elites have the greatest influence on policy.
+Gilens and Page argue that their findings support the existence of a “biased,” rather than a “majoritarian,” form of this system. This type of political system is often contrasted with neo-corporatism.
+This thinker articulated an early version of majoritarian interest-group pluralism while warning against the destructive nature of factions in his Federalist Paper No. 10.
+Martin Gilens
+pluralism [or pluralist; accept interest-group pluralism, biased pluralism, or majoritarian pluralism]
+James Madison &lt;Social Science&gt;
+Richard Gregory, who famously described this process as “hypothesis,” founded a psychology journal titled for it. For 10 points each:
+Name this process. In a 1950 book titled for this process, J.J. Gibson emphasized the role of “arrays” and “flows” in his “bottom-up” approach to understanding this process.
+This psychological school of thought advanced by Max Wertheimer and Kurt Koffka argued that humans perceive patterns through a set of six “laws of grouping.”
+According to this psychologist’s “feature integration theory,” humans perceive objects through two distinct “pre-attentive” and “focused attention” stages.
+visual perception [or “Perception as Hypothesis” or The Perception of the Visual World; prompt on seeing]
+Gestalt psychology
+Anne (Marie) Treisman &lt;Social Science&gt;
+<em>Description acceptable.</em> One of these procedures resulted in a settlement by a South Carolina hospital following the recent federal court case <em>M. C. v. Aaronson</em>. For 10 points each:
+Name these procedures that were popularized by the psychologist John Money in the 1950s, often as a response to a diagnosis of congenital adrenal hyperplasia or the observation of cryptorchidism in newborn children.
+Sex assignment surgery at birth is commonly and controversially performed on people described by this term, coined by Richard Goldschmidt as a replacement for the term “hermaphrodite.”
+This Brown professor and author of Sexing the Body was criticized by the intersex community for her essay “The Five Sexes,” which speculated on existence of three types of intersexuality: “herms,” “merms,” and “ferms.”
+sex assignment surgery [accept, BUT DO NOT REVEAL, intersex surgery; accept descriptive answers such as genital surgery on infants and “normalizing” surgery]
+intersex
+Anne Fausto-Sterling &lt;Social Science&gt;
+The original version of this test included only three questions, one of which asked, “If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?” For 10 points each:
+Name this widely-used test developed in 2005 by Shane Frederick, which purports to measure people’s “ability or disposition to resist reporting the response that first comes to mind.”
+The CRT draws upon a framework developed by Keith Stanovich and Richard West that divides cognitive processing into a type executed quickly with little deliberation and a type that’s slower and more reflective. Give the names for both types of processing.
+This 2008 manifesto for libertarian paternalism authored by Cass Sunstein and Richard Thaler reprints the CRT in full as evidence that the world should be structured to allow people to rely on their “Automatic System.”
+Cognitive Reflection Test
+System 1 AND System 2
+Nudge: Improving Decisions about Health, Wealth, and Happiness &lt;Social Science&gt;
+According to sociologist Philip Cohen, this idea is bad public policy that leads governments to sink money into ineffective marriage promotion programs. For 10 points each:
+Name this idea promoted by Isabel Sawhill and Ron Haskins in books like Creating an Opportunity Society. It holds that teenagers have the best chance to avoid poverty by graduating from high school, then finding a full-time job, then waiting to have children until marriage.
+Isabel Sawhill and Ron Haskins are both senior fellows at this center-left think tank in Washington, D.C., which is traditionally linked to the Democratic Party.
+This University of Pennsylvania sociologist described how middle-class parents use a parenting style she called “concerted cultivation,” which give their children structural advantages over working-class children, in her book Unequal Childhoods.
+success sequence
+Brookings Institution
+Annette (Patricia) Lareau &lt;Social Science&gt;
+Answer the following about the sociology of cars, for 10 points each.
+This British sociologist argued that Western societies have become societies of “automobility” by subordinating public forms of movement to the car. He also wrote The Tourist Gaze.
+This 1929 book by Robert and Helen Lynd characterized cars as an “accepted essential of normal living” for many residents of its title city, some of whom mortgaged their homes to buy cars.
+The reorganization of cities in response to “technical requirements of traffic flow” works to prevent people from forming a public, according to this thinker’s The Structural Transformation of the Public Sphere.
+John (Richard) Urry
+Middletown: A Study in Modern American Culture
+Jürgen Habermas &lt;Social Science&gt;
+Susan Gal studied this process in the Austrian town of Oberwart, and a book titled for “reversing” it via an eight-stage “revival” process was written by Joshua Fishman. For 10 points each:
+Name this process that can occur over time as populations abandon systems described by scholars as “heritage” in favor of ones labeled as “prestige.”
+After most of this Polynesian language’s speakers shifted to English during the twentieth century, recent attempts to revive it have involved placing children in immersive “language nests,” or kōhanga reo, in cities like Dunedin.
+Nancy Dorian’s concept of “speaker types” for a dying language grew out of her work on a dialect from this country. A different language in this modern-day country has a “Doric” dialect traditionally spoken in its northeast.
+language shift [or language transfer, or language replacement; also accept Reversing Language Shift; prompt on language death; do not accept “language change,” as that refers to change within a certain language]
+Māori [prompt on te reo]
+Scotland [or Alba] (Dorian studied Scottish Gaelic; the other language is Scots.) &lt;Social Science&gt;
+<em>Warning: specific term required.</em> In an essay titled for “economies” of this concept, Sara Ahmed describes its role in the “surfacing” of individual and collective bodies. For 10 points each:
+Name this concept whose namesake branch of theory has been heavily influenced by a Brian Massumi paper on its “autonomy,” and whose distinction from feelings and emotions was originally laid out by Spinoza.
+Massumi’s definition of affect was influenced by his translation of A Thousand Plateaus, in which Felix Guattari and this French philosopher used the term to refer to pre-linguistic, “pre-personal,” bodily responses.
+This UChicago professor popularized affect theory in monographs such as The Female Complaint and Cruel Optimism.
+affect [accept affect theory; accept affective economies; prompt on emotions or feelings]
+Gilles Deleuze
+Lauren Berlant &lt;Mythology and Other&gt;
+This thinker used the term “greedy” to describe institutions that seek “exclusive and undivided loyalty.” For 10 points each:
+Name this thinker best-known for being one of the co-founders of Dissent magazine and authoring The Functions of Social Conflict.
+The Functions of Social Conflict reinterprets this German thinker’s argument that dispute can work to integrate society, from the book Conflict and the Web of Group Affiliations. He also wrote “The Metropolis and Mental Life.”
+Coser also made the first English translation of the book by Maurice Halbwachs that introduced this two-word concept, which describes a shared understanding of the past that informs a group’s identity.
+Lewis A(lfred) Coser
+Georg Simmel
+collective memory [or memoire collective] &lt;Social Science&gt;
+A 2002 book by Randy Martin discusses the childhood of Jonathan Lebed and the website BernieBucks.com to describe this phenomenon in “daily life.” For 10 points each:
+Name this phenomenon, which the book Capitalizing on Crisis defined as the growing tendency for profit-making in the economy to occur by providing capital for future interest or dividends, rather than through production.
+Capitalizing on Crisis is a 2011 book by this economic sociologist at the University of Michigan.
+Krippner is a critic of this thinker’s focus on the “embeddedness” of economic activity in non-economic institutions, an idea developed in his book The Great Transformation.
+financialization [accept word forms]
+Greta Krippner
+Karl (Paul) Polanyi &lt;Social Science&gt;
+A psychologist of this last name synthesized her work on spatial cognition in her 2019 book <em>Mind in Motion: How Action Shapes Thought</em>. For 10 points each:
+Give this last name also shared by a psychologist who ran a series of experiments with Eric Johnson in which subjects read a newspaper account of a tragic death and then estimated the societal frequency of undesirable events.
+Both Barbara Tversky and her husband Amos were longtime professors at this university, where Walter Mischel carried out his marshmallow experiment.
+Amos Tversky wrote a paper with Daniel Kahneman detailing the representativeness bias, availability bias, and this bias, in which people do not change their views heavily from when they were given initial information.
+Tversky [accept Barbara Tversky or Amos Tversky]
+Stanford University
+anchoring [or focalism; accept anchoring and adjustment] &lt;Social Science&gt;
+One thinker argued this method of “successive limited comparison” better described real-world bureaucratic policymaking than a “rational-comprehensive” model. For 10 points each:
+Identify this method, which titles a seminal 1959 article by political scientist Charles E. Lindblom.
+Lindblom’s notion of “muddling through” was the theoretical basis for Aaron Wildavsky’s 1964 book on the politics of this political process. Peter Phyrr developed a “zero-based” form of it that was used under Jimmy Carter.
+Frank Baumgartner and Bryan Jones challenged Lindblom’s incrementalism with this two-word theory, which takes its name from a theory of evolution developed by Niles Eldridge and Stephen Jay Gould.
+muddling through [accept “The Science of Muddling Through”; prompt on gradualism or incrementalism by reminding players we’re looking for the “title method”]
+budgeting [accept The Politics of the Budgetary Process and zero-based budgeting; prompt on answers like allocating funds or financial planning]
+punctuated equilibrium [or punctuated equilibria] &lt;Social Science&gt;
+This concept was introduced in a 2010 paper by Joseph Henrich, Steven Heine, and Ara Norenzayan. For 10 points each:
+Name this acronym which the three psychologists used to refer to the populations that are vastly overrepresented in most psychological studies, which tend to favor Americans and Europeans.
+An example of the “WEIRD” effect is this optical illusion named for a German psychologist, in which two lines bisecting parallelograms appear to be of different lengths. Non-European subjects tended to be less fooled.
+According to a 1966 paper co-authored by this thinker, Western people are more susceptible to the Sander illusion because they live in “carpentered worlds.” This anthropologist also wrote The Myth of the Negro Past.
+WEIRD [or Western, Educated, Industrialized, Rich, and Democratic]
+Sander illusion
+Melville (Jean) Herskovits &lt;Social Science&gt;
+This man’s father of the same name was the first to introduce the symbol for pi. For 10 points each:
+Name this orientalist scholar, who, in 1786 posited connections between Sanskrit and western languages such as Latin, which developed into the theory of Proto-Indo-European.
+Languages of the Indo-European family are divided into two groups largely based on their pronunciation of the word with this meaning, based on whether the initial consonant merged with the plain velar.
+Emile Beneveniste’s work on the shared Indo-European roots of the words for “hostility” and this other word for the practice of receiving a guest with goodwill, influenced a 2000 book by Jacques Derrida.
+William Jones
+one hundred [accept centum or satem]
+hospitality [or hospes; accept Of Hospitality] &lt;Social Science&gt;
+This man’s major project was heavily informed by the work of biochemist Lu Gwei-djen, whom he married. For 10 points each:
+Name this chemist and historian. In his many-volume history of science in China, this man asked why China fell behind Europe despite an early technological advantage, his namesake “question.”
+Mark Elvin’s answer to the Needham Question in part cites a shift in elite culture from Daoism to this other Chinese belief system. Chinese civil servants took torturous exams that forced them to recite passages from this system’s Five Classics.
+This University of Chicago historian sought to synthesize ecological, geographic, and economic causes to explain the Needham question in his seminal work, The Great Divergence.
+(Noel) Joseph (Terence Montgomery) Needham
+Confucianism [or Rúism or Rújiā or “Ju-chia”]
+Kenneth Pomeranz &lt;Mythology and Other&gt;
+In February 2018, it was revealed that Palantir had secretly been providing the City of New Orleans with the technology to perform a “predictive” form of this activity that often uses “heat lists.” For 10 points each:
+Name this activity. James Q. Wilson and George Kelling developed a “broken windows” theory of how to use this activity to create an atmosphere of order, which was later implemented by Bill Bratton in New York.
+This Jamaican-born thinker examined the rise of “anticipatory policing” against communities of color in the UK in his 1978 book Policing the Crisis, co-authored with several of his students at the Birmingham School of Cultural Studies.
+Specific term required. In Policing the Crisis, Hall argues that a moral panic arose surrounding this type of crime, which he claims was “unambiguously assigned as a black crime” starting in the early 1970s.
+policing [or predictive policing or broken windows policing; accept word forms; prompt on dealing with crime or arresting]
+Stuart Hall
+mugging [accept word forms, but do not accept or prompt on other terms] &lt;Social Science&gt;
+August Hollingshead and Frederick Redlich found that social class and psychiatric treatment in this city were correlated in their book <em>Social Class and Mental Health</em>. For 10 points each:
+Name this American city, whose governmental structure was used to support a pluralistic theory of political power in Robert Dahl’s book Who Governs?
+In A Preface to Democratic Theory, Dahl coined this term to describe political systems that have a core set of well-established democratic institutions, but which may not be fully democratic.
+In a 1957 article titled for this concept, Dahl argued that an entity has it to the extent that it can get another entity to do something it would not otherwise do. In his book Bound to Lead, Joseph Nye discussed the “soft” form of this concept, which uses co-optation instead of coercion.
+New Haven, Connecticut
+polyarchy
+power [accept “The Concept of Power” or soft power] &lt;Social Science&gt;
+A major conflict in this location began when members of one side pulled Godi, a member of a rival clan, out of a tree and beat him to death with a rock. For 10 points each:
+Name this site of a four-year war that ended when the Kasakela community ambushed and killed all remaining members of the Kahama community in 1978. In this Tanzanian location, David Greybeard was observed catching termites with twigs and blades of grass.
+This British chimpanzee expert documented the Gombe Chimpanzee War, which, together with her observations of cannibalistic infanticide, altered primatologists’ views of violence in non-human primates.
+This other primatologist at Emory University wrote about power dynamics and aggression among primates in books like Chimpanzee Politics. He discussed the origins of morality in books like The Age of Empathy and The Bonobo and the Atheist.
+Gombe Stream National Park
+Jane (Morris) Goodall
+Frans de Waal [or Franciscus Bernardus Maria de Waal] &lt;Other Academic&gt;
+An essay about these people closes by discussing their dilemma of whether to “read oneself aloud” or to follow the “Derridean imperative” that “genres are not to be mixed.” For 10 points each:
+Name these people, whose “passing” is the subject of Sandy Stone’s manifesto “The Empire Strikes Back.” Stone’s manifesto was itself a response to a book about these people’s “empire” by Janice Raymond, who espoused TERF [“turf”], an early version of radical feminism that sought to exclude these people called.
+The relationship between “passing” and transsexual identity was first examined in this sociologist’s study of Agnes Torres, which he published in his 1967 book Studies in Ethnomethodology.
+In a 1987 essay titled for this two-word process, Candace West and Don Zimmerman relied primarily on a reanalysis of Garfinkel’s material from his “Agnes” study to show how “passing…makes visible what culture has made invisible.”
+transsexual or transgender people [accept The Transsexual Empire: The Making of the She-Male; accept Trans-Exclusionary Radical Feminist]
+Harold Garfinkel
+doing gender [exact answer required] &lt;Social Science&gt;
+A 2003 book by this thinker attempts to “indirectly” approach the title concept by examining how notions of pain, suffering, and agency structured new ideas about humanity. For 10 points each:
+Name this anthropologist who argued against conceiving of the epistemological category of “secular” as an emancipation from religion in that book, Formations of the Secular.
+The closing chapters of Formations of the Secular focus on the “transmuting” of this kind of religious law into “legal norms…that are authorized and maintained” by states in the Muslim world.
+Asad rejects this thinker’s claim that people with different “background justifications” can agree on “core principles,” arguing that the state draws the line between the two. This philosopher framed secularization as a process of “disenchantment” in a mammoth 2007 book that describes the “Nova effect.”
+Talal Asad
+shari’a law
+Charles (Margrave) Taylor (The book is A Secular Age.) &lt;Social Science&gt;
+This book opens with a comparison of Nogales, Arizona and Nogales, Sonora to argue for the role of institutions in divergent economic outcomes. For 10 points each:
+Name this 2012 book by James Robinson and Daron Acemoglu [ay-suh-MOE-gloo], which describes the role of “extractive institutions” in causing the title event.
+Robinson and Acemoglu’s analysis in Why Nations Fail was heavily influenced by the work of this “new institutional” economist, who defined institutions as both “informal constraints” and “formal rules” in a 1991 paper.
+This economist is credited with establishing the school of new institutional economics through papers such as “The Nature of the Firm” and “The Problem of Social Cost.”
+Why Nations Fail: The Origins of Power, Prosperity, and Poverty
+Douglass (Cecil) North
+Ronald (Harry) Coase &lt;Social Science&gt;
+In a 1972 paper, this thinker argued against the stance that acquisition of linguistic competence is independent of sociocultural factors. For 10 points each:
+Name this author of “On Communicative Competence,” a sociolinguist who also developed the SPEAKING model for identifying components beyond grammar and vocabulary that are needed to properly speak a language.
+Hymes’ notion of “communicative competence” was a critique of this linguist’s concept of “linguistic competence,” a key component of his theory of “generative grammar.”
+Hymes’ work in ethnopoetics, which attempts to capture the performative elements of oral narrative, was influenced by the ideas advanced by this American literary theorist in essays such as “Semantic and Poetic Meaning.” He also authored Language as Symbolic Action.
+Dell (Hathaway) Hymes
+(Avram) Noam Chomsky
+Kenneth (Duva) Burke &lt;Social Science&gt;
+In February 2018, it was revealed that Palantir had secretly been providing the City of New Orleans with the technology to perform a “predictive” form of this activity that often uses “heat lists.” For 10 points each:
+Name this activity. James Q. Wilson and George Kelling developed a “broken windows” theory of how to use this activity to create an atmosphere of order, which was later implemented by Bill Bratton in New York.
+This Jamaican-born thinker examined the rise of “anticipatory policing” against communities of color in the UK in his 1978 book Policing the Crisis, co-authored with several of his students at the Birmingham School of Cultural Studies.
+Specific term required. In Policing the Crisis, Hall argues that a moral panic arose surrounding this type of crime, which he claims was “unambiguously assigned as a black crime” starting in the early 1970s.
+policing [or predictive policing or broken windows policing; accept word forms; prompt on dealing with crime or arresting]
+Stuart Hall
+mugging [accept word forms, but do not accept or prompt on other terms] &lt;Social Science&gt;
+Anthony Smith argued that groups called <em>ethnie</em> are the backbone of this system, and developed an approach to studying it called ethnosymbolism. For 10 points each:
+Name this system, which Ernest Gellner tied to the rise of an “anonymous impersonal society” within modernity in works like Thought and Change.
+This political scientist argued that “collectivistic” nationalism was invented by the Tudor aristocracy in the controversial book Nationalism: Five Roads to Modernity, which analyzes the different paths of nationalism in England, the U.S., France, Russia, and Germany.
+This book by Benedict Anderson argues that nationalism arose because the spread of printing press capitalism allowed citizens to experience “deep, horizontal comradeship” with people who they did not know.
+nationalism [accept ethnonationalism]
+Liah Greenfeld
+Imagined Communities: Reflections on the Origin and Spread of Nationalism &lt;Social Science&gt;
+Based on an experiment involving this game that was run in India, Steffen Andersen et al. concluded that as its stakes increase, rejection rates approach zero. For 10 points each:
+Name this two-person game in which the first actor must decide how to split a given sum of money, after which the second actor must choose to either accept the split or reject it, in which case both players receive nothing.
+Sanfey et al. used this imaging technique commonly employed in neuroeconomic studies to analyze what areas of the brain are active during the ultimatum game. Seiji Ogawa discovered the BOLD contrast used by this technique.
+Fehr and Schmidt coined this two-word term to refer to actors’ resistance to unfair outcomes in the ultimatum game. Sarah Brosnan discovered this behavior among capuchin monkeys who were given unequal rewards by the experimenter.
+ultimatum game [do not accept “dictator game”]
+fMRI [or functional magnetic resonance imaging; prompt on partial answer]
+inequity aversion [or IA] &lt;Social Science&gt;
+August Hollingshead and Frederick Redlich found that social class and psychiatric treatment in this city were correlated in their book <em>Social Class and Mental Health</em>. For 10 points each:
+Name this American city, whose governmental structure was used to support a pluralistic theory of political power in Robert Dahl’s book Who Governs?
+In A Preface to Democratic Theory, Dahl coined this term to describe political systems that have a core set of well-established democratic institutions, but which may not be fully democratic.
+In a 1957 article titled for this concept, Dahl argued that an entity has it to the extent that it can get another entity to do something it would not otherwise do. In his book Bound to Lead, Joseph Nye discussed the “soft” form of this concept, which uses co-optation instead of coercion.
+New Haven, Connecticut
+polyarchy
+power [accept “The Concept of Power” or soft power] &lt;Social Science&gt;
+A major conflict in this location began when members of one side pulled Godi, a member of a rival clan, out of a tree and beat him to death with a rock. For 10 points each:
+Name this site of a four-year war that ended when the Kasakela community ambushed and killed all remaining members of the Kahama community in 1978. In this Tanzanian location, David Greybeard was observed catching termites with twigs and blades of grass.
+This British chimpanzee expert documented the Gombe Chimpanzee War, which, together with her observations of cannibalistic infanticide, altered primatologists’ views of violence in non-human primates.
+This other primatologist at Emory University wrote about power dynamics and aggression among primates in books like Chimpanzee Politics. He discussed the origins of morality in books like The Age of Empathy and The Bonobo and the Atheist.
+Gombe Stream National Park
+Jane (Morris) Goodall
+Frans de Waal [or Franciscus Bernardus Maria de Waal] &lt;Other Academic&gt;
+An essay about these people closes by discussing their dilemma of whether to “read oneself aloud” or to follow the “Derridean imperative” that “genres are not to be mixed.” For 10 points each:
+Name these people, whose “passing” is the subject of Sandy Stone’s manifesto “The Empire Strikes Back.” Stone’s manifesto was itself a response to a book about these people’s “empire” by Janice Raymond, who espoused TERF [“turf”], an early version of radical feminism that sought to exclude these people called.
+The relationship between “passing” and transsexual identity was first examined in this sociologist’s study of Agnes Torres, which he published in his 1967 book Studies in Ethnomethodology.
+In a 1987 essay titled for this two-word process, Candace West and Don Zimmerman relied primarily on a reanalysis of Garfinkel’s material from his “Agnes” study to show how “passing…makes visible what culture has made invisible.”
+transsexual or transgender people [accept The Transsexual Empire: The Making of the She-Male; accept Trans-Exclusionary Radical Feminist]
+Harold Garfinkel
+doing gender [exact answer required] &lt;Social Science&gt;
+A 2003 book by this thinker attempts to “indirectly” approach the title concept by examining how notions of pain, suffering, and agency structured new ideas about humanity. For 10 points each:
+Name this anthropologist who argued against conceiving of the epistemological category of “secular” as an emancipation from religion in that book, Formations of the Secular.
+The closing chapters of Formations of the Secular focus on the “transmuting” of this kind of religious law into “legal norms…that are authorized and maintained” by states in the Muslim world.
+Asad rejects this thinker’s claim that people with different “background justifications” can agree on “core principles,” arguing that the state draws the line between the two. This philosopher framed secularization as a process of “disenchantment” in a mammoth 2007 book that describes the “Nova effect.”
+Talal Asad
+shari’a law
+Charles (Margrave) Taylor (The book is A Secular Age.) &lt;Social Science&gt;
+This book opens with a comparison of Nogales, Arizona and Nogales, Sonora to argue for the role of institutions in divergent economic outcomes. For 10 points each:
+Name this 2012 book by James Robinson and Daron Acemoglu [ay-suh-MOE-gloo], which describes the role of “extractive institutions” in causing the title event.
+Robinson and Acemoglu’s analysis in Why Nations Fail was heavily influenced by the work of this “new institutional” economist, who defined institutions as both “informal constraints” and “formal rules” in a 1991 paper.
+This economist is credited with establishing the school of new institutional economics through papers such as “The Nature of the Firm” and “The Problem of Social Cost.”
+Why Nations Fail: The Origins of Power, Prosperity, and Poverty
+Douglass (Cecil) North
+Ronald (Harry) Coase &lt;Social Science&gt;
+Words that obey these constraints but nonetheless do not exist in a language are called “accidental” or “lexical” gaps. For 10 points each:
+Give this adjective that describes a language’s constraints on consecutive sounds within a syllable. For instance, one of these constraints for English holds that all three-consonant clusters at the beginning of a syllable must begin with “s.”
+Thus, phonotactic constraints govern the ordering of these components of a syllable, which include an optional onset followed by the nucleus and coda. Prosodic features like stress and length are often described by a term meaning that they apply “above” this level, instead affecting syllables or whole words.
+Another example of a suprasegmental is this feature of a syllable, which can change in a namesake “sandhi” based on context. Unlike English, Chinese uses this pitch-based property to distinguish between words.
+phonotactics
+segments [accept suprasegmentals]
+tones [accept tonal languages] &lt;Social Science&gt;
+Geoffrey Leech articulated ten maxims of this phenomenon, including “approbation” and “opinion reticence,” as part of his approach to “sociopragmatics.” For 10 points each:
+Name this conversational phenomenon, which can be expressed using negative, positive, and “bald-on-record” strategies according to a study by Penelope Brown and Stephen Levinson.
+In books such as Hand and Mind, this American psycholinguist has argued that politeness is one of many social forces operating on the “inter-plane,” and is therefore expressed through involuntary gestures via “growth points.”
+McNeill is also known for collaborating with Roger Brown on a study arguing that “generic recall” of the beginnings and ends of words drives this four-word phenomenon of almost being able to remember a term. Hopefully it’s not happening to you right now!
+politeness [accept being polite, but do not accept or prompt on synonyms—they need the exact term]
+David McNeill
+tip-of-the-tongue phenomenon [or TOT] &lt;Social Science&gt;
+For 10 points each—answer the following about the sociology and anthropology of art:
+Alfred Gell used “abductive” reasoning to explain how art can have this property. Gell’s book on Art and [this property] proposes that artworks constitute an “index” that becomes a “locus” embedded in a sociocultural “nexus.”
+In a book titled for these constructs, American sociologist Howard S. Becker emphasized the importance of unsung actors like stagehands and paper suppliers. The institutional theory of art holds that one of these “atmosphere[s] of artistic theory” is required to judge an object as “art.”
+Franz Boas kick-started anglophone work on the anthropology of art with a 1927 survey of art titled for this adjective. Earlier, Boas had developed his cultural relativism in a book titled for the “mind” of this kind of “man.”
+agency [accept word forms; accept Art and Agency]
+artworlds
+primitive [accept Primitive Art or The Mind of Primitive Man] &lt;Other Academic&gt;
+The Supreme Court has repeatedly overturned laws against this kind of speech, in decisions like <em>R.A.V. v. St. Paul</em> and <em>Matal v. Tam</em>. For 10 points each:
+Give this term for speech that intends to disparage or intimidate members of a protected group. Richard Delgado’s landmark 1982 article “Words that Wound” called for the implementation of independent tort actions against this type of speech.
+In her essay “Public Response to Racist Speech,” this legal scholar built on Delgado’s argument to advocate criminal laws against hate speech, which she claims represents a “psychic tax on those least able to pay.” This scholar also popularized the notion of reparations for slavery in her article “Looking to the Bottom.”
+Richard Delgado and Mari Matsuda are two central proponents of this legal school of thought, which focuses on the relationship between law and racism. Other key members of this school include Patricia Williams and Derrick Bell.
+hate speech
+Mari Matsuda
+Critical Race Theory [or CRT, do not accept or prompt on “Critical Legal Studies”] &lt;Other Academic&gt;
+In a paper with Ben Golub, this economist argued that the “wisdom of crowds” theory only holds if the influence of a society’s most influential agent declines as the society increases in size. For 10 points each:
+Name this Stanford economist, best-known as the author of the 2010 book Social and Economic Networks.
+Jackson’s work often makes use of the DeGroot model of this process, which uses stochastic “trust matrices” to analyze the convergence of beliefs in societies. Albert Bandura’s Bobo Doll experiment tested his theory of the role of observation, imitation, and modeling in this process.
+Jackson writes frequently about the spread of these relationships in social networks. Scott Feld observed a “paradox” of them caused by the oversampling of individuals with high centrality, and Leon Festinger attributed their formation to “propinquity” in his “Westgate studies.”
+Matthew O. Jackson
+social learning [or DeGroot learning]
+friendship [or friendship paradox; prompt on close relationships or strong ties; do not accept “acquaintanceship”] &lt;Social Science&gt;
+For 10 points each—answer the following about the anthropology of sovereignty:
+This Berkeley anthropologist has written extensively about how the notion of “neoliberalism as exception” has led to the institution of “graduated sovereignty” in countries seeking to enter global markets. She examined the effects of globalization on “transnational” Chinese citizens in Flexible Citizenship.
+Australian anthropologist Patrick Wolfe has argued that this form of colonialism is built on a “logic of elimination” of indigenous sovereignty. This form of colonialism involves replacing, rather than ruling, native populations.
+This anthropologist answered the question “What is a state if it is not a sovereign?” in a 2003 work, describing a certain set of contemporary states as “the institutional projection of an ongoing politics.” He had earlier described nineteenth-century Bali as a “theater state,” and discussed the Balinese cockfight in the essay “Deep Play.”
+Aihwa Ong
+settler colonialism
+Clifford (James) Geertz &lt;Social Science&gt;
+A 2001 article by this economist argued that Indonesia’s mass construction of schools in the 1970s led to higher wages for the children educated in those schools. For 10 points each:
+Name this MIT economist who co-authored the 2011 book Poor Economics with Abhijit Banerjee, with whom she co-directs the Abdul Latif Jameel Poverty Lab.
+Banerjee and Duflo’s emphasis on the use of randomized controlled trials to determine the efficacy of anti-poverty policies has been criticized as undemocratic by this Princeton economist, who won the 2015 Nobel Prize for his work on poverty and consumption.
+After winning the Nobel, Deaton and his Princeton colleague Anne Case have studied “deaths of despair” among middle-aged non-college-educated whites, which led them to publish a Washington Post op-ed about how the media “gets [this crisis] wrong.” The origins of this epidemic have been blamed on companies like Purdue Pharma.
+Esther Duflo
+Angus (Stewart) Deaton
+opioid crisis [accept any answer about opioids; prompt on any answer about drugs or narcotics] &lt;Social Science&gt;
+A 2001 article by this economist argued that Indonesia’s mass construction of schools in the 1970s led to higher wages for the children educated in those schools. For 10 points each:
+Name this MIT economist who co-authored the 2011 book Poor Economics with Abhijit Banerjee, with whom she co-directs the Abdul Latif Jameel Poverty Lab.
+Banerjee and Duflo’s emphasis on the use of randomized controlled trials to determine the efficacy of anti-poverty policies has been criticized as undemocratic by this Princeton economist, who won the 2015 Nobel Prize for his work on poverty and consumption.
+After winning the Nobel, Deaton and his Princeton colleague Anne Case have studied “deaths of despair” among middle-aged non-college-educated whites, which led them to publish a Washington Post op-ed about how the media “gets [this crisis] wrong.” The origins of this epidemic have been blamed on companies like Purdue Pharma.
+Esther Duflo
+Angus (Stewart) Deaton
+opioid crisis [accept any answer about opioids; prompt on any answer about drugs or narcotics] &lt;Social Science&gt;
+In a 1972 paper, this thinker argued against the stance that acquisition of linguistic competence is independent of sociocultural factors. For 10 points each:
+Name this author of “On Communicative Competence,” a sociolinguist who also developed the SPEAKING model for identifying components beyond grammar and vocabulary that are needed to properly speak a language.
+Hymes’ notion of “communicative competence” was a critique of this linguist’s concept of “linguistic competence,” a key component of his theory of “generative grammar.”
+Hymes’ work in ethnopoetics, which attempts to capture the performative elements of oral narrative, was influenced by the ideas advanced by this American literary theorist in essays such as “Semantic and Poetic Meaning.” He also authored Language as Symbolic Action.
+Dell (Hathaway) Hymes
+(Avram) Noam Chomsky
+Kenneth (Duva) Burke &lt;Social Science&gt;
+This scholar expanded George Gerbner’s concept of “symbolic annihilation” to argue that the media’s presentation of women is characterized by omission, trivialization, and condemnation. For 10 points each:
+Name this sociologist, who examined how print and television journalists decide what is worthy of coverage in her book Making News.
+Tuchman’s Making News draws on this sociologist’s notion of “framing” as a process of organizing social experience. He modeled daily interactions as “dramaturgical” in his book The Presentation of Self in Everyday Life.
+Goffman himself analyzed this industry’s representation of women in a work that describes the use of “relative size,” the “feminine touch,” and “licensed withdrawal” in images created by companies like Young &amp; Rubicam.
+Gaye Tuchman
+Erving Goffman
+advertising industry [or ad agencies, or Madison Avenue; accept Gender Advertisements; prompt on marketing] &lt;Social Science&gt;
+A 2012 study by Kahn et al. found that more than half of their child subjects were unwilling to put one of these entities in a closet. For 10 points each:
+Name these entities. In her book Alone Together, Sherry Turkle criticizes the use of entities of this kind, such as “Paro,” as a substitute for elder care.
+This foundational concept in the psychology of human-robot interaction was formulated by Clifford Nass and Byron Reeves, who argued that people tend to treat computers and robots as if they’re real people.
+One notable counterexample to the “Media Equation” was a 2005 replication of one of this psychologist’s experiments, in which Bartneck et al. found that 100% of their participants were willing to give the maximum level of electric shocks to a robot.
+social robots [prompt on answers like computers, artifical intelligence, or AI]
+the Media Equation
+Stanley Milgram &lt;Social Science&gt;
+This model argues that the presence of so-called “generalized resistance resources” allow people to maintain a strong “SOC,” or “sense of coherence.” For 10 points each:
+Name this medical model developed by Aaron Antonovsky, which prioritizes focusing on “health-ease,” rather than “dis-ease,” in health promotion.
+Similarly to Antonovsky, this man worked with Christopher Peterson to co-author a manual of Character Strengths and Virtues, which was intended to counterbalance the emphasis on disorders in the DSM. He also developed the PERMA model of well-being.
+This advocate of “hedonic psychology” posited that a person’s “objective happiness” is equal to the integral of their “instant utilities.” He summarized his work on prospect theory in the book Thinking, Fast and Slow.
+salutogenic model [or salutogenesis]
+Martin E(lias) P(eter) Seligman
+Daniel Kahneman &lt;Social Science&gt;
+A 2012 study by Kahn et al. found that more than half of their child subjects were unwilling to put one of these entities in a closet. For 10 points each:
+Name these entities. In her book Alone Together, Sherry Turkle criticizes the use of entities of this kind, such as “Paro,” as a substitute for elder care.
+This foundational concept in the psychology of human-robot interaction was formulated by Clifford Nass and Byron Reeves, who argued that people tend to treat computers and robots as if they’re real people.
+One notable counterexample to the “Media Equation” was a 2005 replication of one of this psychologist’s experiments, in which Bartneck et al. found that 100% of their participants were willing to give the maximum level of electric shocks to a robot.
+social robots [prompt on answers like computers, artifical intelligence, or AI]
+the Media Equation
+Stanley Milgram &lt;Social Science&gt;
+This model argues that the presence of so-called “generalized resistance resources” allow people to maintain a strong “SOC,” or “sense of coherence.” For 10 points each:
+Name this medical model developed by Aaron Antonovsky, which prioritizes focusing on “health-ease,” rather than “dis-ease,” in health promotion.
+Similarly to Antonovsky, this man worked with Christopher Peterson to co-author a manual of Character Strengths and Virtues, which was intended to counterbalance the emphasis on disorders in the DSM. He also developed the PERMA model of well-being.
+This advocate of “hedonic psychology” posited that a person’s “objective happiness” is equal to the integral of their “instant utilities.” He summarized his work on prospect theory in the book Thinking, Fast and Slow.
+salutogenic model [or salutogenesis]
+Martin E(lias) P(eter) Seligman
+Daniel Kahneman &lt;Social Science&gt;
+The founder of this field of study proposed various biometric codes, such as the “thermal code” and the “olfactory code,” to categorize the ways in which people interact with their surroundings. For 10 points each:
+Name this quantitative study of the distances with which humans interact with space from a sociological and anthropological perspective. It was introduced in the book The Hidden Dimension by Edward T. Hall.
+Proxemics shows that distance hardly affects this psychological phenomenon, which is the preference for things with which one is more familiar. It was first studied by Robert Zajonc, who tested this phenomenon using chicken eggs.
+The four ranges of distances in proxemics, are intimate, personal, social, and this one. In economics, the lighthouse is an example of this kind of good, which are the subject of the free rider problem.
+proxemics
+mere-exposure effect
+public good [or public space]
+A paper by this author defines organisms as “resilient patterns in a turbulent, [energy] flow”. For 10 points each:
+Name this University of Illinois biologist whose paper “A New Biology for a New Century” argues that molecular biology has run its course in the 20th century, and that the discipline should be reshaped so that it probes the fundamental nature of reality.
+Carl Woese is best known for making this taxonomic group, which is larger than a kingdom. Archaea, Eukarya, and Bacteria are the three commonly-used examples of these.
+Woese’s paper urges scientists to heed this man’s advice “In an honest search for knowledge you quite often have to abide by ignorance for an indeﬁnite period”, which he wrote in What is Life?, his book about the then-new discipline of genetics.
+Carl Woese
+domains
+Erwin Schrodinger
+Developing from a talk given by Alan Prince and Paul Smolensky in 1991, this theory consists of three components, GEN, CON, and EVAL. For 10 points each:
+Name this linguistic theory, which reframes language as a form of data, in which GEN generates possible outputs from a given input and CON lists ordered constraints. This theory’s name comes from EVAL.
+OT is used in this branch of linguistics, whose generative form derives from the book The Sound Pattern of English. This field, founded by Roman Jakobson, features items consisting of distinctive binary features.
+In phonology, the order whereby rule A may allow for the activation of rule B is known as the “feeding order”, while this term refers to the opposite order, whereby the activation of rule A cancels the application of rule B.
+Optimality Theory [or OT]
+phonology [or morphophonology]
+bleeding order
+A "spiral" model of the creation of this commodity proceeds through the stages of socialization, externalization, creation, and internalization according to Ikujiro Nonaka. For 10 points each:
+Name this concept that is the basis of a special type of business economy according to Peter Drucker.
+Ikujiro Nonaka distinguished explicit knowledge from this kind of knowledge, which can only be transferred through "experience" and not through verbalization. Michael Polanyi's magnum opus claims this kind of knowledge transcends what we can "tell."
+Peter Drucker and Ikujiro Nonaka are considered to be consultants in this practice, the process of controlling a business's workflow. A "scientific" form of this process was proposed by Frederick Taylor.
+knowledge [accept any answers that use the word knowledge in them]
+tacit knowledge
+management [accept scientific management]
+Increases in this factor are the only way to guarantee growth in the Solow model in the long run without population growth. For 10 points each:
+Identify this factor, which almost always increases the productivity of both labor and capital. The total factor productivity is a measure of a change in this factor of production.
+This two-word term describes “technological change” that has been linked by several economists to increases in wage inequality, such as in a 2002 paper by David Card.
+This MIT economist worked with Alan Krueger and Laurence Katz on the 1997 paper “Computing Inequality” analyzing the contribution of computers to skill-biased technological change. Several of his articles on trade with China are co-authored with David Dorn.
+technology
+skill-biased technical/technological change
+David H. Autor
+A social scientist born in this country combined future studies and economic history to write <em>The Great Depression of the 1990s</em> and also wrote <em>The Downfall of Capitalism and Communism</em>. For 10 points each:
+Identify this country whose native social scientists include Ravi Batra and M.N. Srinivas, as well as Amartya Sen.
+M.N. Strinivas’s The Remembered Village is a major example of this sort of anthropological practice, in which the anthropologist takes on an active role interacting with the group under study. Frank Hamilton Cushing’s work with the Zuni is considered the first modern example.
+This prominent Indian social scientist taught Ravi Batra and founded Ananda Marga, or “the Path of Bliss.” He used India’s caste system as a model for his Progressive Utilization Theory and Law of the Social Cycle, which was adapted by Johann Galtung.
+India [or Republic of India or Bhārat Gaṇarājya]
+participant observation
+Prabhat Ranjan Sarkar [or P.R. Sarkar]
+In monopolistic competition models where this quantity for the utility function is constant, firms’ markups will also be constant. For 10 points each:
+Name this quantity. It is the percent change in the ratio of a function’s inputs with respect to the percent change in the ratio of the marginal values. It is constant for production functions like the Cobb-Douglas or Leontief.
+The CES utility function was introduced in a paper by Avanash Dixit and this man. With Michael Rothschild, this man proved an equilibrium would not always exist in insurance markets with adverse selection, and in another work, he showed wages could be above the market clearing rate if they were designed to prevent shirking.
+Consumers with CES preferences can be easily aggregated because they possess this property, in which the expenditure ratios of goods does not depend on income. Demand functions with this property have linear Engel curves.
+elasticity of substitution
+Joseph Stiglitz
+homotheticity
+The contributions of single-parent households, "private transfers", and "public transfers" to this phenomenon were laid out a 1978 paper by Diane Pearce, who coined <em>this specific phrase</em>. For 10 points each:
+Identify this state of affairs often taught in intro sociology courses. This three-word hypothesis is the trend over time of the distribution of financially worse-off people to skew heavily by gender.
+Pearce also blamed the faulty design of these programs for trapping some American women in poverty. A "state" of this type uses tax revenue to fund guaranteed services such as universal healthcare.
+Some time after Pearce's paper, this city pushed welfare recipients into the workforce through its GAIN program. The namesake economic "miracle" that followed was largely illusory.
+feminization of poverty hypothesis/thesis
+welfare programs [or welfare state]
+Riverside, California
+Answer the following about the history of using computer models in economics, for 10 points each:
+This thinker’s Wharton forecasting model uses over a thousand simultaneously solved equations to model the U.S. economy. He led Project LINK, which integrated various countries’ macroeconomic models.
+At the RAND Corporation, Herb Karr and this economist developed SIMSCRIPT for writing discrete-event simulations. He also developed the critical line algorithm for mean-variance analysis.
+Markowitz also worked on optimizing these things, for which he introduced the idea of the efficient frontier, a set of these investment collections which have the highest return for their level of risk. Diversification of these things reduces risk.
+Lawrence Klein [or Lawrence Robert Klein]
+Harry Markowitz [or Harry Max Markowitz]
+portfolios [or stock portfolios or investment portfolios, prompt on stocks or bonds]
+Brian Nosek headed a “project” that found only a 36% success rate when this process was carried out for 100 psychological studies published in leading journals. For 10 points each:
+Name this process at the center of a “crisis” in the social sciences, which Glenn Begley and John Ioannidis wrote has been caused by generation of data at an unprecedented rate.
+This author of Thinking, Fast and Slow, who often collaborated with Amos Tversky, argues that the original study authors should, because of vagaries in published methods, be involved in efforts to replicate their studies.
+Robert Rosenthal coined this term for a bias in publication of significant results that is caused by researchers who fail to publish their negative or non-confirmatory results. This “problem” results when researchers metaphorically or literally put their nonsignificant findings in the namesake place.
+replication [or reproducibility; accept answers indicating attempting to replicate or reproduce the significant findings of a study; accept reproducibility crisis or replication crisis]
+Daniel Kahneman
+file drawer problem
+A list of ten “basic” examples of these things includes “life, bodily health, and control over one’s environment” and is found in the book <em>Frontiers of Justice</em>. For 10 points each:
+Name these concepts that a thinker argued are necessary so that a person’s life is “not so impoverished that it is not worthy of the dignity of a human being.”
+This University of Chicago philosopher developed the capabilities approach with Amartya Sen. Her books include The Fragility of Goodness and Sex and Social Justice.
+The capabilities approach centers on both capabilities and these concepts, which are, broadly speaking, the things that capabilities allow people to do. Sen defined them as “beings and doings.”
+capabilities [or basic human capabilities; accept capability]
+Martha Nussbaum [or Martha Craven Nussbaum]
+functionings [do not accept or prompt on “functions” or similar but incorrect answers]
+Roman Jakobson used the languages aphasics of these people to develop “structural laws” about “phonological universals.” For 10 points each:
+Name these people. In a 1971 paper, Peter Eimas et al. studied “Speech perception in [these people]” using a synthesizer programmed with different conditions of voice onset time.
+Children’s babble is often studied to better understand this general process, whose stages are denoted “L1,” “L2,” etc. This process has to have happened twice before code-switching is possible.
+This Harvard psychologist wrote a study of the “early steps” of language learning called A First Language. He co-wrote the paper that coined the term “flashbulb memory” with James Kulik, and published a study of color words with Eric Lenneberg.
+children [accept reasonable equivalents or subsets like kids, infants, toddlers, etc.; accept answers like child language]
+language acquisition [accept reasonable equivalents; accept “learning a second language”]
+Roger Brown [or Roger William Brown]
+The name for this term was coined by Bernard London, who actually believed it to be a useful mechanism to end the Great Depression. For 10 points each:
+Give this two-word concept often used in industrial-technological design, which refers to products that are crafted so that they fail after a specific period of time.
+Dave Lyon, the spokesman for this company, once claimed that all of its car divisions, such as Pontiac, Chevrolet, and Cadillac, will make completely new designs every three years as part of planned obsolescence.
+Amusingly, this writer calls Derrida and Foucault “manufactured content” and the academic equivalent of “planned obsolescence”. This author’s book Break, Blow, Burn includes essays next to what she considers to be “43 of the world’s best poems”.
+planned obsolescence [accept word forms]
+General Motors [or GM]
+Camille Paglia
+Erik O. Wright used his writings on this movement to propose the concept of “interstitial revolution,” the idea that societies can dramatically change by increasing the number of people in social spaces. For 10 points each:
+Name this movement that sought to use methods from the hard sciences to support theories of exploitation and alienation first identified by a 19th-century philosopher. It was introduced in a “defense” by Gerald Cohen.
+This analytic Marxist philosopher wrote Making Sense of Marx. This Norwegian’s other books include Sour Grapes, a book about the origins of irrational belief in people, which follows up on his Ulysses and the Sirens.
+Cohen’s interpretation of Marx makes use of the work of this economist’s theory of “technological determinism,” the idea that a society’s technology dictates its progress. This man also wrote The Theory of the Leisure Class.
+analytical Marxism [or analytic Marxism; accept word forms; accept the September Group]
+Jon Elster
+Thorstein Veblen
+Answer the following about dependency theory, for 10 points each.
+The theory is often traced to two papers by Hans Singer and this economist, who wrote The Economic Development of Latin America and its Principal Problems. His hypothesis with Singer states that the price of primary goods declines over the long run compared to manufactured goods.
+The basic model of dependency theory holds that resources flow from poor, underdeveloped states—known as this region—to countries in the “core” or center region.
+This thinker from Guyana, who documented some riots named for him in Kingston, Jamaica in his book The Groundlings with my Brothers, is best remembered for his 1972 book How Europe Underdeveloped Africa.
+Raúl Prebisch
+periphery [or peripheral]
+Walter Anthony Rodney
+This phrase titles a recent book by Antony Loewenstein that notes in the United Kingdom, it represents the "outsourcing of violence." For 10 points each:
+Give this term introduced as part of a cultural "complex" in Part 5 of a 2007 book, arguing that events such as Hurricane Katrina have led many companies to profit from them.
+Naomi Klein's The Shock Doctrine argues that "disaster capitalism" is an example of this process run amok. This process is explained with BS examples in the books The Lexus and the Olive Tree and The World is Flat.
+Klein, who argued capitalism will fail to solve climate change in her book This Changes Everything, serves on the board of directors of this international organization which seeks to reduce CO levels to the namesake number.
+disaster capitalism [accept disaster capitalist]
+globalization [accept word forms]
+350.org
+This group of thinkers included F. M. Cornford, who authored the satire <em>Microcosmographia Academica</em>. For 10 points each:
+Name this group of English social scientists who were the first to apply anthropology to the classics. They included Gilbert Murray, the author of Five Stages of Greek Religion.
+The Cambridge Ritualists included this scholar, whose Prolegomena to the Study of Greek Religion argues that societies progressed from a promiscuous mode called hetaerism to a matriarchal phase based on mystery cults.
+Harrison credits her ritual analysis as derived from the one presented in this "study of comparative religion" authored by James George Frazer.
+Cambridge Ritualists
+Jane Ellen Harrison
+The Golden Bough
+These stories are classified using the Aarne-Thompson system. For 10 points each:
+Identify this common form of mythology, a typical European genre featuring stock fantasy characters. A major collection of these stories was compiled by the Brothers Grimm.
+This Russian structuralist pioneered analysis of irreducible folktale narratives in The Morphology of Folktales.
+This structuralist pioneered a paradigmatic alternative to Propp’s syntagmatic analysis. He believed mythology expressed fundamental units called “mythemes” and used the term “bricolage” to describe mythological thought.
+fairy tales [or folktales]
+Vladimir Propp
+Claude Lévi-Strauss
+These words vary between languages, exemplified by very different ones for elephant calls. For 10 points each:
+Identify these words which imitate the sounds that they represent, like “woof” for a dog’s bark.
+This morphological process, in which part or all of a word is repeated in some manner, is an extremely common way of forming onomatopoeia.
+This language’s writing uses a special character to indicate the reduplication of a particular syllable or sound. This language’s writing system includes two syllabaries, one of which is mainly for writing foreign words.
+onomatopoeia
+reduplication
+Japanese [or Nihongo]
+Answer the following about the exciting intersection of cyborgs and feminism, for 10 points each.
+This feminist scholar used the idea of a cyborg to represent rejection of boundaries in A Cyborg Manifesto.
+Some feminists see cyborgs as a way for future societies to get past “roles” of this concept, which they contrast with biological sex as being socially constructed.
+The cyborg Major Kusanagi from this media franchise has provoked internet feminist debate since she’s sexualized but, as a cyborg, has agency over her appearance and sexuality. This franchise spawned a movie about the Puppet Master, as well the Stand Alone Complex anime series that ran on Adult Swim.
+Donna Haraway
+gender
+Ghost in the Shell [or Kōkaku Kidōtai]
+Give the following about Mihaly Csikszentmihalyi’s [CHEEK-sent-ME-high] theory of flow, for 10 points each.
+Csikszentmihalyi claimed that people were in a state of “flow” when both of these variables were high. According to his model, apathy arose when both of these variables were low.
+According to the “flow” model, this state arises from low skill and high challenge levels. Claustrophobia and PTSD are both on a spectrum of this type of disorder.
+Csikszentmihiyali believed that flow only arose when people carried out tasks due to the intrinsic, instead of extrinsic, form of this. This term describes what compels people to do things.
+skill level AND challenge level [both answers required; accept in either order]
+anxiety
+motivation
+This theorist believed that one’s presentation of social space communicated status to the world. For 10 points each:
+Identify this sociologist whose “Theory of Practice” extended the notion of capital to ideas such as social capital and his own concept of “cultural capital.”
+This urban theorist introduced the idea of social capital in The Death and Life of Great American Cities.
+The Life and Death of Great American Cities grew out of Jacobs’ opposition to Robert Moses’ planned renovation of Greenwich Village, a neighborhood in this city where Jacobs lived.
+Pierre Bourdieu
+Jane Jacobs
+New York City [or NYC; accept nicknames like The Big Apple]
+An early example of this phenomenon is the distinguishment of Vulgar and Classical Latin. For 10 points each:
+Identify this phenomenon in which a single community employs two different dialects or languages. Typically, a vernacular is used for most conversation and a codified language is used formally.
+An example of diglossia is the distinguishing of the colloquial Moroccan dialect of this language with its Modern Standard variety, which is standard in media use.
+Modern Standard Arabic is considered a dialect that possesses this characteristic, since it’s spoken primarily in formal situations. Similarly, rhotic speech - as opposed to local accents - has this characteristic in NYC.
+diglossia [do not accept “code switching” or “bilingualism”]
+Arabic
+prestige
+This idea was developed by Eugene Fama while at the Booth School at Chicago. For 10 points each:
+Identify this key idea in finance, which states that it is impossible to beat the market in the long run because over time, the market will incorporate all publicly available information into prices.
+Many argue that the fact that this cryptocurrency developed by Satoshi Nakamoto ever managed to get off the ground proves the efficient market hypothesis is bogus.
+This Iranian Jewish professor at NYU’s Stern School has accused Bitcoin of being a Ponzi scheme. He earned the nickname “Dr. Doom” for public predictions of the 2008 financial collapse.
+efficient market hypothesis [or EMH]
+Bitcoin
+Nouriel Roubini
+This psychologist posed the Heinz dilemma to divide subjects into pre-conventional, conventional, and postconventional levels of moral reasoning. For 10 points each:
+Name this American psychologist who developed a six-fold theory of moral development.
+This German-born developmental psychologist considered such conflicts as “autonomy vs. shame” and “industry vs. inferiority” in his eight-stage theory of psychosocial development.
+In 1966, this Canadian developmental psychologist expanded on Erikson’s work, arguing that both identity resolution and identity confusion influenced the developing individual to a degree.
+Lawrence Kohlberg
+Erik (Homburger) Erikson
+James Marcia
+Answer the following about William Easterly’s book The Elusive Quest for Growth, for 10 points each.
+Easterly’s book attacks forgiveness of these obligations as encouraging irresponsible behavior on the part of thirdworld countries and criticizes the IMF for helping those countries to take on too much of them.
+Easterly’s book repeatedly attacks this Columbia University economist, a prominent advocate of foreign aid. This author of The End of Poverty directed work for the UN Millennium Project from 2002 to 2006.
+Chapter 11 of Easterly’s book discusses black markets created by these policies. The Mundell-Fleming model says you can’t have this policy, free movement of capital, and an independent monetary policy all at once.
+(foreign) debts [or loans]
+Jeffrey Sachs
+fixed exchange rate [or exchange rate peg; or currency peg; or dollar peg; prompt on less specific answers involving money or currency controls]
+Alexander Wendt advocated this theory in Social Theory of International Politics. For 10 points each:
+Identify this theory of international relations, which argues that relations between nations are a result of historical and social processes instead of being inevitable outcomes of human nature.
+IR constructivism disagrees with this IR tradition advocated by Kenneth Waltz, which proposes that structural constraints determine the actions of states in foreign policy.
+Constructivism also disputes that this stateless political condition is the natural state of international relations.
+(social) constructivism
+neorealism
+anarchy
+Answer the following about the social science of famines, for 10 points each.
+This Indian welfare economist studied famines in his own country in Poverty and Famines.
+Shige Song found that this phenomenon became less pronounced in China during famines under Mao Zedong. This phenomenon, which is stronger in southern China, is generally thought to be worsened by the One Child Policy.
+Michael Watts, who argued famines in modern Nigeria resulted from colonial policy, works at this university. This school, home to the Phoebe Hearst Museum, has an anthropology department was founded by Alfred Kroeber.
+Amartya Sen
+sex ratio imbalance [accept anything indicating that there are more men than women in China, or that there is some imbalance in the sex ratio; accept female infanticide or sex-selective abortion or equivalents]
+University of California, Berkeley [or Cal Berkeley; prompt on University of California]
+Answer the following about critical race theory, for 10 points each.
+Most scholars of critical race theory maintain that Western societies have this sort of racist power structure and ideology advanced by the Ku Klux Klan and most Neo-Nazis.
+This first tenured African-American professor at Harvard Law School was a pioneer in critical race theory. Barack Obama praised this man during a protest in 1990.
+Like many, this Seventh Circuit judge has attacked critical race theory for its lack of rational inquiry and overreliance on narrative. Like Frank Easterbrook, he’s known for his role in the law-and-economics movement.
+white supremacy [or white supremacism; accept white nationalism to be generous]
+Derrick Albert Bell, Jr.
+Richard Allen Posner
+This book aims to integrate objective methods with micro-level analysis in the study of society. For 10 points each:
+Identify this 1937 book which lays out a theory centering on the connections between units defined by agents, their goals and means of achieving them, a situation, and social norms and values.
+The Structure of Social Action was written by this sociologist, who created the AGIL paradigm.
+The “I” in Parson’s “AGIL” paradigm refers to this social process, by which people are absorbed into the mainstream of society. It’s exemplified by the ending of racial segregation in schools.
+The Structure of Social Action
+Talcott Parsons
+integration
+This essay opens by noting 250 years of slavery, 96 of Jim Crow, and 60 of separate but equal. For 10 points each:
+Identify this 2014 essay published in the Atlantic which argues that the descendants of slaves should be compensated.
+“The Case for Reparations” was written by this African-American public intellectual and Atlantic essayist, whose book Between the World and Me is phrased as a letter to his son.
+This intellectual has criticised Coates and others for creating a “religion of antiracism.” A Columbia University linguist, he gave a talk on NPR in April 2015 about how “thug” has essentially become a substitute for the N-word.
+“The Case for Reparations”
+Ta-Nehisi Coates
+John McWhorter
+Not doing this action is illegal in Brazil and Australia. For 10 points each:
+Identify this action, which is generally an irrational decision according to Downs’ paradox, assuming you ignore the benefits of civic pride.
+Pride gained from voting is an example of this kind of economic benefit. Analysis of the “marginal” value of this concept from voting is limited since, unfortunately, you only get one vote per election.
+This public choice theorist at George Mason University argued that voters are not very self-interested and do not make decisions based on utility in his 2007 book The Myth of the Rational Voter.
+voting
+utility
+Bryan Caplan
+Some historians have used this term to refer to the setup of the Gupta Empire. For 10 points each:
+Identify this term, which refers to a government that justifies its existence through its role in perpetuation of culture through elaborate exercise of ritual, rather than any real exercise of power.
+This anthropologist coined the term “theater state” and wrote The Interpretation of Cultures.
+This method of ethnography pioneered by Geertz aims to explain not only the behavior of a society, but its context as well, in order to communicate the behavior’s meaning to outsiders.
+theater state
+Clifford Geertz
+thick description
+Elite universities have played a key social role in American social dynamics. For 10 points each:
+This economist, himself educated at Cornell, used elite universities as examples of conspicuous consumption in Theory of the Leisure Class.
+This book examines the importance of backgrounds in elite Ivy League schools and fraternities and classifies the people who come out of them into six general groups, including the men it calls “warlords.”
+Backgrounds in elite US universities often lead to assortative mating, which some scholars say has contributed to ongoing increases in this phenomenon like those described in Capital in the Twenty-First Century.
+Thorstein Veblen
+The Power Elite (by C. Wright Mills)
+income inequality [or economic inequality]
+This idea is the bedrock of the Lucas critique. For 10 points each:
+Identify this key assumption of economic models, which holds that agents take into account policy changes and other information when making decisions about the future.
+Rational expectations theory was used to argue that changing the supply of this quantity isn’t an effective mechanism for institutions like the Federal Reserve to manage recessions.
+In 1980, this economist and Sanford Grossman published an article arguing that rational expectations does not reflect reality, an idea he built on in his book Whither Socialism?
+rational expectations [prompt on rationality or rational choice]
+money [accept money supply]
+Joseph (Eugene) Stiglitz
+A business cycle model developed by Samuelson makes use of one of these effects as well as an accelerator effect. 
+Name these effects, in which a change in an exogenous variable results in a change in an endogenous variable, which can be quantified by a namesake factor. 
+Multiplier effects are a cornerstone of this man's namesake school of economic thought. He wrote The General Theory of Employment, Interest and Money. 
+Samuelson's multiplier-accelerator model was inspired by this teacher of his, who wrote the book Full Recovery or Stagnation? and was known as "the American Keynes." 
+multiplier effects
+ John Maynard Keynes
+Alvin (Harvey) Hansen
+This model essentially reverses the traditional lectureÂ–homework model and usually integrates instructional scaffolding. 
+ Name this model of primary and secondary teaching in which students first gain exposure to new material outside of class, then use class time to assimilate knowledge via exercises and discussion with the help of a teacher.
+This Russian psychologist's research into the zone of proximal development was the basis for the concepts of constructivism and scaffolding widely used in educational frameworks.
+Vygotsky's theory of cognitive development differs from that of this Swiss psychologist, who proposed that children progress through sensorimotor, preoperational, concrete operational, and formal operational stages.
+flipped classroom [or: backwards classroom, inverted classroom, Thayer method; prompt on: "reverse teaching"]
+Lev Vygotsky [or: Lev Semyonovich Vygotsky]
+Jean Piaget
+The creator of this concept divided it into four dimensions: efficiency, calculability, predictability, and control. 
+ Name this concept introduced in a 1993 book, which is based on Weber's concept of rationalization. Its creator argued that over-rationalization ironically leads to irrationality. 
+This New York Times columnist introduced a version of the democratic peace theory stating that no two countries which both have McDonald's have fought each other in his book The Lexus and the Olive Tree. 
+McDonaldization is similar to a concept named after this company and popularized by Antonio Gramsci. Gramsci discussed this company's emphasis on mass production through the development of the assembly line. 
+ McDonaldization
+Thomas (Loren) Friedman
+Ford Motor Company
+This type of synthesized speech was developed by Philip Rubin at Haskins Laboratories.
+Name this type of synthesized speech which can be recognized by some listeners despite not including any of the distinctive phonetic properties of speech except for the frequency and amplitude pattern of the resonance peaks.
+In this effect, playing a recording of one sound over a video of someone producing another sound tricks the listener into hearing the wrong sound.
+When presented with a continuum of productions of this type of consonant, listeners perceive a categorical distinction, not a continuum. As their name indicates, these consonants involve complete closure of the vocal tract.
+sine-wave speech
+McGurk effect
+oral stop consonants [or: plosives, oral occlusives; do not accept: "nasal stops"]
+Answer the following about psychological tests, 
+The Exner scoring system is used to interpret the results of this test, in which subjects interpret inkblots.
+This test for cognitive impairment consists of 30 questions, including ones about orientation to time and place. Some versions of this test include a question asking the subject to spell "WORLD" backwards.
+An alternative to the backwards spelling questions is to ask subjects to count backward from 100 in intervals of this number.
+Rorschach test
+mini-mental state examination [or: MMSE, Folstein test]
+seven
+The marketing principle, transportation principle, and administrative principle all yield different layouts in this theory.
+Name this theory propounded by Walter Christaller that attempts to explain how urban settlements are spaced and sized in relation to one another. It was later expanded in a "bottom-up" fashion by August Loesch.
+The area adjacent to a central place is known by this term, which, in von Thunen's model, is divided into concentric zones around a market center. Harold Innis's staple thesis characterizes Canada as this term, exporting staples to enrich the heartland.
+In von Thunen's model, the outermost concentric zone is used to raise this commodity. The invention of barbed wire revolutionized the production of this commodity in the American west.
+central place theory [or: CPT]
+hinterland [or: sphere of influence, tributary region, trade area, urban field, nodal region, area of influence, catchment area, service area]
+livestock [or: cattle, sheep, obvious equivalents]
+ In Das Kapital, Marx uses this figure as an exemplar of a pre-capitalist agent, producing goods for his own use instead of for profit. 
+Identify this figure, who names an economic model which assumes a single consumer and a single producer.
+Another island-based economic model was developed by Peter Diamond, which involves islanders harvesting and trading this commodity.
+The Diamond coconut model has been used to argue that there is not a unique natural rate of this, contra Milton Friedman. There are frictional and structural types of this phenomenon.
+Robinson Crusoe [accept either name]
+coconuts
+unemployment
+A bestselling book about this theory talks about interactions like "Why Don't You - Yes But" and "Now I've Got You, You Son of a Bitch." 
+Name this psychological theory, popularized by books like Games People Play and I'm OK, You're OK, which models behavior as the interaction of three ego-states: Parent, Adult, and Child. 
+Claude, a psychologist with this surname, is an expert on a form of TA called script analysis. Rudolf, another thinker with this surname, founded the philosophy of anthroposophy, which inspired the Waldorf education system. 
+Stephen Karpman created a transactional model of interaction represented by this shape. Other psychological theories represented by this shape include Sternberg's theory of love and Maslow's hierarchy of needs. 
+transactional analysis [or: TA] 
+Steiner
+ triangle [or: pyramid] 
+Ashley Montagu listed a number of traits of this racial group which he claimed showed that it was more neotenized than the Caucasoid group.
+Name this racial classification, whose name is now considered derogatory, in part because the presence of epicanthic folds in Down syndrome patients led to its association with Down syndrome.
+ Ironically, Ashley Montagu became known for his criticisms of the idea of race as a biological concept, such as in this book subtitled "The Fallacy of Race."
+Another critic of the idea of race as a biological concept is this author of The Mind of Primitive Man.
+Mongoloid
+Man's Most Dangerous Myth
+Franz (Uri) Boas
+This book argued against the use of torture and secret proceedings and claimed that the penal system should administer penalties just severe enough to ensure order. For 10 points each:
+Name this book by Cesare Beccaria that argues for the abolition of the death penalty.
+This Italian criminologist developed largely discredited theories in which he claimed that anomalies he called "stigmata" resulted in higher crime among an atavistic criminal class.
+Lombroso's fascination with human measurements was suspiciously similar to that of this German physician who worked with Johann Spurzheim to found the pseudoscience of phrenology.
+On Crimes and Punishments [or Dei Delitti e Delle Pene]
+Cesare Lombroso
+Franz Joseph Gall
+Internal Revenue Code Section 1256 requires this accounting treatment for most futures contracts, which requires treating them as sold for their fair market value on the last day of the year. For 10 points each:
+Name this accounting practice in which an asset or liability is recorded as having its fair market value instead of its book value.
+Mark-to-market accounting is frequently required by this set of accounting standards and guidelines. These standards, which are set by the FASB, sometimes vary from the international IFRS standards.
+Accountants can use the FIFO, LIFO, or weighted-average methods to account for the cost of this asset, the amount of goods and materials that a business is holding for sale.
+mark-to-market accounting [or MTM accounting]
+generally accepted accounting principles [or GAAP]
+inventory [or stock]
+The slope of these curves for U.S. government bonds has a negative correlation with future activity, making them a reliable predictor of economic activity over four to six quarters. For 10 points each:
+Name these curves that, in general, depict the interest rates of similar debt securities for varying maturities.
+Unlike liquidity preference and pure expectations, this theory suggests that bondholders don't evaluate the securities along one spectrum, and that supply/demand dynamics for different maturities drive the shapes of yield curves.
+Besides maturity and liquidity risks, bondholders must worry about this phenomenon, whose break- even rate reflects market expectations for it. It is typically measured in terms of annual percentage change in the consumer price index.
+yield curves
+market segmentation theory [or hypothesis]
+inflation [or deflation]
+Name these psychologists who fashioned theories about adolescence, for 10 points each.
+This man, the first president of Clark University, used the phrase "storm and stress" to characterize the intense emotional oscillation during adolescence in a theory that prompted Edward Thorndike's amazing criticism: "It was chock full of errors, masturbation, and Jesus. He is a mad man!"
+This pioneering thinker coined the idea of the "identity crisis" as arising from a failure of the adolescent to attain fidelity and falling prey to role diffusion in books like Childhood and Society.
+This Canadian developmental psychologist built on Erikson's work by outlining four categories of "identity statuses": diffusion, foreclosure, moratorium, and achievement. He theorized that adolescents attain a mature identity based on the two variables of "crisis" and "commitment."
+Granville Stanley Hall
+Erik [Homburger] Erikson
+James E. Marcia
+This creator of the Logo programming language introduced a computer-based learning environment called the Microworld in his book Mindstorms. For 10 points each:
+Name this cognitive scientist and educational theorist who co-wrote Perceptrons with Marvin Minsky.
+Papert was strongly influenced by this thinker's constructivist learning theory. He argued that infants learn by the manipulation of schemata, and created a four-stage theory of cognitive development.
+Constructivism influenced the Harkness education method, which was developed at this private prep school in New Hampshire, where students sit around oval tables and learn by discussion instead of lecturing.
+Seymour [Aubrey] Papert
+Jean Piaget
+Phillips Exeter Academy [accept PEA]
+The Old form of this language was the basis for the Jewish Ladino language. For 10 points each:
+Name this Romance language whose castellano variety is protected by a national Royal Academy.
+At some point after the Greek name Iakobos was Latinized, it diverged into "James" in English via French, and into these two names that are equivalent to "James" in Spanish. One of these two names, which is more prominent in Portuguese, incorporates the final "T" from "Sant," an example of a process called sandhi.
+The modern form of Spanish spoken in this country uses vulgar slang called "pachuquismos" and idioms called "tiquismos." Expressions in this country's Spanish include "isoquele" for "hurry up" and "pura vida" for a happy outburst.
+Spanish [or español; accept Old Spanish or Medieval Spanish or español medieval]
+Diego and Tiago [accept Diago or Diogo in place of "Diego"; accept Iago or Thiago in place of "Tiago"]
+[Republic of] Costa Rica [República de Costa Rica; accept Costa Rican Spanish]
+"Chipmunk" and "moose" are English loanwords from languages of this subfamily. For 10 points each:
+Name this subfamily of Algic that includes Cree and Potawatomi. Many languages in this family employ a person hierarchy that ranks second person highest and third person obviate last for pronominal affixes.
+Many Algonquian languages use the plural markers Â–a and Â–ak to mark this category. In an example of case syncretism, Russian marks this category with accusative forms that are identical to either genitive or nominative forms.
+The Algonquian language Ojibwe served as this type of common language for trade on the Great Lakes. This term refers to languages that unite many otherwise unlinked groups in a region, such as Greek in the Byzantine empire.
+Algonquian [or Algonkian]
+inanimacy [accept animacy or word forms of either; accept equivalents such as if it's alive]
+lingua franca [accept bridge language or vehicular language]
+Economics blogger Noah Smith described this equation as "the Flux Capacitor that powers all modern DSGE macro models," but it assumes that higher interest rates today imply lower consumption today, which is not quite borne out in the data. For 10 points each:
+Name this equation whose most general form relates the expected value of marginal utility of consumption in period t-plus-one to the marginal utility of consumption in period t and the interest rate.
+The Euler equation usually contains a term describing this behavior, in which agents value current consumption more than future consumption. If you are an accountant, you would use the rate of this name to calculate the present value of a future stream of cash flows.
+Experiments suggest that rather than discounting like an exponential function, humans discount the near-term more than they discount the long-term, which is known as this type of discounting. When represented graphically, it looks like the Cartesian curve for "y equals 1 over x."
+intertemporal Euler equation [accept Keynes-Ramsey condition]
+discount factor [accept word forms such as discounting]
+hyperbolic discounting [accept word forms]
+In compositional theory, Johndan Johnson-Eilola and Stuart Selber use this word to mean a text built from existing texts to solve a communication problem in a new context. For 10 points each:
+Name this term that, in art, refers to agglomerations of found objects; in archaeology, it refers to groups of artifacts found in association with one another.
+In philosophy and various types of "theory," assemblages derive from A Thousand Plateaus, the second volume of Capitalism and Schizophrenia, by Felix Guattari and this Frenchman.
+Jasbir Puar connects "homonationalism in queer times" to the "assemblages" of this practice in a 2007 book. The "definition problem" of this practice is partly resolved using "sectoral conventions."
+assemblages
+Gilles Deleuze
+terrorism [accept word forms; accept Terrorist Assemblages]
+In a review of this work, Clifford Geertz wrote that its author had destroyed the idol of "the fieldworker with extraordinary empathy for the natives," which this tract's author had worked hard to create. For 10 points each:
+Name this work, the subject of Geertz's "Under the Mosquito Net." It was first written in Polish when its author was working near the Dobu Islands, and ends with its author lamenting that "Truly I lack character."
+"A Diary in the Strictest Sense of the Term" was partially written when Malinowski was working on this 1922 book, which discusses the Kula Ring. It is the first book by Malinowski about the Trobriand Islanders.
+Malinowski trained this New Zealander, who wrote the introduction to "A Diary in the Strictest Sense of the Term." This man conducted ethnographic studies in Tikopia, and with his wife conducted lots of fieldwork in Malaya.
+"A Diary in the Strictest Sense of the Term" [by Bronislaw Malinowski]
+Argonauts of the Western Pacific
+[Sir] Raymond [William] Firth
+Kenneth Chay and Michael Greenstone analyzed this type of data to determine the value of clean air. For 10 points each:
+Name this type of data summarized by the Case-Shiller index. Fernando Ferreira, Joseph Gyourko, and Joseph Tracy used it to estimate that Proposition 13's tax limitations lowered the mobility of Californians by 10% to 16%.
+Chay and Greenstone used this type of modeling to estimate the value of clean air. It refers to the agent having a finite number of options and was pioneered by Daniel McFadden.
+McFadden's seminal paper accurately predicted usage patterns for this type of infrastructure, specifically the Bay Area's BART system, prior to its construction.
+house prices [accept any equivalent conveying home sale price; accept housing market or equivalents]
+discrete choice modeling [or multinomial choice modeling]
+public transportation [accept rapid transit systems or trains or subways; prompt on partial or more general answers]
+In 1966, this man joked in Newsweek that Wall Street indices "predicted nine of the last five recessions." For 10 points each:
+Name this first American to win the Nobel Prize in Economics. He authored the textbook Economics: An Introductory Analysis.
+In Samuelson's textbook, he made a notorious prediction about the growth of the economy of this country, whose GNP he predicted would achieve a major benchmark in 1984.
+This Harvard professor, known as the "American Keynes," was one of Samuelson's teachers. The IS- LM model is sometimes labeled the "synthesis" of this man and John Hicks.
+Paul [Anthony] Samuelson
+Soviet Union [or USSR; or Union of Soviet Socialist Republics] [he predicted the Soviets would overtake U.S.]
+Alvin [Harvey] Hansen
+The creator of this theory separated it from other theories of language with its emphasis on characterizing language first from the Saussurian paradigmatic axis, rather than the syntagmatic axis. For 10 points each:
+Name this theory of linguistics, which asserts that language is a multidimensional, social, semiotic network, and that user participation in a language operates on the basis of choice. It was developed by Michael Halliday.
+Halliday and his wife, Ruqaiya Hasan, wrote a book titled for cohesion in this language, whose "social stratification in New York" and dialects on Martha's Vineyard were the subjects of studies by William Labov.
+The Sound Pattern of English is a phonological study by Noam Chomsky and this now-90-year-old Latvian-American linguist, who also authored a paper "On Accent and Juncture in English" with Chomsky and Fred Lukoff.
+systemic functional linguistics [or systemic functional grammar; or systemic functionalism; prompt on "SFL" or "functional(ism)"; do not accept other, more specific types of functionalism]
+English
+Morris Halle [accept Morris Pinkowitz or Pinkovics]
+Marianne Boelen criticized the alleged ethical transgressions of this ethnographic work, which notes that the bowling scores of the men being studied closely track their social status. For 10 points each:
+Name this study of social organization in an Italian slum in Boston that distinguishes between "college boys" and another group led by Doc.
+In William F. Whyte's Street Corner Society, the Nortons were this type of group. Sudhir Venkatesh's studies on their hierarchies were reported in Freakonomics and a book titled for being the "leader" of one "for a day."
+William F. Whyte was a pioneer of this qualitative ethnographic method, in which the ethnographer examines and partakes in the activities of the group being studied to understand the significance of those practices.
+Street Corner Society
+gangs [accept Gang Leader for a Day]
+participant observation
+This book was written under the direction of Gunnar Myrdal and drew upon the author's previous research on the Dahomey. For 10 points each:
+Name this 1941 work of anthropology that attempted to debunk the idea that Africans brought to the Americas share no cultural history from the places where they originated.
+The Myth of the Negro Past was written by this student of Franz Boas and father of African-American studies who founded the first ever African Studies department at Northwestern.
+One of Herskovits' students was this linguist and developer of a system that classified African languages into four families. His essays on the topic were collected in 1963's The Languages of Africa.
+The Myth of the Negro Past
+Melville [Jean] Herskovits
+Joseph [Harold] Greenberg
+This economist posited that discrimination was lessened by competition because a non-discriminating competitor employing minorities would be able to make a cheaper product. For 10 points each:
+Name this Nobel Prize-winning economist who put forth a rational model of addiction with Kevin Murphy.
+In a namesake 1964 book, Becker proposed that more investments should be made in this type of capital, examples of which include education and employee training.
+Becker founded New Home Economics along with this Polish-born Columbia professor whose namesake equation is the human capital earnings function. He is considered the father of labor economics.
+Gary [Stanley] Becker
+human capital [accept Human Capital]
+Jacob Mincer
+This technique was introduced by Robert Solow in the 1950s and the residual from this process is usually interpreted as the total factor productivity. For 10 points each:
+Name this technique that seeks to attribute the increase in output over time to various factors of production.
+Knowing the stock of this quantity is often a problem with growth accounting. It is one of the three traditional factors of production along with land and labor.
+This man proposed that the initial capital stock can be approximated to be investment at the zeroth period divided by the sum of depreciation rate and output growth rate. A triangle named for him is used to estimate the excess burden of market-distorting policies.
+growth accounting [accept word forms]
+capital stock [accept capital goods or real capital]
+Arnold Harberger [accept Harberger triangle]
+This thinker expanded on an article with the 1999 book Social Theory of International Politics. For 10 points each:
+Name this influential German-born international relations professor at Ohio State who criticized neoliberals and the ideas of Kenneth Waltz in his 1992 article "Anarchy is What States Make of It."
+Wendt as a scholar of this school of IR that argues that a history of repeated nation-to-nation interactions creates the manner in which modern nations interact, not any inherent qualities of the international system itself.
+In the article, Wendt attacks this school of IR championed by Kenneth Waltz in his 1979 book Theory of International Politics. Unlike its classical predecessor, this school split into offensive and defensive subtypes and believes that international politics happen the way they do because of intrinsic factors.
+Alexander Wendt
+social constructivism [accept word forms such as constructivist]
+neorealism [or structural realism; accept word forms such as neorealist; prompt on "realism"; do not accept or prompt on "classical realism"]
+Edwin Lemert argued for this theory in distinguishing between primary and secondary deviance, the latter of which results from censure.
+Name this sociological theory according to which deviant behavior results in part from societal classification of certain acts and people as deviant. Howard Becker argues for this theory in Outsiders.
+Labeling theory was also supported in this book by the author of Asylums. It proposes a classification of people as either normals, wise, or those who bear the title phenomena, who may be ostracized or dehumanized.
+Stigma and Asylums were written by this sociologist, a proponent of symbolic interactionism who applied dramaturgical concepts to sociology in The Presentation of Self in Everyday Life.
+labeling theory [or social reaction theory]
+Stigma: Notes on the Management of Spoiled Identity
+Erving Goffman
+One experiment on this phenomenon showed that playing French music increased sales of French wines, and playing German music increased sales of German wines.
+Name this effect in which exposure to a stimulus unconsciously affects a person's response to another stimulus. Its semantic version was discovered by David Meyer and Roger Schvaneveldt.
+This Yale psychologist discovered that people primed with words associated with the elderly walked more slowly. With Tanya Chartrand, he also discovered the chameleon effect, in which people adopt the mannerisms of their interaction partners.
+Many priming tasks cause decreased activity in this outermost structure of the brain, which comprises the gray matter. It is divided into functional regions called Brodmann areas.
+priming [accept word forms]
+John Bargh
+cerebral cortex
+This book analyzes an episode in which the author saw a whitish scab in the mouth and on the shoulder of a woman named Irma, owing to an injection of trimethylamine from an unclean needle. 
+Name this book by Sigmund Freud which analyzes the title phenomena as a form of wish fulfillment.
+This husband of Susan Sontag criticized Freud and Carl Jung for replacing the religious man with the hedonistic psychological man in works like The Triumph of the Therapeutic and Freud: The Mind of the Moralist.
+Rieff also criticized this student of Freud, who argued that Nazism rose due to sexual repression in The Mass Psychology of Fascism. He also had wacky ideas about accumulating a cosmic life force called orgone.
+The Interpretation of Dreams [or Die Traumdeutung]
+Philip Rieff
+Wilhelm Reich
+One class of these wrongs is civil negligence, which involves a breach to the duty of care owed by one party to another. 
+Name these kinds of civil wrongs, usually not involving contracts, in which one party incurs a legal liability by causing harm to another party.
+In this tort case heard by the New York Court of Appeals, Benjamin Cardozo denied that the misconduct of railroad workers was proximate cause for a set of scales falling on top of the plaintiff because they could not have foreseen that she might be injured.
+This influential judge of the U.S. Court of Appeals, Second Circuit created a formula for determining duty of care in U.S. v. Carroll Towing Co. His essays were collected in The Spirit of Liberty.
+torts
+Palsgraf v. The Long Island Railroad Company
+Billings Learned Hand
+Roy Rappaport argued that the Tsembaga regulated their population through a ritual cycle involving the periodic slaughter of these animals.
+Name these animals which are also at the center of the moka exchange in New Guinea. Marvin Harris attributes taboos against their consumption to deforestation.
+ In The Rise of Anthropological Theory, Marvin Harris coined this term for his research orientation based on etic explanations of culture in terms of adaptations to practical problems, like ecological constraints.
+In Cows, Pigs, Wars, and Witches, Harris explains these Melanesian religious movements as a response to inequality resulting from colonialism. A noted one of these movements venerates a GI named John Frum.
+pigs [or hogs, swine, or various other synonyms; do not accept "boar"]
+cultural materialism
+cargo cults
+In the second title concept of this book, feelings of unity are based only on common traits and activities rather than subjective, shared feeling.
+Name this book concerning two kinds of social groupings: More traditional ones governed by the natural will, and modern institutional ones governed by the arbitrary will.
+This sociologist responded to Friedrich TÃ¶nnies's Gemeinschaft und Gesellschaft in Economy and Society, where he expanded on the notion of charisma developed in works like Sociology of Religion, which linked modernism to disenchantment.
+Friedrich TÃ¶nnies also wrote about rates of this behavior in Schleswig-Holstein. Another sociologist distinguished between its anomic, altruistic, egoistic, and fatalistic kinds, and found that it was more frequent among men and Protestants.
+Gemeinschaft und Gesellschaft [or Gemeinschaft and Gesellschaft; or Community and Society]
+Karl Emil Maximilian Weber
+suicide
+In one experiment, this psychologist saw improved results when he tasked children with imaging the central objects of the experiment were cotton balls rather than food. 
+Identify this author of Personality and Assessment who repeatedly studied the effects of delay gratification in children.
+Mischel studied self-control in children in an experiment where he challenged children to refrain from eating one of these objects now in order to get two later. The kids who waited for two of these items grew up with better test scores.
+In The Better Angels of Our Nature, this Harvard professor argued that increased societal self-control was one of the reasons why there was a 30-fold drop in the rates of homicide in Western Europe since the Middle Ages. He also wrote The Stuff of Thought and The Language Instinct.
+Walter Mischel
+marshmallows
+Steven (Arthur) Pinker
+Minimal pairs are words that differ in only one of these units, the smallest linguistic units which can distinguish one word from another.
+Name these basic units of speech which may be combined to form morphemes or larger units.
+This Prague School linguist proposed that phonemes could be described in terms of features they do or do not possess in his distinctive features theory. He also defined six functions of language.
+This prominent model in phonology, proposed by Alan Prince and John Smolensky, argues that observed language comes from the application of universal constraints to a candidate set of outputs.
+phonemes
+Roman Osipovich Jakobson
+Optimality Theory
+Robert Axelrod got hundreds of social scientists to submit computer programs to play an iterated version of this game in two tournaments. 
+Name this game in which two players can independently choose to either remain silent of turn the other in. Though cooperation among players is Pareto-optimal, the expected payoff for defection is higher.
+Introduced by Anatol Rapoport, this winning strategy in Axelrod's tournaments cooperates in the first move and then does what the other player did the previous move. Axelrod and W. D. Hamilton claim that this strategy is evolutionarily stable in The Evolution of Cooperation.
+Cooperation is a focus of this perspective in international relations theory, whose proponents, including Joseph Nye and Robert Keohane, emphasize the ways that states can minimize the anarchy of inter-state relations.
+prisoner's dilemma
+TIT FOR TAT
+neoliberalism
+In an essay on "Second Thoughts" on this thinker, George Orwell argued that Hilaire Belloc anticipated this man's main argument that capitalism is going away but socialism isn't taking its place. For 10 points each:
+Identify this author of "Lenin's Heir" and The Managerial Revolution.
+Burnham's follow-up to The Managerial Revolution focuses on contemporary Machiavellians like this Italian economist and his theory of the "circulation of the elites". This Italian's namesake 80/20 principle is often trotted out business books on Six Sigma.
+This Six Sigma fanatic was proclaimed "Manager of the Century" by Fortune in 1999. His book Straight from the Gut advocated the "rank and yank" system of promoting "A players" and firing "C players" he instituted at GE.
+James Burnham
+Vilfredo Pareto [or Vilfredo Federico Damaso Pareto]
+Jack Welch [or John Francis Welch, Jr.]
+This work was compiled in part using a 1,847 questionnaire that asked respondents, "If somebody always eats a considerable amount of food, you say he's a [blank]". 
+Identify this work, whose fifth volume covering Sl through Z was published in 2012. Frederic G. Cassidy edited its first volume, which was published in 1985.
+This other dictionary was once edited by James Murray of the Philological Society. William Chester Minor made large contributions to the first edition of this dictionary from within a lunatic asylum.
+After this publisher won a case allowing it to publish a dirty version of Lady Chatterley's Lover, it then published one of the first dictionaries in Great Britain to include obscenities.
+Dictionary of American Regional English [or DARE]
+Oxford English Dictionary
+Penguin Books
+This work argues that because a totem is a symbol of both the clan and its god, the god must be nothing but a personification of the clan's moral unity produced through collective effervescence. 
+Name this work which defines religion as those systems of "beliefs and practices relative to sacred things."
+Mary Douglas expanded upon Durkheim's concept of "sacred contagion" in this work, which noted that most animals proscribed by kashrut are those that cross symbolic boundaries.
+Purity and Danger extensively discussed the significance of this kind of ritually prohibited action. One nearly universal example is incest.
+The Elementary Forms of the Religious Life [or Les formes Ã©lÃ©mentaires de la vie religieuse]
+Purity and Danger: An Analysis of Concepts of Pollution and Taboo
+taboo
+This economist's book The Theory of Interest introduces his separation theorem, which suggests that regardless of its owners' preferences, a firm's objective is to maximize its present value.
+Name this American economist who gave the first algebraic formulation of the equation of exchange, and whose namesake hypothesis states that the real interest rate is stable and unaffected by monetary actions.
+Another important separation theorem in finance is this theorem, which states that the value of a firm is independent of how it is financed, given many assumptions including information symmetry and absence of taxes.
+The Fisher equation states that the nominal interest rate equals the real interest rate plus this quantity, whose negative relationship with unemployment is depicted in the Phillips curve.
+Irving Fisher
+Modigliani-Miller Theorem [accept either order; or capital structure irrelevance proposition]
+inflation rate
+Answer the following about Paul Lazarsfeld, for 10 points each.
+Lazarsfeld developed the idea of the "narcotizing dysfunction" of mass media with this sociologist, who coined the terms "self-fulfilling prophecy" and "role model."
+Lazarsfeld also created this model of communication, which says that people do not get their opinions directly from the mass media, but rather from opinion leaders.
+Lazarsfeld also created this model of communication, which says that people do not get their opinions directly from the mass media, but rather from opinion leaders.
+Robert King Merton
+two-step flow of communication [or multistep flow model]
+The Sociological Imagination
+8. This theory is based on a concept that its formulator termed “a multicultural territorial division of labor,” and was partly inspired by the Annales school of Fernand Braudel. For 10 points each:
+Identify this theory that adapts dependency theory's core-periphery framework to explain large scale social change.
+World systems theory is the brainchild of this erstwhile Columbia sociologist, who formulated it in the not-yet-finished-but-appropriately-titled work The Modern World-System.
+This work in world systems theory by Andre Gunder Frank argues that western control of the world is actually only ephemeral in a world that has been, and will again be, economically dominated by Asia.
+world systems theory
+Immanuel Wallerstein
+ReOrient
+Some of this man's early research was sponsored by the Wander Company, makers of Ovaltine.  For 10 points each
+Identify this man whose experiments included living underground for six weeks in Mammoth Cave to try to adhere to a 28-hour day.  He conducted a landmark 1953 sleep study with Eugene Aserinsky.
+Kleitman and Aserinsky discovered this phenomenon, which comes in tonic and phasic forms.  It is the lightest form of sleep.
+Disorders associated with this phenomenon have sometimes been linked to a lack of sleep.  Colin Cherry studied this phenomenon using a dichotic listening test, while Donald Broadbent posited a filtered model for this phenomenon.
+Nathaniel Kleitman
+REM Sleep [or Rapid Eye Motion Sleep]
+attention
+In the conclusion to this book, titled "The Conflicts of Modernity," its author suggests that beneath the general agreement on moral imperatives in modern culture is profound disagreement on their underlying moral sources. For 10 points each:
+Name this philosophical and historical study of the "making of the modern identity," which argues that modern philosophy has ignored the relationship between the title concept and ideas of human good.
+Sources of the Self was written by this living Canadian philosopher who has advanced a communitarian critique of liberalism in such works as Multiculturalism: Examining the Politics of Recognition.
+In his The Ethics of Authenticity, Taylor names the "three malaises" of modernity as the rise of individualism, the primacy of instrumental reason, and the danger of the "soft despotism" first coined and theorized in this book by Alexis de Tocqueville.
+Sources of the Self
+Charles Taylor 
+Democracy in America
+Answer these questions about Benedict Anderson's Imagined Communities, for 10 points each.
+Anderson argues that this device sped up the standardization of regional dialects into languages that could easily be read across wider areas. It aids a type of "capitalism" that precedes nationalism.
+ Anderson notes that print-languages might emerge from regional obscurity to unite a nation with the example of this country, where Anderson did his Ph. D thesis. Another social scientist in this nation recorded the cry of "Pulisi! Pulisi!" from a "superorganism."
+This Marxist historian put forward the "threshold principle" as a competing theory of nationalism's advent in Nations and Nationalism Since 1780. He also bookended his four-volume history of Europe from 1789 to 1991 with Age of Revolution and Age of Extremes.
+the printing press
+Indonesia 
+Eric John Ernest Hobsbawm
+Bandwagoning is a strategy that countries can adopt to stay safe according to this theory. For 10 points each: 
+Name this theory in international relations, partly developed by neorealist Kenneth Waltz, which suggests that in order for countries to survive in a fundamentally anarchic world-system they will attempt to achieve points of equilibria to minimize the possibility of a hegemon.
+John Mearsheimer in this 2001 work seeks to rectify the "status quo bias" in Waltz's defensive realist position and suggest alternatively that nations are inherently aggressive in an anarchic system
+This is another potential strategy for countries to adopt to maintain the balance of power - in this strategy, a powerful state will make itself allies by declaring an attack on a smaller country is an attack on itself. It can be dangerous if you don't know what that small country will do
+"balance of power" theory
+The Tragedy of Great Power Politics
+chain-ganging
+These linguistic entities are usually written out using square brackets with a plus or minus sign just inside the first bracket. For 10 points each:
+Name these subcomponents of segments or phonemes, such as [+strident], indicating the sibilant s sound, and [-back] indicating that a vowel is a front vowel. They name a theory of phonetics devised by Roman Jakobson.
+Differences in this feature allow English speakers to distinguish the /f/ phoneme from the /v/ phoneme. Phonemes with this feature can only be produced when folds in the larynx vibrate.
+This single-valued privative feature indicates a sound whose place of articulation involves raising the tip or blade of the tongue. Consonants with this feature include dentals, alveolars, and palatals.
+distinctive features
+voicedness [or [+voiced]; or [-voiced]]
++coronal [or [CORONAL]]
+This essay collection discusses the paradoxical strategy to sell John McCain as "not-for-sale" in "Up, Simba" and describes the annual Adult Video News awards in "Big Red Son." For 10 points each:
+Name this 2006 essay collection whose title piece discusses a trip to a food festival in Maine  and asks whether it is right to inflict pain on the title creature in order to eat it.
+This very, very long novel by the author of Consider the Lobster, David Foster Wallace, is titled for a video called "The Entertainment" whose viewers become so engrossed that they forget to do anything but watch it.
+The star of the title film in Infinite Jest is this girl, who runs a radio show called "60 min +/-" under the name Madame Psychosis and wears a veil to hide her face.
+Consider the Lobster
+Infinite Jest
+Joelle van Dyne [or Joelle van Dyne; or the Prettiest Girl of All Time]
+It is sometimes viewed as a detriment incurred by a person making a promise or a benefit received by the other person. For 10 points each:
+Name this inducement to enter into a contract that is adequate to ensure the promise is enforceable in court.
+According to Article 2 of this act, firm offers do not require consideration to be enforceable if they are signed by the offeror. This set of rules has been adopted at least in part in all fifty states and attempts to unify laws governing its namesake transactions.
+Article 9 of the UCC governs these transactions in which personal property is taken as collateral. These transactions become enforceable when they attach and can be perfected when a finance statement is filed.
+consideration
+Uniform Commercial Code [or UCC]
+Secured transactions 
+This politician first rose to fame as a campaign manager, when his organizational abilities enabled George McGovern to win the Democratic nomination. For 10 points each
+Name this politician who later dared the press to "follow [him] around," since he had nothing to hide.
+Those reporters, did, in fact, follow Gary Hart around. The Miami Herald published a damning photograph of Hart with model Donna Rice sitting on his lap, while Hart's T-shirt advertised this appropriately-named yacht.
+In the 1984 election, Gary Hart lost momentum after this former Minnesota Senator compared him to a hamburger with no beef. However, this man lost the general election to Ronald Reagan
+Gary Hart [or Gary Warren Hartpence]
+the Monkey Business
+Walter Frederick "Fritz" Mondale
+ Star-Apple Kingdom and Ti-Jean and His Brothers were written by this author who wrote an epic poem inspired by the Iliad in which the fishermen Achille and Hector are rivals for the love of the housemaid Helen.
+Hunter-gatherers are the title group in "The Original Affluent Society," the first essay in this 1972 collection.
+In Hunting with the Bow and Arrow, Saxton Pope described the bow-making and hunting methods of this Yana studied in depth by Alfred Kroeber.
+Marvin Harris' controversial claim that Aztec human sacrifice stemmed from a scarcity in protein exemplifies this anthropological perspective he pioneered in The Rise of Anthropological Theory. Theorists in this perspective look for environmental and physical explanations for social phenomena.
+Stone Age Economics 
+Ishi
+cultural materialism [prompt on partial answer]
+This Berkeley economist's research focuses on the micro-level foundations of the labor market, which he investigates using natural experiments such as the adoption of a minimum wage in one state while another's minimum wage is constant. For 10 points each:
+Name this economist, who worked with Alan Krueger on the aforementioned study that showed increasing or constant employment thanks to an increase in the minimum wage
+Alan Krueger worked on an "environmental" application of this curve in economics. According to this curve, which is named for a Ukrainian-American economist, income inequality temporarily increases with industrialization, but then decreases after a certain point.
+Card has argued that immigration has a neutral-to-positive long term impact on native workers' wages thanks in part to the responsiveness of this economic concept. The Solow model is based on the dynamics of this concept
+David Card 
+Kuznets curve 
+capital
+In phonology, this theoretical framework has largely supplanted rule-based models. For 10 points each:
+Name this linguistic theory developed by Prince and Smolensky, which uses systems of ranked "constraints" to determine how underlying representations become output words.  
+This connectionist formalism in syntax differs from optimality theory in that it weighs constraints rather than ranking them. Unlike OT, this model predicts gradations in acceptability judgments among speakers.
+ This language's unaccusative verbs were analyzed in the 1990 paper that introduced harmonic grammar. Recent innovations in this language include word-rearranging slang called verlan and the omission of the particle ne from negation sentences, though pas (PAH) still remains.
+optimality theory [or OT]
+Harmonic grammar [or HG]
+French [or franÃ§ais]
+His obituary was collected as an essay in the collection Implicit Meanings by Mary Douglas. For 10 points:
+Name this British anthropologist known for studying the Dinka people of southern Sudan in such works as Divinity and Experience: The Religion of the Dinka.
+Godfrey Lienhardt became interested in anthropology after a chance encounter with this author of Theories of Primitive Religion and Witchcraft, Oracles, and Magic Among the Azande.
+This East African ethnic group practices a coming-of-age ceremony in which a young man becomes a warrior by standing in silence as a tribal elder circumcises him without using anaesthetic.
+Godfrey Lienhardt
+Sir Edward Evan "E. E." Evans-Pritchard
+the Maasai people
+This man developed his most important theory in a paper that discussed how employees indicate an increased likelihood of qualification by acquiring a college degree. For 10 points each:
+Name this economist who pioneered job-market signaling theory in a 1973 paper.
+Signaling is one way to resolve this situation, in which one party knows more than the other party.
+Spence shared the 2001 Nobel with this economist, who wrote about using "screening" to combat information asymmetry. He wrote about income inequality in the US in his 2012 book The Price of Inequality.
+Michael Spence 
+information asymmetry
+Joseph Eugene Stiglitz 
+Pezdek and Hodges extended this study by making the confederate a family member, but found that it was less effective when the fiction involved an enema. For 10 points each:
+Name this study, which Jacqueline Pickrell and Katherine Ketcham assisted in performing, that convinced several people that they had undergone the title traumatic experience as a child in order to demonstrate the unreliability of "recovered memories."
+The lost in the mall experiment was designed by this coiner of the "misinformation effect" and frequent expert witness explaining the unreliability of eyewitness testimony.
+Along with John Palmer, Loftus showed the role of vocabulary in shaping memories by asking how fast a car in an accident was going. Participants gave higher speeds when asked how fast the car was travelling when it "collided" than when it "contacted," but gave the highest speed when this word was used to describe the accident.
+the lost in the mall experiment
+Elizabeth Loftus
+"smashed"
+ One book claims that these constructions were used to "justify the war in the Gulf" and that the entire conceptual system of political discourse is based on these things. For 10 points each:
+Name these linguistic constructions that "we live by" according to another book by George Lakoff.
+Lakoff claims that the central metaphor of these people is the "strict father model" and writes in Moral Politics about what these people know and their opponents do not. Lakoff created the Rockridge Institute in an attempt to use linguistics against these people.
+Lakoff's The Nature and Limits of Human Understanding discusses this theory, which states that many cognitive processes operate at a very low level and are inextricable from the basic biological pathways of sense-data
+metaphors
+conservatives [do not accept any other terms]
+the embodied mind
+This thinker advocated an "emic-etic distinction" for evaluating the reliability of firsthand accounts of a culture in his The Rise of Anthropological Theory. For 10 points each:
+Name this author of Cows, Pigs, Wars, and Witches who formulated the theory of "cultural materialism."
+ Harris's Cannibals and Kings suggests that Aztec ritual sacrifice, as well as Yanomamo warfare, can be explained as attempts to meet this need, which is difficult to fulfill in pre-industrial Latin America.
+Harris disputed with this man over whether the Yanomamo ate more protein daily than could be provided by a Big Mac. This author of The Fierce People was criticized by Patrick Tierney in Darkness at El Dorado.
+Marvin Harris
+consumption of protein
+Napoleon Chagnon
+This theory was developed after an experiment involving epinephrine injections that were disguised as a fictitious eyesight-enhancing drug called "Suproxin." For 10 points each:
+Name this theory of the role of cognition and physiology in giving rise to emotions, which was later the subject of Dutton and Aron's "misattribution of arousal" bridge study.
+With Jerome Singer, this psychologist formulated the two-factor theory. He worked with Donald Hood to show the role of emotion in the stock market, which he dubbed "bubba psychology."
+Schachter was a co-author with Leon Festinger on this study of cognitive dissonance, which fictionalized false UFO prophet Dorothy Martin as "Marian Keech."
+two-factor theory
+Stanley Schachter
+When Prophecy Fails
+James Duesenberry introduced a more realistic counterpart to this theory, which was revised under the "drift theory" of Arthur Smithies and James Tobin. For 10 points each:
+ Identify this hypothesis of Keynes, which states that, as disposable income rises, the savings rate will also rise.
+This economist said instead that people will choose to save at a rate based on their expected total lifetime income in the permanent income hypothesis, which he introduced in his A Theory of the Consumption Function.
+Many theories of consumption are designed to resolve this paradox, which notes that in the long run, the marginal propensity to save is constant across the economy, but individual households roughly obey the absolute income hypothesis.
+ the absolute income hypothesis
+Milton Friedman
+Kuznets paradox
+The Santa Fe Institute created an "artificial stock market" to model this theory in 1989. For 10 points each:
+Name this economic approach which uses an index designed by Ricardo Hausmann and Cesar Hidalgo to analyze phenomena such as "cross-cutting hierarchical organization" and "dispersed interaction."
+This frequent publisher of articles on complexity economics also wrote about the equally strange "econophysics." His namesake equation gives the ratio of future to current Social Security benefits, and his father was a same-named mathematician who proved a paradox in lambda calculus with Stephen Kleene.
+John Horgan labeled complexity economics one of the four failed fads with C-names in social science, alongside chaos theory, catastrophe, and this field, loosely defined as the study of control in systems and invented by Norbert Wiener.
+complexity economics
+John Barkley Rosser, Jr.
+cybernetics
+The chief opponent of this book's thesis was Franklin Frazier. For 10 points each:
+Name this 1941 book which uses examples such as hoe agriculture and patrilocality to conclude that continental African culture survived through the process of slavery.
+This anthropologist, who founded the first African-American studies program at Northwestern, wrote Life in a Haitian Valley and The Myth of the Negro Past.
+In Man and His Works, Herskovits advocates an extreme form of this concept in a chapter entitled "the problem of" it. This term was coined by Alain Locke to denounce Robert Lowie's Culture and Ethnology, and is used by idiots such as Germaine Greer to defend female genital mutilation.
+The Myth of the Negro Past
+Melville Herskovits
+cultural relativism
+This author described "offensive realism" in The Tragedy of Great Power Politics. For 10 points each:
+Name this international relations theorist who wrote Why Leaders Lie and collaborated with Stephen Walt on The Israel Lobby and U.S. Foreign Policy.
+Mearsheimer wrote a gushing blurb for this Holocaust denier's book The Wandering Who?, and denied that its passages affirming the truth of the blood libel were anti-Semitic.
+Mearsheimer helpfully categorized all the Jews in the world as either "righteous Jews" or these type of people in his lecture "The Future of Palestine." This term is specifically applied to such unrelated people as Abraham Foxman, Charles Krauthammer, and Sheldon Adelson.
+John Mearsheimer
+Gilad Atzmon
+"new Afrikaners"
+This phenomenon is the manifestation of search theory in the labor market. For 10 points each:
+Identify this type of unemployment which moves the Beveridge curve outwards and represents unemployment from workers moving between jobs.
+The idea of frictional unemployment as a problem of communicating data about job openings was introduced in this economist's "Information in the Labor Market." This coiner of the term "regulatory capture" developed an economically optimal diet that met all nutritional requirements for thirty-nine dollars a year.
+Stigler disputed with his student Gregg Jarrell over the role of regulation in the price of this thing. The "dark spread" and "clean spread" are types of producer margin in this market, whose producers are incentivized to positive externalities by a feed-in tariff.
+frictional unemployment
+George Stigler
+electricity [or electric power generation, etc.]
+This language family is found in the Texas-New Mexico area and the Pacific Northwest of the United States, and it completely dominates Western Canada. For 10 points each:
+Name this family of Native American languages, typified by the use of classifying prefixes before the verb root that mark degree of transitivity, which includes Athabaskan, Eyak, and Tlingit.
+This linguist erroneously included Haida in the Na-Dene family. This instructor of Hortense Powdermaker documented the Yahi language by working with Ishi, and lends his name to a principle of linguistic relativity.
+A 2008 paper by Edward Vajda demonstrates the link between the Na-Dene languages and languages such as Ket, Yuhh, and Pumpkol, which comprise this Siberian family named for the river valley where it was spoken; the proposed new family will incorporate its name with that of Na-Dene.
+Na-Dene family
+Edward Sapir
+Yeniseian languages [or word forms of Yenisei]
+This author collaborated with Robert Castel and Luc Bolkanski to write Photography: A Middlebrow Art. For 10 points each:
+Name this theorist who distinguished the different value-systems of "habitus" and "doxa" in The Field of Cultural Production.
+This major work of Bordieu advances the theory of "cultural hegemony" by claiming that "class fractions" are created by different conceptions of aesthetic taste.
+Bordieu's "habitus" is based on the "body technique" and "hexis" concepts of this author of Sociology and Anthropology and The Gift.
+Pierre Bordieu
+La Distinction
+Marcel Mauss
+Answer some economics questions written to please players who dislike economics, and frustrate players who are Marshall Steinbaum. FTPE:
+Economics is frequently described as this type of science, possibly referring to the depressing theories of Thomas Malthus. Thomas Carlyle first used this adjective to describe economics in the tract Occasional Discourse on the Negro Question.
+Marshall Sahlins argued that hunter-gatherer societies were "The Original Affluent Society" in this 1972 book, which identifies three types of reciprocity, and seems surprisingly interesting to the non-economist
+This literary-inspired thought experiment may get the attention of folks who dislike economics. This study assumes a one-person economy in which the title figure can initially only choose between earning income or passing his time in leisure
+"the dismal science"
+Stone Age Economics
+Robinson Crusoe economy
+Richard Brumberg co-formulated this hypothesis, which features a smooth curve of consumption. FTPE:
+Name this economic hypothesis postulated by Franco Modigliani, which posits that middle-aged people tend to save money for retirement while younger people tend to consume more.
+The life-cycle hypothesis was based on this Harvard economist's work with income inequality. This Russian-born student of Wesley Mitchell predicted namesake "swings" in his business cycles, which last 15 to 20 years. He also standardized the measure of GNP.  
+The life-cycle hypothesis was created by Franco Modigliani who also formulated the Miller-Modigliani Theorem, which is combined with the capital asset pricing model in this equation named for a Japanese-American economist. 
+life-cycle hypothesis 
+Simon Kuznets 
+Hamada Equation 
+Name these recent thinkers who have written about globalization, FTPE
+This woman collected her anti-globalization essays in Fences and Windows. She also wrote about "the rise of disaster capitalism" in The Shock Doctrine.
+This idiot first wrote about globalization in The Lexus and the Olive Tree, but he gained more popularity with The World Is Flat.
+This sociologist used the fast food industry to represent what he refers to as "rationalization" in his book The McDonaldization of Society.
+Naomi Klein
+Thomas Friendman
+George Ritzer 
+Answer some questions about economic models, FTPE:
+If a variable in a model correlates with the error term, then it is said to have this property. It can be caused by omitted variables and measurement errors, among other things.
+This doubly-eponymous model of international trade is a type of general equilibrium model. Its namesakes both worked at the Stockholm School of Economics.
+This model, co-named for a guy with an impossibility theorem, is extremely important in general equilibrium theory. One of its innovations was the generalization of the definition of commodities to include time and location of delivery
+endogeneity [accept word forms]
+Heckscher-Ohlin model
+Arrow-Debreu model
+This book proposes an "inverted Coase theorem" accounting for the three conditions of "property rights, perfect information, and zero transaction costs" that are not met in the real world. FTPE
+Name this work which argues that nations making rational choices can lead to international cooperation through tdevelopment of international institutions and regimes. It's subtitled "Cooperation and Discord in the World Political Economy."  
+This IR theorist wrote After Hegemony and co-authored Power and Interdependence with Joseph Nye.
+Keohane is a professor of political science at this university's Woodrow Wilson School of Public and International Affairs, whose other current faculty include Paul Krugman
+After Hegemony: Cooperation and Discord in the World Political Economy
+Robert Keohane
+Princeton University
+Ronnie Lee organized "The Bands of Mercy" to promote this movement, which was founded by the Oxford Group centered around Roslind and Stanley Godlovitch. FTPE
+Name this academic field whose prominent scholars include James Rachel and Tom Regan. Legal scholar Gary Francione founded its "abolitionist" school. 
+Psychologist Richard Ryder coined this term in a pamphlet promoting animal liberation, which refers to a type of discrimination where one gives different rights to sentient creatures based on genus.   
+This Australian philosopher revolutionized the movement in his book Animal Liberation. This scourge of speciesism is the leading proponent of the welfare approach
+animal liberation [do not animal rights] 
+speciesism
+This Australian philosopher revolutionized the movement in his book Animal Liberation. This scourge of speciesism is the leading proponent of the welfare approach
+In 2009, Wikipedia published the images used in this test online, causing a controversy. FTPE:
+Name this test created in 1921 by its namesake Swiss psychologist. The test involves people looking at inkblots and providing their interpretations of what they see.
+ One of the most familiar Rorschach images is the first one, which is designed to provide clues with how subjects will handle the test, although it provides a very easy, surface-level interpretation designed to put subjects at ease. Give either of the two most familiar interpretations for this image.
+a bat or a moth [accept either, accept butterfly]
+Rorschach test
+a bat or a moth [accept either, accept butterfly]
+Holtzman Inkblot Test [accept HIT]
+This man described the actions of his namesake UN Commission on north-south economic inequalities in the 1987 book, Arms and Hunger.  FTPE
+Identify this politician who appeared in Michael Frayn's play Democracy.  He was briefly succeeded by Walter Scheel.
+Brandt's government collapsed after it was revealed that this close confidant and "partisan for peace" was a spy.  He conveyed information to couriers codenamed NORA and ARNO.
+Guillaume worked for this agency, which operates a disloyal listening post in the 2006 film The Lives of Others.  Erich Mielke controlled this agency from 1957 until 1989.
+Willy Brandt [or Herbert Ernst Karl Frahm]
+GÃ¼nter Guillaume
+Stasi [or Ministerium fÃ¼r Staatssicherheit or Ministry for State Security]
+ In a simplistic scenario, this strategy has the same payoff as a naked put. FTPE
+Nme this strategy in which writing the namesake instrument is hedged with a simultaneous purchase of the underlying security
+Calls and puts are these types of instruments which allow their holder the right to exercise them and buy or sell the underlying security at the exercise price, unlike a futures contract. 
+Options of this type may be only exercised at their expiry dates unlike "American options." These types of puts and calls, for the same asset, same expiry date, and same strike price should have the same price according to the put-call parity theorem
+covered-call 
+options [accept: stock options]
+European options
+With cinematographer Jacques Van Vleck, this thinker created the film Microcultural Incidents in Ten Zoos, in which he compared body-motions of different families in different countries as they walked up to an elephant cage in a zoo. FTPE
+Name this anthropologist who founded the study of kinesics, defined as the study of human body movements as culturally patterned visual communication. 
+Birdwhistell dedicated his book Kinesics and Context to this colleague, a sociologist he met at Chicago who wrote the book The Presentation of Self in Everyday Life. 
+In turn, Goffman wrote a 1974 book about this type of analysis subtitled as an "Essay on the organization of experience." Goffman conceived this type of analysis as the way that we identify or label events, which allows us to construct meaning.  
+Ray Birdwhistell
+Erving Goffman 
+frame analysis
+Bruce Trigger summarized this concept as "the extent to which learned, but unconscious, forms of behavior limit the ability of individuals to act as free agents" and compared it to Foucault's use of the term epistemes. FTPE: 
+Name this concept coined by Pierre Bourdieu, which is closely related to hexis, and refers to the internalized systems people use to evaluate their world. 
+Bourdieu wrote a work on the "logic" of this sociological concept, which he defined as "concrete human activity." In his outline for a theory of this concept, Bourdieu argues that even its most basic forms always have a social context
+Bourdieu described the eldest son of Bearn peasants as victims of the "symbolic" form of this concept, which condemned him to celibacy. Both Hannah Arendt and Georges Sorel wrote some Reflections on this concept
+ Habitus 
+Social Practice [or sociological practice]
+Violence 
+.  He was given the name for 'man' in the Yana language after he refused to reveal his own name due to custom. FTPE:
+Name this Native American, dubbed the last living member of the Yahi tribe who emerged from the wild in Oroville, California in 1911
+This professor of anthropology at Duke wrote a book about the struggle to repatriate Ishi's brain from the Smithsonian back to California. His latest book is the dubiously titled The Passion of Tiger Woods: An Anthropologist Reports on Golf
+Ishi's story was popularized by the account Ishi in Two Worlds, written by this wife of Alfred Kroeber.
+Ishi
+Orin Starn
+Theodora Kroeber [prompt on Kroeber] 
+Answer the following about the exciting world of financial accounting, FTPE. 
+This system of bookkeeping is often said to have been invented by Luca Pacioli in the fifteenth century, when it was called the Venetian method. This system records each transaction as both a credit and a debit, so that financial statements show assets equal to liabilities. 
+These type of estimated liabilities should only be mentioned in footnotes and not directly on the balance sheet, since it's uncertain whether they'll occur or how much they'll cost
+This class of long-term tangible assets undergoes depreciation rather than amortization. They can be upgraded through capital expenditures or repaired through repair expenditures.
+double-entry bookkeeping
+contingent liabilities
+property, plant, and equipment [accept "fixed asset"; prompt on "non-current asset"]
+This economist's recent popular book Why Nations Fail examines game-theoretic causes of suboptimal economic outcomes, drawing on his earlier  publication Economic Origins of Dictatorship and Democracy. FTPE:
+Name this MIT game-theorist and economic historian, who has a recently-published paper on the aggregate impact of idiosyncratic shocks to a networked economy when the network is sufficiently centralized or "star-like."
+Acemoglu's work on idiosyncratic shocks owes much to Xavier Gabaix, who examined productivity shocks in RBC models that behaves according to the distribution named for this Italian. This author of Mind and Society is also the namesake of a type of optimality common in game theory.
+Gabaix examined the reasons why city size distribution follows this law in which size is proportional to rank, so the second-largest city is half the size of the largest and so on. Named after a Harvard linguist, this law was initially stated as: "the frequency of any word in the corpus of a natural language is inversely proportional to its rank."
+Daron Acemoglu
+Vilfredo Pareto
+Zipf's Law
+This scholar's most recent book, The Art of Not Being Governed, draws heavily on the ethnographic work of Edmund Leach. FTPE
+Name this political science professor at Yale, who may be better known for his ethnography Weapons of the Weak, which discusses day-to-day acts of resistance engaged in by poor villagers in Malaysia. 
+In Scott's book Seeing Like a State, he argues that the cadastral type of these are one of the crowning achievements of the modern state, and are used in create a simplified and legible system. His book draws on Thongchai Winichakul, who wrote a study about these things being created in Siam.                                                                
+This thinker made similar sweeping claims about "how societies choose to fail or succeed" in his 2005 book Collapse, and is also known for writing Guns, Germs, and Steel.                                                                        
+James C. Scott                                                                                                                                                 
+maps (also accept surveys)                                                                                                                            
+Jared Diamond
+As the title implies, this man's A Ford Crosses Soviet Russia details his time driving across the Soviet Union in a Model A Ford during the 1920s. For 10 points each:
+Name this educational theorist who put forth his ideas about how education imposes cultural values in his book Dare the School Build a New Social Order?.
+Counts was a friend and collaborator of this great historian, the author of An Economic Interpretation of the Constitution and The Rise of American Civilization
+George Counts studied for a time under this man, who organized the first sociology department in the U.S. which was at Chicago. He also started the American Journal of Sociology.
+George Sylvester Counts
+Charles Beard
+Albion Woodbury Small
+Their experiments attempted to identify a correlation between religious upbringing and the "honesty/altruism" axis in adolescents. FTPE
+Name these psychologists who conducted a 1928 study in which they put children in several scenarios where they might be dishonest, such as taking a test. Their conclusion was that honesty was not a "fundamental trait" that was consistent across different situations
+This psychologist criticized Hartshorne and May and established the notion of "trait theory" in his book Personality: A Psychological Interpretation. He had a brother Floyd who wrote the textbook Social Psychology in 1924
+Hartshorne and May tried to differentiate in a few studies between children in Piaget's concrete operational stage and children in this final stage of development, where abstract reasoning is developed
+Name these psychologists who conducted a 1928 study in which they put children in several scenarios where they might be dishonest, such as taking a test. Their conclusion was that honesty was not a "fundamental trait" that was consistent across different situations
+Gordon (Willard) Allport
+formal operational stage
+This thinker stated "I do not fear or regret the impending Viet Cong victory in Vietnam. I welcome it" prior to rejecting Marxist theory in his book The Southern Tradition. FTPE:
+Name this American historian, who's best known for slavery studies like The Political Economy of Slavery and Roll, Jordan, Roll: The World the Slaves Made.
+Genovese attempted to apply the theories of this Italian thinker regarding hegemony to slavery in the South. This Italian Marxist is known for his Prison Notebooks. 
+Before breaking with the Marxist framework, Genovese often applied the ideas of this anthropologist who wrote a lot about cannibalism in works like Cannibals and Kings, and Cows Pigs Wars and Witches.  
+Eugene D. Genovese 
+Antonio Gramsci
+Marvin Harris 
+This puzzle focuses on whether or not it is ethical to steal medicine for the namesake person's wife, given that the medicine is necessary to save her life and he cannot afford to buy it.  FTPE:
+Name this classic puzzle from moral psychology in which a German fellow must make the aforementioned decision. 
+Heinz's dilemma is used as an example in the six-stage theory of moral development put forward by this University of Chicago professor and frequent opponent of Carol Gilligan.
+When she wasn't busy railing against Kohlberg's male-centric developmental theory, Gilligan attacked Oedipus Tyrannis and the Book of Genesis in this work, which traces the developmental history and literary portrayal of the concept of love.
+Heinz's dilemma (accept anything involving "Heinz" stealing something, possibly in Europe)
+Lawrence Kohlberg
+The Birth of Pleasure
+This phenomenon was first identified after a study in which superior officers in the military were asked to rate the abilities of training officers in the areas of intelligence, leadership, character, and physical ability. FTPE:
+Name this phenomenon whose name was coined in the article "The Constant Error in Psychological Rating," which focused on how the above officers were unable to evaluate a trait like intelligence independently from another trait.  
+The Halo Effect was discovered by this psychologist, who also conducted a puzzle box experiment and wrote the study Animal Intelligence.
+Thorndike founded the journal Psychometrika along with JP Guilford and this psychologist. This guy created seven "primary mental abilities" to measure intelligence, which challenged the model of Charles Spearman, and developed the "law of comparative judgment" in a 1927 paper.  
+The Halo Effect
+Edward Lee Thorndike
+Louis Leon Thurstone
+.  In "The Eye of Power" Foucault discusses an "inspecting" form of this concept in relation to surveillance. FTPE:
+Give this psychoanalytical term popularized by Lacan in his discussion of the mirror stage, where the subject gains mastery of itself as an ideal ego through seeing, but is later undermined by the uncanny suspicion of being constantly observed
+In the 1973 essay "Visual Pleasure and Narrative Cinema," this thinker gave her take on the idea, by analyzing the voyeuristic and fetishistic forms of the male gaze in cinema.
+In a BBC miniseries later turned into a book, this author of Ways of Seeing expands the critique of the gaze into Western Renaissance art, suggesting famously that "men act and women appear."
+the gaze 
+Laura Mulvey 
+John Berger 
+This book advocates the abolition of share-cropping and the granting of small plots of land to the previously landless. FTPE
+Name this three-volume book by Gunnar Myrdal in which he predicted that the title region will suffer from perpetual poverty brought on by Western influences.
+Asian Drama: An Inquiry into the Poverty of Nations
+Myrdal made an exception for Japan, whose thriving economy was explored by this thesis put forth by Kaname Akamatsu in the 1960s. This model held that East Asian countries could follow Japan into prosperity by shifting from labor to capital intensive activities.
+Asian Drama: An Inquiry into the Poverty of Nations
+Friedrich August von Hayek
+flying geese model/paradigm
+He studied the effect of city life on identity in The Uses of Disorder, and co-wrote with Jonathan Cobb a study of the internal conflicts of blue-collar workers, The Hidden Injuries of Class. FTPE:
+Name this sociologist of the city, known for critiquing the rise of "intimate society" and its encouragement of narcissism in his historical study The Fall of Public Man.
+An earlier scholar of urban life was this author of The City in History, who critiqued urban sprawl and advocated for a vision of the "organic city."
+Sennett is married to sociologist Saskia Sassen, who's best known for coining this term to describe important nodes of the world economy like New York, London, and Tokyo
+Richard Sennett 
+Lewis Mumford
+global city [do not accept other things like "world city"]
+Answer some questions about economists who discussed foreign aid, FTPE. 
+In his 1978 article "A Proposal for International Monetary Reform," this economist suggested "throwing some sand" in the wheels of international money markets by imposing a tax on any conversions of foreign currency, which would discourage speculation and possibly allow for greater foreign aid.   
+This author of the recently-published book Winner Take All argues that foreign aid has locked Africa in a cycle of dysfunction in her 2009 book Dead Aid. She was born in Zambia.   
+Joseph Stiglitz argues that the success of foreign aid depends upon arranging a balance between local governments and the market in his 2006 book about making this process work. Stiglitz is better known for a 2002 book about this process and its discontents.  
+James Tobin
+Dambisa Moyo
+globalization
+12. This economist names a neoclassical growth model with Cass and Koopmans. For 10 points each: 
+[10] Name this British economist and mathematician who discovered that a monopoly should mark up its prices by the inverse of the price elasticity of demand. 
+[10] The aforementioned result can be applied with the government as the monopoly to determine the optimal rate of these measures for a commodity, a result known as "Ramsey's rule." 
+[10] Ramsey's "Truth and Probability" disagrees with this man's A Treatise on Probability, which proposed a "logical-relationist" theory. He also penned The General Theory of Employment, Interest, and Money. 
+ANSWER: Frank [Plumpton] Ramsey
+ANSWER: taxes 
+ANSWER: John Maynard Keynes
+This work continually uses the metaphor of people being directed by their inner gyroscope. For 10 points each:
+Name this sociological work which describes how Americans went from being "inner-directed" towards "other-directed," that is being overly responsive to peer groups and the media and having the desire to be loved.
+David Riesman's The Lonely Crowd is a considered a landmark study of the postwar American character, much like this man's work White Collar: The American Middle Classes. This man also wrote The Power Elite.
+While this man also discussed the postwar character in his work An End to Innocence, he is best known for his literary analysis, such as the controversial essay "Come Back to the Raft Ag'in, Huck Honey!" and the seminal text Love and Death in the American Novel.
+The Lonely Crowd: A Study of the Changing American Character
+Charles Wright Mills
+Leslie Fiedler
+This man claimed that all religions contained a contrast between the sacred and secular profanity of everyday life in his book Patterns of Comparative Religion. For 10 points each:
+Name this historian of religion who argued religious phenomena should be studied on their own terms, and that examining them only as an economic or cultural phenomenon was necessarily incomplete.
+Eliade used this phrase to describe rituals that not only commemorate sacred time, but are designed to bring participants into it. Eliade attributed the prevalence of cyclic models of time to belief in this idea, which shares its name with a similar but separate Nietzschean concept.
+This term names the Australian Aboriginal's sacred time. During this time, the world was created and traversed by spirits whose actions are recorded in the physical earth.
+Mircea Eliade
+eternal return
+Dreamtime [or the Dreaming]    
+In 2007, this author of Beyond Left and Right attended a discussion about his proposed "third way" with Benjamin Barber and Moamar Gaddafi. For 10 points each:
+Name this British sociologist who attempted to strike a balance between micro and macro sociology with his theory of structuration in works like The Constitution of Society.
+Giddens has drawn inspiration from this earlier sociologist who claimed that the state is that which has a monopoly on force and wrote the Protestant Ethic.
+Much of Giddens' earlier fame came from his exposition of the "double hermeneutic" between social science and cultural practices in a book titled after this Durkheim work. This work claims that sociology is the scientific study of objective "social facts".
+Anthony Giddens, Baron Giddens
+Max Weber [or Karl Emil Maximillian Weber]
+Rules of the Sociological Method [or Les Reles de la method sociologique]
+Identify the following things relating to educational theory, for 10 points each.
+This thinker contrasted the ritual of education with the real art of teaching in 1945's Teacher in America. You may also know him for his massive survey of the history of Western culture, From Dawn to Decadence, or for being 103 years old and counting.
+Allan Bloom advocated a return to the study of canonical classics in this 1987 book, which also laments the spread of relativity, claiming its "openness" has paradoxically led to the title condition.
+Discovery-based learning, mixed-age classrooms, and student activity choice are among the core tenets of the educational method developed by this Italian woman at her Casa dei Bambini.
+Jacques Barzun
+The Closing of the American Mind: How Higher Education has Failed Democracy and Impoverished the Souls of Today's Students
+Maria Montessori
+This man analyzed paintings produced by the insane arguing they can be modeled by thirteen aspects of inheritance. For 10 points each:
+Name this Italian prison doctor who coined the term "atavism" to describe archaic traits that were inherited by troublemakers.
+Cesare Lombroso outlined the biological or anthropological theory of this discipline, which studies illegal behavior. Its French School was founded by Alexandre Lacassagne.
+Criminology was largely founded by this Italian who distinguished between crimes and sins in his work On Crimes and Punishments. He also founded The Academy of Fists.
+Cesare Lombroso
+criminology
+Cesare Beccaria
+This work states that it is almost plausible to breed slaves and put them to work because the "ignorance, improvidence, and brutish drunkenness" of the lower class is just too much. For 10 points each:
+Name this 1865 work by William Stanley Jevons which posited a peak of the title fuel and that its economical usage will not lead to a diminished consumption, a statement now known as Jevons Paradox.
+The Coal Question propounded an exponential model of resource growth in contrast to this economist's linear one. He stated that population gets curbed by famines and diseases in An Essay on the Principle of Population.
+The Jevons Paradox is a greater than 100% value for this effect, the response to new technologies intended to reduce resource use, calculated as the efficiency increase minus beneficial change over efficiency increase.
+The Coal Question; An Inquiry Concerning the Progress of the Nation, and the Probable Exhaustion of Our Coal Mines
+Thomas Robert Malthus
+rebound effect
+This thinker used an experiment involving sheets of cardboard covered in white dots as the basis for his assertion that females were not capable of rational deliberation, which is found in his book On the Witness Stand. For 10 points each:
+Identify this dangerously German pioneer of "industrial psychology", who also made an early foray into film studies with his book The Photoplay: A Psychological Study.
+This "father of experimental psychology" had a long-running disagreement with Munsterberg over the practicality of psychology. This teacher of Tichener founded the first laboratory for psychological research in Leipzig and wrote Principles of Physiological Psychology.
+Munsterberg was invited to teach at Harvard by this author of The Will to Believe and The Principles of Psychology.
+Hugo Munsterberg
+Wilhelm Maximilian Wundt
+William James
+This economist postulated that new capital will be more productive than old, or vintage, capital. For 10 points each:
+This American economist won the Nobel prize in 1987 for his work on economic growth in an endogenous growth model sometimes co-named for Swan. His namesake residual is the growth of total factor productivity.
+That model explains growth in terms of increasing labor, capital, and this third quantity.
+Solow worked with this economist on many topics, including linear programming and von Neumann growth theory.  This economist is perhaps best known for a seminal textbook first published in 1948 titled Economics.
+Robert Solow
+technology [accept word forms]
+Paul Samuelson
+This essay asserts that those "who maintain that the people are the only legitimate source of power" cannot deny the existence of the title concept without "entangling themselves in absurdity". For 10 points each:
+Identify this 1851 essay, in which the author of System of Synthetic Philosophy argued that the law of equal freedom necessitated the freedom of an individual to "adopt a condition of voluntary outlawry."
+"The Right to Ignore the State" was first published as Chapter 19 of this book, which promulgated the idea of "fitness" as applied to society. In his dissent to Lochner v. New York, Oliver Wendell Holmes famously stated that "the Fourteenth Amendment does not enact" this work.
+Social Statics was written by this English polymath, who coined the term "survival of the fittest" in his 1864 Principles of Biology.
+"The Right to Ignore the State"
+Social Statics, or The Conditions essential to Happiness specified, and the First of them Developed
+Herbert Spencer
+Avoid being a sucker by identifying the following people who wrote about self-esteem, for 10 points each:
+Self-esteem is found in the fourth level of the pyramid designed by this psychologist to display his namesake "hierarchy of needs", which he wrote about in his book Motivation and Personality.
+This Frenchman asserted that self-regard and egoism are "the mainspring of all human activities". He's most famous for his Memoirs and his collection of 504 Maxims.
+The longshoreman-philosopher Eric Hoffer examined the role played by low self-esteem in members of mass movements in this 1951 work.
+Abraham Harold Maslow
+Francois de la Rochefoucauld [or FranÃ§ois VI, Duc de La Rochefoucauld, Prince de Marcillac]
+The True Believer: Thoughts on the Nature of Mass Movements
+This thought experiment was further developed in an article titled "What [its namesake figure] Didn't Know". For 10 points each:
+Identify this thought experiment proposed by Frank Jackson, which asks what would happen if a scientist who knows everything about color, but has only ever experienced black and white, actually sees color for the first time.
+The "Mary's room" thought experiment was initially developed in an article titled for the "Epiphenomenal" variety of these philosophical entities, which can be defined as simply "subjective conscious experiences" like pain or taste. David Chalmers is a major proponent of them.
+In The Conscious Mind, Chalmers proposed a world whose inhabitants all lack qualia or any sort of conscious experience, making them this type of being. Wade Davis's investigations in Haiti suggested that a less-philosophical type of these beings can be created by bokors using tetrodotoxin and datura.
+Mary's room thought experiment [or Mary the super-scientist]
+qualia
+p-zombies [or zombis]
+No less an authority than Wikipedia claims that this thinker, who collaborated with Eric Dunning on The Quest for Enlightenment, wrote the founding work of figurational sociology. For 10 points each:
+Identify this author who examined the history of Western European attitudes toward table manners, bodily functions, and other matters of etiquette in his two-volume magnum opus The Civilizing Process.
+In The Civilizing Process, Elias used this term to refer to the various behaviors and dispositions that societal structures condition into individuals. Pierre Bourdieu elaborated upon this concept in works like Distinction.
+Bourdieu was inspired by this French thinker, who defined habitus as the aspects of culture that are anchored in the body. He's more famous, however, for his anthropological essay The Gift.
+Norbert Elias
+habitus
+Marcel Mauss
+Identify some things about neorealist IR theory, for 10 points each:
+Neorealist IR states that this exercise of power is necessarily to stability. This is a form of dominance in which one nation indirectly exercises control over others using economic or implied military means.
+This neorealist wrote that the world is essentially one giant anarchy in which states act for their own security above all other concerns. He introduced the idea of "levels of analysis" in his Man, the State, and War.
+One of the responses to the neorealist school is the constructivist school, which was founded by this author of the article "Anarchy is What States Make of It". He also wrote Social Theory of International Politics.
+hegemony
+Kenneth Waltz
+Alexander Wendt

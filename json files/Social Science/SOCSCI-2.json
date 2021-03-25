@@ -1,0 +1,454 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 7,
+    "num_bonuses_shown": 7,
+    "bonuses": [
+      {
+        "id": 34552,
+        "number": 9,
+        "round": "01",
+        "category_id": 22,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "The Algonquian Ojibwe “bridge” type of this concept was used to connect trade along the Great Lakes. For 10 points each:",
+        "created_at": "2018-09-09T18:54:14.822Z",
+        "updated_at": "2018-09-09T18:54:14.822Z",
+        "formatted_leadin": "The Algonquian Ojibwe “bridge” type of this concept was used to connect trade along the Great Lakes. For 10 points each:",
+        "texts": [
+          "Name these complex systems of human communication, which include English.",
+          "The Martha’s Vineyard community used an exclusive one of these types of languages until the mid-20th century. Examples of these languages include ASL.",
+          "This principle states that the structure of a language has an effect on the speaker’s thoughts and perceptions of the world."
+        ],
+        "answers": [
+          "languages",
+          "sign language [or American Sign Language]",
+          "Sapir-Whorf hypothesis [or Whorfism; or linguistic relativity] &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name these complex systems of human communication, which include English.",
+          "The Martha’s Vineyard community used an exclusive one of these types of languages until the mid-20th century. Examples of these languages include ASL.",
+          "This principle states that the structure of a language has an effect on the speaker’s thoughts and perceptions of the world."
+        ],
+        "formatted_answers": [
+          "<strong>language</strong>s",
+          "<strong>sign</strong> language [or American <strong>Sign</strong> Language]",
+          "<strong>Sapir-Whorf hypothesis</strong> [or <strong>Whorf</strong>ism; or <strong>linguistic relativity</strong>] &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34552",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34601,
+        "number": 16,
+        "round": "03",
+        "category_id": 22,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "A work in this field was criticized as a “hoax” by Derek Freeman for having unknowingly included the lies of interviewed subjects. For 10 points each:",
+        "created_at": "2018-09-09T18:54:51.892Z",
+        "updated_at": "2018-09-09T18:54:51.892Z",
+        "formatted_leadin": "A work in this field was criticized as a “hoax” by Derek Freeman for having unknowingly included the lies of interviewed subjects. For 10 points each:",
+        "texts": [
+          "Name this field of social science, whose “structural” form was practiced by Claude Levi-Strauss. This social science studies other cultures to learn about humanity.",
+          "Freeman attacked Coming of Age in Samoa, which was written by this woman, as an “anthropological hoax.” She also wrote Sex and Temperament in Three Primitive Societies.",
+          "Mead was a student of this man, who taught anthropology at Columbia University. He claimed that race does not affect cultural development or intelligence in The Mind of Primitive Man."
+        ],
+        "answers": [
+          "Anthropology [or structural anthropology; prompt on ethnography]",
+          "ANSWER: Margaret Mead",
+          "Franz Boas &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this field of social science, whose “structural” form was practiced by Claude Levi-Strauss. This social science studies other cultures to learn about humanity.",
+          "Freeman attacked <em>Coming of Age in Samoa</em>, which was written by this woman, as an “anthropological hoax.” She also wrote <em>Sex and Temperament in Three Primitive Societies</em>.",
+          "Mead was a student of this man, who taught anthropology at Columbia University. He claimed that race does not affect cultural development or intelligence in <em>The Mind of Primitive Man</em>."
+        ],
+        "formatted_answers": [
+          "<strong>Anthropology</strong> [or structural <strong>anthropology</strong>; prompt on ethnography]",
+          "ANSWER: Margaret <strong>Mead</strong>",
+          "Franz <strong>Boas</strong> &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34601",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34647,
+        "number": 20,
+        "round": "05",
+        "category_id": 22,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "With Marcel-Paul Schutzenberger, this man names a hierarchy that consists of four grammar levels that range from unrestricted to regular. For 10 points each:",
+        "created_at": "2018-09-09T18:55:39.712Z",
+        "updated_at": "2018-09-09T18:55:39.712Z",
+        "formatted_leadin": "With Marcel-Paul Schutzenberger, this man names a hierarchy that consists of four grammar levels that range from unrestricted to regular. For 10 points each:",
+        "texts": [
+          "Name this MIT linguist, who created the grammatically correct but nonsensical sentence “colorless green ideas sleep furiously.”",
+          "The sentence “colorless green ideas sleep furiously” first appeared in this book by Chomsky, in which he emphasized clear and precise models of linguistic structure.",
+          "Chomsky was also known for reviewing and criticizing this psychologist’s work Verbal Behavior. This man invented both his namesake “Box,” as well as an air crib for his child."
+        ],
+        "answers": [
+          "Noam Chomsky [Avram Noam Chomsky]",
+          "Syntactic Structures",
+          "ANSWER: B.F. Skinner [Burrhus Frederic Skinner] &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this MIT linguist, who created the grammatically correct but nonsensical sentence “colorless green ideas sleep furiously.”",
+          "The sentence “colorless green ideas sleep furiously” first appeared in this book by Chomsky, in which he emphasized clear and precise models of linguistic structure.",
+          "Chomsky was also known for reviewing and criticizing this psychologist’s work <em>Verbal Behavior</em>. This man invented both his namesake “Box,” as well as an air crib for his child."
+        ],
+        "formatted_answers": [
+          "Noam <strong>Chomsky</strong> [Avram Noam <strong>Chomsky</strong>]",
+          "<em><strong>Syntactic Structures</strong></em>",
+          "ANSWER: B.F. <strong>Skinner</strong> [Burrhus Frederic <strong>Skinner</strong>] &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34647",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34687,
+        "number": 18,
+        "round": "07",
+        "category_id": 22,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This school was where Albert Bandura’s Bobo doll experiment was conducted, and objections made by Christina Maslach ended a different experiment here after six days. For 10 points each:",
+        "created_at": "2018-09-09T18:55:40.910Z",
+        "updated_at": "2018-09-09T18:55:40.910Z",
+        "formatted_leadin": "This school was where Albert Bandura’s Bobo doll experiment was conducted, and objections made by Christina Maslach ended a different experiment here after six days. For 10 points each:",
+        "texts": [
+          "Name this university in Palo Alto, California, which was the home of a namesake “prison” experiment where undergraduates were separated into “guards” and “prisoners.”",
+          "This psychology professor led the Stanford Prison Experiment, and later reflected on its results in his book The Lucifer Effect.",
+          "Dave Eshelman, a participant in the experiment, adopted the persona of a cruel prison guard. Eshelman was nicknamed after this American actor for speaking in a southern accent."
+        ],
+        "answers": [
+          "Stanford University [or Leland Stanford Junior University]",
+          "Philip Zimbardo [Philip George Zimbardo]",
+          "ANSWER: John Wayne [Duke Wayne; or Duke Morrison; or Marion Michael Morrison] &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this university in Palo Alto, California, which was the home of a namesake “prison” experiment where undergraduates were separated into “guards” and “prisoners.”",
+          "This psychology professor led the Stanford Prison Experiment, and later reflected on its results in his book <em>The Lucifer Effect</em>.",
+          "Dave Eshelman, a participant in the experiment, adopted the persona of a cruel prison guard. Eshelman was nicknamed after this American actor for speaking in a southern accent."
+        ],
+        "formatted_answers": [
+          "<strong>Stanford</strong> University [or Leland <strong>Stanford</strong> Junior University]",
+          "Philip <strong>Zimbardo</strong> [Philip George <strong>Zimbardo</strong>]",
+          "ANSWER: John <strong>Wayne</strong> [Duke <strong>Wayne</strong>; or Duke <strong>Morrison</strong>; or Marion Michael <strong>Morrison</strong>] &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34687",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34723,
+        "number": 12,
+        "round": "09",
+        "category_id": 22,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Giffen goods are exceptions to the law of this quantity, which states that, all else being equal, this quantity decreases as price increases. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.405Z",
+        "updated_at": "2018-09-09T18:56:18.405Z",
+        "formatted_leadin": "Giffen goods are exceptions to the law of this quantity, which states that, all else being equal, this quantity decreases as price increases. For 10 points each:",
+        "texts": [
+          "Name this quantity from economics, which determines prices along with supply.",
+          "The intersection of the demand curve and the supply curve produces a price named for this quantity. In the state named for this quantity, supply and demand are balanced.",
+          "This equation relates the changes in Marshallian, or uncompensated, demand to changes in Hicksian, or compensated, demand."
+        ],
+        "answers": [
+          "Demand [or law of demand]",
+          "Equilibrium [or Equilibrium price; or Economic equilibrium]",
+          "Slutsky equation &lt;Jacob O’Rourke&gt;"
+        ],
+        "formatted_texts": [
+          "Name this quantity from economics, which determines prices along with supply.",
+          "The intersection of the demand curve and the supply curve produces a price named for this quantity. In the state named for this quantity, supply and demand are balanced.",
+          "This equation relates the changes in Marshallian, or uncompensated, demand to changes in Hicksian, or compensated, demand."
+        ],
+        "formatted_answers": [
+          "<strong>Demand</strong> [or law of <strong>demand</strong>]",
+          "<strong>Equilibrium</strong> [or <strong>Equilibrium</strong> price; or Economic <strong>equilibrium</strong>]",
+          "<strong>Slutsky</strong> equation &lt;Jacob O’Rourke&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34723",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34764,
+        "number": 11,
+        "round": "11",
+        "category_id": 22,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Some psychologists were very interested in the cognitive development of human beings. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.459Z",
+        "updated_at": "2018-09-09T18:56:19.459Z",
+        "formatted_leadin": "Some psychologists were very interested in the cognitive development of human beings. For 10 points each:",
+        "texts": [
+          "This psychologist developed eight stages of psychosocial development, which a healthy developing individual should go through from infancy to adulthood.",
+          "This psychologist stated that cognitive development in children happens in four stages: sensorimotor, preoperational, concrete operational, and formal operational.",
+          "Lawrence Kohlberg adapted Piaget’s theory to form his own six-stage model of how people develop these standards of right and wrong behavior."
+        ],
+        "answers": [
+          "Erik Erikson [Erik Homburger Erikson]",
+          "Jean Piaget",
+          "morals &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "This psychologist developed eight stages of psychosocial development, which a healthy developing individual should go through from infancy to adulthood.",
+          "This psychologist stated that cognitive development in children happens in four stages: sensorimotor, preoperational, concrete operational, and formal operational.",
+          "Lawrence Kohlberg adapted Piaget’s theory to form his own six-stage model of how people develop these standards of right and wrong behavior."
+        ],
+        "formatted_answers": [
+          "Erik <strong>Erikson</strong> [Erik Homburger <strong>Erikson</strong>]",
+          "Jean <strong>Piaget</strong>",
+          "<strong>moral</strong>s &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34764",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34811,
+        "number": 16,
+        "round": "13",
+        "category_id": 22,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "These objects include necklaces and armbands, which were described as “worthless trinkets” in <em>Argonauts of the Western Pacific</em>. For 10 points each:",
+        "created_at": "2018-09-09T18:57:59.221Z",
+        "updated_at": "2018-09-09T18:57:59.221Z",
+        "formatted_leadin": "These objects include necklaces and armbands, which were described as “worthless trinkets” in <em>Argonauts of the Western Pacific</em>. For 10 points each:",
+        "texts": [
+          "Name these items, which are exchanged in the Kula ring by Trobriand Islanders. Marcel Mauss (“Mouse”) analyzed the kula ring exchange in a book titled for these items.",
+          "This Polish anthropologist extensively studied the kula ring of the Trobriand Islanders in Argonauts of the Western Pacific and Coral Gardens and Their Magic.",
+          "In the more hierarchical parts of the Trobriand Islands, only people who hold this title can really participate in the Kula ring. Holders of this title often led local bands of native tribes."
+        ],
+        "answers": [
+          "gifts [or presents]",
+          "Bronislaw Malinowski",
+          "ANSWER: chiefs [or hereditary chiefs; or Indian chiefs] &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name these items, which are exchanged in the Kula ring by Trobriand Islanders. Marcel Mauss (<strong>“Mouse”</strong>) analyzed the kula ring exchange in a book titled for these items.",
+          "This Polish anthropologist extensively studied the kula ring of the Trobriand Islanders in <em>Argonauts of the Western Pacific</em> and <em>Coral Gardens and Their Magic</em>.",
+          "In the more hierarchical parts of the Trobriand Islands, only people who hold this title can really participate in the Kula ring. Holders of this title often led local bands of native tribes."
+        ],
+        "formatted_answers": [
+          "<strong>gift</strong>s [or <strong>present</strong>s]",
+          "Bronislaw <strong>Malinowski</strong>",
+          "ANSWER: <strong>chief</strong>s [or hereditary <strong>chief</strong>s; or Indian <strong>chiefs</strong>] &lt;Sherry Xie&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34811",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

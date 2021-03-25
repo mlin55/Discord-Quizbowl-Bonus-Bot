@@ -1,0 +1,2393 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 35,
+    "num_bonuses_shown": 35,
+    "bonuses": [
+      {
+        "id": 34546,
+        "number": 1,
+        "round": "01",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "The rocks in the background of this painting represent the Cap de Creus in Catalonia. For 10 points each:",
+        "created_at": "2018-09-09T18:54:14.634Z",
+        "updated_at": "2018-10-30T23:59:56.386Z",
+        "formatted_leadin": "The rocks in the background of this painting represent the Cap de Creus in Catalonia. For 10 points each:",
+        "texts": [
+          "Name this painting that has a timepiece hung over a tree and one with ants crawling over it.",
+          "This mustachioed Spanish surrealist painted The Persistence of Memory. This artist also painted Soft Construction With Boiled Beans and Swans Reflecting Elephants.",
+          "This artwork appears 28 times in Dalí's painting The Hallucinogenic Toreador. Dalí also created a version of this sculpture \"with drawers.”"
+        ],
+        "answers": [
+          "The Persistence of Memory [or La persistencia de la memoria]",
+          "Salvador Dalí [Salvador Felipe Jacinto Dali y Domenech]",
+          "Venus de Milo"
+        ],
+        "formatted_texts": [
+          "Name this painting that has a timepiece hung over a tree and one with ants crawling over it.",
+          "This mustachioed Spanish surrealist painted <em>The Persistence of Memory</em>. This artist also painted <em>Soft Construction With Boiled Beans</em> and <em>Swans Reflecting Elephants</em>.",
+          "This artwork appears 28 times in Dalí's painting <em>The Hallucinogenic Toreador</em>. Dalí also created a version of this sculpture \"with drawers.”"
+        ],
+        "formatted_answers": [
+          "<em>The <strong>Persistence of Memory</strong></em> [or <em>La <strong>persistencia de la memoria</strong></em>]",
+          "Salvador <strong>Dalí</strong> [Salvador Felipe Jacinto <strong>Dali</strong> y Domenech]",
+          "<strong>Venus de Milo</strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34546",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34561,
+        "number": 18,
+        "round": "01",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "In this work, the title character escapes from trolls and watches “Anitra’s Dance.” For 10 points each:",
+        "created_at": "2018-09-09T18:54:15.202Z",
+        "updated_at": "2018-09-09T18:54:15.202Z",
+        "formatted_leadin": "In this work, the title character escapes from trolls and watches “Anitra’s Dance.” For 10 points each:",
+        "texts": [
+          "Name this piece, which contains songs such as “Morning Mood” and “In the Hall of the Mountain King.”",
+          "This Norwegian composer wrote the incidental music for Henrik Ibsen’s play Peer Gynt.",
+          "This character is Peer Gynt’s mother, who dies in Act III of the play. Grieg composed a namesake song about her “Death.”"
+        ],
+        "answers": [
+          "Peer Gynt [or Peer Gynt suite]",
+          "Edvard Grieg",
+          "Ase &lt;Carrie Derner/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this piece, which contains songs such as “Morning Mood” and “In the Hall of the Mountain King.”",
+          "This Norwegian composer wrote the incidental music for Henrik Ibsen’s play <em>Peer Gynt</em>.",
+          "This character is Peer Gynt’s mother, who dies in Act III of the play. Grieg composed a namesake song about her “Death.”"
+        ],
+        "formatted_answers": [
+          "<em><strong>Peer Gynt</strong></em> [or <em><strong>Peer Gynt</strong></em> suite]",
+          "Edvard <strong>Grieg</strong>",
+          "<strong>Ase</strong> &lt;Carrie Derner/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34561",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34567,
+        "number": 3,
+        "round": "02",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "In 2016, The Attaca Quartet finished a six-year long project, performing all 68 of this man’s String Quartets. For 10 points each:",
+        "created_at": "2018-09-09T18:54:50.769Z",
+        "updated_at": "2018-09-09T18:54:50.769Z",
+        "formatted_leadin": "In 2016, The Attaca Quartet finished a six-year long project, performing all 68 of this man’s String Quartets. For 10 points each:",
+        "texts": [
+          "Name this “Father of the String Quartet” who also wrote at least 104 symphonies, some of which may be missing.",
+          "This is the nickname given to symphony number 94. The nickname comes from a very sudden, loud chord that follows a quiet melody in the second movement.",
+          "This oratorio by Haydn opens with a loud unison C and the “Representation of Chaos” just before the title event."
+        ],
+        "answers": [
+          "Franz Joseph Haydn",
+          "Surprise Symphony",
+          "The Creation [or Die Schopfung] &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this “Father of the String Quartet” who also wrote at least 104 symphonies, some of which may be missing.",
+          "This is the nickname given to symphony number 94. The nickname comes from a very sudden, loud chord that follows a quiet melody in the second movement.",
+          "This oratorio by Haydn opens with a loud unison C and the “Representation of Chaos” just before the title event."
+        ],
+        "formatted_answers": [
+          "Franz Joseph <strong>Haydn</strong>",
+          "<strong>Surprise</strong> Symphony",
+          "<em>The <strong>Creation</strong></em> [or <em>Die <strong>Schopfung</strong></em>] &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34567",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34574,
+        "number": 10,
+        "round": "02",
+        "category_id": 21,
+        "subcategory_id": 27,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Cesare Negri invented the “five positions” of this art form, where the feet are arranged in different angles. For 10 points each:",
+        "created_at": "2018-09-09T18:54:50.948Z",
+        "updated_at": "2018-09-09T18:54:50.948Z",
+        "formatted_leadin": "Cesare Negri invented the “five positions” of this art form, where the feet are arranged in different angles. For 10 points each:",
+        "texts": [
+          "Name this art form, whose “en pointe” technique was perfected by Marie Taglioni. Practitioners of this art form often appear in productions such as Swan Lake.",
+          "This Tchaikovsky ballet features the “Dance of the Sugar Plum Fairy.” In this ballet, Clara is saved from the Mouse King by the title toy, which is a Christmas present.",
+          "Marius Petipa choreographed a “Black Swan” version of this dance for Swan Lake. This type of dance sees two dancers perform an entree, an adagio, a variation for each dancer, and a coda."
+        ],
+        "answers": [
+          "Ballets [prompt on dance]",
+          "The Nutcracker [or Shchelkunchik]",
+          "Pas de deux [prompt on duet] &lt;Jacob O’Rourke&gt;"
+        ],
+        "formatted_texts": [
+          "Name this art form, whose “en pointe” technique was perfected by Marie Taglioni. Practitioners of this art form often appear in productions such as <em>Swan Lake</em>.",
+          "This Tchaikovsky ballet features the “Dance of the Sugar Plum Fairy.” In this ballet, Clara is saved from the Mouse King by the title toy, which is a Christmas present.",
+          "Marius Petipa choreographed a “Black Swan” version of this dance for <em>Swan Lake</em>. This type of dance sees two dancers perform an entree, an adagio, a variation for each dancer, and a coda."
+        ],
+        "formatted_answers": [
+          "<strong>Ballet</strong>s [prompt on dance]",
+          "<em>The <strong>Nutcracker</strong></em> [or <em><strong>Shchelkunchik</strong></em>]",
+          "<strong>Pas de deux</strong> [prompt on duet] &lt;Jacob O’Rourke&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34574",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 27,
+          "name": "Fine Arts Audiovisual",
+          "created_at": "2017-08-27T19:36:35.159Z",
+          "updated_at": "2017-08-27T19:36:35.159Z",
+          "url": "https://www.quizdb.org/api/subcategories/27"
+        }
+      },
+      {
+        "id": 34583,
+        "number": 19,
+        "round": "02",
+        "category_id": 21,
+        "subcategory_id": 25,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "In 1401, the Arte di Calimala sponsored a competition to design the northern entrance of a building, which was won by a young Lorenzo Ghiberti. For 10 points each:",
+        "created_at": "2018-09-09T18:54:51.236Z",
+        "updated_at": "2018-09-09T18:54:51.236Z",
+        "formatted_leadin": "In 1401, the Arte di Calimala sponsored a competition to design the northern entrance of a building, which was won by a young Lorenzo Ghiberti. For 10 points each:",
+        "texts": [
+          "After that contest, Ghiberti was granted the commission for these ten gilded bronze panels on the eastern entrance. These panels depict scenes from the Old Testament.",
+          "When this Italian artist first saw the doors, he found them so beautiful that he coined the name \"Gates of Paradise.\" He is known for his marble sculptures like Pieta and David.",
+          "Ghiberti beat out this other famous Florentine artist, who is best known as the designer of the massive double-shelled dome of the Florence Cathedral."
+        ],
+        "answers": [
+          "The Gates of Paradise [or the doors of the Florence Baptistery]",
+          "Michelangelo di Lodovico Buonarroti Simoni",
+          "Filippo Brunelleschi &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "After that contest, Ghiberti was granted the commission for these ten gilded bronze panels on the eastern entrance. These panels depict scenes from the Old Testament.",
+          "When this Italian artist first saw the doors, he found them so beautiful that he coined the name \"Gates of Paradise.\" He is known for his marble sculptures like <em>Pieta</em> and <em>David</em>.",
+          "Ghiberti beat out this other famous Florentine artist, who is best known as the designer of the massive double-shelled dome of the Florence Cathedral."
+        ],
+        "formatted_answers": [
+          "The <strong>Gates of Paradise</strong> [or the <strong>door</strong>s of the <strong>Florence Baptistery</strong>]",
+          "<strong>Michelangelo</strong> di Lodovico Buonarroti Simoni",
+          "Filippo <strong>Brunelleschi</strong> &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34583",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 25,
+          "name": "Fine Arts Other",
+          "created_at": "2017-08-27T19:36:35.119Z",
+          "updated_at": "2017-08-27T19:36:35.119Z",
+          "url": "https://www.quizdb.org/api/subcategories/25"
+        }
+      },
+      {
+        "id": 34587,
+        "number": 2,
+        "round": "03",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "<em>The Snail</em> is one of this man’s “cut-outs,” a scissor and paper based medium he turned to after being diagnosed with cancer. For 10 points each:",
+        "created_at": "2018-09-09T18:54:51.464Z",
+        "updated_at": "2018-09-09T18:54:51.464Z",
+        "formatted_leadin": "<em>The Snail</em> is one of this man’s “cut-outs,” a scissor and paper based medium he turned to after being diagnosed with cancer. For 10 points each:",
+        "texts": [
+          "Name this French artist of Woman with a Hat and Blue Nude.",
+          "With André Derain, Matisse founded this art movement whose members emphasized the use of color. Its name means “wild beasts.”",
+          "A foreshadowing of Matisse’s later painting The Dance appears in the background of this work that shows numerous figures lying around a vividly colored forest."
+        ],
+        "answers": [
+          "Henri Matisse",
+          "Fauvism [or les Fauves]",
+          "The Joy of Life [or Le bonheur de vivre] &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this French artist of <em>Woman with a Hat</em> and <em>Blue Nude</em>.",
+          "With André Derain, Matisse founded this art movement whose members emphasized the use of color. Its name means “wild beasts.”",
+          "A foreshadowing of Matisse’s later painting <em>The Dance</em> appears in the background of this work that shows numerous figures lying around a vividly colored forest."
+        ],
+        "formatted_answers": [
+          "Henri <strong>Matisse</strong>",
+          "<strong>Fauvism</strong> [or les <strong>Fauves</strong>]",
+          "<em>The <strong>Joy of Life</strong></em> [or Le <em><strong>bonheur de vivre</strong></em>] &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34587",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34604,
+        "number": 19,
+        "round": "03",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "It’s good practice to play these when you practice. For 10 points each:",
+        "created_at": "2018-09-09T18:54:51.971Z",
+        "updated_at": "2018-09-09T18:54:51.971Z",
+        "formatted_leadin": "It’s good practice to play these when you practice. For 10 points each:",
+        "texts": [
+          "Name these musical sequences which can be ascending or descending, common types of which are major and minor ones.",
+          "In this type of scale, named for the Greek word for “color,” each of its twelve notes is always a half-step higher or lower than the previous pitch.",
+          "These ancient Greek scales have seven pitches, separated by different combinations of half steps and whole steps. Examples of these include Dorian and Lydian."
+        ],
+        "answers": [
+          "scales",
+          "chromatic scale",
+          "modes &lt;Sherry Xie/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name these musical sequences which can be ascending or descending, common types of which are major and minor ones.",
+          "In this type of scale, named for the Greek word for “color,” each of its twelve notes is always a half-step higher or lower than the previous pitch.",
+          "These ancient Greek scales have seven pitches, separated by different combinations of half steps and whole steps. Examples of these include Dorian and Lydian."
+        ],
+        "formatted_answers": [
+          "<strong>scale</strong>s",
+          "<strong>chromatic</strong> scale",
+          "<strong>mode</strong>s &lt;Sherry Xie/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34604",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34607,
+        "number": 1,
+        "round": "04",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Famous craftsmen of this instrument include Guarneri, Amati, and Stradivari. For 10 points each:",
+        "created_at": "2018-09-09T18:54:52.192Z",
+        "updated_at": "2018-09-09T18:54:52.192Z",
+        "formatted_leadin": "Famous craftsmen of this instrument include Guarneri, Amati, and Stradivari. For 10 points each:",
+        "texts": [
+          "Name this instrument with strings tuned to G, D, A, and E. Famous virtuosos of this instrument include Hilary Hahn and Joshua Bell.",
+          "This Israeli-American violinist contracted polio at age four, and now plays seated as a result. He is known for his work on film scores such as Memoirs of a Geisha.",
+          "Perlman is also known for performing the main musical theme for this Steven Spielberg film, in which a German businessman rescues Polish-Jewish refugees by employing them in his factories."
+        ],
+        "answers": [
+          "Violin",
+          "Itzhak Perlman",
+          "Schindler’s List &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this instrument with strings tuned to G, D, A, and E. Famous virtuosos of this instrument include Hilary Hahn and Joshua Bell.",
+          "This Israeli-American violinist contracted polio at age four, and now plays seated as a result. He is known for his work on film scores such as <em>Memoirs of a Geisha</em>.",
+          "Perlman is also known for performing the main musical theme for this Steven Spielberg film, in which a German businessman rescues Polish-Jewish refugees by employing them in his factories."
+        ],
+        "formatted_answers": [
+          "<strong>Violin</strong>",
+          "Itzhak <strong>Perlman</strong>",
+          "<em><strong>Schindler’s List</strong></em> &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34607",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34616,
+        "number": 10,
+        "round": "04",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Some works by this artist include a series of replica <em>Brillo Boxes</em> and a room full of floating metallic pillows called <em>Silver Clouds</em>. For 10 points each:",
+        "created_at": "2018-09-09T18:54:52.497Z",
+        "updated_at": "2018-09-09T18:54:52.497Z",
+        "formatted_leadin": "Some works by this artist include a series of replica <em>Brillo Boxes</em> and a room full of floating metallic pillows called <em>Silver Clouds</em>. For 10 points each:",
+        "texts": [
+          "Name this American pop artist known for his Campbell’s soup cans.",
+          "Warhol commonly employed this technique to make series of almost identical paintings, including portraits of Mao Zedong and the previously mentioned soup cans.",
+          "Warhol also made a silkscreen series of this actress in a namesake Diptych and used the same image in a Gold painting. Her birth name was Norma Jeane Mortenson."
+        ],
+        "answers": [
+          "Andy Warhol [or Andrew Warhola]",
+          "silk screening [or screen printing]",
+          "Marilyn Monroe &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this American pop artist known for his Campbell’s soup cans.",
+          "Warhol commonly employed this technique to make series of almost identical paintings, including portraits of Mao Zedong and the previously mentioned soup cans.",
+          "Warhol also made a silkscreen series of this actress in a namesake <em>Diptych</em> and used the same image in a <em>Gold</em> painting. Her birth name was Norma Jeane Mortenson."
+        ],
+        "formatted_answers": [
+          "Andy <strong>Warhol</strong> [or Andrew <strong>Warhola</strong>]",
+          "<strong>silk screen</strong>ing [or <strong>screen print</strong>ing]",
+          "Marilyn <strong>Monroe</strong> &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34616",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34630,
+        "number": 3,
+        "round": "05",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Eugene Boudin persuaded this artist to leave drawing for painting outdoor scenes <em>en plein-air</em>. For 10 points each:",
+        "created_at": "2018-09-09T18:55:39.352Z",
+        "updated_at": "2018-09-09T18:55:39.352Z",
+        "formatted_leadin": "Eugene Boudin persuaded this artist to leave drawing for painting outdoor scenes <em>en plein-air</em>. For 10 points each:",
+        "texts": [
+          "First, name this artist famous for his paintings of haystacks and waterlilies. His work Impression, Sunrise gave its name to the Impressionist movement.",
+          "Monet’s paintings of waterlilies were done in his garden in this French village.",
+          "Another of Monet’s series depicts this type of building in Rouen. Like the one in Reims, it was built in the Gothic style."
+        ],
+        "answers": [
+          "Claude Monet [Oscar-Claude Monet]",
+          "Giverny",
+          "Cathedrals [or Rouen Cathedral] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "First, name this artist famous for his paintings of haystacks and waterlilies. His work <em>Impression, Sunrise</em> gave its name to the Impressionist movement.",
+          "Monet’s paintings of waterlilies were done in his garden in this French village.",
+          "Another of Monet’s series depicts this type of building in Rouen. Like the one in Reims, it was built in the Gothic style."
+        ],
+        "formatted_answers": [
+          "Claude <strong>Monet</strong> [Oscar-Claude <strong>Monet</strong>]",
+          "<strong>Giverny</strong>",
+          "<strong>Cathedral</strong>s [or Rouen <strong>Cathedral</strong>] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34630",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34645,
+        "number": 18,
+        "round": "05",
+        "category_id": 21,
+        "subcategory_id": 27,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This man has been called “the greatest composer of Italian opera after Verdi.” For 10 points each:",
+        "created_at": "2018-09-09T18:55:39.659Z",
+        "updated_at": "2018-09-09T18:55:39.659Z",
+        "formatted_leadin": "This man has been called “the greatest composer of Italian opera after Verdi.” For 10 points each:",
+        "texts": [
+          "Name this Italian composer of operas such as Gianni Schicchi, La Boheme, and Turandot.",
+          "One of the most memorable pieces from Turandot is this tenor aria that translates to “None shall sleep.” Placido Domingo and Luciano Pavarotti have both released popular singles of this aria.",
+          "After an illness caused Pavarotti to back out of performing at the 1998 Grammy Awards, this “Queen of Soul” and singer of “Respect” won praise for her performance of “Nessun Dorma.”"
+        ],
+        "answers": [
+          "Giacomo Puccini",
+          "“Nessun Dorma”",
+          "Aretha Franklin [Aretha Louise Franklin] &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Italian composer of operas such as <em>Gianni Schicchi</em>, <em>La Boheme</em>, and <em>Turandot</em>.",
+          "One of the most memorable pieces from <em>Turandot</em> is this tenor aria that translates to “None shall sleep.” Placido Domingo and Luciano Pavarotti have both released popular singles of this aria.",
+          "After an illness caused Pavarotti to back out of performing at the 1998 Grammy Awards, this “Queen of Soul” and singer of “Respect” won praise for her performance of “Nessun Dorma.”"
+        ],
+        "formatted_answers": [
+          "Giacomo <strong>Puccini</strong>",
+          "“<strong>Nessun Dorma</strong>”",
+          "Aretha <strong>Franklin</strong> [Aretha Louise <strong>Franklin</strong>] &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34645",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 27,
+          "name": "Fine Arts Audiovisual",
+          "created_at": "2017-08-27T19:36:35.159Z",
+          "updated_at": "2017-08-27T19:36:35.159Z",
+          "url": "https://www.quizdb.org/api/subcategories/27"
+        }
+      },
+      {
+        "id": 34652,
+        "number": 4,
+        "round": "06",
+        "category_id": 21,
+        "subcategory_id": 27,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "His <em>On the Transmigration of Souls</em>, which commemorated the September 11 attacks, won a Pulitzer in 2003. For 10 points each:",
+        "created_at": "2018-09-09T18:55:39.925Z",
+        "updated_at": "2018-09-09T18:55:39.925Z",
+        "formatted_leadin": "His <em>On the Transmigration of Souls</em>, which commemorated the September 11 attacks, won a Pulitzer in 2003. For 10 points each:",
+        "texts": [
+          "Name this American minimalist composer of operas like Nixon in China. An opera by this man was alleged to be anti-semitic when it was performed at the Met in 2014.",
+          "That John Adams opera told the story of the Palestine Liberation Front’s 1985 hijacking of the Achille Lauro, resulting in the death of the wheelchair-bound title Jewish-American.",
+          "Adams’ Doctor Atomic centers on the people in this project, led by Robert Oppenheimer. It includes texts from Donne’s Holy Sonnets and traditional Pueblo Indian songs."
+        ],
+        "answers": [
+          "John Coolidge Adams",
+          "Death of Klinghoffer",
+          "Manhattan Project &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this American minimalist composer of operas like <em>Nixon in China</em>. An opera by this man was alleged to be anti-semitic when it was performed at the Met in 2014.",
+          "That John Adams opera told the story of the Palestine Liberation Front’s 1985 hijacking of the <em>Achille Lauro</em>, resulting in the death of the wheelchair-bound title Jewish-American.",
+          "Adams’ <em>Doctor Atomic</em> centers on the people in this project, led by Robert Oppenheimer. It includes texts from Donne’s Holy Sonnets and traditional Pueblo Indian songs."
+        ],
+        "formatted_answers": [
+          "John Coolidge <strong>Adams</strong>",
+          "<em><strong>Death of Klinghoffer</strong></em>",
+          "<strong>Manhattan</strong> Project &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34652",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 27,
+          "name": "Fine Arts Audiovisual",
+          "created_at": "2017-08-27T19:36:35.159Z",
+          "updated_at": "2017-08-27T19:36:35.159Z",
+          "url": "https://www.quizdb.org/api/subcategories/27"
+        }
+      },
+      {
+        "id": 34665,
+        "number": 17,
+        "round": "06",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Cynthia von Buhler’s <em>Maestro Sartori Wants a Bit of Glory</em> features the man from this painting behind the skeleton of a frog. For 10 points each:",
+        "created_at": "2018-09-09T18:55:40.241Z",
+        "updated_at": "2018-09-09T18:55:40.241Z",
+        "formatted_leadin": "Cynthia von Buhler’s <em>Maestro Sartori Wants a Bit of Glory</em> features the man from this painting behind the skeleton of a frog. For 10 points each:",
+        "texts": [
+          "Name this painting of a darkly-clothed man and his green-clad wife standing under a chandelier with one lit candle.",
+          "This Flemish artist painted the Arnolfini Wedding. Portrait of a Man in a Red Turban is believed to be his self-portrait.",
+          "Jan van Eyck collaborated with his older brother Hubert on this 12-panel altarpiece. Its lower left “Just Judges” panel has been missing since it was stolen in 1934."
+        ],
+        "answers": [
+          "The Arnolfini Wedding [or Arnolfini Marriage; or Arnolfini Portrait; or Arnolfini Double Portrait; or anything that mentions Arnolfini plus Wife and/or Marriage]",
+          "Jan Van Eyck [or Johannes de Eyck]",
+          "Ghent Altarpiece [or Adoration of the Mystic Lamb or Adoration of the Lamb] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this painting of a darkly-clothed man and his green-clad wife standing under a chandelier with one lit candle.",
+          "This Flemish artist painted the <em>Arnolfini Wedding</em>. <em>Portrait of a Man in a Red Turban</em> is believed to be his self-portrait.",
+          "Jan van Eyck collaborated with his older brother Hubert on this 12-panel altarpiece. Its lower left “Just Judges” panel has been missing since it was stolen in 1934."
+        ],
+        "formatted_answers": [
+          "<em>The <strong>Arnolfini Wedding</strong></em> [or <em><strong>Arnolfini Marriage</strong></em>; or <strong>Arnolfini Portrait</strong>; or <strong>Arnolfini Double Portrait</strong>; or anything that mentions <strong>Arnolfini</strong> plus <strong>Wife</strong> and/or <strong>Marriage</strong>]",
+          "<strong>Jan Van Eyck</strong> [or <strong>Johannes de Eyck</strong>]",
+          "<strong>Ghent</strong> Altarpiece [or <em><strong>Adoration of the Mystic Lamb</strong></em> or <em><strong>Adoration of the Lamb</strong></em>] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34665",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34674,
+        "number": 5,
+        "round": "07",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "In this painting, a green man wearing a necklace with a cross looks at a goat. For 10 points each:",
+        "created_at": "2018-09-09T18:55:40.543Z",
+        "updated_at": "2018-09-09T18:55:40.543Z",
+        "formatted_leadin": "In this painting, a green man wearing a necklace with a cross looks at a goat. For 10 points each:",
+        "texts": [
+          "Name this painting meant to reflect the artist’s memories of living in a Hasidic town in modern-day Belarus.",
+          "This painter of Self-Portrait with Seven Fingers and Paris Through the Window created I and the Village.",
+          "Chagall painted White and Yellow versions of this scene which is also prominent in his Apocalypse in Lilac, Capriccio. A menorah can be found at the bottom of the White version."
+        ],
+        "answers": [
+          "I and the Village",
+          "Marc Chagall [or Moishe Shagal]",
+          "Crucifixion of Jesus Christ &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this painting meant to reflect the artist’s memories of living in a Hasidic town in modern-day Belarus.",
+          "This painter of <em>Self-Portrait with Seven Fingers</em> and <em>Paris Through the Window</em> created <em>I and the Village.</em>",
+          "Chagall painted <em>White</em> and <em>Yellow</em> versions of this scene which is also prominent in his <em>Apocalypse in Lilac, Capriccio</em>. A menorah can be found at the bottom of the <em>White</em> version."
+        ],
+        "formatted_answers": [
+          "<em><strong>I and the Village</strong></em>",
+          "Marc <strong>Chagall</strong> [or Moishe <strong>Shagal</strong>]",
+          "<strong>Crucifixion</strong> of Jesus Christ &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34674",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34689,
+        "number": 20,
+        "round": "07",
+        "category_id": 21,
+        "subcategory_id": 27,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "In <em>What’s Opera, Doc?</em>, Elmer Fudd sings “Kill da Wabbit” to the tune of this piece. For 10 points each:",
+        "created_at": "2018-09-09T18:55:40.976Z",
+        "updated_at": "2018-09-09T18:55:40.976Z",
+        "formatted_leadin": "In <em>What’s Opera, Doc?</em>, Elmer Fudd sings “Kill da Wabbit” to the tune of this piece. For 10 points each:",
+        "texts": [
+          "Name this piece from the second opera of the Ring cycle which represents the title female figures gathering in preparation for taking fallen heroes to Valhalla.",
+          "For the Ring cycle, the composer, Richard Wagner, designed a special version of this largest and lowest symphonic brass instrument.",
+          "Wagner also wrote this tragic opera, in which Brangane brings the two title characters a love potion instead of the instructed poison. At the end, the heroine dies after singing the aria “Liebestod.”"
+        ],
+        "answers": [
+          "“Ride of the Valkyries” [or “Ritt der Walküren”]",
+          "Tuba",
+          "Tristan und Isolde &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this piece from the second opera of the <em>Ring</em> cycle which represents the title female figures gathering in preparation for taking fallen heroes to Valhalla.",
+          "For the Ring cycle, the composer, Richard Wagner, designed a special version of this largest and lowest symphonic brass instrument.",
+          "Wagner also wrote this tragic opera, in which Brangane brings the two title characters a love potion instead of the instructed poison. At the end, the heroine dies after singing the aria “Liebestod.”"
+        ],
+        "formatted_answers": [
+          "“<strong>Ride of the Valkyries</strong>” [or “<strong>Ritt der Walküren</strong>”]",
+          "<strong>Tuba</strong>",
+          "<em><strong>Tristan und Isolde</strong></em> &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34689",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 27,
+          "name": "Fine Arts Audiovisual",
+          "created_at": "2017-08-27T19:36:35.159Z",
+          "updated_at": "2017-08-27T19:36:35.159Z",
+          "url": "https://www.quizdb.org/api/subcategories/27"
+        }
+      },
+      {
+        "id": 34695,
+        "number": 5,
+        "round": "08",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Movements in this work include “The Magician”, “The Bringer of Peace”, and “The Bringer of Jollity.” For 10 points each:",
+        "created_at": "2018-09-09T18:55:41.275Z",
+        "updated_at": "2018-09-09T18:55:41.275Z",
+        "formatted_leadin": "Movements in this work include “The Magician”, “The Bringer of Peace”, and “The Bringer of Jollity.” For 10 points each:",
+        "texts": [
+          "Name this orchestral piece named after seven celestial bodies. One theme from it was later used for the hymn \"I vow to thee, my country.\"",
+          "This English composer of The Planets also wrote pieces such as Egdon Heath and St. Paul’s Suite.",
+          "This movement of Holst’s The Planets ends with a women’s choir fading out in a separate room. It is subtitled “The Mystic.”"
+        ],
+        "answers": [
+          "The Planets",
+          "Gustav Holst",
+          "Neptune &lt;Carrie Derner/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this orchestral piece named after seven celestial bodies. One theme from it was later used for the hymn \"I vow to thee, my country.\"",
+          "This English composer of The Planets also wrote pieces such as <em>Egdon Heath</em> and <em>St. Paul’s Suite</em>.",
+          "This movement of Holst’s <em>The Planets</em> ends with a women’s choir fading out in a separate room. It is subtitled “The Mystic.”"
+        ],
+        "formatted_answers": [
+          "The <strong>Planets</strong>",
+          "Gustav <strong>Holst</strong>",
+          "<strong>Neptune</strong> &lt;Carrie Derner/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34695",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34709,
+        "number": 19,
+        "round": "08",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "One title character's pose in this painting is based on the <em>Borghese Gladiator.</em> For 10 points",
+        "created_at": "2018-09-09T18:55:45.361Z",
+        "updated_at": "2018-09-09T18:55:45.361Z",
+        "formatted_leadin": "One title character's pose in this painting is based on the <em>Borghese Gladiator.</em> For 10 points",
+        "texts": [
+          "Name this painting set in Havana harbor depicting an attempt to stop an animal attack. A man on the right prepares to spear the other title character.",
+          "Watson and the Shark was painted by this Massachusetts artist who also painted The Death of the Earl of Chatham and The Death of Major Peirson. A squirrel plays with a chain in his portrait of Henry Pelham.",
+          "Copley also painted a portrait of this future Revolutionary War figure at work with a silver teapot in his left hand."
+        ],
+        "answers": [
+          "Watson and the Shark",
+          "John Singleton Copley",
+          "Paul Revere&lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this painting set in Havana harbor depicting an attempt to stop an animal attack. A man on the right prepares to spear the other title character.",
+          "<em>Watson and the Shark</em> was painted by this Massachusetts artist who also painted <em>The Death of the Earl of Chatham</em> and <em>The Death of Major Peirson</em>. A squirrel plays with a chain in his portrait of Henry Pelham.",
+          "Copley also painted a portrait of this future Revolutionary War figure at work with a silver teapot in his left hand."
+        ],
+        "formatted_answers": [
+          "<em><strong>Watson and the Shark</strong></em>",
+          "John Singleton <strong>Copley</strong>",
+          "Paul <strong>Revere</strong>&lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34709",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34715,
+        "number": 4,
+        "round": "09",
+        "category_id": 21,
+        "subcategory_id": 25,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Considered one of the Seven Wonders of the Ancient World, this work was destroyed by fire in the 5th Century. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.243Z",
+        "updated_at": "2018-09-09T18:56:18.243Z",
+        "formatted_leadin": "Considered one of the Seven Wonders of the Ancient World, this work was destroyed by fire in the 5th Century. For 10 points each:",
+        "texts": [
+          "Name this statue of a Greek god sitting on a cedar throne. It was located in Olympia.",
+          "This Greek sculptor of the Athena Parthenos, the Athena Promachos, and the Elgin Marbles created the Statue of Zeus.",
+          "The Statue of Zeus was a chryselephantine (“chris-el-uh-FAN-tin”) sculpture, meaning it was made of pieces of gold and this other substance."
+        ],
+        "answers": [
+          "Statue of Zeus at Olympia",
+          "Phidias [or Pheidias]",
+          "Ivory &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this statue of a Greek god sitting on a cedar throne. It was located in Olympia.",
+          "This Greek sculptor of the <em>Athena Parthenos</em>, the <em>Athena Promachos</em>, and the Elgin Marbles created the Statue of Zeus.",
+          "The Statue of Zeus was a chryselephantine <strong>(“chris-el-uh-FAN-tin”)</strong> sculpture, meaning it was made of pieces of gold and this other substance."
+        ],
+        "formatted_answers": [
+          "Statue of <strong>Zeus</strong> at Olympia",
+          "<strong>Phidias</strong> [or <strong>Pheidias</strong>]",
+          "<strong>Ivory</strong> &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34715",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 25,
+          "name": "Fine Arts Other",
+          "created_at": "2017-08-27T19:36:35.119Z",
+          "updated_at": "2017-08-27T19:36:35.119Z",
+          "url": "https://www.quizdb.org/api/subcategories/25"
+        }
+      },
+      {
+        "id": 34729,
+        "number": 18,
+        "round": "09",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "The first work of this type, <em>Dafne</em>, has no existing copies, but one could hear different works of this type at La Scala in Milan. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.527Z",
+        "updated_at": "2018-09-09T18:56:18.527Z",
+        "formatted_leadin": "The first work of this type, <em>Dafne</em>, has no existing copies, but one could hear different works of this type at La Scala in Milan. For 10 points each:",
+        "texts": [
+          "Name this genre consisting of a libretto text set to music.",
+          "This Italian composer is credited along with librettist Alessandro Striggio with creating the earliest opera that is still regularly performed, L’Orfeo.",
+          "Monteverdi premiered L’Orfeo in this city in northern Italy for the Gonzaga family.  It is also where Romeo is banished to in Romeo and Juliet."
+        ],
+        "answers": [
+          "Opera",
+          "Claudio Monteverdi",
+          "Mantua &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this genre consisting of a libretto text set to music.",
+          "This Italian composer is credited along with librettist Alessandro Striggio with creating the earliest opera that is still regularly performed, <em>L’Orfeo</em>.",
+          "Monteverdi premiered L’Orfeo in this city in northern Italy for the Gonzaga family.  It is also where Romeo is banished to in <em>Romeo and Juliet.</em>"
+        ],
+        "formatted_answers": [
+          "<strong>Opera</strong>",
+          "Claudio <strong>Monteverdi</strong>",
+          "<strong>Mantua</strong> &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34729",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34732,
+        "number": 21,
+        "round": "09",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Frida Kahlo suffered this incident at the age of 18, shattering her right leg and foot, and a handrail pierced her abdomen and uterus. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.584Z",
+        "updated_at": "2018-09-09T18:56:18.584Z",
+        "formatted_leadin": "Frida Kahlo suffered this incident at the age of 18, shattering her right leg and foot, and a handrail pierced her abdomen and uterus. For 10 points each:",
+        "texts": [
+          "Name this 1925 event, complications from which prevented Kahlo from bearing children.",
+          "This self-portrait of Kahlo’s shows her dealing with complications from the bus accident, as it shows her nude torso split, and an Ionic version of the title structure in the place of her spine.",
+          "Kahlo referred to the bus accident as one of “two grave accidents in my life,” the other being this man. This painter, who was married to Kahlo, painted Man at the Crossroads."
+        ],
+        "answers": [
+          "The bus accident that injured Frida Kahlo",
+          "The Broken Column",
+          "Diego Rivera [Diego Maria Concepcion Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodriguez] &lt;David Dennis&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this 1925 event, complications from which prevented Kahlo from bearing children.",
+          "This self-portrait of Kahlo’s shows her dealing with complications from the bus accident, as it shows her nude torso split, and an Ionic version of the title structure in the place of her spine.",
+          "Kahlo referred to the bus accident as one of “two grave accidents in my life,” the other being this man. This painter, who was married to Kahlo, painted <em>Man at the Crossroads</em>."
+        ],
+        "formatted_answers": [
+          "The <strong>bus accident</strong> that injured Frida Kahlo",
+          "<em>The <strong>Broken Column</strong></em>",
+          "Diego <strong>Rivera</strong> [Diego Maria Concepcion Juan Nepomuceno Estanislao de la <strong>Rivera</strong> y Barrientos Acosta y Rodriguez] &lt;David Dennis&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34732",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34735,
+        "number": 3,
+        "round": "10",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Depending on their agility and timbre, they can be classified as <em>coloratura, lyric, dramatic,</em> and <em>spinto</em>, among other types. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.721Z",
+        "updated_at": "2018-09-09T18:56:18.721Z",
+        "formatted_leadin": "Depending on their agility and timbre, they can be classified as <em>coloratura, lyric, dramatic,</em> and <em>spinto</em>, among other types. For 10 points each:",
+        "texts": [
+          "Name this highest vocal range, exemplified by singers such as Joan Sutherland, Renee Fleming, and Maria Callas.",
+          "This 18th century Italian male soprano was considered one of the greatest singers in the history of opera. He was castrated at a young age and named court musician of King Philip V.",
+          "In the film, Farinelli, which is based on the castrato’s life, he sings “Lascia Ch’io Pianga” (“LAH-sha kee-oh pi-AHN-ga”), an aria from this omposer’s opera, Rinaldo. Other pieces by this composer include Music for Royal Fireworks and Messiah."
+        ],
+        "answers": [
+          "Sopranos",
+          "ANSWER: Farinelli [or Carlo Broschi]",
+          "George Frideric Handel &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this highest vocal range, exemplified by singers such as Joan Sutherland, Renee Fleming, and Maria Callas.",
+          "This 18th century Italian male soprano was considered one of the greatest singers in the history of opera. He was castrated at a young age and named court musician of King Philip V.",
+          "In the film, <em>Farinelli,</em> which is based on the castrato’s life, he sings “Lascia Ch’io Pianga” (<strong>“LAH-sha kee-oh pi-AHN-ga”</strong>), an aria from this omposer’s opera, <em>Rinaldo.</em> Other pieces by this composer include <em>Music for Royal Fireworks</em> and <em>Messiah.</em>"
+        ],
+        "formatted_answers": [
+          "<strong>Soprano</strong>s",
+          "ANSWER: <strong>Farinelli</strong> [or Carlo <strong>Broschi</strong>]",
+          "George Frideric <strong>Handel</strong> &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34735",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34740,
+        "number": 8,
+        "round": "10",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Dorothea Lange took a photograph showing two children leaning against Florence Owens Thompson during this period of U.S. history. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.819Z",
+        "updated_at": "2018-09-09T18:56:18.819Z",
+        "formatted_leadin": "Dorothea Lange took a photograph showing two children leaning against Florence Owens Thompson during this period of U.S. history. For 10 points each:",
+        "texts": [
+          "Name this period of U.S. history, during which Lange took the photo Migrant Mother. Photos from this period captured the devastation caused by the Dust Bowl.",
+          "With her husband Erskine Caldwell, this photographer and original staff member of Life magazine documented the conditions of sharecroppers in the book You Have Seen Their Faces.",
+          "Margaret Bourke-White took a photograph of this man at his spinning wheel. That photograph depicts this man hours before his assassination by Nathuram Godse in 1948."
+        ],
+        "answers": [
+          "The Great Depression",
+          "Margaret Bourke-White",
+          "ANSWER: Mohandas Gandhi [Mohandas Karamchand Gandhi; or Mahatma Gandhi] &lt;Cole Phinney&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this period of U.S. history, during which Lange took the photo <em>Migrant Mother</em>. Photos from this period captured the devastation caused by the Dust Bowl.",
+          "With her husband Erskine Caldwell, this photographer and original staff member of <em>Life</em> magazine documented the conditions of sharecroppers in the book <em>You Have Seen Their Faces</em>.",
+          "Margaret Bourke-White took a photograph of this man at his spinning wheel. That photograph depicts this man hours before his assassination by Nathuram Godse in 1948."
+        ],
+        "formatted_answers": [
+          "The <strong>Great Depression</strong>",
+          "Margaret <strong>Bourke-White</strong>",
+          "ANSWER: Mohandas <strong>Gandhi</strong> [Mohandas Karamchand <strong>Gandhi</strong>; or Mahatma <strong>Gandhi</strong>] &lt;Cole Phinney&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34740",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34747,
+        "number": 1,
+        "round": "10",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "He contrasted the dangers of different types of alcohol in <em>Beer Street</em> and <em>Gin Lane</em>. For 10 points each:",
+        "created_at": "2018-09-09T18:56:18.963Z",
+        "updated_at": "2018-12-15T05:03:03.904Z",
+        "formatted_leadin": "He contrasted the dangers of different types of alcohol in <em>Beer Street</em> and <em>Gin Lane</em>. For 10 points each:",
+        "texts": [
+          "Name this English painter who created the series Marriage à-la-mode and A Harlot’s Progress.",
+          "This series of paintings by Hogarth begins with Tom being measured for clothes after inheriting a lot of money. This series ends with Tom dying in Bedlam near Sarah Young, whom he had rejected throughout the series.",
+          "Hogarth’s book titled for the analysis of this concept proposes the use of an S-shaped line instead of straight lines to make figures seem more lively. That line is also named for this concept, and one appears on top of a palette in Hogarth’s self-portrait, Painter and his Pug."
+        ],
+        "answers": [
+          "William Hogarth",
+          "A Rake’s Progress",
+          "Beauty &lt;Seth Ebner&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this English painter who created the series <em>Marriage à-la-mode</em> and <em>A Harlot’s Progress</em>.",
+          "This series of paintings by Hogarth begins with Tom being measured for clothes after inheriting a lot of money. This series ends with Tom dying in Bedlam near Sarah Young, whom he had rejected throughout the series.",
+          "Hogarth’s book titled for the analysis of this concept proposes the use of an S-shaped line instead of straight lines to make figures seem more lively. That line is also named for this concept, and one appears on top of a palette in Hogarth’s self-portrait, <em>Painter and his Pug</em>."
+        ],
+        "formatted_answers": [
+          "William <strong>Hogarth</strong>",
+          "<em>A <strong>Rake’s Progress</strong></em>",
+          "<strong>Beauty</strong> &lt;Seth Ebner&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34747",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34753,
+        "number": 21,
+        "round": "10",
+        "category_id": 21,
+        "subcategory_id": 25,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This man’s epigrams include the maxim \"Less is More.\" For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.098Z",
+        "updated_at": "2018-09-09T18:56:19.098Z",
+        "formatted_leadin": "This man’s epigrams include the maxim \"Less is More.\" For 10 points each:",
+        "texts": [
+          "Name this architect, who was the last director of the Bauhaus (“bow-house”). He created the Barcelona Pavilion in Spain and the Farnsworth House in Illinois.",
+          "This American collaborated with Mies van der Rohe on the Seagram Building. His other works include the PPG Place in Pittsburgh and Hines College of Architecture in Houston.",
+          "Philip Johnson is best known for making a house almost entirely out of this material. This material can be made by melting sand."
+        ],
+        "answers": [
+          "Ludwig Mies van der Rohe [or Maria Ludwig Michael Mies; prompt on van der Rohe]",
+          "ANSWER: Philip Johnson [Philip Cortelyou Johnson]",
+          "glass &lt;Cole Phinney&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this architect, who was the last director of the Bauhaus (<strong>“bow-house”</strong>). He created the Barcelona Pavilion in Spain and the Farnsworth House in Illinois.",
+          "This American collaborated with Mies van der Rohe on the Seagram Building. His other works include the PPG Place in Pittsburgh and Hines College of Architecture in Houston.",
+          "Philip Johnson is best known for making a house almost entirely out of this material. This material can be made by melting sand."
+        ],
+        "formatted_answers": [
+          "Ludwig <strong>Mies</strong> van der Rohe [or Maria Ludwig Michael <strong>Mies</strong>; prompt on van der Rohe]",
+          "ANSWER: Philip <strong>Johnson</strong> [Philip Cortelyou <strong>Johnson</strong>]",
+          "<strong>glass</strong> &lt;Cole Phinney&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34753",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 25,
+          "name": "Fine Arts Other",
+          "created_at": "2017-08-27T19:36:35.119Z",
+          "updated_at": "2017-08-27T19:36:35.119Z",
+          "url": "https://www.quizdb.org/api/subcategories/25"
+        }
+      },
+      {
+        "id": 34757,
+        "number": 4,
+        "round": "11",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This artist’s work was influenced by chemist and color theorist M. E. Chevruel. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.278Z",
+        "updated_at": "2018-09-09T18:56:19.278Z",
+        "formatted_leadin": "This artist’s work was influenced by chemist and color theorist M. E. Chevruel. For 10 points each:",
+        "texts": [
+          "Name this artist of Bathers at Asnières and A Saturday Afternoon on the Island of La Grande Jatte.",
+          "With Paul Signac, Seurat developed this style, wherein tiny juxtaposed dots of colors optically blend together to allow the viewer to experience a range of other colors.",
+          "Pointillism relies on this additive color model, named for its three primary colors. When added together in equal intensities, this model’s three namesake colors create white light, unlike the subtractive CMYK color model."
+        ],
+        "answers": [
+          "Georges Seurat [Georges-Pierre Seurat]",
+          "Pointillism [or Divisionism]",
+          "RGB Color model [or the colors, which are Red, Green, and Blue] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this artist of <em>Bathers at Asnières</em> and <em>A Saturday Afternoon on the Island of La Grande Jatte.</em>",
+          "With Paul Signac, Seurat developed this style, wherein tiny juxtaposed dots of colors optically blend together to allow the viewer to experience a range of other colors.",
+          "Pointillism relies on this additive color model, named for its three primary colors. When added together in equal intensities, this model’s three namesake colors create white light, unlike the subtractive CMYK color model."
+        ],
+        "formatted_answers": [
+          "Georges <strong>Seurat</strong> [Georges-Pierre <strong>Seurat</strong>]",
+          "<strong>Pointillism</strong> [or <strong>Divisionism</strong>]",
+          "<strong>RGB</strong> Color model [or the colors, which are <strong>Red, Green,</strong> and <strong>Blue</strong>] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34757",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34771,
+        "number": 18,
+        "round": "11",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This composer played a crucial role in the transition from the Classical period of music to the Romantic, despite going deaf near the end of his life. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.606Z",
+        "updated_at": "2018-09-09T18:56:19.606Z",
+        "formatted_leadin": "This composer played a crucial role in the transition from the Classical period of music to the Romantic, despite going deaf near the end of his life. For 10 points each:",
+        "texts": [
+          "Name this German composer famous for his Pathétique and “Moonlight” piano sonatas.",
+          "Also known as Bagatelle No. 25, the common title of this Beethoven piece in A minor is thought to refer to either an unidentified female or to the German translation of the opening “E, E-flat, E” note sequence.",
+          "This term is the literal German translation for “hammer-keyboard” and names Beethoven’s 29th piano sonata, which set a precedent for its lengthy performance time."
+        ],
+        "answers": [
+          "Ludwig van Beethoven",
+          "Für Elise [or For Elise]",
+          "Hammerklavier &lt;Sherry Xie/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this German composer famous for his <em>Pathétique</em> and “Moonlight” piano sonatas.",
+          "Also known as Bagatelle No. 25, the common title of this Beethoven piece in A minor is thought to refer to either an unidentified female or to the German translation of the opening “E, E-flat, E” note sequence.",
+          "This term is the literal German translation for “hammer-keyboard” and names Beethoven’s 29th piano sonata, which set a precedent for its lengthy performance time."
+        ],
+        "formatted_answers": [
+          "Ludwig van <strong>Beethoven</strong>",
+          "<em><strong>Für Elise</strong></em> [or <em><strong>For Elise</strong></em>]",
+          "<strong>Hammerklavier</strong> &lt;Sherry Xie/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34771",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34776,
+        "number": 2,
+        "round": "12",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "A <em>cantus firmus</em> version of this musical setting is one where all five different sections share a common musical theme or melody.  For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.788Z",
+        "updated_at": "2018-09-09T18:56:19.788Z",
+        "formatted_leadin": "A <em>cantus firmus</em> version of this musical setting is one where all five different sections share a common musical theme or melody.  For 10 points each:",
+        "texts": [
+          "Name this common set of choral music texts, consisting of the liturgy of the Eucharist. The ordinary of this setting includes sections such as the Kyrie (“KEE-ree-eh”), Credo and Agnus Dei (“AH-nyoos DAY-ee”).",
+          "Hans Pfitzner wrote an opera in where this composer’s writing of the Pope Marcellus Mass was to convince the Council of Trent not to ban polyphonic music.",
+          "This composer’s MASS is a “Theater Piece for Singers, Players, and Dancers” where the Celebrant sings “A Simple Song” but breaks the wine chalice. This composer also wrote West Side Story."
+        ],
+        "answers": [
+          "Roman Catholic Mass [or Missa]",
+          "Giovanni Perluigi de Palestrina",
+          "Leonard Bernstein &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this common set of choral music texts, consisting of the liturgy of the Eucharist. The ordinary of this setting includes sections such as the <em>Kyrie</em> <strong>(“KEE-ree-eh”)</strong><em>, Credo</em> and <em>Agnus Dei</em> <strong>(“AH-nyoos DAY-ee”)</strong><em>. </em>",
+          "Hans Pfitzner wrote an opera in where this composer’s writing of the <em>Pope Marcellus Mass</em> was to convince the Council of Trent not to ban polyphonic music.",
+          "This composer’s <em>MASS</em> is a “Theater Piece for Singers, Players, and Dancers” where the Celebrant sings “A Simple Song” but breaks the wine chalice. This composer also wrote <em>West Side Story. </em>"
+        ],
+        "formatted_answers": [
+          "Roman Catholic <strong>Mass</strong> [or <strong>Missa</strong>]",
+          "Giovanni Perluigi de <strong>Palestrina</strong>",
+          "Leonard <strong>Bernstein</strong> &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34776",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34782,
+        "number": 8,
+        "round": "12",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Born in Alton, Illinois, this artist’s first “great quintet” featured John Coltrane and Paul Chambers. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.946Z",
+        "updated_at": "2018-09-09T18:56:19.946Z",
+        "formatted_leadin": "Born in Alton, Illinois, this artist’s first “great quintet” featured John Coltrane and Paul Chambers. For 10 points each:",
+        "texts": [
+          "Name this jazz trumpeter known for songs like “Freddy Freeloader” and “So What” on his album Kind of Blue.",
+          "Originally written for this six-stringed instrument, Rodrigo’s Concerto de Aranjuez (“ah-ran-WHEZ”) is featured on Miles Davis’ album Sketches of Spain.",
+          "Miles Davis and Gil Evans collaborated on an album named after this George Gershwin opera.  It features the song “Summertime.”"
+        ],
+        "answers": [
+          "Miles Davis",
+          "Guitar",
+          "Porgy and Bess &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this jazz trumpeter known for songs like “Freddy Freeloader” and “So What” on his album <em>Kind of Blue</em>.",
+          "Originally written for this six-stringed instrument, Rodrigo’s <em>Concerto de Aranjuez</em> <strong>(“ah-ran-WHEZ”)</strong> is featured on Miles Davis’ album <em>Sketches of Spain.</em>",
+          "Miles Davis and Gil Evans collaborated on an album named after this George Gershwin opera.  It features the song “Summertime.”"
+        ],
+        "formatted_answers": [
+          "Miles <strong>Davis</strong>",
+          "<strong>Guitar</strong>",
+          "<em><strong>Porgy and Bess</strong></em> &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34782",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34794,
+        "number": 20,
+        "round": "12",
+        "category_id": 21,
+        "subcategory_id": 25,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "The orange version of one of this man’s sculptures sold in 2013 for $58.4 million, setting the record price at auction for a living artist. For 10 points each:",
+        "created_at": "2018-09-09T18:56:20.232Z",
+        "updated_at": "2018-09-09T18:56:20.232Z",
+        "formatted_leadin": "The orange version of one of this man’s sculptures sold in 2013 for $58.4 million, setting the record price at auction for a living artist. For 10 points each:",
+        "texts": [
+          "Name this artist known for his representations of banal objects, whose Balloon Dog was created in five different colors.",
+          "This metal makes up each version of Balloon Dog. It’s also the material used in Anish Kapoor’s Cloud Gate in Chicago and the Gateway Arch in St. Louis.",
+          "Koons created a white and gold porcelain sculpture of this singer and his chimpanzee, Bubbles. This man’s album Thriller is the best-selling album of all time."
+        ],
+        "answers": [
+          "Jeff Koons [Jeffrey Koons]",
+          "stainless steel [prompt on steel]",
+          "Michael Jackson [Michael Joseph Jackson] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this artist known for his representations of banal objects, whose <em>Balloon Dog</em> was created in five different colors.",
+          "This metal makes up each version of <em>Balloon Dog</em>. It’s also the material used in Anish Kapoor’s <em>Cloud Gate</em> in Chicago and the Gateway Arch in St. Louis.",
+          "Koons created a white and gold porcelain sculpture of this singer and his chimpanzee, Bubbles. This man’s album <em>Thriller</em> is the best-selling album of all time."
+        ],
+        "formatted_answers": [
+          "Jeff <strong>Koons</strong> [Jeffrey <strong>Koons</strong>]",
+          "<strong>stainless steel</strong> [prompt on steel]",
+          "Michael <strong>Jackson</strong> [Michael Joseph <strong>Jackson</strong>] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34794",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 25,
+          "name": "Fine Arts Other",
+          "created_at": "2017-08-27T19:36:35.119Z",
+          "updated_at": "2017-08-27T19:36:35.119Z",
+          "url": "https://www.quizdb.org/api/subcategories/25"
+        }
+      },
+      {
+        "id": 34795,
+        "number": 21,
+        "round": "12",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Several interludes in this work called \"Promenades” are meant to represent the composer walking around from work to work. For 10 points each:",
+        "created_at": "2018-09-09T18:56:20.258Z",
+        "updated_at": "2018-09-09T18:56:20.258Z",
+        "formatted_leadin": "Several interludes in this work called \"Promenades” are meant to represent the composer walking around from work to work. For 10 points each:",
+        "texts": [
+          "Name this work, which musically depicts art by the composer's friend Viktor Hartmann. Costume designs for the ballet Trilby inspired this work’s section “The Ballet of the Unhatched Chicks.”",
+          "Pictures at an Exhibition is by this Russian composer, whose only complete opera was Boris Godunov.",
+          "This 10th and final movement of Pictures at an Exhibition is based on Hartmann’s design for a never-built structure commemorating Tsar Alexander II’s escape from an assassination attempt."
+        ],
+        "answers": [
+          "Pictures at an Exhibition [Kartinki s vystavki]",
+          "Modest Mussorgsky [Modest Petrovich Mussorgsky]",
+          "The Great Gate of Kiev [or Bogatyrsiye vorota] &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this work, which musically depicts art by the composer's friend Viktor Hartmann. Costume designs for the ballet <em>Trilby</em> inspired this work’s section “The Ballet of the Unhatched Chicks.”",
+          "Pictures at an Exhibition is by this Russian composer, whose only complete opera was <em>Boris Godunov.</em>",
+          "This 10th and final movement of <em>Pictures at an Exhibition</em> is based on Hartmann’s design for a never-built structure commemorating Tsar Alexander II’s escape from an assassination attempt."
+        ],
+        "formatted_answers": [
+          "<em><strong>Pictures at an Exhibition</strong></em> [<em><strong>Kartinki s vystavki</strong></em>]",
+          "Modest <strong>Mussorgsky</strong> [Modest Petrovich <strong>Mussorgsky</strong>]",
+          "<em>The <strong>Great Gate of Kiev</strong></em> [or <em><strong>Bogatyrsiye vorota</strong></em>] &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34795",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34798,
+        "number": 3,
+        "round": "13",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "He separated the earthly and heavenly realms in <em>The Burial of the Count of Orgaz</em>. For 10 points each:",
+        "created_at": "2018-09-09T18:57:58.810Z",
+        "updated_at": "2018-09-09T18:57:58.810Z",
+        "formatted_leadin": "He separated the earthly and heavenly realms in <em>The Burial of the Count of Orgaz</em>. For 10 points each:",
+        "texts": [
+          "Name this Renaissance artist who painted his adopted Spanish home in View of Toledo. His nickname refers to his birth on Crete.",
+          "This painting by El Greco features a figure dressed in blue with his arms stretched overhead. In this painting, many nude figures appear near yellow and green sheets, and cherubim give them white robes.",
+          "The man in blue in Opening of the Fifth Seal is this saint, beheaded at the request of Salome."
+        ],
+        "answers": [
+          "El Greco [or Domenikos Theotokopoulos]",
+          "Opening of the Fifth Seal [or The Fifth Seal of the Apocalypse; accept, but do not otherwise reveal: The Vision of Saint John]",
+          "John the Baptist [or John the Baptizer; prompt on John; do NOT prompt on or accept \"John the Evangelist\"] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Renaissance artist who painted his adopted Spanish home in <em>View of Toledo</em>. His nickname refers to his birth on Crete.",
+          "This painting by El Greco features a figure dressed in blue with his arms stretched overhead. In this painting, many nude figures appear near yellow and green sheets, and cherubim give them white robes.",
+          "The man in blue in <em>Opening of the Fifth Seal</em> is this saint, beheaded at the request of Salome."
+        ],
+        "formatted_answers": [
+          "<strong>El Greco</strong> [or Domenikos <strong>Theotokopoulos</strong>]",
+          "<em><strong>Opening of the Fifth Seal</strong></em> [or <em><strong>The Fifth Seal of the Apocalypse</strong></em>; accept, but do not otherwise reveal: <em>The <strong>Vision of Saint John</strong></em>]",
+          "<strong>John the Baptist</strong> [or <strong>John the Baptizer</strong>; prompt on John; do NOT prompt on or accept \"John the Evangelist\"] &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34798",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34814,
+        "number": 19,
+        "round": "13",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Many instruments use a standard piano keyboard layout, but use different mechanisms to create their sound. For 10 points each:",
+        "created_at": "2018-09-09T18:57:59.284Z",
+        "updated_at": "2018-09-09T18:57:59.284Z",
+        "formatted_leadin": "Many instruments use a standard piano keyboard layout, but use different mechanisms to create their sound. For 10 points each:",
+        "texts": [
+          "This instrument worked by having the strings plucked by a plectrum rather than struck by hammers when a key is pressed. This instrument was extremely popular until its replacement by the piano in the 18th Century.",
+          "This bellows-driven instrument played by musicians such as Lawrence Welk often has a piano keyboard for the player’s right hand, with buttons for the left hand.",
+          "This keyboard instrument is sometimes called the steam organ and is often associated with circuses. It shares a name with the Greek muse of epic poetry."
+        ],
+        "answers": [
+          "Harpsichord",
+          "Accordian",
+          "Calliope &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "This instrument worked by having the strings plucked by a plectrum rather than struck by hammers when a key is pressed. This instrument was extremely popular until its replacement by the piano in the 18th Century.",
+          "This bellows-driven instrument played by musicians such as Lawrence Welk often has a piano keyboard for the player’s right hand, with buttons for the left hand.",
+          "This keyboard instrument is sometimes called the steam organ and is often associated with circuses. It shares a name with the Greek muse of epic poetry."
+        ],
+        "formatted_answers": [
+          "<strong>Harpsichord</strong>",
+          "<strong>Accordian</strong>",
+          "<strong>Calliope</strong> &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34814",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34819,
+        "number": 3,
+        "round": "14",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "In his early years, this man studied with Max Bruch and Hubert Parry. For 10 points each:",
+        "created_at": "2018-09-09T18:57:59.478Z",
+        "updated_at": "2018-09-09T18:57:59.478Z",
+        "formatted_leadin": "In his early years, this man studied with Max Bruch and Hubert Parry. For 10 points each:",
+        "texts": [
+          "Name this English composer of Sinfonia Antarctica and Fantasia on a Theme of Thomas Tallis.",
+          "Vaughan Williams also wrote a piece about this bird “ascending,” which is based on a George Meredith poem of the same name.",
+          "Another fantasia by Vaughan Williams is based on “Greensleeves,” a common tune that is occasionally misattributed to this English King, who supposedly wrote it for his future queen, Anne Boleyn."
+        ],
+        "answers": [
+          "Ralph Vaughan Williams",
+          "Lark",
+          "Henry VIII [prompt on Henry] &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this English composer of <em>Sinfonia Antarctica</em> and <em>Fantasia on a Theme of Thomas Tallis.</em>",
+          "Vaughan Williams also wrote a piece about this bird “ascending,” which is based on a George Meredith poem of the same name.",
+          "Another fantasia by Vaughan Williams is based on “Greensleeves,” a common tune that is occasionally misattributed to this English King, who supposedly wrote it for his future queen, Anne Boleyn."
+        ],
+        "formatted_answers": [
+          "Ralph <strong>Vaughan Williams</strong>",
+          "<strong>Lark</strong>",
+          "<strong>Henry VIII</strong> [prompt on Henry] &lt;Wenzer Qin/ed. David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34819",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 34827,
+        "number": 11,
+        "round": "14",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "One story of the naming of this art movement is that it came from stabbing a knife into a German dictionary, landing on the French word for “hobbyhorse”. For 10 points each:",
+        "created_at": "2018-09-09T18:57:59.654Z",
+        "updated_at": "2018-09-09T18:57:59.654Z",
+        "formatted_leadin": "One story of the naming of this art movement is that it came from stabbing a knife into a German dictionary, landing on the French word for “hobbyhorse”. For 10 points each:",
+        "texts": [
+          "Name this anti-art movement that originated in Switzerland. Artists in this movement include Hannah Hoch and Hugo Ball.",
+          "This prominent Dadaist produced Prelude to a Broken Arm and L.H.O.O.Q. His Fountain consists of a urinal with “R. Mutt” written on it.",
+          "This was the name Duchamp gave to his found art pieces, such as 50 cc of Paris Air and Fountain."
+        ],
+        "answers": [
+          "Dadaism",
+          "Marcel Duchamp [or Henri-Robert-Marcel Duchamp; prompt on Rrose Selavy]",
+          "Readymades &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Name this anti-art movement that originated in Switzerland. Artists in this movement include Hannah Hoch and Hugo Ball.",
+          "This prominent Dadaist produced <em>Prelude to a Broken Arm</em> and <em>L.H.O.O.Q</em>. His <em>Fountain</em> consists of a urinal with “R. Mutt” written on it.",
+          "This was the name Duchamp gave to his found art pieces, such as <em>50 cc of Paris Air</em> and <em>Fountain.</em>"
+        ],
+        "formatted_answers": [
+          "<strong>Dada</strong>ism",
+          "Marcel <strong>Duchamp</strong> [or Henri-Robert-Marcel <strong>Duchamp</strong>; prompt on Rrose Selavy]",
+          "<strong>Readymade</strong>s &lt;David Dennis&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34827",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 34836,
+        "number": 20,
+        "round": "14",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "In ancient Greek theater, these objects were made of stiffened linen. For 10 points each:",
+        "created_at": "2018-09-09T18:58:00.104Z",
+        "updated_at": "2018-09-09T18:58:00.104Z",
+        "formatted_leadin": "In ancient Greek theater, these objects were made of stiffened linen. For 10 points each:",
+        "texts": [
+          "Name this costume item worn on the face that allowed an actor to communicate facial expressions at a distance.",
+          "Masks in this form of Japanese theater were carved from cypress wood.  They were designed so that expressions could change from the slight tilting of the actor’s head.",
+          "This stock character of Commedia dell’Arte (“del-ART-ay”) traditionally wore a half-mask made of black leather and a very colorful patterned costume.  His name is now a synonym for a clown."
+        ],
+        "answers": [
+          "Masks",
+          "Noh theater",
+          "Harlequin [or Arlecchino; or Arlequin] &lt;David Dennis&gt;"
+        ],
+        "formatted_texts": [
+          "Name this costume item worn on the face that allowed an actor to communicate facial expressions at a distance.",
+          "Masks in this form of Japanese theater were carved from cypress wood.  They were designed so that expressions could change from the slight tilting of the actor’s head.",
+          "This stock character of <em>Commedia dell’Arte</em> <strong>(“del-ART-ay”)</strong> traditionally wore a half-mask made of black leather and a very colorful patterned costume.  His name is now a synonym for a clown."
+        ],
+        "formatted_answers": [
+          "<strong>Mask</strong>s",
+          "<strong>Noh</strong> theater",
+          "<strong>Harlequin</strong> [or <strong>Arlecchino</strong>; or <strong>Arlequin</strong>] &lt;David Dennis&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34836",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      }
+    ]
+  }
+}

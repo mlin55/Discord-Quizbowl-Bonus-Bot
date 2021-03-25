@@ -1,0 +1,385 @@
+When the Taniyama-Shimura conjecture about the modularity of semistable elliptical curves was proven true, it combined with Ken Ribet's proof of the epsilon conjecture to prove this theorem true. For 10 points each,
+Name this theorem, which was claimed without proof by a Frenchman in the margins of a textbook in 1637. The aforementioned 150-page proof was finished by Andrew Wiles in 1995.
+Fermat's Last Theorem is concerned with an equation that traditionally uses the letters a, b, c, and n, where n serves this role.
+This is the smallest exponent n for which Fermat's Last Theorem states there is no solution; that is, Fermat’s Last Theorem says that the sum of two cubes cannot equal another cubic number.
+Fermat's Last Theorem (prompt on “Fermat’s Theorem;” do not accept Fermat’s little theorem)
+the exponent (or power) of a, b, and c (accept answers describing "to the n power," such as "a to the n plus b to the n equals c to the n")
+3
+Famous examples of these include the giant panda’s “thumb” and the beak shapes of Darwin’s finches. For 10 points each,
+Give the term for these inherited traits that enhance the survival of an organism in its environment. Larger brains and walking upright were such traits in human ancestors.
+The almost identical adaptations seen in the bodies of dolphins and extinct ichthyosaurs result from this type of evolution in which unrelated species evolve in similar environments.
+Convergent evolution among birds produced the now extinct North Atlantic great auk and these living flightless birds of Antarctica. Both groups had the same black-and-white color pattern.
+adaptation (accept adaptive traits)
+convergent evolution
+penguins
+The European Space Agency launched the Planck spacecraft to measure the CMBR and estimate this value. For 10 points each,
+Name this quantity, estimated to be a bit less than 14 billion years.
+This event occurred 14 billion years ago and is currently the best model for how the Universe came into existence. It was followed by cosmic expansion.
+This event, the creation of heavier-than-hydrogen elements like helium-4 and lithium-7, took place within minutes after the Big Bang. This term can also refer to the creation of elements within stars.
+age of the Universe (accept clear knowledge equivalents)
+the Big Bang
+Big Bang (or primordial) nucleosynthesis (accept stellar nucleosynthesis; prompt on "nuclear fusion")
+This quantity is not a form of energy, but it is measured in the same units as energy, Newton-meters. For 10 points each,
+Name this rotational analog of force that causes movement around an axis of rotation, symbolized τ [tau].
+Calculating the torque about the fulcrum of one of these systems can help you find its mechanical advantage. These systems come in three classes, which differ by how the fulcrum, load, and force are positioned.
+The lever is one of six classical devices known by this name. Each of these devices, including the wedge and pulley, manipulate the direction or amount of an applied force.
+torque
+lever
+simple machine (prompt on machine)
+[MODERATOR: do not reveal the alternate answer to Part 1 if teams do not give it.] This theory allows for the geometries of molecules to be determined from their Lewis structures. For 10 points each,
+Name this theory which assumes that electron domains in a molecule will arrange themselves so they experience the least repulsion.
+These kinds of electrons, which come from their namesake "shell," appear in Lewis structures and affect molecular geometries. Oxygen has six of this kind of electron, while sodium has one.
+A water molecule has this geometry because it has two bonding and two nonbonding electron domains.
+VSEPR theory ["vesper" theory] (also accept valence-shell electron pair repulsion theory)
+valence electrons
+bent
+Examples of these mathematical entities include x to the first power and <em>x</em> to the second power, but not <em>x</em> to the three-halves power. For 10 points each,
+Name this type of expression that involves only addition and multiplication of real numbers and variables with positive integer exponents.
+Information about the roots of a polynomial can be found quickly by finding this quantity. For the quadratic polynomial a x squared plus b x plus c, this quantity is equal to b squared minus 4 a c.
+If the discriminant of a quadratic polynomial is zero, then the graph of the polynomial will feature exactly one of these points, where the graph touches the x-axis.
+polynomial (accept monomial)
+discriminant
+(x-)intercept
+Landscapes consisting of this rock are known as karsts and often feature cracks and holes where acidic water dissolves it. For 10 points each,
+Name this calcium carbonate rock, a common sedimentary rock used as building material in the Great Pyramids.
+Speleologists study these underground structures, the result of extensive dissolution of limestone or similar rocks. These hollow spaces may feature stalagmites and stalactites.
+Most dissolution of limestone karsts results from the behavior of this weak acid, formed from a solution of carbon dioxide and water.
+limestone
+caves (accept caverns)
+Carbonic acid (accept H2CO3)
+Kent Brantly, Nancy Writebol, and Rick Sacra from the missionary organization SIM contracted this disease in 2014. For 10 points each,
+Name this viral disease which causes fever, vomiting, and dangerous hemorrhaging and internal bleeding. It has a mortality rate greater than fifty percent.
+Those three Americans contracted Ebola in this West African country; Dr. Brantly was treating Ebola patients in its capital city, Monrovia.
+Brantly and Writebol were evacuated to this American city's Emory University Hospital, which is equipped with proper isolation units to handle Ebola.
+Ebola viral disease or Ebola hemorrhagic fever (accept any additional information)
+Liberia
+Atlanta, Georgia
+By the Lewis definition, these compounds are electron pair donors. For 10 points each,
+Name these compounds with pH greater than 7. A common laboratory example is sodium hydroxide.
+In a neutralization reaction, a base reacts with one of these compounds to form water. Contrasting with bases, these compounds have pH values less than 7.
+In a neutralization reaction, an acid reacts with a base to form water and one of these ionic compounds. Examples include potassium nitrate and barium chloride.
+bases
+acids
+salts
+The taiga biome consists mainly of plants from this group. For 10 points each,
+Name this group of nonflowering plants that includes cycads, ginkgos, and conifers like pine and spruce.
+The word gymnosperm means “naked” these in Greek. These consist of plant embryos and their food supply inside a protective coat; edible ones include beans and peanuts.
+Most conifers have both female cones that hold the seeds and male cones that produce these grains needed for fertilization. It can be spread by both wind and insects.
+gymnosperms (accept Gymnospermae)
+seeds
+pollen
+Name some things about the Einstein field equations, for 10 points each.
+The Einstein field equations are used in this theory that relates spacetime curvature to energy and momentum. It predicts gravitational lensing and frame-dragging, and is an elaboration on a “special” theory developed by Einstein in 1905.
+Einstein called this quantity his “biggest blunder,” and he initially used it to predict a static universe in his equations. Modern cosmology uses this quantity to explain the accelerating expansion of the universe.
+In simple problems, the Einstein field equations reduce to this law, which states that each thing in the universe exerts an attractive force on every other thing in the universe.
+general relativity (prompt on “relativity;” do not accept “special relativity”)
+cosmological constant (accept lambda)
+Newton's Law of Universal Gravitation (prompt on "gravitation" or "gravity" alone)
+Answer the following about rate equations, for 10 points each.
+When the forward and reverse rate equations are equal, a process is in this balanced state; the concentrations of the chemicals will tend to stay in this state, rather than change.
+This measure of concentration, equal to the moles of solute divided the liters of solution, is used in rate laws.
+Rate laws can predict this quantity, the amount of time in which 50% of the reactant becomes product. In nuclear chemistry, it’s used to measure how quickly an isotope decays.
+chemical equilibrium
+molarity (do not accept “molality”)
+half-life
+The revolutionary ten-page paper "On the Number of Primes Less Than a Given Magnitude" introduced an important conjecture in number theory that remains unproven today. For 10 points each,
+The paper was written by this German mathematician. He is also the namesake of a method of summation, used to approximate the area of a curved region,that inspired the first conception of an integral.
+The paper introduces the Riemann zeta function, whose inputs are numbers of the form a+bi (“a plus b i”), where a is called the real part and b is called the imaginary part; therefore, the inputs are this type of number.
+The imaginary unit i is defined as the square root of this number; i can’t be a real number, because there is no way to square any real number and return this value.
+Bernhard Riemann (accept Riemann hypothesis, Riemann conjecture, Riemann sum, Riemann integral, etc.)
+complex number(s)
+-1
+This species’ genome has four pairs of chromosomes and the males have sex combs on their legs. For 10 points each,
+Name this model organism whose traits like white eyes and curly wings were extensively studied by a Columbia University professor .
+This scientist’s studies of Drosophila mutations inspired his concept of chromosomal crossing over.
+Fruit flies, like humans, utilize these two chromosomes for determining the sex of individuals.
+Drosophila melanogaster or the common fruit fly (accept vinegar fly)
+Thomas Hunt Morgan
+X and Y chromosomes
+When subjected to tensile stress, gold and silver generally have this property, while lead does not. For 10 points each,
+Give this term for the ability of a metal to be stretched into a wire. It's often compared with malleability, the ability to be compressed into a flat sheet.
+Tensile and compressive stresses, as well as twisting, bending, and changes in temperature, can cause the metal to strain and change its shape, a process known by this general term. Rigid bodies do not undergo this process.
+As stress increases, deformation goes through two stages: this stage, when the shape change can be reversed, and plastic, when the shape change is irreversible. This adjective often describes materials, like rubber, that return to their original shape when deformed.
+ductility (accept word forms like ductile)
+deformation (accept word forms like deform)
+elastic (accept word forms like elasticity)
+This phenomenon travels through air at a speed of 343 meters per second at sea level. For 10 point each,
+Name this audible vibration whose loudness can be expressed on the decibel scale.
+Unlike light, sound traveling through air is this type of wave, because the air molecules are displaced in the same direction the wave is moving.
+Dividing an object’s speed through air by the speed of sound yields this dimensionless number. The supersonic Concorde reached 2 and the Space Shuttle reached 25 for this number.
+sound
+longitudinal wave
+Mach number (accept M or Ma)
+Most carbon dioxide generated by the body is a product of this cellular respiration pathway. For 10 points each,
+Name this metabolic cycle that follows glycolysis and transfers the energy in acetyl-CoA [koh-ay] to electron-carriers like NADH and FADH2.
+The reactions of the citric acid cycle occur in the matrix of this eukaryotic organelle. This “powerhouse” of the cell is where most ATP energy is produced.
+Unlike fermentation, the citric acid cycle is considered this type of process because it only occurs when free oxygen is available. Microbes of this type only grow in the presence of oxygen.
+citric acid cycle (accept "Krebs cycle;" accept "tricarboxylic acid cycle" or "TCA cycle")
+mitochondria (accept mitochondrion)
+aerobic (do not accept “anaerobic”)
+Newton originally wrote his second law as force equals the derivative of this quantity. For 10 points each,
+Name this quantity, given by mass times velocity, that is conserved in all collisions.
+While momentum is conserved in this type of collision, kinetic energy is not. A bouncing ball undergoes these collisions because energy is continually lost until the ball comes to rest.
+In a perfectly inelastic collision between two bodies, this happens to the two bodies.
+linear momentum (do not accept “angular momentum”)
+inelastic collisions
+the two bodies stick together (accept any similar description)
+Nucleic acids and proteins are biological examples of these molecules. For 10 points each,
+Name these long-chained molecules composed of many monomers. Examples include nylon and polystyrene.
+This polymer has an ethylene monomer with a substituted chlorine. It has recycling code 3 and is widely used in plastic piping.
+This type of fossilized tree resin, often turned into jewelry, is a naturally-occurring polymer.
+polymers
+PVC (accept polyvinyl chloride; prompt on “polychloroethene”)
+amber
+This star is the alpha star in the constellation Canis Major, and it forms the Winter Triangle with Procyon and Betelgeuse. For 10 points each,
+Name this “dog star,” the brightest star in the night sky.
+Sirius is an example of this system, as it has a primary star and a companion star; Algol is another example. These systems exhibit gravitational influence within Roche lobes.
+Sirius A can be found along the main sequence of this diagram that relates absolute magnitude to temperature.
+Sirius A
+binary star system
+Hertzsprung-Russell diagram
+Spotify has used one of these processes named for Fisher and Yates to shuffle playlists, but Spotify users were unhappy with perceived lack of randomness in the shuffled lists. For 10 points each,
+Give this term for a finite list of step-by-step instructions to be carried out, usually by a computer program.
+The Fisher-Yates algorithm randomly generates these rearrangements of the elements of a finite set.
+The number of permutations of a set of n elements is equal to this function of n, written as "n exclamation point." This function of 5 is equal to 5 times 4 times 3 times 2 times 1.
+algorithm
+permutations (accept "n P r"; accept self-bijections; do not accept or prompt on "combination")
+factorial
+The spike of this tool marks the center; then, widen the hinge to increase the radius, set the pen down to the paper, and rotate around completely to draw a perfect circle. For 10 points each,
+Name this mathematical tool, used with an unmarked straightedge in classical geometric construction, and with a protractor in modern geometry classes.
+Compasses can be fixed so that circles of the same radius can be drawn in different places, but in classical compass and straightedge construction, the compass "collapses" upon being picked up. This ancient Greek mathematician showed how to get around that issue in the second Proposition of his work Elements.
+Some things are just impossible to do with a compass and straightedge, like constructing a square and a circle that have equal values for this property.
+unmarked compass
+Euclid of Alexandria
+area
+The “shocked” variety of this mineral is found in impact craters. For 10 points each,
+Name this mineral with a value of 7 on the Mohs hardness scale. Composed of silicon dioxide, this mineral is the second most abundant on Earth, after feldspar.
+Quartz exhibits this property, in which applying mechanical stress to a crystal produces a voltage. Rochelle salts also exhibit this property.
+Two brothers of this surname discovered piezoelectricity. One of those brothers, Pierre, also discovered radioactivity with his wife, Marie.
+quartz
+piezoelectricity
+Curie
+The inverse of this quantity is electrical conductance, and a Wheatstone bridge can be used to find unknown values of this quantity. For 10 points each,
+Name this quantity, measured in Ohms, that describes how much a circuit element will oppose the flow of current.
+In this circuit setup, the equivalent resistance is equal to the sum of the individual resistances, in contrast with the more complicated parallel circuit.
+When discharging, this type of circuit will exponentially lose charge and current. It contains only resistors and capacitors, and the time constant equals resistance times capacitance.
+resistance
+series circuit
+RC circuit
+By the third law of thermodynamics, a perfect crystal at 0 kelvin will lack this quantity. For 10 points each,
+Name this quantity, symbolized S or ΔS [delta-S], that measures the amount of disorder in a system.
+This law of thermodynamics states that entropy in an isolated system will always increase with time.
+This man’s equation relates entropy to the logarithm of the number of microstates. His namesake constant is the ideal gas constant over Avogadro’s number.
+change in entropy
+second law of thermodynamics
+Ludwig Boltzmann
+During the 1950s, public swimming pools were often closed to prevent the spread of this disease. For 10 points each,
+Name this illness that mainly infects children, destroying motor neurons in the spinal cord which causes paralysis. Franklin D. Roosevelt notably survived this disease.
+In 1955, this physician announced the development of the first successful polio vaccine, which he refused to patent.
+In cases where the disease paralyzed the diaphragm muscle, polio patients might spend the rest of their lives inside these large, sealed chambers that force air into the chest.
+poliomyelitis (prompt on “infantile paralysis”)
+Jonas Salk
+iron lung (accept negative pressure ventilator)
+These events may occur when the object falls into shadow or simply when another object passes between the viewing area and the object. For 10 points each,
+Name this event, in which an astronomical body is obscured from view. On Earth, the lunar and solar types of these events create remarkable visual displays.
+Any event where three or more astronomical bodies lie along a straight line, as during an eclipse or a transit, is referred to by this six letter word. The moon, Sun, and Earth experience these events roughly twice a month, causing spring tides on Earth.
+Eclipses of the Sun or Moon can be seen on Earth, but not on every planet. Name both of the two planets in our Solar System which cannot view an eclipse.
+eclipse (accept transit)
+syzygy
+Mercury and Venus (prompt on partial answer)
+These particles were first theorized by Murray Gell-Mann. For 10 points each,
+Name these elementary particles that come in six flavors - up, down, charm, strange, top, and bottom.
+This particle, discovered by James Chadwick in 1932, contains one up quark and two down quarks; thus, it has 0 charge. Some of them can be found along with protons in the nucleus.
+This class of particles contain a quark-antiquark pair. An example of one is J/psi [jay-sigh], which contains one charm quark and one charm antiquark.
+quarks
+neutrons
+mesons
+Excitable cells are needed to transmit the nerve impulses of this event. For 10 points each,
+Name this all-or-nothing event that results from depolarization of the neuron membrane. Pufferfish venom can turn people into “zombies” by inhibiting these events.
+The influx of the sodium ion causes an action potential; after which an outward flux of an ion of this other alkali metal with atomic symbol K.
+An action potential triggers this type of movement in muscles. Relaxation follows this movement.
+action potential
+potassium
+contraction
+For 10 points each, name these laboratory separation methods.
+The Büchner [BYOUK-ner] type of this piece of lab equipment is often used in vacuum filtrations. Its simpler version is conical and eases the transfer of samples to containers with small necks.
+This method of separation involves heating a solution of components with different boiling points. This process does not work on azeotropic solutions.
+"Thin-layer" and "column" are versions of this separatory method which uses a mobile phase flowing past a stationary phase to separate solution components.
+funnel
+distillation
+chromatography
+In the game 2048, tiles with the number 2 or 4 are randomly generated; when two tiles of the same number combine, they combine into a single tile with the sum of the original tile. For 10 points each,
+Every tile in the game will display one of these numbers. The smallest examples of these numbers -- and, therefore, the earliest numbers seen in the game -- are 2, 4, 8, 16, and 32.
+Because every power of 2 is divisible by 2, every power of 2 is congruent to zero with respect to 2 in this system of arithmetic which distinguishes numbers based on their remainder when divided by a given number.
+You will never see an odd tile in the game, because the set of even numbers has this property under addition - meaning that the sum of 2 even numbers will always be even. Another term of this name refers to intervals that include their endpoints.
+(positive integer) power(s) of 2 (do not accept or prompt "integers" or "even integers;" prompt on “power(s)”)
+modular arithmetic (accept word forms; accept "integers mod(ulo) 2;" accept Z sub 2 or Z mod 2Z)
+(operational) closure (accept word forms)
+The gravitational form of this quantity is equal to mass times little G times height. For 10 points each,
+Name this type of energy, symbolized U, that results from object’s position in a force field. A roller coaster at the top of a hill converts this energy into kinetic energy when it goes down.
+The negative change in potential energy is equal to this quantity. This quantity also equals force times distance.
+The potential energy stored in this object is one-half times the namesake constant times displacement squared. When a mass is attached to one of these objects, it can undergo simple harmonic motion.
+potential energy
+work
+spring (accept answers involving elastic material)
+At the end of the last ice age, many giant examples of this animal group like the woolly mammoth, ground sloth, and saber-toothed tiger went extinct. For 10 points each,
+Name this class of animals characterized by three middle ear bones, hair, and milk production by namesake glands. Rodents are the largest group within this class.
+The order Chiroptera, the bats, is the most widespread mammal group after rodents, probably because they are the only mammals that can truly perform this self-powered type of movement.
+Perissodactyla mammals, like horses and rhinos, and Artiodactyla, like sheep and pigs, are distinguished by having an odd or even number of these body parts.
+Mammalia
+flying (also accept flight)
+toes
+Adding one of these may increase reaction rate, but it won’t change the equilibrium or equilibrium constant, as it increases the reverse reaction rate just as much as the forward rate. For 10 points each,
+Name this type of chemical compound, which speeds up the process of a reaction without being consumed.
+This principle of equilibrium chemistry states that when a reaction experiences a change in pressure, temperature, concentration, or volume, it will shift to counteract that change.
+This metal element with symbol Pt is used in catalytic converters in cars as a pollution reducer.
+catalyst
+Le Chatelier’s [luh sha-tell-YAY’s] principle
+platinum
+This statistical quantity can be calculated by taking the average of the squared elements of a data set, minus the square of the average of the data set. For 10 points each,
+Name this measure of how spread out a data set is, measured in the square of the unit of the original set. For that reason, the standard deviation, which is the square root of this quantity, is more commonly used in analysis.
+This other measure of spread is less informative than variance or standard deviation, but it is far easier to calculate; simply take the largest value in the set, minus the smallest value in the set.
+The range may be an inaccurate measure of how spread out a data set is if the set includes a point that is very large or very small compared to the rest of the set; this term describes such a point.
+(population or sample) variance
+range
+outlier
+The Superconducting Super Collider was to be the world’s largest particle accelerator, but it was canceled over cost concerns in 1993. For 10 points each.
+The SSC was to be built near Waxahachie in this U.S. state. It's also home to the Johnson Space Center, which serves as Mission Control for American spaceflight.
+Congress debated whether the government could afford both the SSC and this other joint project between NASA and the space agencies of Russia, Japan, Canada, and Europe. Chris Hadfield served as its commander in 2013.
+The SSC would have had five times the collision energy of the Large Hadron Collider, built near Geneva by this European organization.
+Texas
+International Space Station
+CERN (or the European Organization for Nuclear Research)
+For 10 points each, give the following about important uses of the number 1 in mathematics.
+Because multiplying a real number by 1 does not change the value of the real number, 1 has this property for multiplication. This property is also held by 0 for addition.
+A polynomial is called "monic" if the term of highest degree has a value of 1 for this quantity, the constant multiplier on a variable term. Five serves this role for the expression five x squared.
+According to Euler's Identity, 1 plus this exponential expression is equal to zero.
+identity property (or identity element, or phrasings like "1 is the multiplicative identity")
+coefficient
+e to the i times pi power (or e to the pi times i power)
+The Alvarez hypothesis states that this event was caused by an asteroid impact roughly 66 million years ago. For 10 points each,
+Name this catastrophic biologic event that marks the end of the Mesozoic Era.
+The main evidence in favor of the Alvarez hypothesis is the abundance of this metal element in layers of clay and rock formed at boundary of the Cretaceous and Paleogene periods. This metal is very uncommon in Earth's crust, but commonly found in asteroids and meteorites.
+The estimate that the asteroid collision occurred 66 million years ago was made by analyzing the levels of the 40 and 39 isotopes of this noble gas with atomic symbol Ar.
+Cretaceous-Tertiary (or Cretaceous-Paleogene) mass extinction event (accept K-T (or K-Pg) mass extinction event; accept extinction of the dinosaurs, and prompt on related answers that don’t use the term “extinction”; prompt on “extinction event” alone)
+iridium (accept Ir)
+Argon (accept Argon-Argon radiometric dating)
+This quantity is the second time derivative of position. For 10 points each,
+Give this quantity, measured in meters per second squared, equal to the rate of change of velocity.
+By Newton’s second law, force equals this quantity times acceleration. For an object in free fall in a vacuum, gravitational acceleration is not dependent on this quantity.
+Displacement equals one-half times acceleration times time squared, plus this quantity times time. Displacement also equals the average of this quantity and final velocity, times time.
+acceleration
+mass
+initial velocity (accept equivalents, like beginning velocity; prompt on velocity)
+This is the type of bonding that occurs in carbon dioxide. For 10 points each,
+Name this type of bonding in which electrons are shared between atoms.
+This rule states that bonds tend to give the atoms of a compound exactly eight valence electrons. In the case of hydrogen and helium, it is replaced with a simpler “duet” rule.
+This diatomic compound, with formula NO, violates the octet rule, as its two atoms only combine to have seven valence electrons. In a famous accident, Sir Humphry Davy inhaled this reactive gas, which combined with the common air to form nitric acid in his mouth.
+covalent bonding
+octet rule
+Nitric oxide or Nitrogen monoxide (do not accept nitrous oxide or laughing gas)
+Peptidoglycan in the cell wall of these organisms can be observed by Gram staining. For 10 points each,
+Name this domain of microorganisms. Humans have beneficial types living in the gut and on skin.
+Some harmless strains of this bacteria are found in the lower intestines, where they help produce vitamin K. Unfortunately, other strains can cause food poisoning.
+E. coli is classified as a bacillus, which has this shape. This shape is in contrast to the spherical shape of cocci [COX-i].
+bacteria
+Escherichia coli
+rod-shaped
+Electroplating uses this process to coat an electrode with another metal. For 10 points each,
+Name this process in which an atom or ion gains electrons. Its opposite is oxidation.
+In a voltaic [vol-TAY-ic] cell, reduction takes place at this positively-charged electrode, as opposed to an anode, where oxidation takes place.
+Iron is reduced to iron oxide in this corrosive process, which often takes place in the presence of acid or water.
+reduction
+cathode
+rusting (or word forms)
+For 10 points each, answer some questions about quantum physics.
+This is the only atom for which an exact quantum mechanical solution exists. It is comprised of one proton and one electron.
+The quantum hydrogen atom is based on a solution to this equation of quantum mechanics that describes how a wave function changes over time. Its namesake also had a famous thought experiment regarding a cat.
+This constant, symbolized lowercase h, appears in many quantum phenomena such as the Heisenberg uncertainty principle. It is the ratio of the energy and frequency of a photon of light.
+hydrogen atom (accept H)
+Schrodinger equation (accept Schrodinger’s cat)
+Planck’s constant
+The Bailey-Borwein-Plouffe formula can compute the nth digit of pi without first calculating the n minus 1 digits that come before, but the formula requires the use of this number base. For 10 points each,
+Name this number base. A single digit in this base is equivalent to a four-digit number in binary, and like binary, it's often used in computing.
+The largest possible digit in binary is 1, and the largest possible digit in decimal is 9. This is the largest possible hexadecimal digit, corresponding to the base-ten number 15.
+In HTML, a six-hexadecimal-digit number is used to express colors in the RGB system; for example, six zeroes indicate black. What color does FF0000 [F-F-zero-zero-zero-zero] indicate?
+hexadecimal or base-16
+F
+red
+In May 2014, NASA announced that this entity has shrunk to half its former size. For 10 points each:
+Name this large anticyclonic storm in its planet’s South Tropical Zone. It is around twice the size of Earth and its notable color is thought to be produced from phosphorus or sulfur compounds.
+The Great Red Spot is found on this largest planet of the Solar System.
+The Great Red Spot was first described in 1665 by this scientist. This astronomer also discovered four moons of Saturn, and the largest gap in Saturn’s rings is named for him.
+Great Red Spot
+Jupiter
+Giovanni Domenico Cassini
+This process requires the enzyme RNA polymerase and pairs adenine with uracil. For 10 points each,
+Name this process in which DNA is used as template for synthesizing a complementary strand of messenger RNA.
+Transcription in bacteria is organized around these blocks of genes with a single switch that can be turned off by a repressor protein. The lac [LACK] and trp [TRIP] ones are found in E. coli.
+Operons and eukaryotic genes are always preceded by this type of DNA sequence where the RNA polymerase attaches. The TATA box is commonly found within this region of DNA.
+transcription
+operons
+promoter
+The cyclic structure of this molecule was proposed by Friedrich August Kekulé after he dreamed of a snake eating its own tail. For 10 points each,
+Name this aromatic molecule with formula C6H6.
+Benzene’s relative lack of hydrogens is explained by the presence of three of these stable bonds that alternate with single bonds in the ring.
+However, benzene’s double bonds are only theoretical; instead, the overlapping of these orbitals, weaker than the similar sigma orbitals, gives benzene its cyclic nature.
+benzene
+double bond
+pi orbital
+As these large bodies scrape across mountains and landscape, they generate rocky debris known as till. For 10 points each,
+Give this term for a large, land-based mass of ice.
+A glacier moving into a valley near the sea can cut one of these inlets with steep cliffs into the rock. This geographic feature is often seen in Scandinavia, especially Norway.
+Glacial movement can also generate these amphitheater-shaped valleys, usually known by a French name. These features become tarns when they fill with water.
+glacier
+fjord
+cirque (or corrie or cwm [COOM])
+White-tailed deer and white-footed mice are a natural reservoir of this disease. For 10 points each,
+Name this infectious disease, usually contracted outdoors, that is identified by its characteristic bull’s-eye rash pattern.
+Lyme disease is harbored by the deer variety of this blood-sucking organism, which can be removed using tweezers.
+Ticks, rats, and mosquitoes are described by this term, an infected animal that spreads pathogens to other organisms.
+Lyme disease
+tick
+vector
+This type of complex number is a reflection over the real axis, because it is constructed by negating the imaginary part of the original complex number. For 10 points each,
+Give this term, which describes the relationship between the complex numbers a plus b i and a minus b i.
+Similarly, the conjugate of a binomial, such as a plus b, is constructed by changing the addition to subtraction. If a binomial is multiplied by its conjugate, this form is the result.
+Finding the Hermitian conjugate of one of these rectangular arrays of numbers involves taking the complex conjugate of each of its elements and reflecting it over the main diagonal. Two of these objects can be added together only if they have the same number of rows and the same number of columns.
+complex conjugate
+difference of squares (or a squared minus b squared)
+matrix (or matrices)
+This phenomenon can occur twice in birefringent materials. For 10 points each,
+Name this phenomenon in which a wave changes direction as it enters another medium. A straw appears broken in a glass of water because of this phenomenon.
+A material’s index of refraction is the ratio of this quantity in the medium to this quantity in a vacuum. In a vacuum, it is approximately equal to 3 × 108 meters per second.
+This law relates the ratio of the sines of the angles of incidence and refraction to the ratio of two indices of refraction.
+refraction
+speed of light (accept c)
+Snell’s law
+The potency of these cells describes their ability to differentiate; the totipotent type has the largest ability. For 10 points each,
+Name this class of undifferentiated cells that have the ability to become all the specialized cell types of the body.
+Controversy arises when stem cells are harvested from this earliest developmental stage that precedes the fetus.
+Pluripotent embryonic stem cells are unable to become this organ, which is essential for gas exchange and waste removal between the fetus and its mother.
+stem cells
+embryo
+placenta
+These kinds of properties include boiling-point elevation, freezing-point depression, and osmotic [ahs- MAH-tic] pressure. For 10 points each,
+Name these kinds of properties which are affected by the number but not the type of molecules in solution.
+This colligative property is governed by Raoult's [rah-OOLTs] law and is lowered when a nonvolatile solute is added to a solution.
+This measure of concentration is multiplied by a constant when computing boiling-point elevation or freezing-point depression. It is defined as moles of solute per kilogram of solvent.
+colligative properties [co-LIG-a-tive properties]
+vapor pressure
+molality (do not accept molarity or normality)
+These structures exist under the vadose zone in the phreatic zone, which begins at the water table. For 10 points each,
+Give this term for a layer of rocky material, often gravel or sand, from which water can be harvested.
+Water can be harvested by digging or drilling one of these structures, then installing a pump or using buckets to bring the water to the surface. These may be called Artesian if simple pressure forces the water up.
+This material, a sediment whose particles are smaller than sand, is another common bearer of water in an aquifer. This material is commonly found in river water and deposited at the mouths of rivers.
+aquifers
+wells
+silt
+This value for x will be greater than 1 if and only if x is between 0 and 1. For 10 points each,
+Give this term for the multiplicative inverse of a number, often used in the context of fractions. For example, this value for seven is one-seventh.
+Two numbers have the unique property that they are their own reciprocal; that is, that one over x equals x. Find both of those numbers.
+This is the only positive number that is equal to exactly one more than its reciprocal. It's also equal to the continued nesting fraction 1 plus 1 over 1 plus 1 over... and to the continued nesting root 1 plus the square root of 1 plus the square root of....
+reciprocal (prompt on "one over x" or any similar description)
+one and negative one (both answers required; prompt on single answer, but do not permit stalling)
+phi or the golden ratio (accept “mean,” “cut,” “section,” or “proportion” in place of “ratio;” accept Mean of Phidias; accept Divine Proportion; accept “1 plus the square root of 5, all over 2”)

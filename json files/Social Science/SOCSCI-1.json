@@ -1,0 +1,285 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 4,
+    "num_bonuses_shown": 4,
+    "bonuses": [
+      {
+        "id": 31549,
+        "number": 18,
+        "round": "1",
+        "category_id": 22,
+        "subcategory_id": 73,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, give the following about the work of Emile Durkheim.",
+        "created_at": "2018-08-02T15:50:55.555Z",
+        "updated_at": "2020-09-30T22:05:41.628Z",
+        "formatted_leadin": "For 10 points each, give the following about the work of Emile Durkheim.",
+        "texts": [
+          "Durkheim sought to create a purely scientific approach to this social science, the study of human behavior in group settings.",
+          "Durkheim's most famous sociological study dealt with this phenomenon, the intentional ending of one's own life. Durkheim's study showed that, among other comparisons, soldiers performed it more often than civilians.",
+          "In Suicide, Durkheim sought to explain his finding that members of this religion were less likely to commit suicide than members of Protestant religions."
+        ],
+        "answers": [
+          "sociology",
+          "suicide",
+          "(Roman) Catholicism (accept word forms)"
+        ],
+        "formatted_texts": [
+          "Durkheim sought to create a purely scientific approach to this social science, the study of human behavior in group settings.",
+          "Durkheim's most famous sociological study dealt with this phenomenon, the intentional ending of one's own life. Durkheim's study showed that, among other comparisons, soldiers performed it more often than civilians.",
+          "In <em>Suicide</em>, Durkheim sought to explain his finding that members of this religion were less likely to commit suicide than members of Protestant religions."
+        ],
+        "formatted_answers": [
+          "<strong>sociology</strong>",
+          "<strong>suicide</strong>",
+          "(Roman) <strong>Catholicism</strong> (accept word forms)"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31549",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+          "id": 73,
+          "name": "Social Science Sociology",
+          "created_at": "2017-09-12T02:14:20.099Z",
+          "updated_at": "2017-09-12T02:14:20.099Z",
+          "url": "https://www.quizdb.org/api/subcategories/73"
+        }
+      },
+      {
+        "id": 31574,
+        "number": 3,
+        "round": "3",
+        "category_id": 22,
+        "subcategory_id": 56,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This quantity was designed in the aftermath of the Great Depression to measure the recovery of the United States' economic power. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.748Z",
+        "updated_at": "2020-09-30T22:06:05.376Z",
+        "formatted_leadin": "This quantity was designed in the aftermath of the Great Depression to measure the recovery of the United States' economic power. For 10 points each,",
+        "texts": [
+          "Name this measurement of the total value of all goods and services produced within a country in a year.",
+          "The expenditure method of calculating GDP includes the amount of private spending, commonly referred to by this term. This component of GDP includes the value of purchased goods and services, but not the value of new houses or business equipment, which are instead considered investment.",
+          "GDP also includes the net amount of this trade activity, the shipping of goods to foreign countries."
+        ],
+        "answers": [
+          "Gross Domestic Product (do not accept gross national product or GNP)",
+          "consumption",
+          "net exports (accept word forms like exportation)"
+        ],
+        "formatted_texts": [
+          "Name this measurement of the total value of all goods and services produced within a country in a year.",
+          "The expenditure method of calculating GDP includes the amount of private spending, commonly referred to by this term. This component of GDP includes the value of purchased goods and services, but not the value of new houses or business equipment, which are instead considered investment.",
+          "GDP also includes the net amount of this trade activity, the shipping of goods to foreign countries."
+        ],
+        "formatted_answers": [
+          "<strong>G</strong>ross <strong>D</strong>omestic <strong>P</strong>roduct (do not accept gross national product or GNP)",
+          "<strong>consumption</strong>",
+          "net <strong>export</strong>s (accept word forms like <strong>exportation</strong>)"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31574",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+          "id": 56,
+          "name": "Social Science Economics",
+          "created_at": "2017-09-03T03:05:14.956Z",
+          "updated_at": "2017-09-03T03:05:14.956Z",
+          "url": "https://www.quizdb.org/api/subcategories/56"
+        }
+      },
+      {
+        "id": 31605,
+        "number": 14,
+        "round": "4",
+        "category_id": 22,
+        "subcategory_id": 71,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The Flynn effect notes that this quantity is generally increasing over time, and so tests measuring it must be re-calibrated every so often to keep the average score at 100. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.589Z",
+        "updated_at": "2020-09-30T22:06:27.775Z",
+        "formatted_leadin": "The Flynn effect notes that this quantity is generally increasing over time, and so tests measuring it must be re-calibrated every so often to keep the average score at 100. For 10 points each,",
+        "texts": [
+          "Name this quantity, which, surprisingly, only has a moderate correlation with performance on standardized achievement tests.",
+          "An early IQ test based on the Binet scale was developed by researchers at this California university, for which the test is now named.",
+          "A raw score of 130, corresponding to a z-score of 2.00, on the Stanford-Binet test is just shy of the required number to qualify for membership in this largest society for high-IQ individuals, founded in England in 1946."
+        ],
+        "answers": [
+          "Intelligence Quotient (prompt on \"intelligence\" alone)",
+          "Stanford-Binet test",
+          "Mensa International"
+        ],
+        "formatted_texts": [
+          "Name this quantity, which, surprisingly, only has a moderate correlation with performance on standardized achievement tests.",
+          "An early IQ test based on the Binet scale was developed by researchers at this California university, for which the test is now named.",
+          "A raw score of 130, corresponding to a z-score of 2.00, on the Stanford-Binet test is just shy of the required number to qualify for membership in this largest society for high-IQ individuals, founded in England in 1946."
+        ],
+        "formatted_answers": [
+          "<strong>I</strong>ntelligence <strong>Q</strong>uotient (prompt on \"intelligence\" alone)",
+          "<strong>Stanford</strong>-Binet test",
+          "<strong>Mensa</strong> International"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31605",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+          "id": 71,
+          "name": "Social Science Psychology",
+          "created_at": "2017-09-10T04:27:40.179Z",
+          "updated_at": "2017-09-10T04:27:40.179Z",
+          "url": "https://www.quizdb.org/api/subcategories/71"
+        }
+      },
+      {
+        "id": 31671,
+        "number": 20,
+        "round": "7",
+        "category_id": 22,
+        "subcategory_id": 56,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This economic concept can be illustrated by spending a Saturday playing quizbowl, as that's one fewer day you could spend doing homework, working a part-time job, or relaxing with friends. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.690Z",
+        "updated_at": "2020-09-30T22:07:30.729Z",
+        "formatted_leadin": "This economic concept can be illustrated by spending a Saturday playing quizbowl, as that's one fewer day you could spend doing homework, working a part-time job, or relaxing with friends. For 10 points each,",
+        "texts": [
+          "Give this two word term that describes the value lost in a trade-off by choosing to spend resources on a different option.",
+          "Opportunity cost is often described in economics by the food-related catchphrase that \"there is no such thing as\" one of these.",
+          "Someone who does receive a lunch at no cost is said to be a \"free rider,\" benefiting from someone else's paying of the cost of the lunch. This \"tragedy\" is a scenario where free lunches, or other public goods, are exploited by individuals who don't replenish whatever resource is providing them."
+        ],
+        "answers": [
+          "opportunity cost",
+          "a free lunch",
+          "tragedy of the commons"
+        ],
+        "formatted_texts": [
+          "Give this two word term that describes the value lost in a trade-off by choosing to spend resources on a different option.",
+          "Opportunity cost is often described in economics by the food-related catchphrase that \"there is no such thing as\" one of these.",
+          "Someone who does receive a lunch at no cost is said to be a \"free rider,\" benefiting from someone else's paying of the cost of the lunch. This \"tragedy\" is a scenario where free lunches, or other public goods, are exploited by individuals who don't replenish whatever resource is providing them."
+        ],
+        "formatted_answers": [
+          "<strong>opportunity cost</strong>",
+          "a <strong>free lunch</strong>",
+          "tragedy of the <strong>commons</strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31671",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 22,
+          "name": "Social Science",
+          "created_at": "2017-08-27T19:30:45.898Z",
+          "updated_at": "2017-08-27T19:30:45.898Z",
+          "url": "https://www.quizdb.org/api/categories/22"
+        },
+        "subcategory": {
+          "id": 56,
+          "name": "Social Science Economics",
+          "created_at": "2017-09-03T03:05:14.956Z",
+          "updated_at": "2017-09-03T03:05:14.956Z",
+          "url": "https://www.quizdb.org/api/subcategories/56"
+        }
+      }
+    ]
+  }
+}

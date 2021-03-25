@@ -1,0 +1,3042 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 48,
+    "num_bonuses_shown": 48,
+    "bonuses": [
+      {
+        "id": 40935,
+        "number": 1,
+        "round": "9",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 401,
+        "leadin": "Miles Davis tells producer Bob Weinstock \"I'll play it and tell you what it is later\" at the start of this song on his <em>Walkin'</em>, which made it a jazz standard. For 10 points each:",
+        "created_at": "2019-10-14T22:50:32.869Z",
+        "updated_at": "2019-10-14T22:50:32.869Z",
+        "formatted_leadin": "Miles Davis tells producer Bob Weinstock \"I'll play it and tell you what it is later\" at the start of this song on his <em>Walkin'</em>, which made it a jazz standard. For 10 points each:",
+        "texts": [
+          "Name this Frank Loesser song which Sister Sarah sings upon falling in love with the gambler Sky. Its title phrase is followed by the prediction \"I'd be ringing.\"",
+          "\"If I Were a Bell\" comes from this Frank Loesser musical. Its title song pokes fun at various things men \"only do\" for \"some [woman].\"",
+          "Loesser wrote \"Adelaide\" specifically for this actor, who played Nathan Detroit in the film version of Guys and Dolls. He often performed the \"Theme from New York, New York\" as a duet with Liza Minelli."
+        ],
+        "answers": [
+          "\"If I Were a Bell\"",
+          "Guys and Dolls",
+          "Frank Sinatra [or Francis Albert Sinatra]  &lt;Smith, Fine Arts - Miscellaneous&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Frank Loesser song which Sister Sarah sings upon falling in love with the gambler Sky. Its title phrase is followed by the prediction \"I'd be ringing.\"",
+          "\"If I Were a Bell\" comes from this Frank Loesser musical. Its title song pokes fun at various things men \"only do\" for \"some [woman].\"",
+          "Loesser wrote \"Adelaide\" specifically for this actor, who played Nathan Detroit in the film version of <em>Guys and Dolls</em>. He often performed the \"Theme from New York, New York\" as a duet with Liza Minelli."
+        ],
+        "formatted_answers": [
+          "\"<strong>If I Were a Bell</strong>\"",
+          "<em><strong>Guys and Dolls</strong></em>",
+          "Frank <strong>Sinatra</strong> [or Francis Albert <strong>Sinatra</strong>]  &lt;Smith, Fine Arts - Miscellaneous&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/40935",
+        "type": "bonus",
+        "tournament": {
+          "id": 401,
+          "year": 2019,
+          "name": "2019 PACE NSC",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2316/",
+          "created_at": "2019-10-14T22:49:44.083Z",
+          "updated_at": "2019-10-14T22:49:44.083Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/401"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 40838,
+        "number": 9,
+        "round": "4",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 401,
+        "leadin": "This garment gained popularity in the US when it was featured on <em>Soul Train</em>. For 10 points each:",
+        "created_at": "2019-10-14T22:50:14.547Z",
+        "updated_at": "2019-10-14T22:50:14.547Z",
+        "formatted_leadin": "This garment gained popularity in the US when it was featured on <em>Soul Train</em>. For 10 points each:",
+        "texts": [
+          "Name this colorful West African pullover cotton garment often worn with a Kufi cap. Unlike an Ethiopian suit, it lacks a collar.",
+          "While campaigning for mayor in this city, Marion Barry wore a dashiki. This home to K Street has electoral votes but no voting members of Congress.",
+          "Another dashiki wearer was this basketball star who sometimes went by the name Felton X. This Celtics legend faced racism from Boston fans but became the NBA's first black head coach in 1966."
+        ],
+        "answers": [
+          "dashiki [accept danshiki]",
+          "Washington, D.C. [accept D.C. or District of Columbia]",
+          "Bill Russell [accept William Felton Russell]  &lt;Bentley, Other - Other Academic and General Knowledge&gt;"
+        ],
+        "formatted_texts": [
+          "Name this colorful West African pullover cotton garment often worn with a Kufi cap. Unlike an Ethiopian suit, it lacks a collar.",
+          "While campaigning for mayor in this city, Marion Barry wore a dashiki. This home to K Street has electoral votes but no voting members of Congress.",
+          "Another dashiki wearer was this basketball star who sometimes went by the name Felton X. This Celtics legend faced racism from Boston fans but became the NBA's first black head coach in 1966."
+        ],
+        "formatted_answers": [
+          "<strong>dashiki</strong> [accept <strong>danshiki</strong>]",
+          "<strong>Washington</strong>, D.C. [accept <strong>D.C.</strong> or <strong>District of Columbia</strong>]",
+          "Bill <strong>Russell</strong> [accept William Felton <strong>Russell</strong>]  &lt;Bentley, Other - Other Academic and General Knowledge&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/40838",
+        "type": "bonus",
+        "tournament": {
+          "id": 401,
+          "year": 2019,
+          "name": "2019 PACE NSC",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2316/",
+          "created_at": "2019-10-14T22:49:44.083Z",
+          "updated_at": "2019-10-14T22:49:44.083Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/401"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 41166,
+        "number": 1,
+        "round": "20 - TB 2",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 401,
+        "leadin": "The U.K. and U.S. versions of this film censored an image of a penis from a montage in which a projector displays images from a comic silent film and a crucifixion. For 10 points each:",
+        "created_at": "2019-10-14T22:52:03.879Z",
+        "updated_at": "2019-10-14T22:52:03.879Z",
+        "formatted_leadin": "The U.K. and U.S. versions of this film censored an image of a penis from a montage in which a projector displays images from a comic silent film and a crucifixion. For 10 points each:",
+        "texts": [
+          "Name this film which contains a split screen shot in which the face of a nurse played by Bibi Andersson is combined with that of an actress portrayed by Liv Ullman.",
+          "Persona is by this Swedish director who often collaborated with Max von Sydow (\"SIH-dov\"). His other films include Wild Strawberries and The Seventh Seal.",
+          "In The Seventh Seal, a knight played by von Sydow engages in this activity with Death. Steven Zaillian's directorial debut is about \"Searching For\" a title expert in this activity."
+        ],
+        "answers": [
+          "Persona",
+          "Ingmar Bergman [or Ernst Ingmar Bergman]",
+          "playing chess [accept answers that refer to chess; prompt on playing games] (Zaillian's directorial debut was Searching for Bobby Fischer.)  &lt;Smith, Fine Arts - Film&gt;"
+        ],
+        "formatted_texts": [
+          "Name this film which contains a split screen shot in which the face of a nurse played by Bibi Andersson is combined with that of an actress portrayed by Liv Ullman.",
+          "<em>Persona</em> is by this Swedish director who often collaborated with Max von Sydow (\"SIH-dov\"). His other films include <em>Wild Strawberries</em> and <em>The Seventh Seal</em>.",
+          "In <em>The Seventh Seal</em>, a knight played by von Sydow engages in this activity with Death. Steven Zaillian's directorial debut is about \"Searching For\" a title expert in this activity."
+        ],
+        "formatted_answers": [
+          "<em><strong>Persona</strong></em>",
+          "Ingmar <strong>Bergman</strong> [or Ernst Ingmar <strong>Bergman</strong>]",
+          "playing <strong>chess</strong> [accept answers that refer to <strong>chess</strong>; prompt on playing games] (Zaillian's directorial debut was <em>Searching for Bobby Fischer</em>.)  &lt;Smith, Fine Arts - Film&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/41166",
+        "type": "bonus",
+        "tournament": {
+          "id": 401,
+          "year": 2019,
+          "name": "2019 PACE NSC",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2316/",
+          "created_at": "2019-10-14T22:49:44.083Z",
+          "updated_at": "2019-10-14T22:49:44.083Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/401"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 41148,
+        "number": 4,
+        "round": "19 - TB 1",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 401,
+        "leadin": "In an essay on <em>Citizen Kane</em>, Pauline Kael wrote that the influence of holders of this position is overstated. For 10 points each:",
+        "created_at": "2019-10-14T22:50:59.697Z",
+        "updated_at": "2019-10-14T22:50:59.697Z",
+        "formatted_leadin": "In an essay on <em>Citizen Kane</em>, Pauline Kael wrote that the influence of holders of this position is overstated. For 10 points each:",
+        "texts": [
+          "Identify this job held by such luminaries as Alfred Hitchcock and Orson Welles. Its holder is often said to be responsible for a film's \"vision.\"",
+          "Kael was arguing against this theory from French film criticism, which holds that the artistic role of directors producing films is similar to that of writers producing fiction.",
+          "One argument for the director's importance is that he or she is responsible for this task of positioning the actors in a scene. Directors are often concerned with creating effective sight lines for the audience during this process."
+        ],
+        "answers": [
+          "film director [accept directing]",
+          "auteur (\"oh-TUR\") theory",
+          "blocking  &lt;Jose, Fine Arts - Film&gt;"
+        ],
+        "formatted_texts": [
+          "Identify this job held by such luminaries as Alfred Hitchcock and Orson Welles. Its holder is often said to be responsible for a film's \"vision.\"",
+          "Kael was arguing against this theory from French film criticism, which holds that the artistic role of directors producing films is similar to that of writers producing fiction.",
+          "One argument for the director's importance is that he or she is responsible for this task of positioning the actors in a scene. Directors are often concerned with creating effective sight lines for the audience during this process."
+        ],
+        "formatted_answers": [
+          "film <strong>director</strong> [accept <strong>directing</strong>]",
+          "<strong>auteur</strong> (\"oh-TUR\") theory",
+          "<strong>block</strong>ing  &lt;Jose, Fine Arts - Film&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/41148",
+        "type": "bonus",
+        "tournament": {
+          "id": 401,
+          "year": 2019,
+          "name": "2019 PACE NSC",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2316/",
+          "created_at": "2019-10-14T22:49:44.083Z",
+          "updated_at": "2019-10-14T22:49:44.083Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/401"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 41025,
+        "number": 7,
+        "round": "13",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 401,
+        "leadin": "This word appears on the left-hand side of each of four paintings in Kerry James Marshall's <em>Vignette</em> series. For 10 points each:",
+        "created_at": "2019-10-14T22:50:46.304Z",
+        "updated_at": "2019-10-14T22:50:46.304Z",
+        "formatted_leadin": "This word appears on the left-hand side of each of four paintings in Kerry James Marshall's <em>Vignette</em> series. For 10 points each:",
+        "texts": [
+          "Identify this word also frequently used in sculptures by Robert Indiana. One of those Indiana sculptures of this name names a park in Philadelphia.",
+          "During the 2008 presidential campaign, Indiana created HOPE sculptures inspired by this artist's iconic Hope poster of Barack Obama. This street artist also created the OBEY Giant series.",
+          "In 1973, Indiana's LOVE design was adapted to one of these objects worth 8 cents. These objects are collected by philatelists."
+        ],
+        "answers": [
+          "LOVE",
+          "Shepard Fairey [accept Frank Shepard Fairey]",
+          "postage stamps [accept US postage stamps]  &lt;Bentley, Fine Arts - Miscellaneous&gt;"
+        ],
+        "formatted_texts": [
+          "Identify this word also frequently used in sculptures by Robert Indiana. One of those Indiana sculptures of this name names a park in Philadelphia.",
+          "During the 2008 presidential campaign, Indiana created <em>HOPE</em> sculptures inspired by this artist's iconic <em>Hope</em> poster of Barack Obama. This street artist also created the <em>OBEY Giant</em> series.",
+          "In 1973, Indiana's <em>LOVE</em> design was adapted to one of these objects worth 8 cents. These objects are collected by philatelists."
+        ],
+        "formatted_answers": [
+          "<strong>LOVE</strong>",
+          "Shepard <strong>Fairey</strong> [accept Frank Shepard <strong>Fairey</strong>]",
+          "postage <strong>stamp</strong>s [accept US postage <strong>stamp</strong>s]  &lt;Bentley, Fine Arts - Miscellaneous&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/41025",
+        "type": "bonus",
+        "tournament": {
+          "id": 401,
+          "year": 2019,
+          "name": "2019 PACE NSC",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2316/",
+          "created_at": "2019-10-14T22:49:44.083Z",
+          "updated_at": "2019-10-14T22:49:44.083Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/401"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 41014,
+        "number": 17,
+        "round": "12",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 401,
+        "leadin": "In 1979, a computer program written to play this game by Hans Berliner defeated a champion in it, the first time that a computer beat a human in an intellectual competition. For 10 points each:",
+        "created_at": "2019-10-14T22:50:45.739Z",
+        "updated_at": "2019-10-14T22:50:45.739Z",
+        "formatted_leadin": "In 1979, a computer program written to play this game by Hans Berliner defeated a champion in it, the first time that a computer beat a human in an intellectual competition. For 10 points each:",
+        "texts": [
+          "Name this game. A board for this game can be seen on the left-hand side of Caravaggio's The Cardsharps.",
+          "In 1997, a computer built by this company called Deep Blue defeated Garry Kasparov in a chess match. This company's Watson competed on Jeopardy!",
+          "Google's AlphaGo program makes moves after performing many traversals of these objects. In machine learning, boosting is a technique to combine \"decision\" examples of these objects together."
+        ],
+        "answers": [
+          "backgammon",
+          "IBM [accept International Business Machines Corporations]",
+          "trees [accept decision trees or boosted decision trees]  &lt;Bentley, Other - Other Academic and General Knowledge&gt;"
+        ],
+        "formatted_texts": [
+          "Name this game. A board for this game can be seen on the left-hand side of Caravaggio's <em>The Cardsharps</em>.",
+          "In 1997, a computer built by this company called Deep Blue defeated Garry Kasparov in a chess match. This company's Watson competed on <em>Jeopardy!</em>",
+          "Google's AlphaGo program makes moves after performing many traversals of these objects. In machine learning, boosting is a technique to combine \"decision\" examples of these objects together."
+        ],
+        "formatted_answers": [
+          "<strong>backgammon</strong>",
+          "<strong>IBM</strong> [accept <strong>International Business Machines</strong> Corporations]",
+          "<strong>tree</strong>s [accept decision <strong>tree</strong>s or boosted decision <strong>tree</strong>s]  &lt;Bentley, Other - Other Academic and General Knowledge&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/41014",
+        "type": "bonus",
+        "tournament": {
+          "id": 401,
+          "year": 2019,
+          "name": "2019 PACE NSC",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2316/",
+          "created_at": "2019-10-14T22:49:44.083Z",
+          "updated_at": "2019-10-14T22:49:44.083Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/401"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 40859,
+        "number": 9,
+        "round": "5",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 401,
+        "leadin": "These objects replaced a pair of silver ones from L. Frank Baum's original novel and were used to show off the Technicolor process. For 10 points each:",
+        "created_at": "2019-10-14T22:50:15.478Z",
+        "updated_at": "2019-10-14T22:50:15.478Z",
+        "formatted_leadin": "These objects replaced a pair of silver ones from L. Frank Baum's original novel and were used to show off the Technicolor process. For 10 points each:",
+        "texts": [
+          "Give both the color and type of clothing of these objects. In The Wizard of Oz they are worn by Dorothy, who taps them together to return to Kansas.",
+          "These two British men directed and produced a 1948 adaptation of a Hans Christian Andersen story titled The Red Shoes. Their other films include Black Narcissus.",
+          "Jodie Foster wore a pair of red wedges in her portrayal of the teenager Iris in this film. In one of its iconic scenes, Robert de Niro's character looks into a mirror and asks \"You talkin' to me?\""
+        ],
+        "answers": [
+          "red shoes [accept slippers in place of \"shoes\"; accept ruby in place of \"red\"]",
+          "Michael Powell AND Emeric Pressburger [accept Powell &amp; Pressburger; accept The Archers]",
+          "Taxi Driver (by Martin Scorsese.)  &lt;Alston, Fine Arts - Film&gt;"
+        ],
+        "formatted_texts": [
+          "Give both the color and type of clothing of these objects. In <em>The Wizard of Oz</em> they are worn by Dorothy, who taps them together to return to Kansas.",
+          "These two British men directed and produced a 1948 adaptation of a Hans Christian Andersen story titled <em>The Red Shoes</em>. Their other films include <em>Black Narcissus</em>.",
+          "Jodie Foster wore a pair of red wedges in her portrayal of the teenager Iris in this film. In one of its iconic scenes, Robert de Niro's character looks into a mirror and asks \"You talkin' to me?\""
+        ],
+        "formatted_answers": [
+          "<strong>red shoe</strong>s [accept <strong>slipper</strong>s in place of \"shoes\"; accept <strong>ruby</strong> in place of \"red\"]",
+          "Michael <strong>Powell</strong> AND Emeric <strong>Pressburger</strong> [accept <strong>Powell &amp; Pressburger</strong>; accept The <strong>Archers</strong>]",
+          "<em><strong>Taxi Driver</strong></em> (by Martin Scorsese.)  &lt;Alston, Fine Arts - Film&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/40859",
+        "type": "bonus",
+        "tournament": {
+          "id": 401,
+          "year": 2019,
+          "name": "2019 PACE NSC",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2316/",
+          "created_at": "2019-10-14T22:49:44.083Z",
+          "updated_at": "2019-10-14T22:49:44.083Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/401"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 40913,
+        "number": 21,
+        "round": "7",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 401,
+        "leadin": "The person who used this phrase presented an apocalyptic vision of a city with chocolate fountains and a tree of life to his followers. For 10 points each:",
+        "created_at": "2019-10-14T22:50:31.212Z",
+        "updated_at": "2019-10-14T22:50:31.212Z",
+        "formatted_leadin": "The person who used this phrase presented an apocalyptic vision of a city with chocolate fountains and a tree of life to his followers. For 10 points each:",
+        "texts": [
+          "Give this two-word phrase taken from a Beatles song that describes a future war arising from racial tension. It was used by a fanatic to goad his associates into committing murder.",
+          "The phrase Helter Skelter was used by this murderer, whose namesake \"family\" killed Sharon Tate and others in the 1960s.",
+          "This member of the Manson family went to junior high school with Simpsons voice actor Phil Hartman. She served 34 years in prison after attempting to assassinate President Gerald Ford in Sacramento."
+        ],
+        "answers": [
+          "Helter Skelter",
+          "Charles Manson [or Charles Milles Manson; or Charles Maddox; accept Manson Family]",
+          "Squeaky Fromme [or Lynette Alice Fromme]  &lt;Jose, History - American&gt;"
+        ],
+        "formatted_texts": [
+          "Give this two-word phrase taken from a Beatles song that describes a future war arising from racial tension. It was used by a fanatic to goad his associates into committing murder.",
+          "The phrase Helter Skelter was used by this murderer, whose namesake \"family\" killed Sharon Tate and others in the 1960s.",
+          "This member of the Manson family went to junior high school with <em>Simpsons</em> voice actor Phil Hartman. She served 34 years in prison after attempting to assassinate President Gerald Ford in Sacramento."
+        ],
+        "formatted_answers": [
+          "<strong>Helter Skelter</strong>",
+          "Charles <strong>Manson</strong> [or Charles Milles <strong>Manson</strong>; or Charles <strong>Maddox</strong>; accept <strong>Manson</strong> Family]",
+          "Squeaky <strong>Fromme</strong> [or Lynette Alice <strong>Fromme</strong>]  &lt;Jose, History - American&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/40913",
+        "type": "bonus",
+        "tournament": {
+          "id": 401,
+          "year": 2019,
+          "name": "2019 PACE NSC",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2316/",
+          "created_at": "2019-10-14T22:49:44.083Z",
+          "updated_at": "2019-10-14T22:49:44.083Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/401"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 42860,
+        "number": 3,
+        "round": "4",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "For 10 points each, name some things about lockouts.",
+        "created_at": "2020-05-18T01:27:40.876Z",
+        "updated_at": "2020-05-18T01:27:40.876Z",
+        "formatted_leadin": "For 10 points each, name some things about lockouts.",
+        "texts": [
+          "In 2011, there was a lockout of this league when players wanted to keep the soft salary cap and increase their basketball related income. Players in this league include LeBron James and Dwyane Wade.",
+          "One year later, in 2012, the NHL owners, led by this current commissioner, wanted to, among other things, limit salary arbitration. This current NHL commissioner has overseen three lockouts in his tenure.",
+          "Also in 2012, these people had their own lockout due to a failure to agree over a collective bargaining agreement. The replacements of these people were criticized for their poor calls, such as the “Fail Mary.”"
+        ],
+        "answers": [
+          "National Basketball Association [or NBA]",
+          "Gary Bettman",
+          "NFL referees [accept equivalents such as refs and officials] &lt;BC&gt;"
+        ],
+        "formatted_texts": [
+          "In 2011, there was a lockout of this league when players wanted to keep the soft salary cap and increase their basketball related income. Players in this league include LeBron James and Dwyane Wade.",
+          "One year later, in 2012, the NHL owners, led by this current commissioner, wanted to, among other things, limit salary arbitration. This current NHL commissioner has overseen three lockouts in his tenure.",
+          "Also in 2012, these people had their own lockout due to a failure to agree over a collective bargaining agreement. The replacements of these people were criticized for their poor calls, such as the “Fail Mary.”"
+        ],
+        "formatted_answers": [
+          "<strong>N</strong>ational <strong>B</strong>asketball <strong>A</strong>ssociation [or <strong>NBA</strong>]",
+          "Gary <strong>Bettman</strong>",
+          "NFL <strong>referees</strong> [accept equivalents such as <strong>refs</strong> and <strong>officials</strong>] &lt;BC&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/42860",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 42951,
+        "number": 10,
+        "round": "8",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "For 10 points each, name some things about the 2018 FIFA World Cup.",
+        "created_at": "2020-05-18T01:28:13.787Z",
+        "updated_at": "2020-05-18T01:28:13.787Z",
+        "formatted_leadin": "For 10 points each, name some things about the 2018 FIFA World Cup.",
+        "texts": [
+          "This team won the World Cup after defeating Croatia 4-2 in the final. Players on this team include Antoine Griezmann, Olivier Giroud, and captain Hugo Lloris.",
+          "The 2018 World Cup saw the introduction of this system to review calls where officials look at a replay during the game to make decisions. The 2018 World Cup was the first major soccer tournament to fully use this system.",
+          "In the group stage, France and this team had the dubious honour of playing the only 0-0 draw in the whole tournament. This team was later eliminated by Croatia on penalties in the round of 16."
+        ],
+        "answers": [
+          "France",
+          "VAR [accept video assistant referee; prompt on anything mentioning video review or the like and ask for the specific term]",
+          "Denmark &lt;BC&gt;"
+        ],
+        "formatted_texts": [
+          "This team won the World Cup after defeating Croatia 4-2 in the final. Players on this team include Antoine Griezmann, Olivier Giroud, and captain Hugo Lloris.",
+          "The 2018 World Cup saw the introduction of this system to review calls where officials look at a replay during the game to make decisions. The 2018 World Cup was the first major soccer tournament to fully use this system.",
+          "In the group stage, France and this team had the dubious honour of playing the only 0-0 draw in the whole tournament. This team was later eliminated by Croatia on penalties in the round of 16."
+        ],
+        "formatted_answers": [
+          "<strong>France</strong>",
+          "<strong>VAR</strong> [accept <strong>video assistant referee</strong>; prompt on anything mentioning <strong>video review</strong> or the like and ask for the specific term]",
+          "<strong>Denmark</strong> &lt;BC&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/42951",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 42931,
+        "number": 11,
+        "round": "7",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "We’re far from the shallow now! For 10 points each:",
+        "created_at": "2020-05-18T01:28:11.864Z",
+        "updated_at": "2020-05-18T01:28:11.864Z",
+        "formatted_leadin": "We’re far from the shallow now! For 10 points each:",
+        "texts": [
+          "This 2018 film starring Lady Gaga and Bradley Cooper was the 3rd official remake of the original 1937 film. The lead role in different versions of this film has also been played by Judy Garland and Barbra Streisand.",
+          "When Jackson Maine first sees Ally, she is performing this song at a drag bar. This song shares a title with the biopic of its French singer, Edith Piaf.",
+          "This actor, who played Bobby Maine in A Star is Born, was nominated for the award of Best Supporting Actor at the 91st Academy Awards but lost to Mahershala Ali. His other work includes roles as The Stranger in The Big Lebowski and Thaddeus Ross in Ang Lee’s Hulk."
+        ],
+        "answers": [
+          "A Star is Born",
+          "La Vie en Rose",
+          "Sam Elliot &lt;EL&gt;"
+        ],
+        "formatted_texts": [
+          "This 2018 film starring Lady Gaga and Bradley Cooper was the 3rd official remake of the original 1937 film. The lead role in different versions of this film has also been played by Judy Garland and Barbra Streisand.",
+          "When Jackson Maine first sees Ally, she is performing this song at a drag bar. This song shares a title with the biopic of its French singer, Edith Piaf.",
+          "This actor, who played Bobby Maine in A Star is Born, was nominated for the award of Best Supporting Actor at the 91st Academy Awards but lost to Mahershala Ali. His other work includes roles as The Stranger in <em>The Big Lebowski</em> and Thaddeus Ross in Ang Lee’s <em>Hulk</em>."
+        ],
+        "formatted_answers": [
+          "<strong>A Star is Born</strong>",
+          "<strong>La Vie en Rose</strong>",
+          "Sam <strong>Elliot</strong> &lt;EL&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/42931",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 42886,
+        "number": 8,
+        "round": "5",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "For 10 points each, answer some questions about pseudonymous characters in sitcoms:",
+        "created_at": "2020-05-18T01:27:42.233Z",
+        "updated_at": "2020-05-18T01:27:42.233Z",
+        "formatted_leadin": "For 10 points each, answer some questions about pseudonymous characters in sitcoms:",
+        "texts": [
+          "According to Phoebe, this fictional person managed to diagnose Ross with a brain condition and comes from the “town” of Estée Lauder, all while having died from alcohol poisoning as a member of Thigh Mega Tampon.",
+          "This man often goes by the pseudonym Burt Macklin, an FBI agent, in the series Parks and Recreation.",
+          "On this “show about nothing,” co-created by Larry David, George Costanza often uses the fictional person of Art Vandelay, who is a latex manufacturer, an importer-exporter, and an author."
+        ],
+        "answers": [
+          "Regina Phalange [accept either underlined part]",
+          "Andy Dwyer",
+          "Seinfeld &lt;PO&gt;"
+        ],
+        "formatted_texts": [
+          "According to Phoebe, this fictional person managed to diagnose Ross with a brain condition and comes from the “town” of Estée Lauder, all while having died from alcohol poisoning as a member of Thigh Mega Tampon.",
+          "This man often goes by the pseudonym Burt Macklin, an FBI agent, in the series <em>Parks and Recreation.</em>",
+          "On this “show about nothing,” co-created by Larry David, George Costanza often uses the fictional person of Art Vandelay, who is a latex manufacturer, an importer-exporter, and an author."
+        ],
+        "formatted_answers": [
+          "<strong>Regina</strong> <strong>Phalange</strong> [accept either underlined part]",
+          "<strong>Andy</strong> <strong>Dwyer</strong>",
+          "<em><strong>Seinfeld</strong></em> &lt;PO&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/42886",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 42843,
+        "number": 7,
+        "round": "3",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "Name some things related to Clashes, for 10 points each:",
+        "created_at": "2020-05-18T01:27:40.161Z",
+        "updated_at": "2020-05-18T01:27:40.161Z",
+        "formatted_leadin": "Name some things related to Clashes, for 10 points each:",
+        "texts": [
+          "In the 2010 film Clash of the Titans, Zeus utters this memeable line, calling for a certain squidlike creature to be unleashed.",
+          "The third album of British punk band The Clash is titled “[This City] Calling.” Other than the Clash, bands from this city include the Rolling Stones, the Police, and Pink Floyd.",
+          "After sexual misconduct allegations, actor Kevin Clash was fired from the role of this muppet. Along with Cookie Monster, this muppet stars in the Sesame Street spinoff Furchester Hotel."
+        ],
+        "answers": [
+          "release the kraken",
+          "London",
+          "Elmo &lt;AJ&gt;"
+        ],
+        "formatted_texts": [
+          "In the 2010 film <em>Clash of the Titans</em>, Zeus utters this memeable line, calling for a certain squidlike creature to be unleashed.",
+          "The third album of British punk band The Clash is titled “[This City] Calling.” Other than the Clash, bands from this city include the Rolling Stones, the Police, and Pink Floyd.",
+          "After sexual misconduct allegations, actor Kevin Clash was fired from the role of this muppet. Along with Cookie Monster, this muppet stars in the <em>Sesame Street</em> spinoff <em>Furchester Hotel</em>."
+        ],
+        "formatted_answers": [
+          "<strong>release the kraken</strong>",
+          "<strong>London</strong>",
+          "<strong>Elmo</strong> &lt;AJ&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/42843",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 42826,
+        "number": 11,
+        "round": "2",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "The NFL draft is just around the corner! For 10 points each, name some big-time busts.",
+        "created_at": "2020-05-18T01:27:38.358Z",
+        "updated_at": "2020-05-18T01:27:38.358Z",
+        "formatted_leadin": "The NFL draft is just around the corner! For 10 points each, name some big-time busts.",
+        "texts": [
+          "One big-time bust was Ryan Leaf, who was taken by the Chargers in the 1998 draft instead of this former quarterback. He played for the Colts and Broncos, and has a brother who currently is quarterback for the Giants.",
+          "This former Montreal Alouettes quarterback nicknamed “Johnny Football” was drafted by the Browns in the 2014 draft. He threw four interceptions in one half on his CFL debut, and was later released in February 2018.",
+          "Another big-time bust is this former Oakland Raiders quarterback that was taken 1st in the 2007 draft ahead of Calvin Johnson. He holds the record of the lowest single season passer rating since 1998."
+        ],
+        "answers": [
+          "Peyton Manning [prompt on Manning, do not accept “Eli Manning”]",
+          "Johnny Manziel",
+          "JaMarcus Russell [accept either underlined portion] &lt;BC&gt;"
+        ],
+        "formatted_texts": [
+          "One big-time bust was Ryan Leaf, who was taken by the Chargers in the 1998 draft instead of this former quarterback. He played for the Colts and Broncos, and has a brother who currently is quarterback for the Giants.",
+          "This former Montreal Alouettes quarterback nicknamed “Johnny Football” was drafted by the Browns in the 2014 draft. He threw four interceptions in one half on his CFL debut, and was later released in February 2018.",
+          "Another big-time bust is this former Oakland Raiders quarterback that was taken 1st in the 2007 draft ahead of Calvin Johnson. He holds the record of the lowest single season passer rating since 1998."
+        ],
+        "formatted_answers": [
+          "<strong>P</strong>eyton <strong>Manning</strong> [prompt on <strong>Manning</strong>, do not accept “Eli Manning”]",
+          "Johnny <strong>Manziel</strong>",
+          "<strong>JaMarcus</strong> <strong>Russell</strong> [accept either underlined portion] &lt;BC&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/42826",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 43038,
+        "number": 13,
+        "round": "12",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "He’s not just the king of Wakanda. For 10 points each, name these historical figures who have been portrayed on film by Chadwick Boseman.",
+        "created_at": "2020-05-18T01:28:35.062Z",
+        "updated_at": "2020-05-18T01:28:35.062Z",
+        "formatted_leadin": "He’s not just the king of Wakanda. For 10 points each, name these historical figures who have been portrayed on film by Chadwick Boseman.",
+        "texts": [
+          "Boseman played this man in an eponymous biopic in which he defends the chauffeur Joseph Smalls in a rape case.",
+          "Boseman also played the main character in the film 42, a reference to this man’s number.",
+          "In the film Get on Up, Boseman played this “Godfather of Soul,” who served as the lead singer of the Famous Flames before launching a prolific solo career, releasing hits such as “Try Me” and “I Got You (I Feel Good).”"
+        ],
+        "answers": [
+          "Thurgood Marshall",
+          "Jackie Robinson [Jack Roosevelt Robinson if they are unnecessarily formal]",
+          "James Joseph Brown &lt;AJ&gt;"
+        ],
+        "formatted_texts": [
+          "Boseman played this man in an eponymous biopic in which he defends the chauffeur Joseph Smalls in a rape case.",
+          "Boseman also played the main character in the film <em>42</em>, a reference to this man’s number.",
+          "In the film <em>Get on Up</em>, Boseman played this “Godfather of Soul,” who served as the lead singer of the Famous Flames before launching a prolific solo career, releasing hits such as “Try Me” and “I Got You (I Feel Good).”"
+        ],
+        "formatted_answers": [
+          "Thurgood <strong>Marshall</strong>",
+          "Jackie <strong>Robinson</strong> [Jack Roosevelt <strong>Robinson</strong> if they are unnecessarily formal]",
+          "James Joseph <strong>Brown</strong> &lt;AJ&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/43038",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 43011,
+        "number": 7,
+        "round": "11",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "One of this man’s servants was immolated by a magic cloak meant for him. For 10 points each:",
+        "created_at": "2020-05-18T01:28:33.790Z",
+        "updated_at": "2020-05-18T01:28:33.790Z",
+        "formatted_leadin": "One of this man’s servants was immolated by a magic cloak meant for him. For 10 points each:",
+        "texts": [
+          "This son of Uther Pendragon was almost killed in a duel when his magic scabbard which healed him of wounds was stolen from him.",
+          "The most recent film adaptation of the King Arthur legend was the 2017 film King Arthur: Legend of the Sword, which was directed by this British crime director of Lock, Stock, and Two Smoking Barrels and Sherlock Holmes: A Game of Shadows.",
+          "King Arthur: Legend of the Sword was executive produced by this former Goldman Sachs banker and “Foreclosure King,” who is the current Secretary of the Treasury under President Trump."
+        ],
+        "answers": [
+          "King Arthur Pendragon",
+          "Guy Ritchie",
+          "Steven Mnuchin &lt;AJ&gt;"
+        ],
+        "formatted_texts": [
+          "This son of Uther Pendragon was almost killed in a duel when his magic scabbard which healed him of wounds was stolen from him.",
+          "The most recent film adaptation of the King Arthur legend was the 2017 film <em>King Arthur: Legend of the Sword</em>, which was directed by this British crime director of <em>Lock, Stock, and Two Smoking Barrels</em> and <em>Sherlock Holmes: A Game of Shadows.</em>",
+          "<em>King Arthur: Legend of the Sword</em> was executive produced by this former Goldman Sachs banker and “Foreclosure King,” who is the current Secretary of the Treasury under President Trump."
+        ],
+        "formatted_answers": [
+          "King <strong>Arthur</strong> Pendragon",
+          "Guy <strong>Ritchie</strong>",
+          "Steven <strong>Mnuchin</strong> &lt;AJ&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/43011",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 43003,
+        "number": 20,
+        "round": "10",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 410,
+        "leadin": "For 10 points each, answer some questions about the popular television program <em>Deadliest Warrior</em>.",
+        "created_at": "2020-05-18T01:28:15.594Z",
+        "updated_at": "2020-05-18T01:28:15.594Z",
+        "formatted_leadin": "For 10 points each, answer some questions about the popular television program <em>Deadliest Warrior</em>.",
+        "texts": [
+          "Warriors of this ethnic group faced off against the Aztec Jaguars in Season 2, Episode 4. After World War II, the British encouraged cotton cultivation among these South Sudanese people, who traditionally fought the Dinka.",
+          "These Native New Zealanders depicted in Season 1, Episode 7 signed the Treaty of Waitangi with the British Crown and perform a famed ceremonial dance known as the haka.",
+          "In Season 1, Episode 7, the Maori battle a group of monks studying this martial art. This style belonging to a namesake temple is influenced by Zen Buddhism and “is the best under heaven,” by traditional Chinese folklore."
+        ],
+        "answers": [
+          "Azande [accept Zande people]",
+          "Maori",
+          "Shaolin Kung Fu [accept Shaolin Wushu or Shaolin quan; prompt on Kung Fu or Wushu] &lt;EL&gt;"
+        ],
+        "formatted_texts": [
+          "Warriors of this ethnic group faced off against the Aztec Jaguars in Season 2, Episode 4. After World War II, the British encouraged cotton cultivation among these South Sudanese people, who traditionally fought the Dinka.",
+          "These Native New Zealanders depicted in Season 1, Episode 7 signed the Treaty of Waitangi with the British Crown and perform a famed ceremonial dance known as the haka.",
+          "In Season 1, Episode 7, the Maori battle a group of monks studying this martial art. This style belonging to a namesake temple is influenced by Zen Buddhism and “is the best under heaven,” by traditional Chinese folklore."
+        ],
+        "formatted_answers": [
+          "<strong>Azande</strong> [accept <strong>Zande</strong> people]",
+          "<strong>Maori</strong>",
+          "<strong>Shaolin Kung Fu</strong> [accept <strong>Shaolin Wushu</strong> or <strong>Shaolin quan</strong>; prompt on <strong>Kung Fu</strong> or <strong>Wushu</strong>] &lt;EL&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/43003",
+        "type": "bonus",
+        "tournament": {
+          "id": 410,
+          "year": 2019,
+          "name": "2019 Prison Bowl",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "https://quizbowlpackets.com/2277/",
+          "created_at": "2020-05-18T01:26:51.922Z",
+          "updated_at": "2020-05-18T01:26:51.922Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/410"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32113,
+        "number": 18,
+        "round": "5",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "For ten points each, name these hit movies about a certain country.",
+        "created_at": "2018-08-02T17:10:47.321Z",
+        "updated_at": "2018-08-02T17:10:47.321Z",
+        "formatted_leadin": "For ten points each, name these hit movies about a certain country.",
+        "texts": [
+          "In this 1999 movie, Ricky Fitts video tapes his neighbor Jane Burnham while she changes clothes. Ricky also films a plastic bag in the wind for fifteen minutes in this movie.",
+          "This 2000 film sees Christian Bale star as Patrick Bateman, an investment banker and axe murderer.",
+          "This 2013 movie’s star-studded cast includes Christian Bale, Bradley Cooper, Amy Adams, Jeremy Renner, and Jennifer Lawrence. It centers on two criminals who work with an FBI agent to expose corrupt politicians."
+        ],
+        "answers": [
+          "American Beauty",
+          "American Psycho",
+          "American Hustle &lt;Mathew&gt;"
+        ],
+        "formatted_texts": [
+          "In this 1999 movie, Ricky Fitts video tapes his neighbor Jane Burnham while she changes clothes. Ricky also films a plastic bag in the wind for fifteen minutes in this movie.",
+          "This 2000 film sees Christian Bale star as Patrick Bateman, an investment banker and axe murderer.",
+          "This 2013 movie’s star-studded cast includes Christian Bale, Bradley Cooper, Amy Adams, Jeremy Renner, and Jennifer Lawrence. It centers on two criminals who work with an FBI agent to expose corrupt politicians."
+        ],
+        "formatted_answers": [
+          "<em><strong>American Beauty</strong></em>",
+          "<em><strong>American Psycho</strong></em>",
+          "<em><strong>American Hustle</strong></em> &lt;Mathew&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32113",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32116,
+        "number": 1,
+        "round": "7",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "Answer some questions about actors named Chris. For 10 points each:",
+        "created_at": "2018-08-02T17:10:47.645Z",
+        "updated_at": "2018-08-02T17:10:47.645Z",
+        "formatted_leadin": "Answer some questions about actors named Chris. For 10 points each:",
+        "texts": [
+          "Name this actor, who gained fame for portraying Starlord in the Guardians of the Galaxy films and also played Andy Dwyer in the NBC comedy-drama Parks and Recreation and Owen Grady in Jurassic World.",
+          "Two more famous actors named Chris have an iconic scene together in a Marvel film when their immense strength causes them blow down an entire forest using the shockwave produced from doing this.",
+          "This other famous Chris directed three wildly successful films that starred Christian Bale, along with The Prestige and Interstellar."
+        ],
+        "answers": [
+          "Chris Pratt",
+          "Hitting Captain America’s shield with Thor’s hammer (Description acceptable)",
+          "Christopher Nolan &lt;Orlov&gt;"
+        ],
+        "formatted_texts": [
+          "Name this actor, who gained fame for portraying Starlord in the <em>Guardians of the Galaxy</em> films and also played Andy Dwyer in the NBC comedy-drama <em>Parks and Recreation</em> and Owen Grady in <em>Jurassic World.</em>",
+          "Two more famous actors named Chris have an iconic scene together in a Marvel film when their immense strength causes them blow down an entire forest using the shockwave produced from doing this.",
+          "This other famous Chris directed three wildly successful films that starred Christian Bale, along with <em>The Prestige</em> and <em>Interstellar.</em>"
+        ],
+        "formatted_answers": [
+          "Chris <strong>Pratt</strong>",
+          "<strong>Hitting Captain America’s shield with Thor’s hammer</strong> (Description acceptable)",
+          "Christopher <strong>Nolan</strong> &lt;Orlov&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32116",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32156,
+        "number": 1,
+        "round": "9",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "Many celebrities have trouble staying out of the spotlight, but sometimes it’s for lack of trying. For 10 points each:",
+        "created_at": "2018-08-02T17:10:49.984Z",
+        "updated_at": "2018-08-02T17:10:49.984Z",
+        "formatted_leadin": "Many celebrities have trouble staying out of the spotlight, but sometimes it’s for lack of trying. For 10 points each:",
+        "texts": [
+          "This reality show chronicles the lives of several celebrities such as Paul DelVecchio and professional wrestler Nicole Polizzi. It is named after the location where it was set every other season.",
+          "This other show has a long list of 13 seasons and mainly follows three sisters whose names all start with K, along with their extensive and dramatic family.",
+          "One of Kim Kardashian’s most famously publicized events was when this happened to her during Paris Fashion Week of 2016. As a result of it, production of Keeping Up with the Kardashians was postponed for three weeks."
+        ],
+        "answers": [
+          "Jersey Shore",
+          "Keeping Up with the Kardashians",
+          "hotel room robbery (description acceptable) &lt;Orlov&gt;"
+        ],
+        "formatted_texts": [
+          "This reality show chronicles the lives of several celebrities such as Paul DelVecchio and professional wrestler Nicole Polizzi. It is named after the location where it was set every other season.",
+          "This other show has a long list of 13 seasons and mainly follows three sisters whose names all start with K, along with their extensive and dramatic family.",
+          "One of Kim Kardashian’s most famously publicized events was when this happened to her during Paris Fashion Week of 2016. As a result of it, production of <em>Keeping Up with the Kardashians</em> was postponed for three weeks."
+        ],
+        "formatted_answers": [
+          "<em><strong>Jersey Shore</strong></em>",
+          "<em><strong>Keeping Up with the Kardashians</strong></em>",
+          "hotel room <strong>robbery</strong> (description acceptable) &lt;Orlov&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32156",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32273,
+        "number": 18,
+        "round": "12",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "There are some strange crime films out there. For 10 points each:",
+        "created_at": "2018-08-02T17:16:28.487Z",
+        "updated_at": "2018-08-02T17:16:28.487Z",
+        "formatted_leadin": "There are some strange crime films out there. For 10 points each:",
+        "texts": [
+          "This american black comedy neo-noir film won the Palme d’Or in the 1994 Cannes Film Festival. It focuses on two hitmen, Jules Winnfield and Vincent Vega, who are played by Samuel L. Jackson and John Travolta.",
+          "This person directed Pulp Fiction, as well as Kill Bill: Volume 1 &amp;2, Django Unchained, , and Inglorious Basterds. This person is also slated to direct the upcoming Star Trek film in 2019.",
+          "This other Tarantino film tells the tale of the murders committed by stunt driver Mike McKay using his car, which, thanks to its roll cage, give the driver this title quality."
+        ],
+        "answers": [
+          "Pulp Fiction",
+          "Quentin Tarantino",
+          "Death Proof &lt;Orlov&gt;"
+        ],
+        "formatted_texts": [
+          "This american black comedy neo-noir film won the Palme d’Or in the 1994 Cannes Film Festival. It focuses on two hitmen, Jules Winnfield and Vincent Vega, who are played by Samuel L. Jackson and John Travolta.",
+          "This person directed <em>Pulp Fiction</em>, as well as <em>Kill Bill: Volume 1 &amp;2, Django Unchained, , and Inglorious Basterds.</em> This person is also slated to direct the upcoming <em>Star Trek</em> film in 2019.",
+          "This other Tarantino film tells the tale of the murders committed by stunt driver Mike McKay using his car, which, thanks to its roll cage, give the driver this title quality."
+        ],
+        "formatted_answers": [
+          "<em><strong>Pulp Fiction</strong></em>",
+          "<strong>Quentin Tarantino</strong>",
+          "<em><strong>Death Proof</strong></em> &lt;Orlov&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32273",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32275,
+        "number": 20,
+        "round": "12",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "In a popular 2011 Youtube video, a duck infuriates a man repeatedly. For 10 points each:",
+        "created_at": "2018-08-02T17:16:28.551Z",
+        "updated_at": "2018-08-02T17:16:28.551Z",
+        "formatted_leadin": "In a popular 2011 Youtube video, a duck infuriates a man repeatedly. For 10 points each:",
+        "texts": [
+          "The duck angers the man by repeatedly asking this question, eventually leading to them taking a trip to the store.",
+          "The man does not, nor has he ever had grapes, because he is attempting to do this throughout the video.",
+          "In a highly uncharacteristic move, the duck once asks the man if he possesses this material, since the man had earlier threatened the duck with this material and a tree."
+        ],
+        "answers": [
+          "Got any grapes?",
+          "Sell Lemonade (Description Acceptable)",
+          "Glue &lt;Orlov&gt;"
+        ],
+        "formatted_texts": [
+          "The duck angers the man by repeatedly asking this question, eventually leading to them taking a trip to the store.",
+          "The man does not, nor has he ever had grapes, because he is attempting to do this throughout the video.",
+          "In a highly uncharacteristic move, the duck once asks the man if he possesses this material, since the man had earlier threatened the duck with this material and a tree."
+        ],
+        "formatted_answers": [
+          "<strong>Got any grapes?</strong>",
+          "<strong>Sell Lemonade</strong> (Description Acceptable)",
+          "<strong>Glue</strong> &lt;Orlov&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32275",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32295,
+        "number": 20,
+        "round": "13",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "Answer some questions about Magic: The Gathering. For 10 points each:",
+        "created_at": "2018-08-02T17:16:29.710Z",
+        "updated_at": "2018-08-02T17:16:29.710Z",
+        "formatted_leadin": "Answer some questions about Magic: The Gathering. For 10 points each:",
+        "texts": [
+          "This company first published Magic: The Gathering in 1993. It also created the game Axis &amp; Allies and produced the MLB and NBA Showdown trading card games. Up to 2003, it also had publishing rights to the Pokémon TCG.",
+          "In Magic, tapping lands is the main method that is used to produce this material. In Hearthstone, the player gains an additional crystal of this type for each of the first 10 turns played.",
+          "With a price often exceeding $10,000, this mana artifact appeared in the first Magic: The Gathering set and is widely known in the community as the most valuable Magic card in existence."
+        ],
+        "answers": [
+          "Wizards of the Coast",
+          "Mana",
+          "Black Lotus &lt;Orlov&gt;"
+        ],
+        "formatted_texts": [
+          "This company first published Magic: The Gathering in 1993. It also created the game <em>Axis &amp; Allies</em> and produced the MLB and NBA Showdown trading card games. Up to 2003, it also had publishing rights to the Pokémon TCG.",
+          "In Magic, tapping lands is the main method that is used to produce this material. In Hearthstone, the player gains an additional crystal of this type for each of the first 10 turns played.",
+          "With a price often exceeding $10,000, this mana artifact appeared in the first Magic: The Gathering set and is widely known in the community as the most valuable Magic card in existence."
+        ],
+        "formatted_answers": [
+          "<strong>Wizards of the Coast</strong>",
+          "<strong>Mana</strong>",
+          "<strong>Black Lotus</strong> &lt;Orlov&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32295",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32051,
+        "number": 16,
+        "round": "2",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "Answer some questions about movie salaries. For 10 points each:",
+        "created_at": "2018-08-02T17:10:08.439Z",
+        "updated_at": "2018-08-02T17:10:08.439Z",
+        "formatted_leadin": "Answer some questions about movie salaries. For 10 points each:",
+        "texts": [
+          "A controversy started when a tweet was posted falsely stating that Gal Gadot made $300,000 for her role in Wonder Woman as opposed to this actor’s apparently $14 million rendition of Superman.",
+          "Even if that were the case, Gal Gadot still reaped double the profit from her first superhero film when compared to Chris Hemsworth, who is famous for portraying this hammer-swinging Norse god of thunder.",
+          "Now that Wonder Woman is a box-office smashing success, Gadot has the ability to do this, which Robert Downey Jr. used to turn his $500,000 payday for Iron Man into $50 million to appear in Marvel’s The Avengers."
+        ],
+        "answers": [
+          "Henry Cavill",
+          "Thor",
+          "Renegotiating a contract (Description Acceptable) &lt;Orlov&gt;"
+        ],
+        "formatted_texts": [
+          "A controversy started when a tweet was posted falsely stating that Gal Gadot made $300,000 for her role in Wonder Woman as opposed to this actor’s apparently $14 million rendition of Superman.",
+          "Even if that were the case, Gal Gadot still reaped double the profit from her first superhero film when compared to Chris Hemsworth, who is famous for portraying this hammer-swinging Norse god of thunder.",
+          "Now that Wonder Woman is a box-office smashing success, Gadot has the ability to do this, which Robert Downey Jr. used to turn his $500,000 payday for <em>Iron Man</em> into $50 million to appear in Marvel’s <em>The Avengers.</em>"
+        ],
+        "formatted_answers": [
+          "Henry <strong>Cavill</strong>",
+          "<strong>Thor</strong>",
+          "<strong>Renegotiating a contract</strong> (Description Acceptable) &lt;Orlov&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32051",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32073,
+        "number": 18,
+        "round": "3",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "Answer some questions about the Avatar: the Last Airbender. For 10 points each:",
+        "created_at": "2018-08-02T17:10:45.879Z",
+        "updated_at": "2018-08-02T17:10:45.879Z",
+        "formatted_leadin": "Answer some questions about the Avatar: the Last Airbender. For 10 points each:",
+        "texts": [
+          "This is the name of the air-bending Avatar who was awakened from an iceberg by Sokka and Katara. He goes on to learn the remaining three elements, starting with water, and defeat Phoenix King Ozai.",
+          "This is the symbol of the wealthy Beifong family, an animal whose defining characteristic gives it an ability that is similar to that of Aang’s bison, Appa. It was used to gain passage to a ferry at Full Moon Bay.",
+          "In the episode The Puppetmaster, Katara learns this new skill from a woman named Hama. This is the same skill Hama used to escape from prison and that Amon used to take away bending in The Legend of Korra."
+        ],
+        "answers": [
+          "Aang",
+          "Winged Boar",
+          "Blood Bending &lt;Orlov&gt;"
+        ],
+        "formatted_texts": [
+          "This is the name of the air-bending Avatar who was awakened from an iceberg by Sokka and Katara. He goes on to learn the remaining three elements, starting with water, and defeat Phoenix King Ozai.",
+          "This is the symbol of the wealthy Beifong family, an animal whose defining characteristic gives it an ability that is similar to that of Aang’s bison, Appa. It was used to gain passage to a ferry at Full Moon Bay.",
+          "In the episode <em>The Puppetmaster</em>, Katara learns this new skill from a woman named Hama. This is the same skill Hama used to escape from prison and that Amon used to take away bending in <em>The Legend of Korra.</em>"
+        ],
+        "formatted_answers": [
+          "<strong>Aang</strong>",
+          "<strong>Winged Boar</strong>",
+          "<strong>Blood Bending</strong> &lt;Orlov&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32073",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 32098,
+        "number": 3,
+        "round": "5",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 373,
+        "leadin": "Games with this name started at Red and Blue and ended most recently at Ultra Sun and Ultra Moon. For 10 points each:",
+        "created_at": "2018-08-02T17:10:46.754Z",
+        "updated_at": "2018-08-02T17:10:46.754Z",
+        "formatted_leadin": "Games with this name started at Red and Blue and ended most recently at Ultra Sun and Ultra Moon. For 10 points each:",
+        "texts": [
+          "This is generic name of the monsters that appear in the video game series. Throughout the games, the player uses them to battle, aiming to become the League Champion or to “catch them all.”",
+          "Save for the moves Explosion and Self-Destruct, this move, standing at 180, has the highest base power in the game not counting held items. This is also the signature move of Victini.",
+          "This move has base power 90 and has been HM 03 in every generation. The player can use it outside of combat to cross bodies of water."
+        ],
+        "answers": [
+          "Pokémon",
+          "V-Create",
+          "Surf &lt;Orlov&gt;"
+        ],
+        "formatted_texts": [
+          "This is generic name of the monsters that appear in the video game series. Throughout the games, the player uses them to battle, aiming to become the League Champion or to “catch them all.”",
+          "Save for the moves Explosion and Self-Destruct, this move, standing at 180, has the highest base power in the game not counting held items. This is also the signature move of Victini.",
+          "This move has base power 90 and has been HM 03 in every generation. The player can use it outside of combat to cross bodies of water."
+        ],
+        "formatted_answers": [
+          "<strong>Pokémon</strong>",
+          "<strong>V-Create</strong>",
+          "<strong>Surf</strong> &lt;Orlov&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/32098",
+        "type": "bonus",
+        "tournament": {
+          "id": 373,
+          "year": 2018,
+          "name": "2018 IMSAnity 5",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2167/",
+          "created_at": "2018-08-02T17:09:17.396Z",
+          "updated_at": "2018-08-02T17:09:17.396Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/373"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33625,
+        "number": 1,
+        "round": "22 - Finals 1",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 376,
+        "leadin": "The massive scale of Pop Artist James Rosenquist's <em>F-111</em> may have been inspired by his previous career painting these things. For 10 points each:",
+        "created_at": "2018-08-03T23:12:01.776Z",
+        "updated_at": "2018-08-03T23:12:01.776Z",
+        "formatted_leadin": "The massive scale of Pop Artist James Rosenquist's <em>F-111</em> may have been inspired by his previous career painting these things. For 10 points each:",
+        "texts": [
+          "Identify these objects, one of which that proclaims \"World's Highest Standard of Living\" is visible behind a line of Ohio River flood victims in a 1937 photograph.",
+          "The aforementioned photograph was taken by this woman, who captured an image of Gandhi at his spinning wheel just hours before his death.",
+          "Felix Gonzalez-Torres, who placed billboards depicting a double bed at 24 locations around Manhattan, died from complications related to this disease in 1993. The production of an enormous quilt commemorating victims of this disease is directed by the NAMES Project."
+        ],
+        "answers": [
+          "billboards [prompt on advertisements]",
+          "Margaret Bourke-White",
+          "AIDS [or acquired immune deficiency syndrome; prompt on HIV] &lt;Bentley, Arts - Misc&gt;"
+        ],
+        "formatted_texts": [
+          "Identify these objects, one of which that proclaims \"World's Highest Standard of Living\" is visible behind a line of Ohio River flood victims in a 1937 photograph.",
+          "The aforementioned photograph was taken by this woman, who captured an image of Gandhi at his spinning wheel just hours before his death.",
+          "Felix Gonzalez-Torres, who placed billboards depicting a double bed at 24 locations around Manhattan, died from complications related to this disease in 1993. The production of an enormous quilt commemorating victims of this disease is directed by the NAMES Project."
+        ],
+        "formatted_answers": [
+          "<strong>billboard</strong>s [prompt on advertisements]",
+          "Margaret <strong>Bourke-White</strong>",
+          "<strong>AIDS</strong> [or <strong>acquired immune deficiency syndrome</strong>; prompt on HIV] &lt;Bentley, Arts - Misc&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33625",
+        "type": "bonus",
+        "tournament": {
+          "id": 376,
+          "year": 2018,
+          "name": "2018 PACE NSC",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:03:01.359Z",
+          "updated_at": "2018-08-03T23:16:22.470Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/376"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33310,
+        "number": 1,
+        "round": "7",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 376,
+        "leadin": "This was the first movie by its director to feature extensive use of a 14-millimeter wide-angle lens, which is now nicknamed for this director. For 10 points each:",
+        "created_at": "2018-08-03T23:05:17.191Z",
+        "updated_at": "2018-08-03T23:05:17.191Z",
+        "formatted_leadin": "This was the first movie by its director to feature extensive use of a 14-millimeter wide-angle lens, which is now nicknamed for this director. For 10 points each:",
+        "texts": [
+          "Name this dystopian comedy by Terry Gilliam about Sam Lowry, a bureaucrat for the Ministry of Information who falls in love with Jill, a truck driver who is trying to fight the wrongful arrest of her downstairs neighbor, Harry Buttle.",
+          "Buttle is arrested because he is mixed up with a renegade heating engineer played by this Italian-American actor. He played the protagonists of Taxi Driver and Raging Bull, and co-starred as Jimmy Conway in Goodfellas.",
+          "Terry Gilliam's Brazil includes a shootout filmed as an homage to the \"Odessa Steps\" sequence from this Soviet director's film Battleship Potemkin."
+        ],
+        "answers": [
+          "Brazil",
+          "Robert De Niro",
+          "Sergei Eisenstein &lt;Kothari, Arts - Film&gt;"
+        ],
+        "formatted_texts": [
+          "Name this dystopian comedy by Terry Gilliam about Sam Lowry, a bureaucrat for the Ministry of Information who falls in love with Jill, a truck driver who is trying to fight the wrongful arrest of her downstairs neighbor, Harry Buttle.",
+          "Buttle is arrested because he is mixed up with a renegade heating engineer played by this Italian-American actor. He played the protagonists of <em>Taxi Driver</em> and <em>Raging Bull</em>, and co-starred as Jimmy Conway in <em>Goodfellas</em>.",
+          "Terry Gilliam's <em>Brazil</em> includes a shootout filmed as an homage to the \"Odessa Steps\" sequence from this Soviet director's film <em>Battleship Potemkin</em>."
+        ],
+        "formatted_answers": [
+          "<em><strong>Brazil</strong></em>",
+          "Robert <strong>De Niro</strong>",
+          "Sergei <strong>Eisenstein</strong> &lt;Kothari, Arts - Film&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33310",
+        "type": "bonus",
+        "tournament": {
+          "id": 376,
+          "year": 2018,
+          "name": "2018 PACE NSC",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:03:01.359Z",
+          "updated_at": "2018-08-03T23:16:22.470Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/376"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33296,
+        "number": 8,
+        "round": "6",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 376,
+        "leadin": "In February 2018, this man won the \"Charlton Heston Courage Under Fire\" award from the NRA. For 10 points each:",
+        "created_at": "2018-08-03T23:05:15.951Z",
+        "updated_at": "2018-08-03T23:05:15.951Z",
+        "formatted_leadin": "In February 2018, this man won the \"Charlton Heston Courage Under Fire\" award from the NRA. For 10 points each:",
+        "texts": [
+          "Name this one-time attorney for Verizon, who now is the chairman of the Federal Communications Commission.",
+          "Under Pai's tenure, the FCC overturned a policy of keeping this system \"neutral.\" Under the new policy, providers of this service may charge different rates depending on the type of content that a user accesses.",
+          "The term \"net neutrality\" was coined by this Chinese-American professor at Columbia, who advised the FCC under Obama. His book The Master Switch argues that information companies generally evolve from being an open system to a closed system."
+        ],
+        "answers": [
+          "Ajit Pai [or Ajit Varadaraj Pai]",
+          "Internet [or World Wide Web; or Web; or Net; or broadband; accept net neutrality]",
+          "Tim Wu &lt;Jose, Current Events - United States&gt;"
+        ],
+        "formatted_texts": [
+          "Name this one-time attorney for Verizon, who now is the chairman of the Federal Communications Commission.",
+          "Under Pai's tenure, the FCC overturned a policy of keeping this system \"neutral.\" Under the new policy, providers of this service may charge different rates depending on the type of content that a user accesses.",
+          "The term \"net neutrality\" was coined by this Chinese-American professor at Columbia, who advised the FCC under Obama. His book <em>The Master Switch</em> argues that information companies generally evolve from being an open system to a closed system."
+        ],
+        "formatted_answers": [
+          "Ajit <strong>Pai</strong> [or Ajit Varadaraj <strong>Pai</strong>]",
+          "<strong>Internet</strong> [or <strong>World Wide Web</strong>; or <strong>Web</strong>; or <strong>Net</strong>; or <strong>broadband</strong>; accept <strong>net neutrality</strong>]",
+          "Tim <strong>Wu</strong> &lt;Jose, Current Events - United States&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33296",
+        "type": "bonus",
+        "tournament": {
+          "id": 376,
+          "year": 2018,
+          "name": "2018 PACE NSC",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:03:01.359Z",
+          "updated_at": "2018-08-03T23:16:22.470Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/376"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33382,
+        "number": 10,
+        "round": "10",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 376,
+        "leadin": "In this film, a character uses a hollowed-out copy of Jean Baudrillard's (boh-dree-YARR’s) <em>Simulacra and Simulation</em> to hide a piece of software. For 10 points each:",
+        "created_at": "2018-08-03T23:07:18.316Z",
+        "updated_at": "2018-08-03T23:07:18.316Z",
+        "formatted_leadin": "In this film, a character uses a hollowed-out copy of Jean Baudrillard's (boh-dree-YARR’s) <em>Simulacra and Simulation</em> to hide a piece of software. For 10 points each:",
+        "texts": [
+          "Name this 1999 movie in which Morpheus quotes Baudrillard's line \"welcome to the desert of the real\" after Neo swallows the \"red pill.\"",
+          "This Slovenian cultural critic used the line Welcome to the Desert of the Real to title his study of society's reaction to the 9/11 attacks. His other books include The Sublime Object of Ideology, and he infamously talked about the \"trashcan of ideology.\"",
+          "Baudrillard criticized The Matrix movies for lacking a \"glimmer\" of this concept in its final installment. This concept was also the subject of Kierkegaard's doctoral thesis."
+        ],
+        "answers": [
+          "The Matrix",
+          "Slavoj Žižek (SLAH-voy ZHEE-zhek)",
+          "irony [accept On the Concept of Irony with Continual Reference to Socrates] &lt;Jose, RMP - Philosophy&gt;"
+        ],
+        "formatted_texts": [
+          "Name this 1999 movie in which Morpheus quotes Baudrillard's line \"welcome to the desert of the real\" after Neo swallows the \"red pill.\"",
+          "This Slovenian cultural critic used the line <em>Welcome to the Desert of the Real</em> to title his study of society's reaction to the 9/11 attacks. His other books include <em>The Sublime Object of Ideology</em>, and he infamously talked about the \"trashcan of ideology.\"",
+          "Baudrillard criticized <em>The Matrix</em> movies for lacking a \"glimmer\" of this concept in its final installment. This concept was also the subject of Kierkegaard's doctoral thesis."
+        ],
+        "formatted_answers": [
+          "<em>The <strong>Matrix</strong></em>",
+          "Slavoj <strong>Žižek</strong> (SLAH-voy ZHEE-zhek)",
+          "<strong>irony</strong> [accept <em>On the Concept of <strong>Irony</strong> with Continual Reference to Socrates</em>] &lt;Jose, RMP - Philosophy&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33382",
+        "type": "bonus",
+        "tournament": {
+          "id": 376,
+          "year": 2018,
+          "name": "2018 PACE NSC",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:03:01.359Z",
+          "updated_at": "2018-08-03T23:16:22.470Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/376"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33509,
+        "number": 11,
+        "round": "16",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 376,
+        "leadin": "At the end of this movie, the protagonist throws his marshall's star into the ground. For 10 points each:",
+        "created_at": "2018-08-03T23:10:32.808Z",
+        "updated_at": "2018-08-03T23:10:32.808Z",
+        "formatted_leadin": "At the end of this movie, the protagonist throws his marshall's star into the ground. For 10 points each:",
+        "texts": [
+          "Name this film in which the outlaw Frank Miller returns to Hadleyville to exact revenge on sheriff Will Kane.",
+          "High Noon was both the first film, and the first film in this genre, to feature Lee van Cleef, who often appeared in the \"spaghetti\" type of these films directed by Sergio Leone.",
+          "Van Cleef played the mercenary Angel Eyes in this final film in Leone's \"Dollars trilogy,\" which also featured Eli Wallach as Tuco."
+        ],
+        "answers": [
+          "High Noon",
+          "westerns [or spaghetti westerns]",
+          "The Good, the Bad, and the Ugly [or Il Buono, il brutto, il cattivo] &lt;Jose, Arts - Film&gt;"
+        ],
+        "formatted_texts": [
+          "Name this film in which the outlaw Frank Miller returns to Hadleyville to exact revenge on sheriff Will Kane.",
+          "<em>High Noon</em> was both the first film, and the first film in this genre, to feature Lee van Cleef, who often appeared in the \"spaghetti\" type of these films directed by Sergio Leone.",
+          "Van Cleef played the mercenary Angel Eyes in this final film in Leone's \"Dollars trilogy,\" which also featured Eli Wallach as Tuco."
+        ],
+        "formatted_answers": [
+          "<em><strong>High Noon</strong></em>",
+          "<strong>western</strong>s [or spaghetti <strong>western</strong>s]",
+          "<em>The <strong>Good, the Bad, and the Ugly</strong></em> [or <em>Il <strong>Buono, il brutto, il cattivo</strong></em>] &lt;Jose, Arts - Film&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33509",
+        "type": "bonus",
+        "tournament": {
+          "id": 376,
+          "year": 2018,
+          "name": "2018 PACE NSC",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:03:01.359Z",
+          "updated_at": "2018-08-03T23:16:22.470Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/376"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33545,
+        "number": 5,
+        "round": "18",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 376,
+        "leadin": "The first application of this technique was when Max Fleischer filmed his brother Dave dressed as a clown. For 10 points each:",
+        "created_at": "2018-08-03T23:10:37.071Z",
+        "updated_at": "2018-08-03T23:10:37.071Z",
+        "formatted_leadin": "The first application of this technique was when Max Fleischer filmed his brother Dave dressed as a clown. For 10 points each:",
+        "texts": [
+          "Identify this technique for creating the smooth animation of the early Superman cartoons by tracing over live-action footage.",
+          "This director of The Aviator used rotoscoping for his Neil Young concert film The Last Waltz. A church in Paris was set on fire while it was screening this director's controversial 1988 film The Last Temptation of Christ.",
+          "One of the high points of rotoscoping was in a 1938 animated film based on this novel. An iconic image from this Jonathan Swift novel is its protagonist trapped on a beach by Lilliputians."
+        ],
+        "answers": [
+          "rotoscoping [or rotoscope animation]",
+          "Martin Scorsese [or Martin Charles Scorsese]",
+          "Gulliver's Travels [or Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships] &lt;Bentley, Mixed/Other/General Knowledge&gt;"
+        ],
+        "formatted_texts": [
+          "Identify this technique for creating the smooth animation of the early <em>Superman</em> cartoons by tracing over live-action footage.",
+          "This director of <em>The Aviator</em> used rotoscoping for his Neil Young concert film <em>The Last Waltz</em>. A church in Paris was set on fire while it was screening this director's controversial 1988 film <em>The Last Temptation of Christ</em>.",
+          "One of the high points of rotoscoping was in a 1938 animated film based on this novel. An iconic image from this Jonathan Swift novel is its protagonist trapped on a beach by Lilliputians."
+        ],
+        "formatted_answers": [
+          "<strong>rotoscoping</strong> [or <strong>rotoscope</strong> animation]",
+          "Martin <strong>Scorsese</strong> [or Martin Charles <strong>Scorsese</strong>]",
+          "<em><strong>Gulliver's Travels</strong></em> [or <em><strong>Travels into Several Remote Nations of the World</strong>. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships</em>] &lt;Bentley, Mixed/Other/General Knowledge&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33545",
+        "type": "bonus",
+        "tournament": {
+          "id": 376,
+          "year": 2018,
+          "name": "2018 PACE NSC",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:03:01.359Z",
+          "updated_at": "2018-08-03T23:16:22.470Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/376"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33558,
+        "number": 18,
+        "round": "18",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 376,
+        "leadin": "Answer the following about street art, for 10 points each.",
+        "created_at": "2018-08-03T23:10:38.902Z",
+        "updated_at": "2018-08-03T23:10:38.902Z",
+        "formatted_leadin": "Answer the following about street art, for 10 points each.",
+        "texts": [
+          "The French artist Invader produced a number of video game-inspired works using this artistic technique, in which small glass or ceramic tiles called tesserae are assembled into a larger picture.",
+          "These curious license plate-sized artworks mysteriously appear in various major American cities, usually embedded in asphalt. They usually bear a variation of a message including the lines \"in movie 2001 / resurrect dead / on planet Jupiter.\"",
+          "This creator of a huge mural of Nelson Mandela in Johannesburg also designed the \"Andre the Giant Has a Posse\" stickers and the \"Hope\" poster used by Barack Obama's 2008 presidential campaign."
+        ],
+        "answers": [
+          "mosaics",
+          "Toynbee tiles [or Toynbee plates]",
+          "Shepard Fairey [or Frank Shepard Fairey] &lt;Carson, Arts - Misc&gt;"
+        ],
+        "formatted_texts": [
+          "The French artist Invader produced a number of video game-inspired works using this artistic technique, in which small glass or ceramic tiles called <em>tesserae</em> are assembled into a larger picture.",
+          "These curious license plate-sized artworks mysteriously appear in various major American cities, usually embedded in asphalt. They usually bear a variation of a message including the lines \"in movie 2001 / resurrect dead / on planet Jupiter.\"",
+          "This creator of a huge mural of Nelson Mandela in Johannesburg also designed the \"Andre the Giant Has a Posse\" stickers and the \"Hope\" poster used by Barack Obama's 2008 presidential campaign."
+        ],
+        "formatted_answers": [
+          "<strong>mosaic</strong>s",
+          "<strong>Toynbee</strong> tiles [or <strong>Toynbee</strong> plates]",
+          "Shepard <strong>Fairey</strong> [or Frank Shepard <strong>Fairey</strong>] &lt;Carson, Arts - Misc&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33558",
+        "type": "bonus",
+        "tournament": {
+          "id": 376,
+          "year": 2018,
+          "name": "2018 PACE NSC",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:03:01.359Z",
+          "updated_at": "2018-08-03T23:16:22.470Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/376"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33600,
+        "number": 18,
+        "round": "20 - TB2",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 376,
+        "leadin": "One director from this movement's Left Bank made the movie <em>Cléo from 5 to 7</em>, which follows a pop singer in real time as she awaits the results of a cancer test. For 10 points each:",
+        "created_at": "2018-08-03T23:11:58.505Z",
+        "updated_at": "2018-08-03T23:11:58.505Z",
+        "formatted_leadin": "One director from this movement's Left Bank made the movie <em>Cléo from 5 to 7</em>, which follows a pop singer in real time as she awaits the results of a cancer test. For 10 points each:",
+        "texts": [
+          "Name this iconoclastic movement in film from the 1950s and 1960s that includes directors like Jean-Luc Godard, François Truffaut, and Agnès Varda.",
+          "The title character of Varda's Cléo from 5 to 7 feels hopeful after meeting a soldier on leave from this war. Colonel Mathieu attempts to crush an insurgency in the Casbah in a 1966 film by Gillo Pontecorvo set during this war.",
+          "Guy is drafted into the Algerian War in The Umbrellas of Cherbourg (SHARE-boorg), a movie of this type by Varda's husband Jacques Demy. Singin' in the Rain and An American in Paris were also this kind of movie."
+        ],
+        "answers": [
+          "French New Wave [or La Nouvelle Vague]",
+          "Algerian War of Independence [or Algerian Revolution]",
+          "musical film [or musicals] &lt;Kothari, Arts - Film&gt;"
+        ],
+        "formatted_texts": [
+          "Name this iconoclastic movement in film from the 1950s and 1960s that includes directors like Jean-Luc Godard, François Truffaut, and Agnès Varda.",
+          "The title character of Varda's <em>Cléo from 5 to 7</em> feels hopeful after meeting a soldier on leave from this war. Colonel Mathieu attempts to crush an insurgency in the Casbah in a 1966 film by Gillo Pontecorvo set during this war.",
+          "Guy is drafted into the Algerian War in <em>The Umbrellas of Cherbourg</em> (SHARE-boorg), a movie of this type by Varda's husband Jacques Demy. <em>Singin' in the Rain</em> and <em>An American in Paris</em> were also this kind of movie."
+        ],
+        "formatted_answers": [
+          "French <strong>New Wave</strong> [or La <strong>Nouvelle Vague</strong>]",
+          "<strong>Algeria</strong>n War of Independence [or <strong>Algeria</strong>n Revolution]",
+          "<strong>musical</strong> film [or <strong>musical</strong>s] &lt;Kothari, Arts - Film&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33600",
+        "type": "bonus",
+        "tournament": {
+          "id": 376,
+          "year": 2018,
+          "name": "2018 PACE NSC",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:03:01.359Z",
+          "updated_at": "2018-08-03T23:16:22.470Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/376"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30001,
+        "number": 12,
+        "round": "4",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 240,
+        "leadin": "Regular Coen brothers collaborator Roger Deakins is often said to be the best living person working in this profession. For 10 points each:",
+        "created_at": "2018-05-18T14:53:31.358Z",
+        "updated_at": "2018-05-18T14:53:31.358Z",
+        "formatted_leadin": "Regular Coen brothers collaborator Roger Deakins is often said to be the best living person working in this profession. For 10 points each:",
+        "texts": [
+          "Name this person who works under the director of a movie and is responsible for directing the camera and light crews as a film is being shot. This person is often said to be responsible for the \"look\" of a film.",
+          "Gregg Toland, who is often said to be the best cinematographer of all time, worked on this Orson Welles film, which opens with the title business magnate saying \"Rosebud\" on his deathbed.",
+          "The Spanish cinematographer Nestor Almendros went blind as he was shooting this director's movie Days of Heaven, which nevertheless remains acclaimed for its cinematography. This director also made Tree of Life."
+        ],
+        "answers": [
+          "cinematographer [or director of photography; prompt on DP or DOP]",
+          "Citizen Kane",
+          "Terrence Frederick Malick &lt;Jose&gt;"
+        ],
+        "formatted_texts": [
+          "Name this person who works under the director of a movie and is responsible for directing the camera and light crews as a film is being shot. This person is often said to be responsible for the \"look\" of a film.",
+          "Gregg Toland, who is often said to be the best cinematographer of all time, worked on this Orson Welles film, which opens with the title business magnate saying \"Rosebud\" on his deathbed.",
+          "The Spanish cinematographer Nestor Almendros went blind as he was shooting this director's movie <em>Days of Heaven</em>, which nevertheless remains acclaimed for its cinematography. This director also made <em>Tree of Life</em>."
+        ],
+        "formatted_answers": [
+          "<strong><u>cinematographer</u></strong> [or <strong><u>director of photography</u></strong>; prompt on <u>DP</u> or <em>DOP</em>]",
+          "<em><strong><u>Citizen Kane</u></strong></em>",
+          "Terrence Frederick <strong><u>Malick</u></strong> &lt;Jose&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30001",
+        "type": "bonus",
+        "tournament": {
+          "id": 240,
+          "year": 2017,
+          "name": "2017 PACE NSC",
+          "address": null,
+          "quality": "amazing",
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:29.570Z",
+          "updated_at": "2017-09-04T18:05:57.703Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/240"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30383,
+        "number": 16,
+        "round": "Finals 1",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 240,
+        "leadin": "At the beginning of this movie, the title character wanders into a town where a dog carrying a human hand gleefully prances toward him. For 10 points each:",
+        "created_at": "2018-05-18T14:56:42.761Z",
+        "updated_at": "2018-05-18T14:56:42.761Z",
+        "formatted_leadin": "At the beginning of this movie, the title character wanders into a town where a dog carrying a human hand gleefully prances toward him. For 10 points each:",
+        "texts": [
+          "Name this film in which a wandering samurai plays off Tazaemon and Takaemon (tah-zah-eh-moan and tah-kah-eh-moan), two rival merchants, by having them both hire him as a bodyguard.",
+          "Yojimbo and its sequel Sanjuro are films by this Japanese director, whose other collaborations with star Toshirō Mifune include Throne of Blood and The Seven Samurai.",
+          "This director of The Good, The Bad, and The Ugly remade Yojimbo as the spaghetti western A Fistful of Dollars, after which he was successfully sued by the distributors of Yojimbo for copyright infringement."
+        ],
+        "answers": [
+          "Yojimbo [or Yōjinbo]",
+          "Akira Kurosawa [accept names in either order]",
+          "Sergio Leone &lt;Jose&gt;"
+        ],
+        "formatted_texts": [
+          "Name this film in which a wandering samurai plays off Tazaemon and Takaemon <strong>(tah-zah-eh-moan</strong> and <strong>tah-kah-eh-moan)</strong>, two rival merchants, by having them both hire him as a bodyguard.",
+          "<em>Yojimbo</em> and its sequel <em>Sanjuro</em> are films by this Japanese director, whose other collaborations with star Toshirō Mifune include <em>Throne of Blood</em> and <em>The Seven Samurai</em>.",
+          "This director of <em>The Good, The Bad, and The Ugly</em> remade <em>Yojimbo</em> as the spaghetti western <em>A Fistful of Dollars</em>, after which he was successfully sued by the distributors of <em>Yojimbo</em> for copyright infringement."
+        ],
+        "formatted_answers": [
+          "<em><strong>Yojimbo</strong></em> [or <em><strong>Yōjinbo</strong></em>]",
+          "Akira <strong>Kurosawa</strong> [accept names in either order]",
+          "Sergio <strong>Leone</strong> &lt;Jose&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30383",
+        "type": "bonus",
+        "tournament": {
+          "id": 240,
+          "year": 2017,
+          "name": "2017 PACE NSC",
+          "address": null,
+          "quality": "amazing",
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:29.570Z",
+          "updated_at": "2017-09-04T18:05:57.703Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/240"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30335,
+        "number": 10,
+        "round": "TB 2",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 240,
+        "leadin": "This character is last seen walking into the distance with his dog Willie as his voice-over provides a description of a Roman triumph that ends with the line \"All glory… is fleeting\". For 10 points each,",
+        "created_at": "2018-05-18T14:56:41.375Z",
+        "updated_at": "2018-05-18T14:56:41.375Z",
+        "formatted_leadin": "This character is last seen walking into the distance with his dog Willie as his voice-over provides a description of a Roman triumph that ends with the line \"All glory… is fleeting\". For 10 points each,",
+        "texts": [
+          "Name this film character portrayed by George C. Scott. The film in which he appears opens with him standing in front of a gigantic American flag, delivering a monologue to an unseen audience.",
+          "Patton was co-written by this Italian-American director, whose other 1970s hits included Apocalypse Now and the first two Godfather films.",
+          "Apocalypse Now and The Conversation each won this highest prize awarded at the Cannes Film Festival, making Coppola one of only eight directors to have won it multiple times."
+        ],
+        "answers": [
+          "George S. Patton [prompt on George]",
+          "Francis Ford Coppola",
+          "Palme d'Or [accept Golden Palm] &lt;Carson&gt;"
+        ],
+        "formatted_texts": [
+          "Name this film character portrayed by George C. Scott. The film in which he appears opens with him standing in front of a gigantic American flag, delivering a monologue to an unseen audience.",
+          "<em>Patton</em> was co-written by this Italian-American director, whose other 1970s hits included <em>Apocalypse Now</em> and the first two <em>Godfather</em> films.",
+          "<em>Apocalypse Now</em> and <em>The Conversation</em> each won this highest prize awarded at the Cannes Film Festival, making Coppola one of only eight directors to have won it multiple times."
+        ],
+        "formatted_answers": [
+          "George S. <strong>Patton</strong> [prompt on George]",
+          "Francis Ford <strong>Coppola</strong>",
+          "<strong>Palme d'Or</strong> [accept <strong>Golden Palm</strong>] &lt;Carson&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30335",
+        "type": "bonus",
+        "tournament": {
+          "id": 240,
+          "year": 2017,
+          "name": "2017 PACE NSC",
+          "address": null,
+          "quality": "amazing",
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:29.570Z",
+          "updated_at": "2017-09-04T18:05:57.703Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/240"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30247,
+        "number": 6,
+        "round": "16",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 240,
+        "leadin": "Answer the following about the early-1900s motion picture industry, for 10 points each.",
+        "created_at": "2018-05-18T14:55:29.747Z",
+        "updated_at": "2018-05-18T14:55:29.747Z",
+        "formatted_leadin": "Answer the following about the early-1900s motion picture industry, for 10 points each.",
+        "texts": [
+          "These early movie theaters, which sat a few hundred people and featured live shows and short films, debuted in 1905. Their name is a portmanteau of a Greek word for \"theater\" and their initial cost.",
+          "Many early movies were filmed performances of this type of live theater performance, whose name may be derived from a French expression meaning \"voice of the city\". Tony Pastor pioneered these performances, which often featured music, dancing, acrobatic, juggling, and a variety of other unrelated acts.",
+          "This man's film studio produced many shorts, such as The Great Train Robbery and 1905's The Night Before Christmas. He is better known for inventing the kinetoscope, an early film projector."
+        ],
+        "answers": [
+          "nickelodeons",
+          "vaudeville shows",
+          "Thomas Alva Edison &lt;Jose&gt;"
+        ],
+        "formatted_texts": [
+          "These early movie theaters, which sat a few hundred people and featured live shows and short films, debuted in 1905. Their name is a portmanteau of a Greek word for \"theater\" and their initial cost.",
+          "Many early movies were filmed performances of this type of live theater performance, whose name may be derived from a French expression meaning \"voice of the city\". Tony Pastor pioneered these performances, which often featured music, dancing, acrobatic, juggling, and a variety of other unrelated acts.",
+          "This man's film studio produced many shorts, such as <em>The Great Train Robbery</em> and 1905's <em>The Night Before Christmas</em>. He is better known for inventing the kinetoscope, an early film projector."
+        ],
+        "formatted_answers": [
+          "<strong>nickelodeon</strong>s",
+          "<strong>vaudeville</strong> shows",
+          "Thomas Alva <strong>Edison</strong> &lt;Jose&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30247",
+        "type": "bonus",
+        "tournament": {
+          "id": 240,
+          "year": 2017,
+          "name": "2017 PACE NSC",
+          "address": null,
+          "quality": "amazing",
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:29.570Z",
+          "updated_at": "2017-09-04T18:05:57.703Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/240"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30534,
+        "number": 18,
+        "round": "6",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 99,
+        "leadin": "Films produced during this era include <em>The Birth of a Nation</em> and <em>Four Horsemen of the Apocalypse</em>. For 10 points each:",
+        "created_at": "2018-05-19T21:30:29.039Z",
+        "updated_at": "2018-05-19T21:30:29.039Z",
+        "formatted_leadin": "Films produced during this era include <em>The Birth of a Nation</em> and <em>Four Horsemen of the Apocalypse</em>. For 10 points each:",
+        "texts": [
+          "Name this period of Hollywood film, during which Charlie Chaplin directed, produced and starred in City Lights. Actors in this period often used miming since dialogue could not be easily conveyed.",
+          "The silent era effectively ended when this film premiered. In it, Al Jolson's character says \"Wait a minute, wait a minute, you ain't heard nothin' yet!\"",
+          "The aging former silent film star Norma Desmond memorably states \"I am big, it's the pictures that got small\" in this Billy Wilder film, in which the screenwriter Joe Gillis becomes her kept man."
+        ],
+        "answers": [
+          "silent era",
+          "The Jazz Singer",
+          "Sunset Boulevard &lt;Jose&gt;"
+        ],
+        "formatted_texts": [
+          "Name this period of Hollywood film, during which Charlie Chaplin directed, produced and starred in <em>City Lights</em>. Actors in this period often used miming since dialogue could not be easily conveyed.",
+          "The silent era effectively ended when this film premiered. In it, Al Jolson's character says \"Wait a minute, wait a minute, you ain't heard nothin' yet!\"",
+          "The aging former silent film star Norma Desmond memorably states \"I am big, it's the pictures that got small\" in this Billy Wilder film, in which the screenwriter Joe Gillis becomes her kept man."
+        ],
+        "formatted_answers": [
+          "<strong>silent</strong> era",
+          "<em>The <strong>Jazz Singer</strong></em>",
+          "<em><strong>Sunset Boulevard</strong></em> &lt;Jose&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30534",
+        "type": "bonus",
+        "tournament": {
+          "id": 99,
+          "year": 2016,
+          "name": "2016 PACE NSC",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:32.728Z",
+          "updated_at": "2017-09-12T20:43:11.139Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/99"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30582,
+        "number": 3,
+        "round": "9",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 99,
+        "leadin": "In 2003, the chef Bernard Loiseau (lwah-ZOH) committed suicide amidst rumors that his restaurant's rating would be downgraded by this publication. For 10 points each:",
+        "created_at": "2018-05-19T21:31:40.320Z",
+        "updated_at": "2018-05-19T21:31:40.320Z",
+        "formatted_leadin": "In 2003, the chef Bernard Loiseau (lwah-ZOH) committed suicide amidst rumors that his restaurant's rating would be downgraded by this publication. For 10 points each:",
+        "texts": [
+          "Identify this prestigious French guide book that rates restaurants throughout the world from one to three stars.",
+          "This Japanese sushi master's Michelin three-star restaurant was the subject of a 2011 documentary about how he \"Dreams of Sushi.\"",
+          "Jirō runs his restaurant Sukiyabashi Jirō from a basement in this Japanese city's Ginza shopping district, located near its massive Tsukiji Fish Market. Surprisingly, this city has almost three times as many Michelin-star restaurants as Paris."
+        ],
+        "answers": [
+          "Michelin Guide",
+          "Jirō Ono [accept either underlined portion; accept Jiro Dreams of Sushi or Sukiyabashi Jirō]",
+          "Tōkyō &lt;Wang&gt;"
+        ],
+        "formatted_texts": [
+          "Identify this prestigious French guide book that rates restaurants throughout the world from one to three stars.",
+          "This Japanese sushi master's Michelin three-star restaurant was the subject of a 2011 documentary about how he \"Dreams of Sushi.\"",
+          "Jirō runs his restaurant Sukiyabashi Jirō from a basement in this Japanese city's Ginza shopping district, located near its massive Tsukiji Fish Market. Surprisingly, this city has almost three times as many Michelin-star restaurants as Paris."
+        ],
+        "formatted_answers": [
+          "<strong>Michelin</strong> Guide",
+          "<strong>Jirō</strong> <strong>Ono</strong> [accept either underlined portion; accept <strong>Jiro Dreams of Sushi</strong> or <strong>Sukiyabashi Jirō</strong>]",
+          "<strong>Tōkyō</strong> &lt;Wang&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30582",
+        "type": "bonus",
+        "tournament": {
+          "id": 99,
+          "year": 2016,
+          "name": "2016 PACE NSC",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:32.728Z",
+          "updated_at": "2017-09-12T20:43:11.139Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/99"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30869,
+        "number": 17,
+        "round": "Finals 1",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 99,
+        "leadin": "Identify the following about NASA's advertising campaign to build excitement over the Moon, for 10 points each.",
+        "created_at": "2018-05-19T21:32:44.445Z",
+        "updated_at": "2018-05-19T21:32:44.445Z",
+        "formatted_leadin": "Identify the following about NASA's advertising campaign to build excitement over the Moon, for 10 points each.",
+        "texts": [
+          "This man helped the cause with frequent guest appearances on the Tomorrowland segment of the Disneyland TV program. This German-born rocket scientist helped develop NASA's Saturn rockets after being appropriated from Nazi Germany in Operation Paperclip.",
+          "The Hasselblad Company let the world know that astronaut William Anders used one of its cameras to take the iconic Earthrise photograph on this first manned mission to leave Earth's orbit.",
+          "To convince reluctant engineers to bring live TV equipment on the Apollo mission, NASA instructed this artist to include TV cameras in a popular lunar painting he made for Look magazine. The Treasury Department sponsored this artists Four Freedoms series."
+        ],
+        "answers": [
+          "Wernher von Braun [do not accept or prompt on \"Braun\"]",
+          "Apollo 8 [prompt on Apollo]",
+          "Norman Rockwell [or Norman Percevell Rockwell] &lt;Bentley&gt;"
+        ],
+        "formatted_texts": [
+          "This man helped the cause with frequent guest appearances on the Tomorrowland segment of the <em>Disneyland</em> TV program. This German-born rocket scientist helped develop NASA's Saturn rockets after being appropriated from Nazi Germany in Operation Paperclip.",
+          "The Hasselblad Company let the world know that astronaut William Anders used one of its cameras to take the iconic <em>Earthrise</em> photograph on this first manned mission to leave Earth's orbit.",
+          "To convince reluctant engineers to bring live TV equipment on the Apollo mission, NASA instructed this artist to include TV cameras in a popular lunar painting he made for <em>Look</em> magazine. The Treasury Department sponsored this artists <em>Four Freedoms</em> series."
+        ],
+        "formatted_answers": [
+          "Wernher <strong>von Braun</strong> [do not accept or prompt on \"Braun\"]",
+          "<strong>Apollo 8</strong> [prompt on <strong>Apollo</strong>]",
+          "Norman <strong>Rockwell</strong> [or Norman Percevell <strong>Rockwell</strong>] &lt;Bentley&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30869",
+        "type": "bonus",
+        "tournament": {
+          "id": 99,
+          "year": 2016,
+          "name": "2016 PACE NSC",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:32.728Z",
+          "updated_at": "2017-09-12T20:43:11.139Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/99"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30823,
+        "number": 13,
+        "round": "TB 2",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 99,
+        "leadin": "Answer the following about films featuring San Francisco, for 10 points each.",
+        "created_at": "2018-05-19T21:32:39.991Z",
+        "updated_at": "2018-05-19T21:32:39.991Z",
+        "formatted_leadin": "Answer the following about films featuring San Francisco, for 10 points each.",
+        "texts": [
+          "Perhaps the most memorable scene of this movie set in San Francisco features Steve McQueen's character driving his Mustang to chase a henchman's Charger.",
+          "A shootout in a hall of mirrors in an abandoned amusement park in San Francisco is the climax of this director's The Lady from Shanghai. He also directed Touch of Evil and appeared in The Third Man.",
+          "Caul and Stan eavesdrop on a couple who are walking through Union Square in San Francisco in this director's The Conversation, which he made after the success of his film The Godfather."
+        ],
+        "answers": [
+          "Bullitt",
+          "Orson Welles [or George Orson Welles]",
+          "Francis Ford Coppola &lt;Jose&gt;"
+        ],
+        "formatted_texts": [
+          "Perhaps the most memorable scene of this movie set in San Francisco features Steve McQueen's character driving his Mustang to chase a henchman's Charger.",
+          "A shootout in a hall of mirrors in an abandoned amusement park in San Francisco is the climax of this director's <em>The Lady from Shanghai.</em> He also directed <em>Touch of Evil</em> and appeared in <em>The Third Man</em>.",
+          "Caul and Stan eavesdrop on a couple who are walking through Union Square in San Francisco in this director's <em>The Conversation</em>, which he made after the success of his film <em>The Godfather</em>."
+        ],
+        "formatted_answers": [
+          "<em><strong>Bullitt</strong></em>",
+          "Orson <strong>Welles</strong> [or George Orson <strong>Welles</strong>]",
+          "Francis Ford <strong>Coppola</strong> &lt;Jose&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30823",
+        "type": "bonus",
+        "tournament": {
+          "id": 99,
+          "year": 2016,
+          "name": "2016 PACE NSC",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:32.728Z",
+          "updated_at": "2017-09-12T20:43:11.139Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/99"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 30619,
+        "number": 19,
+        "round": "10",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 99,
+        "leadin": "This man sang the song \"We Have all the Time in the World,\" one of the theme songs of the James Bond movie <em>On Her Majesty's Secret Service</em>. For 10 points each:",
+        "created_at": "2018-05-19T21:31:41.301Z",
+        "updated_at": "2018-05-19T21:31:41.301Z",
+        "formatted_leadin": "This man sang the song \"We Have all the Time in the World,\" one of the theme songs of the James Bond movie <em>On Her Majesty's Secret Service</em>. For 10 points each:",
+        "texts": [
+          "Name this jazz trumpeter whose version of the song \"Hello, Dolly!\" was his best-selling record.",
+          "Louis Armstrong was born in this city and played jazz here during his early years. This southern city's musician Buddy Bolden is often credited with inventing jazz.",
+          "In 1931, Louis Armstrong also recorded this song that states \"Sometimes I wonder / Why I spend the lonely nights / Dreaming of a song, / The melody / Haunts my reverie.\" Its tune was composed by Hoagy Carmichael."
+        ],
+        "answers": [
+          "Louis Armstrong",
+          "New Orleans",
+          "Stardust &lt;Jose&gt;"
+        ],
+        "formatted_texts": [
+          "Name this jazz trumpeter whose version of the song \"Hello, Dolly!\" was his best-selling record.",
+          "Louis Armstrong was born in this city and played jazz here during his early years. This southern city's musician Buddy Bolden is often credited with inventing jazz.",
+          "In 1931, Louis Armstrong also recorded this song that states \"Sometimes I wonder / Why I spend the lonely nights / Dreaming of a song, / The melody / Haunts my reverie.\" Its tune was composed by Hoagy Carmichael."
+        ],
+        "formatted_answers": [
+          "Louis <strong>Armstrong</strong>",
+          "<strong>New Orleans</strong>",
+          "<strong>Stardust</strong> &lt;Jose&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/30619",
+        "type": "bonus",
+        "tournament": {
+          "id": 99,
+          "year": 2016,
+          "name": "2016 PACE NSC",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:32.728Z",
+          "updated_at": "2017-09-12T20:43:11.139Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/99"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 17657,
+        "number": 9,
+        "round": "15",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": 17671,
+        "tournament_id": 92,
+        "leadin": "Identify the following about examples of \"20th Century Classics of Information Architecture\", as compiled by Edward Tufte, for 10 points each.",
+        "created_at": "2017-08-28T03:50:59.810Z",
+        "updated_at": "2017-09-02T02:20:04.594Z",
+        "formatted_leadin": "Identify the following about examples of \"20th Century Classics of Information Architecture\", as compiled by Edward Tufte, for 10 points each.",
+        "texts": [
+          "Tufte loves the typography of a paperback series begun by this publishing company in 1947. This British publishing company, which now uses partly-black covers for its \"Classics\" series, went on trial for putting out an uncensored version of Lady Chatterley's Lover in 1960.",
+          "Tufte admires the \"coherent overview\" offered by a map designed by Harry Beck of the Underground system of this European capital. 52 civilians on its public transit system were killed by bombs in the 7/7 terrorist attacks in 2005.",
+          "Tufte praised the GUI that Douglas Englebart developed at this California facility. Now its own namesake company, this site is where Ethernet and laser printers were invented."
+        ],
+        "answers": [
+          "Penguin Books",
+          "London, England",
+          "Xerox PARC [or Palo Alto Research Center Incorporated; prompt on \"Xerox\" or \"Palo Alto\"]"
+        ],
+        "formatted_texts": [
+          "Tufte loves the typography of a paperback series begun by this publishing company in 1947. This British publishing company, which now uses partly-black covers for its \"Classics\" series, went on trial for putting out an uncensored version of Lady Chatterley's Lover in 1960.",
+          "Tufte admires the \"coherent overview\" offered by a map designed by Harry Beck of the Underground system of this European capital. 52 civilians on its public transit system were killed by bombs in the 7/7 terrorist attacks in 2005.",
+          "Tufte praised the GUI that Douglas Englebart developed at this California facility. Now its own namesake company, this site is where Ethernet and laser printers were invented."
+        ],
+        "formatted_answers": [
+          "Penguin Books",
+          "London, England",
+          "Xerox PARC [or Palo Alto Research Center Incorporated; prompt on \"Xerox\" or \"Palo Alto\"]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/17657",
+        "type": "bonus",
+        "tournament": {
+          "id": 92,
+          "year": 2015,
+          "name": "2015 PACE NSC",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:30.898Z",
+          "updated_at": "2017-08-27T18:44:30.898Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/92"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 16768,
+        "number": 19,
+        "round": "4",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": 16782,
+        "tournament_id": 92,
+        "leadin": "In this film's title sequence, a group of gangsters chasing an escaped chicken run into a rival gang. This film's protagonist, Rocket, is trapped between them during the stand-off. For 10 points each: ",
+        "created_at": "2017-08-28T03:50:50.822Z",
+        "updated_at": "2017-09-02T02:19:57.122Z",
+        "formatted_leadin": "In this film's title sequence, a group of gangsters chasing an escaped chicken run into a rival gang. This film's protagonist, Rocket, is trapped between them during the stand-off. For 10 points each: ",
+        "texts": [
+          "Name this 2002 film directed by Fernando Meirelles, in which Rocket and a psychotic gangster named Li'l Ze grow up in the title crime-ridden favela.",
+          "The City of God favela is in this South American country, the birthplace of bossa nova and samba.",
+          "Bossa nova was popularized in the United States by Astrud Gilberto and Stan Getz's recording of this Antonio Carlos Jobim-composed standard. The title character is described as \"tall and tan and young and lovely\" while she ignores the narrator on a beach."
+        ],
+        "answers": [
+          "City of God [or Cidade de Deus",
+          "Federative Republic of Brazil",
+          "\"The Girl From Ipanema\" [or \"Garota de Ipanema\"] "
+        ],
+        "formatted_texts": [
+          "Name this 2002 film directed by Fernando Meirelles, in which Rocket and a psychotic gangster named Li'l Ze grow up in the title crime-ridden favela.",
+          "The City of God favela is in this South American country, the birthplace of bossa nova and samba.",
+          "Bossa nova was popularized in the United States by Astrud Gilberto and Stan Getz's recording of this Antonio Carlos Jobim-composed standard. The title character is described as \"tall and tan and young and lovely\" while she ignores the narrator on a beach."
+        ],
+        "formatted_answers": [
+          "City of God [or Cidade de Deus",
+          "Federative Republic of Brazil",
+          "\"The Girl From Ipanema\" [or \"Garota de Ipanema\"] "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/16768",
+        "type": "bonus",
+        "tournament": {
+          "id": 92,
+          "year": 2015,
+          "name": "2015 PACE NSC",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:30.898Z",
+          "updated_at": "2017-08-27T18:44:30.898Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/92"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5267,
+        "number": 13,
+        "round": "13",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": 5281,
+        "tournament_id": 23,
+        "leadin": "Among its provisions is a strict prohibition on gambling. For 10 points each:",
+        "created_at": "2017-08-28T03:49:02.006Z",
+        "updated_at": "2017-08-28T03:49:02.006Z",
+        "formatted_leadin": "Among its provisions is a strict prohibition on gambling. For 10 points each:",
+        "texts": [
+          "Name this system of law based on the Quran and Hadith. In Britain, the sections of it concerning family law can be used to resolve disputes apart from the national legal code.",
+          " Fiqh, or Islamic jurisprudence, combines the precepts of sharia with this other set of practices, based on the way the Prophet Muhammad would have conducted himself",
+          "] Under sharia, a man may perform this action by reciting the talaq three times. Jewish law prevents a man from doing this that freely, instead requiring a document known as a get."
+        ],
+        "answers": [
+          "SHARIA",
+          "SUNNAH",
+          "DIVORCE"
+        ],
+        "formatted_texts": [
+          "Name this system of law based on the Quran and Hadith. In Britain, the sections of it concerning family law can be used to resolve disputes apart from the national legal code.",
+          " Fiqh, or Islamic jurisprudence, combines the precepts of sharia with this other set of practices, based on the way the Prophet Muhammad would have conducted himself",
+          "] Under sharia, a man may perform this action by reciting the talaq three times. Jewish law prevents a man from doing this that freely, instead requiring a document known as a get."
+        ],
+        "formatted_answers": [
+          "SHARIA",
+          "SUNNAH",
+          "DIVORCE"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5267",
+        "type": "bonus",
+        "tournament": {
+          "id": 23,
+          "year": 2012,
+          "name": "2012 PACE NSC",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:15.668Z",
+          "updated_at": "2017-08-27T18:44:15.668Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/23"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 2576,
+        "number": 15,
+        "round": "2",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": 2590,
+        "tournament_id": 23,
+        "leadin": "This film was divided into five acts, contained no trained actors, and made heavy use of the director's intellectual montage technique. For 10 points each:",
+        "created_at": "2017-08-28T03:48:32.422Z",
+        "updated_at": "2017-08-28T03:48:32.422Z",
+        "formatted_leadin": "This film was divided into five acts, contained no trained actors, and made heavy use of the director's intellectual montage technique. For 10 points each:",
+        "texts": [
+          " Identify this silent film that contains a scene where a baby in a carriage is sent to its death down the Odessa Steps during an abortive revolution.",
+          "Sergei Eisenstein's The Battleship Potemkin was commissioned by the government of this no-longer extant country.",
+          " This American director overtly referenced the Odessa Steps scene from Battleship Potemkin in his film, The Untouchables. He also directed Mission: Impossible and Carrie"
+        ],
+        "answers": [
+          "battleship potemkin",
+          "soviet union",
+          "de palma"
+        ],
+        "formatted_texts": [
+          " Identify this silent film that contains a scene where a baby in a carriage is sent to its death down the Odessa Steps during an abortive revolution.",
+          "Sergei Eisenstein's The Battleship Potemkin was commissioned by the government of this no-longer extant country.",
+          " This American director overtly referenced the Odessa Steps scene from Battleship Potemkin in his film, The Untouchables. He also directed Mission: Impossible and Carrie"
+        ],
+        "formatted_answers": [
+          "battleship potemkin",
+          "soviet union",
+          "de palma"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/2576",
+        "type": "bonus",
+        "tournament": {
+          "id": 23,
+          "year": 2012,
+          "name": "2012 PACE NSC",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:15.668Z",
+          "updated_at": "2017-08-27T18:44:15.668Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/23"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5443,
+        "number": 1,
+        "round": "15",
+        "category_id": 16,
+        "subcategory_id": 72,
+        "quinterest_id": 5457,
+        "tournament_id": 23,
+        "leadin": "This director's films include Killer's Kiss and Paths of Glory. For 10 points each",
+        "created_at": "2017-08-28T03:49:04.003Z",
+        "updated_at": "2017-09-14T23:51:20.667Z",
+        "formatted_leadin": "This director's films include Killer's Kiss and Paths of Glory. For 10 points each",
+        "texts": [
+          "] Identify this director of a film containing characters like Lionel Mandrake and General Buck Turgidson, the latter of whom was played by George C. Scott.",
+          "] This Stanley Kubrick film opens during the \"Dawn of Man\" when a black obelisk inspires a hominid to use a bone to kill a fellow creature. Later scenes in this film feature HAL 9000.",
+          "This composer's Kanon and Polymorphia were used in the score for The Shining. This Polish composer is also known for his choral St. Luke Passion."
+        ],
+        "answers": [
+          "KUBRICK",
+          "2001 SPACE ODYSSEY",
+          "PENERECKI"
+        ],
+        "formatted_texts": [
+          "] Identify this director of a film containing characters like Lionel Mandrake and General Buck Turgidson, the latter of whom was played by George C. Scott.",
+          "] This Stanley Kubrick film opens during the \"Dawn of Man\" when a black obelisk inspires a hominid to use a bone to kill a fellow creature. Later scenes in this film feature HAL 9000.",
+          "This composer's Kanon and Polymorphia were used in the score for The Shining. This Polish composer is also known for his choral St. Luke Passion."
+        ],
+        "formatted_answers": [
+          "KUBRICK",
+          "2001 SPACE ODYSSEY",
+          "PENERECKI"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5443",
+        "type": "bonus",
+        "tournament": {
+          "id": 23,
+          "year": 2012,
+          "name": "2012 PACE NSC",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:15.668Z",
+          "updated_at": "2017-08-27T18:44:15.668Z",
+          "difficulty": "National High School",
+          "difficulty_num": 5,
+          "url": "https://www.quizdb.org/api/tournaments/23"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+          "id": 72,
+          "name": "Trash Movies",
+          "created_at": "2017-09-11T02:55:19.142Z",
+          "updated_at": "2017-09-11T02:55:19.142Z",
+          "url": "https://www.quizdb.org/api/subcategories/72"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2054 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 32,
+    "num_bonuses_shown": 32,
+    "bonuses": [
+      {
+        "id": 43109,
+        "number": 15,
+        "round": "10",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 412,
+        "leadin": "Answer the following about the 2018–19 U.S. government shutdown over funding for Donald Trump’s proposed border wall. For 10 points each:",
+        "created_at": "2020-09-17T20:55:24.226Z",
+        "updated_at": "2020-10-17T05:19:04.127Z",
+        "formatted_leadin": "Answer the following about the 2018–19 U.S. government shutdown over funding for Donald Trump’s proposed border wall. For 10 points each:",
+        "texts": [
+          "Trump initially announced that he would be “proud to shut down the government” in a December 11 meeting with Chuck Schumer and this woman, who returned to the Speakership of the House in January.",
+          "The shutdown ended on the same day that staffing shortages forced the Federal Aviation Administration to impose a ground stop at this airport in northern Queens.",
+          "The day before the end of the shutdown, this Secretary of Commerce was criticized for suggesting in a CNBC interview that furloughed workers cover their cash shortages by taking out loans."
+        ],
+        "answers": [
+          "Nancy (Patricia) Pelosi",
+          "LaGuardia Airport [accept LGA or KLGA]",
+          "Wilbur (Louis) Ross Jr. &lt;SCW&gt;"
+        ],
+        "formatted_texts": [
+          "Trump initially announced that he would be “proud to shut down the government” in a December 11 meeting with Chuck Schumer and this woman, who returned to the Speakership of the House in January.",
+          "The shutdown ended on the same day that staffing shortages forced the Federal Aviation Administration to impose a ground stop at this airport in northern Queens.",
+          "The day before the end of the shutdown, this Secretary of Commerce was criticized for suggesting in a CNBC interview that furloughed workers cover their cash shortages by taking out loans."
+        ],
+        "formatted_answers": [
+          "Nancy (Patricia) <strong>Pelosi</strong>",
+          "<strong>LaGuardia</strong> Airport [accept <strong>LGA</strong> or <strong>KLGA</strong>]",
+          "Wilbur (Louis) <strong>Ross</strong> Jr. &lt;SCW&gt;"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/43109",
+        "type": "bonus",
+        "tournament": {
+          "id": 412,
+          "year": 2019,
+          "name": "2019 BHSAT",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "",
+          "created_at": "2020-09-17T20:50:52.188Z",
+          "updated_at": "2020-09-17T20:50:52.188Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/412"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 43821,
+        "number": 2,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 414,
+        "leadin": "Chinese energy magnate Ye Jianming gave one member of this family a 2.8 carat diamond in exchange for facilitating a $40 million investment, which fell through after Ye was arrested for bribery. For 10 points each:",
+        "created_at": "2020-09-17T21:59:43.580Z",
+        "updated_at": "2020-09-17T21:59:43.580Z",
+        "formatted_leadin": "Chinese energy magnate Ye Jianming gave one member of this family a 2.8 carat diamond in exchange for facilitating a $40 million investment, which fell through after Ye was arrested for bribery. For 10 points each:",
+        "texts": [
+          "Identify this family, whose member Hunter has been castigated for allegedly unscrupulous business deals. At a fundraiser, another member of this family infamously reminisced about working with segregationist senators.",
+          "Hunter Biden has elicited scrutiny for his position on the board of Burisma Holdings, a natural gas production company based in this country. This country’s president, Volodymyr Zelensky, resides in Kyiv.",
+          "Joseph Maguire, the acting member of this position, withheld a whistleblower’s complaint that President Trump asked Zelensky to investigate Joe Biden from Congress. Dan Coats was the previous holder of this position."
+        ],
+        "answers": [
+          "Biden",
+          "Ukraine",
+          "Director of National Intelligence (or DNI) &lt;R. Li, Current Events&gt;"
+        ],
+        "formatted_texts": [
+          "Identify this family, whose member Hunter has been castigated for allegedly unscrupulous business deals. At a fundraiser, another member of this family infamously reminisced about working with segregationist senators.",
+          "Hunter Biden has elicited scrutiny for his position on the board of Burisma Holdings, a natural gas production company based in this country. This country’s president, Volodymyr Zelensky, resides in Kyiv.",
+          "Joseph Maguire, the acting member of this position, withheld a whistleblower’s complaint that President Trump asked Zelensky to investigate Joe Biden from Congress. Dan Coats was the previous holder of this position."
+        ],
+        "formatted_answers": [
+          "<strong>Biden</strong>",
+          "<strong>Ukraine</strong>",
+          "<strong>Director of National Intelligence</strong> (or <strong>DNI</strong>) &lt;R. Li, Current Events&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/43821",
+        "type": "bonus",
+        "tournament": {
+          "id": 414,
+          "year": 2019,
+          "name": "2019 HFT XIV",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "",
+          "created_at": "2020-09-17T21:58:05.178Z",
+          "updated_at": "2020-09-17T22:00:32.730Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/414"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 36349,
+        "number": 1,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 389,
+        "leadin": "The UN condemned atrocities suffered by these people in 2017 as “a textbook example of ethnic cleansing.” For 10 points each:",
+        "created_at": "2018-12-24T07:25:59.234Z",
+        "updated_at": "2019-01-06T03:11:18.707Z",
+        "formatted_leadin": "The UN condemned atrocities suffered by these people in 2017 as “a textbook example of ethnic cleansing.” For 10 points each:",
+        "texts": [
+          "Name this persecuted group of Muslims who live in Myanmar’s Rakhine State.",
+          "Rohingya refugees from Burma have poured into this Muslim-majority neighbor of Myanmar, where refugee camps in Cox’s Bazaar have been filled to capacity and then some.",
+          "This Prime Minister of Bangladesh recently announced that she’s “firm” in her resolve to send nearly a million Rohingya back to Myanmar. She’s the sole surviving daughter of the country’s first PM, Sheikh Mujibur Rahman."
+        ],
+        "answers": [
+          "Rohingya [roh-WIN-juh]",
+          "People’s Republic of Bangladesh",
+          "Sheikh Hasina Wazed [prompt on just Hasina] &lt;HK&gt;"
+        ],
+        "formatted_texts": [
+          "Name this persecuted group of Muslims who live in Myanmar’s Rakhine State.",
+          "Rohingya refugees from Burma have poured into this Muslim-majority neighbor of Myanmar, where refugee camps in Cox’s Bazaar have been filled to capacity and then some.",
+          "This Prime Minister of Bangladesh recently announced that she’s “firm” in her resolve to send nearly a million Rohingya back to Myanmar. She’s the sole surviving daughter of the country’s first PM, Sheikh Mujibur Rahman."
+        ],
+        "formatted_answers": [
+          "<strong>Rohingya</strong> [roh-WIN-juh]",
+          "People’s Republic of <strong>Bangladesh</strong>",
+          "<strong>Sheikh Hasina</strong> Wazed [prompt on just Hasina] &lt;HK&gt;"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/36349",
+        "type": "bonus",
+        "tournament": {
+          "id": 389,
+          "year": 2018,
+          "name": "2018 BHSAT",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "http://quizbowlpackets.com/1996/",
+          "created_at": "2018-12-24T04:35:11.652Z",
+          "updated_at": "2018-12-24T04:35:11.652Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/389"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 36499,
+        "number": 8,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 389,
+        "leadin": "This man owned the soccer team A.C. Milan from 1986 until the beginning of 2017. For 10 points each:",
+        "created_at": "2018-12-24T07:28:04.512Z",
+        "updated_at": "2018-12-24T07:28:04.512Z",
+        "formatted_leadin": "This man owned the soccer team A.C. Milan from 1986 until the beginning of 2017. For 10 points each:",
+        "texts": [
+          "Name this man who resigned as Prime Minister of Italy in 2011. He controversially owns all of Italy’s major media corporations, and was found guilty of paying for an underage prostitute.",
+          "Berlusconi founded this political party in 1994, a year before he became prime minister. He later re-founded this party in 2013.",
+          "Berlusconi set up the Mitrokhin Commission to smear his leftist opponents by tying them to this organization, the successor to the NKVD."
+        ],
+        "answers": [
+          "Silvio Berlusconi",
+          "Forza Italia",
+          "KGB [or Komitet gosudarstvennoy bezopasnosti] &lt;SPQR&gt;"
+        ],
+        "formatted_texts": [
+          "Name this man who resigned as Prime Minister of Italy in 2011. He controversially owns all of Italy’s major media corporations, and was found guilty of paying for an underage prostitute.",
+          "Berlusconi founded this political party in 1994, a year before he became prime minister. He later re-founded this party in 2013.",
+          "Berlusconi set up the Mitrokhin Commission to smear his leftist opponents by tying them to <em>this</em> organization, the successor to the NKVD."
+        ],
+        "formatted_answers": [
+          "Silvio <strong>Berlusconi</strong>",
+          "<strong>Forza Italia</strong>",
+          "<strong>KGB</strong> [or <strong>Komitet gosudarstvennoy bezopasnosti</strong>] &lt;SPQR&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/36499",
+        "type": "bonus",
+        "tournament": {
+          "id": 389,
+          "year": 2018,
+          "name": "2018 BHSAT",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "http://quizbowlpackets.com/1996/",
+          "created_at": "2018-12-24T04:35:11.652Z",
+          "updated_at": "2018-12-24T04:35:11.652Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/389"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 36451,
+        "number": 2,
+        "round": "6",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 389,
+        "leadin": "For 10 points each—answer the following about California’s 2016 Senate election:",
+        "created_at": "2018-12-24T07:26:33.364Z",
+        "updated_at": "2018-12-24T07:26:33.364Z",
+        "formatted_leadin": "For 10 points each—answer the following about California’s 2016 Senate election:",
+        "texts": [
+          "The election was won by this Jamaican-Indian-American woman, the state’s former attorney general.",
+          "In the election, Kamala Harris defeated fellow Democrat Loretta Sanchez, because California uses this kind of primary, in which the top two finishers advance to the general election, regardless of party.",
+          "At the end of a debate, Loretta Sanchez infamously performed this action, which looks sort of like sneezing into one’s elbow."
+        ],
+        "answers": [
+          "Kamala (Devi) Harris",
+          "jungle primary [accept Louisiana primary; prompt on blanket primary]",
+          "dabbing &lt;SCW&gt;"
+        ],
+        "formatted_texts": [
+          "The election was won by this Jamaican-Indian-American woman, the state’s former attorney general.",
+          "In the election, Kamala Harris defeated fellow Democrat Loretta Sanchez, because California uses <em>this</em> kind of primary, in which the top two finishers advance to the general election, regardless of party.",
+          "At the end of a debate, Loretta Sanchez infamously performed <em>this</em> action, which looks sort of like sneezing into one’s elbow."
+        ],
+        "formatted_answers": [
+          "Kamala (Devi) <strong>Harris</strong>",
+          "<strong>jungle</strong> primary [accept <strong>Louisiana</strong> primary; prompt on blanket primary]",
+          "<strong>dab</strong>bing &lt;SCW&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/36451",
+        "type": "bonus",
+        "tournament": {
+          "id": 389,
+          "year": 2018,
+          "name": "2018 BHSAT",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "http://quizbowlpackets.com/1996/",
+          "created_at": "2018-12-24T04:35:11.652Z",
+          "updated_at": "2018-12-24T04:35:11.652Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/389"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 35677,
+        "number": 19,
+        "round": "7",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 382,
+        "leadin": "Diplomatic history is currently in the works. For 10 points each:",
+        "created_at": "2018-12-23T22:41:24.636Z",
+        "updated_at": "2018-12-23T22:41:24.636Z",
+        "formatted_leadin": "Diplomatic history is currently in the works. For 10 points each:",
+        "texts": [
+          "Name this man, who, amid increased sanctions from the United States, has agreed to meet with President Trump at a time and place yet to be determined. Trump has previously called this North Korean dictator “Rocket Man.”",
+          "While a sitting U.S. president has never met with the supreme leader of North Korea, former presidents Jimmy Carter and Bill Clinton did meet with this man, Kim Jong-un’s predecessor and father.",
+          "This South Korean Chief National Security Advisor announced Kim’s willingness to meet President Trump."
+        ],
+        "answers": [
+          "Kim Jong-un [all parts required]",
+          "Kim Jong-il [all parts required]",
+          "Chung Eui Yong &lt;Stecko&gt;"
+        ],
+        "formatted_texts": [
+          "Name this man, who, amid increased sanctions from the United States, has agreed to meet with President Trump at a time and place yet to be determined. Trump has previously called this North Korean dictator “Rocket Man.”",
+          "While a sitting U.S. president has never met with the supreme leader of North Korea, former presidents Jimmy Carter and Bill Clinton did meet with this man, Kim Jong-un’s predecessor and father.",
+          "This South Korean Chief National Security Advisor announced Kim’s willingness to meet President Trump."
+        ],
+        "formatted_answers": [
+          "<strong>Kim Jong-un</strong> [all parts required]",
+          "<strong>Kim Jong-il</strong> [all parts required]",
+          "<strong>Chung</strong> Eui Yong &lt;Stecko&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/35677",
+        "type": "bonus",
+        "tournament": {
+          "id": 382,
+          "year": 2018,
+          "name": "2018 Great Lakes Regional Academic Championship (GLRAC)",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "http://quizbowlpackets.com/2096/",
+          "created_at": "2018-12-23T22:39:35.368Z",
+          "updated_at": "2020-09-30T22:17:49.343Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/382"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 39477,
+        "number": 10,
+        "round": "Round 10",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 396,
+        "leadin": "The widow of one US soldier killed in this country, La David Johnson, had a contentious phone call with Donald Trump that she then reported to her congresswoman, Frederica Wilson. For 10 points each:",
+        "created_at": "2019-05-18T20:05:41.779Z",
+        "updated_at": "2019-05-18T20:05:41.779Z",
+        "formatted_leadin": "The widow of one US soldier killed in this country, La David Johnson, had a contentious phone call with Donald Trump that she then reported to her congresswoman, Frederica Wilson. For 10 points each:",
+        "texts": [
+          "Name this Saharan country in which the Tongo Tongo Ambush took place, the site of a sizable US intervention against Islamist groups.",
+          "The primary target of US forces in Niger is this Islamist group with a name translating as “Western Education is fake.” It declared itself the “Saharan Province” of the Islamic State in 2016.",
+          "Boko Haram is also active in this country led by Muhammadu Buhari, where the city of Lagos is the center of the Nollywood film industry."
+        ],
+        "answers": [
+          "Niger (do NOT accept or otherwise reveal “Nigeria”)",
+          "Boko Haram",
+          "Nigeria &lt;Myers&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Saharan country in which the Tongo Tongo Ambush took place, the site of a sizable US intervention against Islamist groups.",
+          "The primary target of US forces in Niger is this Islamist group with a name translating as “Western Education is fake.” It declared itself the “Saharan Province” of the Islamic State in 2016.",
+          "Boko Haram is also active in this country led by Muhammadu Buhari, where the city of Lagos is the center of the Nollywood film industry."
+        ],
+        "formatted_answers": [
+          "<strong>Niger</strong> (do NOT accept or otherwise reveal “Nigeria”)",
+          "<strong>Boko Haram</strong>",
+          "<strong>Nigeria</strong> &lt;Myers&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/39477",
+        "type": "bonus",
+        "tournament": {
+          "id": 396,
+          "year": 2018,
+          "name": "2018 HFT XIII",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2019-05-18T20:04:12.825Z",
+          "updated_at": "2019-05-18T20:04:12.825Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/396"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 36914,
+        "number": 11,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 392,
+        "leadin": "President Trump often refers to this person as “Rocket Man.” For 10 points each:",
+        "created_at": "2019-02-18T20:24:28.507Z",
+        "updated_at": "2019-02-18T20:24:28.507Z",
+        "formatted_leadin": "President Trump often refers to this person as “Rocket Man.” For 10 points each:",
+        "texts": [
+          "Identify this current supreme leader of North Korea, who succeeded Kim Jong-il. Fears in the United States of this man ordering a nuclear attack mounted during 2017.",
+          "Fears about Kim Jong-un’s unpredictability exacerbated mass panic after residents of this state received an incorrect phone notification about an incoming attack on January 13, 2018, which included, “This is not a drill.”",
+          "Despite controversy surrounding North Korea, its athletes competed with South Korea at the 2018 Winter Olympics. However, the only North Korean athletes to qualify for the games on merit alone competed in this sport."
+        ],
+        "answers": [
+          "Kim Jong-un [prompt on partial]",
+          "Hawaii",
+          "pair (figure) skating [accept anything conveying that two people are figure skating together; prompt on partial; do not accept or prompt on “ice dance”] &lt;CL&gt;"
+        ],
+        "formatted_texts": [
+          "Identify this current supreme leader of North Korea, who succeeded Kim Jong-il. Fears in the United States of this man ordering a nuclear attack mounted during 2017.",
+          "Fears about Kim Jong-un’s unpredictability exacerbated mass panic after residents of this state received an incorrect phone notification about an incoming attack on January 13, 2018, which included, “This is not a drill.”",
+          "Despite controversy surrounding North Korea, its athletes competed with South Korea at the 2018 Winter Olympics. However, the only North Korean athletes to qualify for the games on merit alone competed in this sport."
+        ],
+        "formatted_answers": [
+          "<strong>Kim Jong-un</strong> [prompt on partial]",
+          "<strong>Hawaii</strong>",
+          "<strong>pair</strong> (figure) <strong>skating</strong> [accept anything conveying that two people are figure skating together; prompt on partial; do not accept or prompt on “ice dance”] &lt;CL&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/36914",
+        "type": "bonus",
+        "tournament": {
+          "id": 392,
+          "year": 2018,
+          "name": "2018 Prison Bowl XI",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "http://quizbowlpackets.com/2173/",
+          "created_at": "2019-02-18T18:41:06.564Z",
+          "updated_at": "2019-02-18T18:41:06.564Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/392"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 37097,
+        "number": 5,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 392,
+        "leadin": "For 10 points each, name these things about the tremendous increase in the number of left-leaning political podcasts since the 2016 American presidential election.",
+        "created_at": "2019-02-18T20:25:39.128Z",
+        "updated_at": "2019-02-18T20:25:39.128Z",
+        "formatted_leadin": "For 10 points each, name these things about the tremendous increase in the number of left-leaning political podcasts since the 2016 American presidential election.",
+        "texts": [
+          "One of the most popular new shows, Pod Save America, is hosted by Dan Pfeiffer, Jon Favreau, Jon Lovett, and Tommy Vietor, all of whom worked in the administration of this 44th U.S. President replaced by Donald Trump.",
+          "Pod Save America is put out by this new media company, founded in 2016 by three of the podcast’s hosts. This company takes its name from an adjective used by Trump to suggest the media and Hillary Clinton are corrupt.",
+          "Stay Tuned, another new podcast, is hosted by this Indian-American former U.S. Attorney, who was tough on corruption and Wall Street in his New York district. Trump notably fired this Obama appointee in 2017."
+        ],
+        "answers": [
+          "Barack Hussein Obama II",
+          "Crooked Media [accept Crooked.com or Crooked Hillary]",
+          "Preet(inder Singh) Bharara &lt;CL&gt;"
+        ],
+        "formatted_texts": [
+          "One of the most popular new shows, <em>Pod Save America</em>, is hosted by Dan Pfeiffer, Jon Favreau, Jon Lovett, and Tommy Vietor, all of whom worked in the administration of this 44th U.S. President replaced by Donald Trump.",
+          "<em>Pod Save America</em> is put out by this new media company, founded in 2016 by three of the podcast’s hosts. This company takes its name from an adjective used by Trump to suggest the media and Hillary Clinton are corrupt.",
+          "<em>Stay Tuned</em>, another new podcast, is hosted by this Indian-American former U.S. Attorney, who was tough on corruption and Wall Street in his New York district. Trump notably fired this Obama appointee in 2017."
+        ],
+        "formatted_answers": [
+          "Barack Hussein <strong>Obama</strong> II",
+          "<strong>Crooked</strong> Media [accept <strong>Crooked</strong>.com or <strong>Crooked</strong> Hillary]",
+          "Preet(inder Singh) <strong>Bharara</strong> &lt;CL&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/37097",
+        "type": "bonus",
+        "tournament": {
+          "id": 392,
+          "year": 2018,
+          "name": "2018 Prison Bowl XI",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "http://quizbowlpackets.com/2173/",
+          "created_at": "2019-02-18T18:41:06.564Z",
+          "updated_at": "2019-02-18T18:41:06.564Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/392"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 36971,
+        "number": 5,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 392,
+        "leadin": "For 10 points each, name these things about the tremendous increase in the number of left-leaning political podcasts since the 2016 American presidential election.",
+        "created_at": "2019-02-18T20:25:13.959Z",
+        "updated_at": "2019-02-18T20:25:13.959Z",
+        "formatted_leadin": "For 10 points each, name these things about the tremendous increase in the number of left-leaning political podcasts since the 2016 American presidential election.",
+        "texts": [
+          "One of the most popular new shows, Pod Save America, is hosted by Dan Pfeiffer, Jon Favreau, Jon Lovett, and Tommy Vietor, all of whom worked in the administration of this 44th U.S. President replaced by Donald Trump.",
+          "Pod Save America is put out by this new media company, founded in 2016 by three of the podcast’s hosts. This company takes its name from an adjective used by Trump to suggest the media and Hillary Clinton are corrupt.",
+          "Stay Tuned, another new podcast, is hosted by this Indian-American former U.S. Attorney, who was tough on corruption and Wall Street in his New York district. Trump notably fired this Obama appointee in 2017."
+        ],
+        "answers": [
+          "Barack Hussein Obama II",
+          "Crooked Media [accept Crooked.com or Crooked Hillary]",
+          "Preet(inder Singh) Bharara &lt;CL&gt;"
+        ],
+        "formatted_texts": [
+          "One of the most popular new shows, <em>Pod Save America</em>, is hosted by Dan Pfeiffer, Jon Favreau, Jon Lovett, and Tommy Vietor, all of whom worked in the administration of this 44th U.S. President replaced by Donald Trump.",
+          "<em>Pod Save America</em> is put out by this new media company, founded in 2016 by three of the podcast’s hosts. This company takes its name from an adjective used by Trump to suggest the media and Hillary Clinton are corrupt.",
+          "<em>Stay Tuned</em>, another new podcast, is hosted by this Indian-American former U.S. Attorney, who was tough on corruption and Wall Street in his New York district. Trump notably fired this Obama appointee in 2017."
+        ],
+        "formatted_answers": [
+          "Barack Hussein <strong>Obama</strong> II",
+          "<strong>Crooked</strong> Media [accept <strong>Crooked</strong>.com or <strong>Crooked</strong> Hillary]",
+          "Preet(inder Singh) <strong>Bharara</strong> &lt;CL&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/36971",
+        "type": "bonus",
+        "tournament": {
+          "id": 392,
+          "year": 2018,
+          "name": "2018 Prison Bowl XI",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "http://quizbowlpackets.com/2173/",
+          "created_at": "2019-02-18T18:41:06.564Z",
+          "updated_at": "2019-02-18T18:41:06.564Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/392"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31878,
+        "number": 11,
+        "round": "7",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 372,
+        "leadin": "Answer the following about women who have had a rough time in politics, for 10 points each:",
+        "created_at": "2018-08-02T17:04:27.563Z",
+        "updated_at": "2018-08-02T17:04:27.563Z",
+        "formatted_leadin": "Answer the following about women who have had a rough time in politics, for 10 points each:",
+        "texts": [
+          "This former President of Brazil was impeached in 2016 after controversies surrounding her involvement in the Petrobras scandal, as well as being found guilty of breaking budgetary laws.",
+          "Aung San Suu Kyi has recently faced criticism over the massacre of the Rohingya in this country, where she was a political prisoner for nearly two decades under its military junta.",
+          "This woman served as Prime Minister of Pakistan twice, and later went into self-exile due to corruption accusations. She was assassinated in 2007 after returning to Pakistan."
+        ],
+        "answers": [
+          "Dilma Rousseff",
+          "Myanmar [accept Burma]",
+          "Benazir Bhutto"
+        ],
+        "formatted_texts": [
+          "This former President of Brazil was impeached in 2016 after controversies surrounding her involvement in the Petrobras scandal, as well as being found guilty of breaking budgetary laws.",
+          "Aung San Suu Kyi has recently faced criticism over the massacre of the Rohingya in this country, where she was a political prisoner for nearly two decades under its military junta.",
+          "This woman served as Prime Minister of Pakistan twice, and later went into self-exile due to corruption accusations. She was assassinated in 2007 after returning to Pakistan."
+        ],
+        "formatted_answers": [
+          "Dilma <strong>Rousseff</strong>",
+          "<strong>Myanmar</strong> [accept <strong>Burma</strong>]",
+          "Benazir <strong>Bhutto</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31878",
+        "type": "bonus",
+        "tournament": {
+          "id": 372,
+          "year": 2017,
+          "name": "2017 GSAC XXV",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2012/",
+          "created_at": "2018-08-02T17:03:10.406Z",
+          "updated_at": "2018-08-02T17:03:10.406Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/372"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31914,
+        "number": 5,
+        "round": "9",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 372,
+        "leadin": "In 2012, Obama made a controversial recess appointment of Richard Cordray to head this agency, which accepts consumer complaints via platforms like Youtube and Twitter. For 10 points each:",
+        "created_at": "2018-08-02T17:06:24.833Z",
+        "updated_at": "2019-10-15T23:33:10.457Z",
+        "formatted_leadin": "In 2012, Obama made a controversial recess appointment of Richard Cordray to head this agency, which accepts consumer complaints via platforms like Youtube and Twitter. For 10 points each:",
+        "texts": [
+          "Name this bureau of the federal government that was authorized by Dodd-Frank. Elizabeth Warren proposed this independent agency whose constitutionality is being challenged in court.",
+          "The CFPB was established in response to the global financial crisis that peaked in this year, beginning with the collapse of Lehman Brothers in September of this year.",
+          "In November 2017, Trump appointed this director of the Office of Management and Budget to lead the CFPB despite the resigning director naming his deputy Leandra English as successor."
+        ],
+        "answers": [
+          "Consumer Financial Protection Bureau",
+          "2008",
+          "Mick Mulvaney"
+        ],
+        "formatted_texts": [
+          "Name this bureau of the federal government that was authorized by Dodd-Frank. Elizabeth Warren proposed this independent agency whose constitutionality is being challenged in court.",
+          "The CFPB was established in response to the global financial crisis that peaked in this year, beginning with the collapse of Lehman Brothers in September of this year.",
+          "In November 2017, Trump appointed this director of the Office of Management and Budget to lead the CFPB despite the resigning director naming his deputy Leandra English as successor."
+        ],
+        "formatted_answers": [
+          "<strong>C</strong>onsumer <strong>F</strong>inancial <strong>P</strong>rotection <strong>B</strong>ureau",
+          "<strong>2008</strong>",
+          "Mick <strong>Mulvaney</strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31914",
+        "type": "bonus",
+        "tournament": {
+          "id": 372,
+          "year": 2017,
+          "name": "2017 GSAC XXV",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2012/",
+          "created_at": "2018-08-02T17:03:10.406Z",
+          "updated_at": "2018-08-02T17:03:10.406Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/372"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 29156,
+        "number": 13,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 368,
+        "leadin": "This company’s merger with Humana was blocked by a federal judge in January 2017. For 10 points each:",
+        "created_at": "2018-04-30T01:37:23.857Z",
+        "updated_at": "2018-04-30T01:37:23.857Z",
+        "formatted_leadin": "This company’s merger with Humana was blocked by a federal judge in January 2017. For 10 points each:",
+        "texts": [
+          "Name this American company based in Hartford, Connecticut. Its CEO Mark Bertolini claimed that the Affordable Care Act was in a death spiral shortly after the merger was blocked.",
+          "Among other things, Aetna sells this product, which most Americans are required to have due to the Affordable Care Act’s individual mandate. Other companies that sell this product include Blue Cross Blue Shield.",
+          "This pharmacy and healthcare company is reportedly in talks to buy Aetna. This competitor to Walgreens discontinued the sale of all tobacco products in October 2014."
+        ],
+        "answers": [
+          "Aetna Inc.",
+          "health insurance (prompt on just insurance; do not accept any other specific types of insurance like “life insurance” or “auto insurance”)",
+          "CVS Health &lt;Park&gt;"
+        ],
+        "formatted_texts": [
+          "Name this American company based in Hartford, Connecticut. Its CEO Mark Bertolini claimed that the Affordable Care Act was in a death spiral shortly after the merger was blocked.",
+          "Among other things, Aetna sells this product, which most Americans are required to have due to the Affordable Care Act’s individual mandate. Other companies that sell this product include Blue Cross Blue Shield.",
+          "This pharmacy and healthcare company is reportedly in talks to buy Aetna. This competitor to Walgreens discontinued the sale of all tobacco products in October 2014."
+        ],
+        "formatted_answers": [
+          "<strong>Aetna</strong> Inc.",
+          "<strong>health insurance</strong> (prompt on just insurance; do not accept any other specific types of insurance like “life insurance” or “auto insurance”)",
+          "<strong>CVS</strong> Health &lt;Park&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/29156",
+        "type": "bonus",
+        "tournament": {
+          "id": 368,
+          "year": 2017,
+          "name": "2017 HFT XII",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2013/",
+          "created_at": "2018-04-30T01:35:51.460Z",
+          "updated_at": "2018-04-30T01:35:51.460Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/368"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 29256,
+        "number": 8,
+        "round": "10",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 368,
+        "leadin": "The Riyadh Summit might have contributed to a diplomatic crisis in this country. For 10 points each:",
+        "created_at": "2018-04-30T01:38:41.160Z",
+        "updated_at": "2018-04-30T01:38:41.160Z",
+        "formatted_leadin": "The Riyadh Summit might have contributed to a diplomatic crisis in this country. For 10 points each:",
+        "texts": [
+          "Saudi Arabia, Egypt, and the United Arab Emirates suddenly cut off diplomatic relations with what Gulf state ruled by Shiekh Tamim? This country has extensive oil and natural gas reserves, and has a capital at Doha.",
+          "The aforementioned countries demanded the shutdown of this state-funded media outlet, which has been frequently accused of bias. This network’s slogan is “The Opinion and the Other Opinion”.",
+          "Qatar, Saudi Arabia, Bahrain, and three other Gulf states are part of this political and economic alliance. This regional intergovernmental organization created the Peninsula Shield Force and is led by the Supreme Council."
+        ],
+        "answers": [
+          "State of Qatar (or Dawlat Qatar)",
+          "Al Jazeera",
+          "Gulf Cooperation Council (accept GCC or Cooperation Council for Arab States of the Gulf) &lt;Park&gt;"
+        ],
+        "formatted_texts": [
+          "Saudi Arabia, Egypt, and the United Arab Emirates suddenly cut off diplomatic relations with what Gulf state ruled by Shiekh Tamim? This country has extensive oil and natural gas reserves, and has a capital at Doha.",
+          "The aforementioned countries demanded the shutdown of this state-funded media outlet, which has been frequently accused of bias. This network’s slogan is “The Opinion and the Other Opinion”.",
+          "Qatar, Saudi Arabia, Bahrain, and three other Gulf states are part of this political and economic alliance. This regional intergovernmental organization created the Peninsula Shield Force and is led by the Supreme Council."
+        ],
+        "formatted_answers": [
+          "State of <strong>Qatar</strong> (or Dawlat <strong>Qatar</strong>)",
+          "<strong>Al Jazeera</strong>",
+          "<strong>Gulf Cooperation Council</strong> (accept <strong>GCC</strong> or <strong>Cooperation Council for Arab States of the Gulf</strong>) &lt;Park&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/29256",
+        "type": "bonus",
+        "tournament": {
+          "id": 368,
+          "year": 2017,
+          "name": "2017 HFT XII",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/2013/",
+          "created_at": "2018-04-30T01:35:51.460Z",
+          "updated_at": "2018-04-30T01:35:51.460Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/368"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 21646,
+        "number": 5,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 337,
+        "leadin": "“Lula” Silva was narrowly prevented from being appointed Chief of Staff in this country just as he was being prosecuted for corruption. For 10 points each:",
+        "created_at": "2017-10-14T17:27:13.075Z",
+        "updated_at": "2017-10-14T17:27:13.075Z",
+        "formatted_leadin": "“Lula” Silva was narrowly prevented from being appointed Chief of Staff in this country just as he was being prosecuted for corruption. For 10 points each:",
+        "texts": [
+          "Name this country in which Michel Temer took over as president after this country impeached its president Dilma Rousseff.",
+          "Most of the corruption charges against Lula and Rousseff stemmed from this widespread investigation of kickbacks at the state-owned oil company Petrobras. Judge Sergio Moro has been heavily praised for prosecuting the cases in this operation.",
+          "Brazil impeached Dilma Rousseff in the midst of a separate crisis over this mosquito-transmitted disease, which has been implicated in numerous microcephaly cases. It appeared in Miami in July 2016."
+        ],
+        "answers": [
+          "Federative Republic of Brazil (or Brasil)",
+          "Operation Car Wash (or Operação Lava Jato)",
+          "Zika fever or virus"
+        ],
+        "formatted_texts": [
+          "Name this country in which Michel Temer took over as president after this country impeached its president Dilma Rousseff.",
+          "Most of the corruption charges against Lula and Rousseff stemmed from this widespread investigation of kickbacks at the state-owned oil company Petrobras. Judge Sergio Moro has been heavily praised for prosecuting the cases in this operation.",
+          "Brazil impeached Dilma Rousseff in the midst of a separate crisis over this mosquito-transmitted disease, which has been implicated in numerous microcephaly cases. It appeared in Miami in July 2016."
+        ],
+        "formatted_answers": [
+          "Federative Republic of <strong><u>Brazil</u></strong> (or <strong><u>Brasil</u></strong>)",
+          "Operation <strong><u>Car Wash</u></strong> (or Operação <strong><u>Lava Jato</u></strong>)",
+          "<strong><u>Zika</u></strong> fever or virus"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/21646",
+        "type": "bonus",
+        "tournament": {
+          "id": 337,
+          "year": 2016,
+          "name": "2016 HFT XI",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/1852/",
+          "created_at": "2017-08-29T04:03:04.928Z",
+          "updated_at": "2017-09-04T18:05:09.318Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/337"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 21734,
+        "number": 9,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 337,
+        "leadin": "Protests erupted in a university in this country after the 2016 arrest of the student union president Kanhaiya Kumar on sedition charges. For 10 points each:",
+        "created_at": "2017-10-14T17:28:08.222Z",
+        "updated_at": "2017-10-14T17:28:08.222Z",
+        "formatted_leadin": "Protests erupted in a university in this country after the 2016 arrest of the student union president Kanhaiya Kumar on sedition charges. For 10 points each:",
+        "texts": [
+          "First, name this country, the site of the aforementioned Jawaharlal Nehru University. This country’s current prime minister is Narendra Modi.",
+          "Kumar was arrested after students protested the execution of separatists from this region that is disputed between India and Pakistan. Part of this region spent 53 days under curfew in July 2016 after the killing of militant Burhan Wani.",
+          "The student protestors were heavily criticized by this party headed by Modi. Many of its members advocate for Hindu nationalism, and it opposes the Congress Party."
+        ],
+        "answers": [
+          "Republic of India",
+          "Jammu and Kashmir",
+          "Bharatiya Janata Party (or BJP)"
+        ],
+        "formatted_texts": [
+          "First, name this country, the site of the aforementioned Jawaharlal Nehru University. This country’s current prime minister is Narendra Modi.",
+          "Kumar was arrested after students protested the execution of separatists from this region that is disputed between India and Pakistan. Part of this region spent 53 days under curfew in July 2016 after the killing of militant Burhan Wani.",
+          "The student protestors were heavily criticized by this party headed by Modi. Many of its members advocate for Hindu nationalism, and it opposes the Congress Party."
+        ],
+        "formatted_answers": [
+          "Republic of <strong><u>India</u></strong>",
+          "Jammu and <strong><u>Kashmir</u></strong>",
+          "<strong><u>Bharatiya Janata</u></strong> Party (or <strong><u>BJP</u></strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/21734",
+        "type": "bonus",
+        "tournament": {
+          "id": 337,
+          "year": 2016,
+          "name": "2016 HFT XI",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/1852/",
+          "created_at": "2017-08-29T04:03:04.928Z",
+          "updated_at": "2017-09-04T18:05:09.318Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/337"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 21433,
+        "number": 2,
+        "round": "Finals 2",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 351,
+        "leadin": "This man once referred to the argument for climate change as “absolute crap.” For 10 points each:",
+        "created_at": "2017-10-10T23:24:32.520Z",
+        "updated_at": "2017-10-10T23:24:32.520Z",
+        "formatted_leadin": "This man once referred to the argument for climate change as “absolute crap.” For 10 points each:",
+        "texts": [
+          "Name this former Liberal prime minister of Australia who was recently ousted by Malcolm Turnbull.",
+          "One of Tony Abbott’s policies was the launch of Operation Sovereign Borders, an Australian Defence Force mission to prevent people from illegally doing this. Migrants caught trying to do this are sometimes detained in offshore centers.",
+          "One of Australia’s more prominent detention centres is located in this Pacific island nation. This country became rich from extraction of its phosphate reserves, but now suffers from extensive unemployment."
+        ],
+        "answers": [
+          "Anthony John “Tony” Abbott",
+          "immigrate (accept obvious equivalents)",
+          "Republic of Nauru"
+        ],
+        "formatted_texts": [
+          "Name this former Liberal prime minister of Australia who was recently ousted by Malcolm Turnbull.",
+          "One of Tony Abbott’s policies was the launch of Operation Sovereign Borders, an Australian Defence Force mission to prevent people from illegally doing this. Migrants caught trying to do this are sometimes detained in offshore centers.",
+          "One of Australia’s more prominent detention centres is located in this Pacific island nation. This country became rich from extraction of its phosphate reserves, but now suffers from extensive unemployment."
+        ],
+        "formatted_answers": [
+          "Anthony John “Tony” <strong><u>Abbott</u></strong>",
+          "<strong><u>immigrate</u></strong> (accept obvious equivalents)",
+          "Republic of <strong><u>Nauru</u></strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/21433",
+        "type": "bonus",
+        "tournament": {
+          "id": 351,
+          "year": 2015,
+          "name": "2015 HFT X",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-10-10T23:19:35.271Z",
+          "updated_at": "2017-10-10T23:19:35.271Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/351"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 23101,
+        "number": 4,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 351,
+        "leadin": "This man was the former Mayor of Burlington. For 10 points each: <ol start=\"10\" type=\"1\">",
+        "created_at": "2017-11-10T22:20:37.235Z",
+        "updated_at": "2017-11-10T22:20:37.235Z",
+        "formatted_leadin": "This man was the former Mayor of Burlington. For 10 points each:",
+        "texts": [
+          "Name this Vermont Senator and candidate for the Democratic presidential nomination. He calls himself a “democratic socialist,” but had been an Independent prior to caucusing as a Democrat.",
+          "This former CEO of HP and previous candidate for the Republican presidential nomination ran in 2010 for one of California’s Senate seats and, in an open­mic gaffe, criticized the haircut of the Democratic opposition, Barbara Boxer.",
+          "Though he introduced George Bush at the 2004 Republican National Convention, this pro­choice moderate Republican presidential candidate and former governor of New York has fallen out of the running to win the nomination."
+        ],
+        "answers": [
+          "Bernard “Bernie” Sanders",
+          "Carly Fiorina",
+          "George (Elmer) Pataki"
+        ],
+        "formatted_texts": [
+          "Name this Vermont Senator and candidate for the Democratic presidential nomination. He calls himself a “democratic socialist,” but had been an Independent prior to caucusing as a Democrat.",
+          "This former CEO of HP and previous candidate for the Republican presidential nomination ran in 2010 for one of California’s Senate seats and, in an open­mic gaffe, criticized the haircut of the Democratic opposition, Barbara Boxer.",
+          "Though he introduced George Bush at the 2004 Republican National Convention, this pro­choice moderate Republican presidential candidate and former governor of New York has fallen out of the running to win the nomination."
+        ],
+        "formatted_answers": [
+          "Bernard “Bernie” <em><strong>Sanders</strong></em>",
+          "Carly <em><strong>Fiorina</strong></em>",
+          "George (Elmer) <em><strong>Pataki</strong></em>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/23101",
+        "type": "bonus",
+        "tournament": {
+          "id": 351,
+          "year": 2015,
+          "name": "2015 HFT X",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-10-10T23:19:35.271Z",
+          "updated_at": "2017-10-10T23:19:35.271Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/351"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 21290,
+        "number": 6,
+        "round": "7",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 351,
+        "leadin": "Investigations of this man on charges of rape were accused of being politically motivated. For 10 points each:",
+        "created_at": "2017-10-10T23:23:46.344Z",
+        "updated_at": "2017-10-10T23:23:46.344Z",
+        "formatted_leadin": "Investigations of this man on charges of rape were accused of being politically motivated. For 10 points each:",
+        "texts": [
+          "Name this man whose creation of a whistleblowing website and later collaboration with Chelsea Manning started a series of events that led to him seeking asylum from Ecuador.",
+          "This former chief counterterrorism adviser to Barack Obama helped to craft the American drone program. Now the Director of the CIA, his emails are the latest prominent leak from Assange’s website, WikiLeaks.",
+          "This Moscow resident blew the whistle on the NSA’s dragnet surveillance programs. He did not make use of WikiLeaks when he released his information to journalist Glenn Greenwald."
+        ],
+        "answers": [
+          "Julian Assange",
+          "John (Owen) Brennan",
+          "Edward Snowden"
+        ],
+        "formatted_texts": [
+          "Name this man whose creation of a whistleblowing website and later collaboration with Chelsea Manning started a series of events that led to him seeking asylum from Ecuador.",
+          "This former chief counterterrorism adviser to Barack Obama helped to craft the American drone program. Now the Director of the CIA, his emails are the latest prominent leak from Assange’s website, WikiLeaks.",
+          "This Moscow resident blew the whistle on the NSA’s dragnet surveillance programs. He did not make use of WikiLeaks when he released his information to journalist Glenn Greenwald."
+        ],
+        "formatted_answers": [
+          "Julian <strong><u>Assange</u></strong>",
+          "John (Owen) <strong><u>Brennan</u></strong>",
+          "Edward <strong><u>Snowden</u></strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/21290",
+        "type": "bonus",
+        "tournament": {
+          "id": 351,
+          "year": 2015,
+          "name": "2015 HFT X",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-10-10T23:19:35.271Z",
+          "updated_at": "2017-10-10T23:19:35.271Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/351"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 22351,
+        "number": 12,
+        "round": "11",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 353,
+        "leadin": "In his last email before his capture, this man wrote about “the army of liars, backstabbers, fools, and bullies.” For 10 points each:",
+        "created_at": "2017-10-14T17:46:40.720Z",
+        "updated_at": "2017-10-14T17:46:40.720Z",
+        "formatted_leadin": "In his last email before his capture, this man wrote about “the army of liars, backstabbers, fools, and bullies.” For 10 points each:",
+        "texts": [
+          "Name this US Army soldier held captive by the Taliban for five years who was exchanged for five members of the Taliban in May 2014.",
+          "Bergdahl was held captive in this country that the United States invaded after 9/11 in order to dismantle Al-Qaeda.",
+          "Another prisoner exchange involved this Israeli sports journalist who was held by Hamas for five years after his 2006 capture. In 2011, he was swapped for 1027 Palestinians and Arab-Israelis, the largest exchange in history."
+        ],
+        "answers": [
+          "Robert Bowdrie “Bowe” Bergdahl",
+          "Afghanistan",
+          "Gilad Shalit &lt;AP Current Events&gt;"
+        ],
+        "formatted_texts": [
+          "Name this US Army soldier held captive by the Taliban for five years who was exchanged for five members of the Taliban in May 2014.",
+          "Bergdahl was held captive in this country that the United States invaded after 9/11 in order to dismantle Al-Qaeda.",
+          "Another prisoner exchange involved this Israeli sports journalist who was held by Hamas for five years after his 2006 capture. In 2011, he was swapped for 1027 Palestinians and Arab-Israelis, the largest exchange in history."
+        ],
+        "formatted_answers": [
+          "Robert Bowdrie “Bowe” <strong><u>Bergdahl</u></strong>",
+          "<strong><u>Afghanistan</u></strong>",
+          "Gilad <strong><u>Shalit</u></strong> &lt;AP Current Events&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/22351",
+        "type": "bonus",
+        "tournament": {
+          "id": 353,
+          "year": 2015,
+          "name": "2015 Maryland Fall",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/1786/",
+          "created_at": "2017-10-14T17:44:00.070Z",
+          "updated_at": "2017-10-14T17:44:00.070Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/353"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 22156,
+        "number": 17,
+        "round": "2",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 353,
+        "leadin": "This politician’s unsuccessful campaign against incumbent Sharpe James was chronicled in the documentary <em>Street Fight</em>. For 10 points each:",
+        "created_at": "2017-10-14T17:45:28.030Z",
+        "updated_at": "2017-10-14T17:45:28.030Z",
+        "formatted_leadin": "This politician’s unsuccessful campaign against incumbent Sharpe James was chronicled in the documentary <em>Street Fight</em>. For 10 points each:",
+        "texts": [
+          "Name this former mayor of Newark and current Democratic junior New Jersey senator.",
+          "Booker invited Newarkers without electricity to sleep in his home in the aftermath of this second-costliest hurricane in history that decimated New England in October 2012.",
+          "This New Jersey governor drew ire from Republicans after he praised President Obama’s actions during Sandy’s aftermath. A year later, he was criticized again for allegedly ordering lane closures at Washington Bridge."
+        ],
+        "answers": [
+          "Cory Anthony Booker",
+          "Hurricane Sandy",
+          "Christopher James Christie &lt;AP Current Events&gt;"
+        ],
+        "formatted_texts": [
+          "Name this former mayor of Newark and current Democratic junior New Jersey senator.",
+          "Booker invited Newarkers without electricity to sleep in his home in the aftermath of this second-costliest hurricane in history that decimated New England in October 2012.",
+          "This New Jersey governor drew ire from Republicans after he praised President Obama’s actions during Sandy’s aftermath. A year later, he was criticized again for allegedly ordering lane closures at Washington Bridge."
+        ],
+        "formatted_answers": [
+          "Cory Anthony <strong><u>Booker</u></strong>",
+          "Hurricane <strong><u>Sandy</u></strong>",
+          "Christopher James <strong><u>Christie</u></strong> &lt;AP Current Events&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/22156",
+        "type": "bonus",
+        "tournament": {
+          "id": 353,
+          "year": 2015,
+          "name": "2015 Maryland Fall",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/1786/",
+          "created_at": "2017-10-14T17:44:00.070Z",
+          "updated_at": "2017-10-14T17:44:00.070Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/353"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 22124,
+        "number": 5,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 353,
+        "leadin": "Name some things about the geography of the Islamic State. For 10 points each:",
+        "created_at": "2017-10-14T17:44:21.753Z",
+        "updated_at": "2017-10-14T17:44:21.753Z",
+        "formatted_leadin": "Name some things about the geography of the Islamic State. For 10 points each:",
+        "texts": [
+          "The Islamic State recently refurbished the luxury Ninawa International Hotel in this Iraqi city, which in June 2014 became the largest city under its control.",
+          "This city is home to a civilian journalism group whose name suggests that this city “Is Being Slaughtered Silently.” It is the de facto capital of the Islamic State.",
+          "The Islamic State executed a group of twenty-one Egyptian Copts in this country, where it gained a foothold after the ouster of this country’s former leader Muammar Gaddafi."
+        ],
+        "answers": [
+          "Mosul [or Al-Mawsil]",
+          "Al-Raqqah",
+          "Libya &lt;WC Current Events&gt;"
+        ],
+        "formatted_texts": [
+          "The Islamic State recently refurbished the luxury Ninawa International Hotel in this Iraqi city, which in June 2014 became the largest city under its control.",
+          "This city is home to a civilian journalism group whose name suggests that this city “Is Being Slaughtered Silently.” It is the <em>de facto</em> capital of the Islamic State.",
+          "The Islamic State executed a group of twenty-one Egyptian Copts in this country, where it gained a foothold after the ouster of this country’s former leader Muammar Gaddafi."
+        ],
+        "formatted_answers": [
+          "<strong><u>Mosul</u></strong> [or Al-<strong><u>Mawsil</u></strong>]",
+          "Al-<strong><u>Raqqah</u></strong>",
+          "<strong><u>Libya</u></strong> &lt;WC Current Events&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/22124",
+        "type": "bonus",
+        "tournament": {
+          "id": 353,
+          "year": 2015,
+          "name": "2015 Maryland Fall",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/1786/",
+          "created_at": "2017-10-14T17:44:00.070Z",
+          "updated_at": "2017-10-14T17:44:00.070Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/353"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 22376,
+        "number": 17,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 353,
+        "leadin": "Name the following politicians with Hispanic or Latino roots. For 10 points each:",
+        "created_at": "2017-10-14T17:46:41.776Z",
+        "updated_at": "2017-10-14T17:46:41.776Z",
+        "formatted_leadin": "Name the following politicians with Hispanic or Latino roots. For 10 points each:",
+        "texts": [
+          "This Texas junior senator known for a 21-hour filibuster against Obamacare is one of three Cuban-Americans in the Senate. In a recent ad of his, he represented terroristic ideals as a “scorpion in a desert.”",
+          "Some people still don’t know the real name of this former governor of Massachusetts and 2012 Republican presidential candidate, whose father was born in Mexico to religious refugees.",
+          "This Florida junior senator born to Cuban refugees recently announced his bid for President in 2016. He delivered the Republican response to the 2013 State of the Union Address in both English and Spanish."
+        ],
+        "answers": [
+          "Ted Cruz",
+          "Willard Mitt Romney [prompt on “Mittens”]",
+          "Marco Antonio Rubio &lt;AP Current Events&gt;"
+        ],
+        "formatted_texts": [
+          "This Texas junior senator known for a 21-hour filibuster against Obamacare is one of three Cuban-Americans in the Senate. In a recent ad of his, he represented terroristic ideals as a “scorpion in a desert.”",
+          "Some people still don’t know the real name of this former governor of Massachusetts and 2012 Republican presidential candidate, whose father was born in Mexico to religious refugees.",
+          "This Florida junior senator born to Cuban refugees recently announced his bid for President in 2016. He delivered the Republican response to the 2013 State of the Union Address in both English and Spanish."
+        ],
+        "formatted_answers": [
+          "Ted <strong><u>Cruz</u></strong>",
+          "Willard Mitt <strong><u>Romney</u></strong> [prompt on “Mittens”]",
+          "Marco Antonio <strong><u>Rubio</u></strong> &lt;AP Current Events&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/22376",
+        "type": "bonus",
+        "tournament": {
+          "id": 353,
+          "year": 2015,
+          "name": "2015 Maryland Fall",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://www.quizbowlpackets.com/1786/",
+          "created_at": "2017-10-14T17:44:00.070Z",
+          "updated_at": "2017-10-14T17:44:00.070Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/353"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 20063,
+        "number": 2,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 246,
+        "leadin": "Elon Musk announced that this company’s technological patents would be open to the public in order to stimulate the development of electric cars. For 10 points each:",
+        "created_at": "2017-10-10T02:44:17.297Z",
+        "updated_at": "2017-10-10T02:44:17.297Z",
+        "formatted_leadin": "Elon Musk announced that this company’s technological patents would be open to the public in order to stimulate the development of electric cars. For 10 points each:",
+        "texts": [
+          "This company’s Model X is scheduled for release in early 2015, and currently has a network of 393 Supercharger stations throughout the world.",
+          "Along with Boeing, this Elon Musk-founded company negotiated with NASA to send unmanned flights to the International Space Station. In March, it deployed its Falcon 9 rocket, which utilizes electric propulsion.",
+          "This high-speed transportation system, also proposed by Musk, incorporates pressurized capsules running on a cushion of air in low-pressure tubes. In January of 2015, Musk announced plans to build a five mile long test route in Texas."
+        ],
+        "answers": [
+          "Tesla Motors",
+          "SpaceX",
+          "Hyperloop &lt;WX&gt;"
+        ],
+        "formatted_texts": [
+          "This company’s Model X is scheduled for release in early 2015, and currently has a network of 393 <em>Supercharger</em> stations throughout the world.",
+          "Along with Boeing, this Elon Musk-founded company negotiated with NASA to send unmanned flights to the International Space Station. In March, it deployed its Falcon 9 rocket, which utilizes electric propulsion.",
+          "This high-speed transportation system, also proposed by Musk, incorporates pressurized capsules running on a cushion of air in low-pressure tubes. In January of 2015, Musk announced plans to build a five mile long test route in Texas."
+        ],
+        "formatted_answers": [
+          "<strong><u>Tesla Motors</u></strong>",
+          "<strong><u>SpaceX</u></strong>",
+          "<strong><u>Hyperloop</u></strong> &lt;WX&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/20063",
+        "type": "bonus",
+        "tournament": {
+          "id": 246,
+          "year": 2015,
+          "name": "2015 Prison Bowl VIII",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:30.556Z",
+          "updated_at": "2017-10-10T02:41:13.333Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/246"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 20133,
+        "number": 9,
+        "round": "11",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 246,
+        "leadin": "America will pick a new leader in 2016. For ten points each, name some of the candidates.",
+        "created_at": "2017-10-10T02:44:23.878Z",
+        "updated_at": "2017-10-10T02:44:23.878Z",
+        "formatted_leadin": "America will pick a new leader in 2016. For ten points each, name some of the candidates.",
+        "texts": [
+          "This former senator and Secretary of State is the clear favorite to win the Democratic nomination. She attracted controversy by using a private email instead of her official .gov account.",
+          "One possible spoiler for Clinton’s nomination is this man, the Democratic former governor of Maryland. His achievements as governor include the legalization of gay marriage and making some undocumented immigrants eligible for college tuition.",
+          "The Republican governor of Wisconsin has ranked highly in most recent polls thanks to his agenda of union-busting and slashing public university funding. In 2012, his budget repair legislation led to significant protests."
+        ],
+        "answers": [
+          "Hillary Rodham Clinton",
+          "Martin O’Malley",
+          "Scott Walker &lt;SB&gt;"
+        ],
+        "formatted_texts": [
+          "This former senator and Secretary of State is the clear favorite to win the Democratic nomination. She attracted controversy by using a private email instead of her official .gov account.",
+          "One possible spoiler for Clinton’s nomination is this man, the Democratic former governor of Maryland. His achievements as governor include the legalization of gay marriage and making some undocumented immigrants eligible for college tuition.",
+          "The Republican governor of Wisconsin has ranked highly in most recent polls thanks to his agenda of union-busting and slashing public university funding. In 2012, his budget repair legislation led to significant protests."
+        ],
+        "formatted_answers": [
+          "Hillary Rodham <strong><u>Clinton</u></strong>",
+          "Martin <strong><u>O’Malley</u></strong>",
+          "Scott <strong><u>Walker</u></strong> &lt;SB&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/20133",
+        "type": "bonus",
+        "tournament": {
+          "id": 246,
+          "year": 2015,
+          "name": "2015 Prison Bowl VIII",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:30.556Z",
+          "updated_at": "2017-10-10T02:41:13.333Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/246"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 9670,
+        "number": 17,
+        "round": "04",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 9684,
+        "tournament_id": 59,
+        "leadin": "Answer the following about Supreme Court cases regarding a 2010 piece of legislation. For 10 points each:",
+        "created_at": "2017-08-28T03:49:46.506Z",
+        "updated_at": "2017-08-28T03:49:46.506Z",
+        "formatted_leadin": "Answer the following about Supreme Court cases regarding a 2010 piece of legislation. For 10 points each:",
+        "texts": [
+          "This healthcare reform required all individuals to purchase health insurance or face a tax penalty in its individual mandate.",
+          "This case struck down the PPACA's mandatory state Medicaid expansion as overly coercive but upheld the individual mandate under the Commerce Clause.",
+          "In 2013, this art store chain filed a suit against the federal government for requiring they provide insurance that provides contraception, as a violation of their religion rights under the Religious Freedom Restoration Act."
+        ],
+        "answers": [
+          "Patient Protection and Affordable Care Act [or PPACA; or Obamacare]",
+          "National Federation of Independent Businesses v. Sebelius [or NFIB v. Sebelius]",
+          "Hobby Lobby"
+        ],
+        "formatted_texts": [
+          "This healthcare reform required all individuals to purchase health insurance or face a tax penalty in its individual mandate.",
+          "This case struck down the PPACA's mandatory state Medicaid expansion as overly coercive but upheld the individual mandate under the Commerce Clause.",
+          "In 2013, this art store chain filed a suit against the federal government for requiring they provide insurance that provides contraception, as a violation of their religion rights under the Religious Freedom Restoration Act."
+        ],
+        "formatted_answers": [
+          "Patient Protection and Affordable Care Act [or PPACA; or Obamacare]",
+          "National Federation of Independent Businesses v. Sebelius [or NFIB v. Sebelius]",
+          "Hobby Lobby"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/9670",
+        "type": "bonus",
+        "tournament": {
+          "id": 59,
+          "year": 2014,
+          "name": "2014 Prison Bowl",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:22.323Z",
+          "updated_at": "2017-08-27T18:44:22.323Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/59"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 23274,
+        "number": 9,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 221,
+        "leadin": "Her partner, Tim Mathieson, has earned the nickname “First Bloke,” and she accused opposition leader Tony Abbott of being a “misogynist” in October 2012. For 10 points each:",
+        "created_at": "2017-11-11T00:02:57.651Z",
+        "updated_at": "2017-11-11T00:02:57.651Z",
+        "formatted_leadin": "Her partner, Tim Mathieson, has earned the nickname “First Bloke,” and she accused opposition leader Tony Abbott of being a “misogynist” in October 2012. For 10 points each:",
+        "texts": [
+          "Name this politician, who defeated Kevin Rudd in 2010 to take over leadership of her country’s Labor Party. She lives in The Lodge in Canberra.",
+          "Gillard serves as Prime Minister of this country and represents Lalor, a division near Melbourne in its state of Victoria.",
+          "This other female world leader, who leads the Saenuri party, was elected South Korea’s first female president in December 2012. Her father was a military president from 1963 to ‘79."
+        ],
+        "answers": [
+          "Julia Eileen Gillard",
+          "Commonwealth of Australia",
+          "Park Geun-hye &lt;JW&gt;"
+        ],
+        "formatted_texts": [
+          "Name this politician, who defeated Kevin Rudd in 2010 to take over leadership of her country’s Labor Party. She lives in The Lodge in Canberra.",
+          "Gillard serves as Prime Minister of this country and represents Lalor, a division near Melbourne in its state of Victoria.",
+          "This other female world leader, who leads the Saenuri party, was elected South Korea’s first female president in December 2012. Her father was a military president from 1963 to ‘79."
+        ],
+        "formatted_answers": [
+          "Julia Eileen <strong><u>Gillard</u></strong>",
+          "Commonwealth of <strong><u>Australia</u></strong>",
+          "<strong><u>Park</u></strong> <strong><u>G</u></strong>eun-hye &lt;JW&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/23274",
+        "type": "bonus",
+        "tournament": {
+          "id": 221,
+          "year": 2013,
+          "name": "2013 BHSAT",
+          "address": "",
+          "quality": "amazing",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:25.369Z",
+          "updated_at": "2017-09-12T03:26:13.875Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/221"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 26278,
+        "number": 1,
+        "round": "11",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 220,
+        "leadin": "This country’s parliament is currently controlled by the Congress Party, and consists of two houses called the Lok Sabha and the Rajya Sabha. For 10 points each:",
+        "created_at": "2017-12-17T20:27:14.752Z",
+        "updated_at": "2018-08-28T03:14:48.442Z",
+        "formatted_leadin": "This country’s parliament is currently controlled by the Congress Party, and consists of two houses called the Lok Sabha and the Rajya Sabha. For 10 points each:",
+        "texts": [
+          "Name this most populous parliamentary democracy in the world. In March 2012, voter turnout in its states of Uttar Pradesh and Punjab was recorded at its highest ever.",
+          "This Congress Party member was re-elected in 2009 as Prime Minister of India.",
+          "In August 2011 and December 2011, this Indian activist went on long hunger strikes to protest rampant corruption in the country’s rural politics."
+        ],
+        "answers": [
+          "Republic of India [or Bharat Gaṇarājya]",
+          "Manmohan Singh",
+          "Anna Hazare [or Kisan Baburao Hazare]"
+        ],
+        "formatted_texts": [
+          "Name this most populous parliamentary democracy in the world. In March 2012, voter turnout in its states of Uttar Pradesh and Punjab was recorded at its highest ever.",
+          "This Congress Party member was re-elected in 2009 as Prime Minister of India.",
+          "In August 2011 and December 2011, this Indian activist went on long hunger strikes to protest rampant corruption in the country’s rural politics."
+        ],
+        "formatted_answers": [
+          "Republic of <strong>India</strong> [or <strong>Bharat</strong> Gaṇarājya]",
+          "Manmohan <strong>Singh</strong>",
+          "Anna <strong>Hazare</strong> [or Kisan Baburao <strong>Hazare</strong>]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26278",
+        "type": "bonus",
+        "tournament": {
+          "id": 220,
+          "year": 2012,
+          "name": "2012 BHSAT",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:25.226Z",
+          "updated_at": "2017-11-11T03:55:54.834Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/220"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26136,
+        "number": 1,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 220,
+        "leadin": "Answer some questions about the issue of illegal immigration in Arizona, for 10 points each.",
+        "created_at": "2017-12-17T20:26:10.321Z",
+        "updated_at": "2019-01-05T01:34:43.783Z",
+        "formatted_leadin": "Answer some questions about the issue of illegal immigration in Arizona, for 10 points each.",
+        "texts": [
+          "This Maricopa County sheriff, who bragged about running a “concentration camp” made of tents when his jail ran out of room, has been outspoken in his opposition to illegal immigration.",
+          "Arpaio strongly supported this piece of Arizona legislation, which critics claimed would lead to racial profiling.",
+          "Janet Napolitano, Arizona’s former governor, opposed the bill in her position as head of this department founded by George W. Bush after 9/11."
+        ],
+        "answers": [
+          "Joseph M. “Joe” Arpaio",
+          "SB1070 [also accept Arizona Senate Bill 1070 or The Support Our Law Enforcement and Safe Neighborhoods Act]",
+          "Department of Homeland Security [accept Secretary of Homeland Security; prompt “DHS”] &lt;SL&gt;"
+        ],
+        "formatted_texts": [
+          "This Maricopa County sheriff, who bragged about running a “concentration camp” made of tents when his jail ran out of room, has been outspoken in his opposition to illegal immigration.",
+          "Arpaio strongly supported this piece of Arizona legislation, which critics claimed would lead to racial profiling.",
+          "Janet Napolitano, Arizona’s former governor, opposed the bill in her position as head of this department founded by George W. Bush after 9/11."
+        ],
+        "formatted_answers": [
+          "Joseph M. “Joe” <strong>Arpaio</strong>",
+          "<strong>SB1070</strong> [also accept Arizona <strong>Senate Bill 1070</strong> or The <strong>Support Our Law Enforcement and Safe Neighborhoods Act</strong>]",
+          "Department of <strong>Homeland Security</strong> [accept Secretary of <strong>Homeland Security</strong>; prompt “DHS”] &lt;SL&gt;"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26136",
+        "type": "bonus",
+        "tournament": {
+          "id": 220,
+          "year": 2012,
+          "name": "2012 BHSAT",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:25.226Z",
+          "updated_at": "2017-11-11T03:55:54.834Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/220"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 10231,
+        "number": 11,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 10245,
+        "tournament_id": 5,
+        "leadin": "Answer some questions about corporate scandals, for 10 points each:",
+        "created_at": "2017-08-28T03:49:51.727Z",
+        "updated_at": "2017-08-28T03:49:51.727Z",
+        "formatted_leadin": "Answer some questions about corporate scandals, for 10 points each:",
+        "texts": [
+          "This corporation shut down its subsidiary the News of the World after that newspaper was found to have tapped  thousands of private telephone conversations.",
+          "One TV station owned by News Corporation is this conservative American station, designed to be a \"fourth  marketing force\" with CBS, ABC, and NBC. It is known for commentators like Bill O'Reilly and Glenn Beck.",
+          "Fox News was founded by, and News Corporation is led by, this Australian billionaire media mogul, whose  third wife Wendi Deng attacked a man who attempted to throw a pie in this man's face."
+        ],
+        "answers": [
+          "News Corporation",
+          "Fox News",
+          "Rupert Murdoch"
+        ],
+        "formatted_texts": [
+          "This corporation shut down its subsidiary the News of the World after that newspaper was found to have tapped  thousands of private telephone conversations.",
+          "One TV station owned by News Corporation is this conservative American station, designed to be a \"fourth  marketing force\" with CBS, ABC, and NBC. It is known for commentators like Bill O'Reilly and Glenn Beck.",
+          "Fox News was founded by, and News Corporation is led by, this Australian billionaire media mogul, whose  third wife Wendi Deng attacked a man who attempted to throw a pie in this man's face."
+        ],
+        "formatted_answers": [
+          "News Corporation",
+          "Fox News",
+          "Rupert Murdoch"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/10231",
+        "type": "bonus",
+        "tournament": {
+          "id": 5,
+          "year": 2012,
+          "name": "2012 Prison Bowl",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.267Z",
+          "updated_at": "2017-08-27T18:44:13.267Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/5"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 9534,
+        "number": 8,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 9548,
+        "tournament_id": 60,
+        "leadin": "This quantity is currently 7 dollars and 25 cents per hour nationally. For 10 points each:",
+        "created_at": "2017-08-28T03:49:45.298Z",
+        "updated_at": "2017-08-28T03:49:45.298Z",
+        "formatted_leadin": "This quantity is currently 7 dollars and 25 cents per hour nationally. For 10 points each:",
+        "texts": [
+          "Name this government-set lower bound on how much workers can be paid, last raised at the federal level in  2009.",
+          "A 2013 municipal referendum in this state set the minimum wage at its busiest airport to $15, the nation's  highest. In this state's largest city, socialist councilwoman Kshama Sawant supports raising the minimum wage",
+          "This entrepreneur from Washington State, the founder of a global health and development charity foundation  with his wife Melinda, recently expressed caution about raising the minimum wage, calling it \"a huge tradeoff.\""
+        ],
+        "answers": [
+          "minimum wage",
+          "State of Washington [or Washington State]",
+          "William Henry \"Bill\" Gates III"
+        ],
+        "formatted_texts": [
+          "Name this government-set lower bound on how much workers can be paid, last raised at the federal level in  2009.",
+          "A 2013 municipal referendum in this state set the minimum wage at its busiest airport to $15, the nation's  highest. In this state's largest city, socialist councilwoman Kshama Sawant supports raising the minimum wage",
+          "This entrepreneur from Washington State, the founder of a global health and development charity foundation  with his wife Melinda, recently expressed caution about raising the minimum wage, calling it \"a huge tradeoff.\""
+        ],
+        "formatted_answers": [
+          "minimum wage",
+          "State of Washington [or Washington State]",
+          "William Henry \"Bill\" Gates III"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/9534",
+        "type": "bonus",
+        "tournament": {
+          "id": 60,
+          "year": 2012,
+          "name": "2012 Prison Bowl ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:22.462Z",
+          "updated_at": "2017-08-27T18:44:22.462Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/60"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 9513,
+        "number": 8,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 9527,
+        "tournament_id": 60,
+        "leadin": "This quantity is currently 7 dollars and 25 cents per hour nationally. For 10 points each:",
+        "created_at": "2017-08-28T03:49:45.136Z",
+        "updated_at": "2017-08-28T03:49:45.136Z",
+        "formatted_leadin": "This quantity is currently 7 dollars and 25 cents per hour nationally. For 10 points each:",
+        "texts": [
+          "Name this government-set lower bound on how much workers can be paid, last raised at the federal level in  2009.",
+          "A 2013 municipal referendum in this state set the minimum wage at its busiest airport to $15, the nation's  highest. In this state's largest city, socialist councilwoman Kshama Sawant supports raising the minimum wage",
+          "This entrepreneur from Washington State, the founder of a global health and development charity foundation  with his wife Melinda, recently expressed caution about raising the minimum wage, calling it \"a huge tradeoff.\""
+        ],
+        "answers": [
+          "minimum wage",
+          "State of Washington [or Washington State]",
+          "William Henry \"Bill\" Gates III"
+        ],
+        "formatted_texts": [
+          "Name this government-set lower bound on how much workers can be paid, last raised at the federal level in  2009.",
+          "A 2013 municipal referendum in this state set the minimum wage at its busiest airport to $15, the nation's  highest. In this state's largest city, socialist councilwoman Kshama Sawant supports raising the minimum wage",
+          "This entrepreneur from Washington State, the founder of a global health and development charity foundation  with his wife Melinda, recently expressed caution about raising the minimum wage, calling it \"a huge tradeoff.\""
+        ],
+        "formatted_answers": [
+          "minimum wage",
+          "State of Washington [or Washington State]",
+          "William Henry \"Bill\" Gates III"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/9513",
+        "type": "bonus",
+        "tournament": {
+          "id": 60,
+          "year": 2012,
+          "name": "2012 Prison Bowl ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:22.462Z",
+          "updated_at": "2017-08-27T18:44:22.462Z",
+          "difficulty": "Hard High School",
+          "difficulty_num": 4,
+          "url": "https://www.quizdb.org/api/tournaments/60"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

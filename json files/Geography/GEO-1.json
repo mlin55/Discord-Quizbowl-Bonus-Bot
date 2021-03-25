@@ -1,0 +1,517 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 8,
+    "num_bonuses_shown": 8,
+    "bonuses": [
+      {
+        "id": 31548,
+        "number": 17,
+        "round": "1",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The cities of Saint Petersburg and Tallinn lie on the shores of this body of water, which is the southern border of its namesake country. For 10 points each,",
+        "created_at": "2018-08-02T15:50:55.516Z",
+        "updated_at": "2018-08-02T15:50:55.516Z",
+        "formatted_leadin": "The cities of Saint Petersburg and Tallinn lie on the shores of this body of water, which is the southern border of its namesake country. For 10 points each,",
+        "texts": [
+          "Name this European gulf on which Helsinki also lies.",
+          "Another city on the Gulf of Finland is Narva, which lies roughly equidistant between Tallinn and St. Petersburg on the border between these two nations.",
+          "The Gulfs of Finland and Bothnia are arms of this sea, which lies west of Estonia, Latvia, and Lithuania."
+        ],
+        "answers": [
+          "Gulf of Finland",
+          "Estonia and  Russia (both underlined parts required)",
+          "Baltic Sea"
+        ],
+        "formatted_texts": [
+          "Name this European gulf on which Helsinki also lies.",
+          "Another city on the Gulf of Finland is Narva, which lies roughly equidistant between Tallinn and St. Petersburg on the border between these two nations.",
+          "The Gulfs of Finland and Bothnia are arms of this sea, which lies west of Estonia, Latvia, and Lithuania."
+        ],
+        "formatted_answers": [
+          "Gulf of <strong>Finland</strong>",
+          "<strong>Estonia</strong> and <strong> Russia</strong> (both underlined parts required)",
+          "<strong>Baltic</strong> Sea"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31548",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31559,
+        "number": 8,
+        "round": "2",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This is the second longest river in its nation, after the Severn. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.267Z",
+        "updated_at": "2018-08-02T15:51:45.267Z",
+        "formatted_leadin": "This is the second longest river in its nation, after the Severn. For 10 points each,",
+        "texts": [
+          "Name this river, which passes through Oxford on its route to the North Sea. It has been the site of Olympic rowing competitions twice, though Dorney Lake was used instead in 2012.",
+          "The Thames River flows through this capital of the United Kingdom.",
+          "Sometimes called the Millennium Wheel, this large Ferris Wheel on the south bank of the Thames opened in 2000."
+        ],
+        "answers": [
+          "Thames River",
+          "London, England",
+          "London Eye"
+        ],
+        "formatted_texts": [
+          "Name this river, which passes through Oxford on its route to the North Sea. It has been the site of Olympic rowing competitions twice, though Dorney Lake was used instead in 2012.",
+          "The Thames River flows through this capital of the United Kingdom.",
+          "Sometimes called the Millennium Wheel, this large Ferris Wheel on the south bank of the Thames opened in 2000."
+        ],
+        "formatted_answers": [
+          "<strong>Thames</strong> River",
+          "<strong>London</strong>, England",
+          "London <strong>Eye</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31559",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31595,
+        "number": 4,
+        "round": "4",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This capital city, which lies on the Gulf of Gonave, was renamed in 1793 by Jean-Jacques Dessalines. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.338Z",
+        "updated_at": "2018-08-02T15:51:46.338Z",
+        "formatted_leadin": "This capital city, which lies on the Gulf of Gonave, was renamed in 1793 by Jean-Jacques Dessalines. For 10 points each,",
+        "texts": [
+          "Name this Caribbean city, which lay only 16 miles from the epicenter of a devastating January 2010 earthquake.",
+          "Port-au-Prince is the capital of this Caribbean nation, which borders the Dominican Republic.",
+          "Haiti and the Dominican Republic share this island, where Christopher Columbus' Santa Maria sank on his first voyage to the Americas."
+        ],
+        "answers": [
+          "Port-au-Prince",
+          "Haiti",
+          "Hispaniola"
+        ],
+        "formatted_texts": [
+          "Name this Caribbean city, which lay only 16 miles from the epicenter of a devastating January 2010 earthquake.",
+          "Port-au-Prince is the capital of this Caribbean nation, which borders the Dominican Republic.",
+          "Haiti and the Dominican Republic share this island, where Christopher Columbus' <em>Santa Maria</em> sank on his first voyage to the Americas."
+        ],
+        "formatted_answers": [
+          "<strong>Port-au-Prince</strong>",
+          "<strong>Haiti</strong>",
+          "<strong>Hispaniola</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31595",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31626,
+        "number": 15,
+        "round": "5",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The Bight of Benin is an indentation of this body of water, whose coast became known as the \"Slave Coast\" for its role in the slave trade. For 10 points each,",
+        "created_at": "2018-08-02T15:51:47.218Z",
+        "updated_at": "2018-08-02T15:51:47.218Z",
+        "formatted_leadin": "The Bight of Benin is an indentation of this body of water, whose coast became known as the \"Slave Coast\" for its role in the slave trade. For 10 points each,",
+        "texts": [
+          "Name this gulf, in which the island nation of Sao Tome and Principe lies, and on whose shores lie the cities of Accra, Ghana and Libreville, Gabon.",
+          "Lagos is both the largest city on the Gulf of Guinea and the largest city in this country. This country’s capital moved from Lagos in 1991.",
+          "According to the theory of continental drift, the Gulf of Guinea now exists where this South American country once connected with Africa."
+        ],
+        "answers": [
+          "Gulf of Guinea",
+          "Nigeria",
+          "Brazil"
+        ],
+        "formatted_texts": [
+          "Name this gulf, in which the island nation of Sao Tome and Principe lies, and on whose shores lie the cities of Accra, Ghana and Libreville, Gabon.",
+          "Lagos is both the largest city on the Gulf of Guinea and the largest city in this country. This country’s capital moved from Lagos in 1991.",
+          "According to the theory of continental drift, the Gulf of Guinea now exists where this South American country once connected with Africa."
+        ],
+        "formatted_answers": [
+          "Gulf of <strong>Guinea</strong>",
+          "<strong>Nigeria</strong>",
+          "<strong>Brazil</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31626",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31667,
+        "number": 16,
+        "round": "7",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The diverting of water from the Amu Darya and Syr Darya for irrigation caused this large body of water to start shrinking rapidly in the 1960s. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.573Z",
+        "updated_at": "2018-08-02T15:51:48.573Z",
+        "formatted_leadin": "The diverting of water from the Amu Darya and Syr Darya for irrigation caused this large body of water to start shrinking rapidly in the 1960s. For 10 points each,",
+        "texts": [
+          "Name this body of water, once one of the largest lakes in the world, found between Kazakhstan and Uzbekistan.",
+          "The Karakum Canal diverted the Amu Darya to irrigate this crop; as a result, Uzbekistan is the world’s sixth largest producer of this textile crop, which is also prominently grown in Egypt.",
+          "Uzbekistan is east of, but does not have a shore on, this body of water, which was once fed by the Amu Darya. This largest lake in the world is, confusingly, called a sea."
+        ],
+        "answers": [
+          "Aral Sea",
+          "cotton",
+          "Caspian Sea"
+        ],
+        "formatted_texts": [
+          "Name this body of water, once one of the largest lakes in the world, found between Kazakhstan and Uzbekistan.",
+          "The Karakum Canal diverted the Amu Darya to irrigate this crop; as a result, Uzbekistan is the world’s sixth largest producer of this textile crop, which is also prominently grown in Egypt.",
+          "Uzbekistan is east of, but does not have a shore on, this body of water, which was once fed by the Amu Darya. This largest lake in the world is, confusingly, called a sea."
+        ],
+        "formatted_answers": [
+          "<strong>Aral</strong> Sea",
+          "<strong>cotton</strong>",
+          "<strong>Caspian</strong> Sea"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31667",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31675,
+        "number": 4,
+        "round": "8",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This nation's economy is dominated by agriculture, as the Meghna, Brahmaputra, and Padma Rivers form the Ganges Delta, which makes up roughly half of this country's area. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.874Z",
+        "updated_at": "2018-08-02T15:51:48.874Z",
+        "formatted_leadin": "This nation's economy is dominated by agriculture, as the Meghna, Brahmaputra, and Padma Rivers form the Ganges Delta, which makes up roughly half of this country's area. For 10 points each,",
+        "texts": [
+          "Name this country on the Bay of Bengal, whose capital is Dhaka.",
+          "Bangladesh was known as the \"East\" region of this country after a 1947 partition; Bangladesh gained its independence from this country in 1971.",
+          "Bangladesh is bordered on the east and west by this country, which, with Pakistan, was formed from the partition of the British Raj in 1947."
+        ],
+        "answers": [
+          "Bangladesh",
+          "Pakistan",
+          "India"
+        ],
+        "formatted_texts": [
+          "Name this country on the Bay of Bengal, whose capital is Dhaka.",
+          "Bangladesh was known as the \"East\" region of this country after a 1947 partition; Bangladesh gained its independence from this country in 1971.",
+          "Bangladesh is bordered on the east and west by this country, which, with Pakistan, was formed from the partition of the British Raj in 1947."
+        ],
+        "formatted_answers": [
+          "<strong>Bangladesh</strong>",
+          "<strong>Pakistan</strong>",
+          "<strong>India</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31675",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31709,
+        "number": 18,
+        "round": "9",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This third-largest island of its chain is also its most populous; it’s also home to the Punahou School, whose graduates include Barack Obama. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.941Z",
+        "updated_at": "2018-08-02T15:51:49.941Z",
+        "formatted_leadin": "This third-largest island of its chain is also its most populous; it’s also home to the Punahou School, whose graduates include Barack Obama. For 10 points each,",
+        "texts": [
+          "Name this island, whose tourist attractions include the royal 'Iolani Palace and the probably-dormant volcano Diamond Head.",
+          "Oahu's largest city, Honolulu, is the capital of this U.S. state.",
+          "This neighborhood of Honolulu is dominated by hotels and tourist facilities, as it is home to the most visited beach in Hawai'i."
+        ],
+        "answers": [
+          "Oahu",
+          "Hawai'i",
+          "Waikiki (Beach)"
+        ],
+        "formatted_texts": [
+          "Name this island, whose tourist attractions include the royal 'Iolani Palace and the probably-dormant volcano Diamond Head.",
+          "Oahu's largest city, Honolulu, is the capital of this U.S. state.",
+          "This neighborhood of Honolulu is dominated by hotels and tourist facilities, as it is home to the most visited beach in Hawai'i."
+        ],
+        "formatted_answers": [
+          "<strong>Oahu</strong>",
+          "<strong>Hawai'i</strong>",
+          "<strong>Waikiki</strong> (Beach)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31709",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31714,
+        "number": 3,
+        "round": "10",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The Monongahela National Forest is located within this mountain range, whose highest peak, Spruce Knob, marks West Virginia's highest point.",
+        "created_at": "2018-08-02T15:51:50.184Z",
+        "updated_at": "2018-08-02T15:51:50.184Z",
+        "formatted_leadin": "The Monongahela National Forest is located within this mountain range, whose highest peak, Spruce Knob, marks West Virginia's highest point.",
+        "texts": [
+          "Name this 400-mile long mountain range of central Pennsylvania and West Virginia, which lies between the Cumberland Range and the Poconos.",
+          "The Alleghenies are a subrange of this dominant mountain range of the Eastern seaboard which stretches from Canada to Alabama.",
+          "The largest cities in the Allegheny Mountains are Altoona and this city, the home of Penn State University."
+        ],
+        "answers": [
+          "Allegheny Mountains (do not accept or prompt or reveal Appalachians)",
+          "Appalachian Mountains",
+          "State College, Pennsylvania"
+        ],
+        "formatted_texts": [
+          "Name this 400-mile long mountain range of central Pennsylvania and West Virginia, which lies between the Cumberland Range and the Poconos.",
+          "The Alleghenies are a subrange of this dominant mountain range of the Eastern seaboard which stretches from Canada to Alabama.",
+          "The largest cities in the Allegheny Mountains are Altoona and this city, the home of Penn State University."
+        ],
+        "formatted_answers": [
+          "<strong>Allegheny</strong> Mountains (do not accept or prompt or reveal Appalachians)",
+          "<strong>Appalachian</strong> Mountains",
+          "<strong>State College</strong>, Pennsylvania"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31714",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

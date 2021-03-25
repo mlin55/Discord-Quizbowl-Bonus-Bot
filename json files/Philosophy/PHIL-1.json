@@ -1,0 +1,81 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 1,
+    "num_bonuses_shown": 1,
+    "bonuses": [
+      {
+        "id": 31725,
+        "number": 14,
+        "round": "10",
+        "category_id": 25,
+        "subcategory_id": 61,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "One of these questions posed by Bertrand Russell in the 20th century asks about a set that contains all sets that contain themselves. For 10 points each,",
+        "created_at": "2018-08-02T15:51:50.519Z",
+        "updated_at": "2020-09-30T22:03:20.791Z",
+        "formatted_leadin": "One of these questions posed by Bertrand Russell in the 20th century asks about a set that contains all sets that contain themselves. For 10 points each,",
+        "texts": [
+          "Give this term for an apparently self-contradicting, yet apparently true statement.",
+          "A famous paradox asks whether this man will ever catch a walking tortoise, given that in the time it takes this Greek man to reach the tortoise, the tortoise will have moved forward.",
+          "The question of Achilles versus the tortoise was posed by this Ancient Greek philosopher from Elea."
+        ],
+        "answers": [
+          "paradox",
+          "Achilles",
+          "Zeno of Elea"
+        ],
+        "formatted_texts": [
+          "Give this term for an apparently self-contradicting, yet apparently true statement.",
+          "A famous paradox asks whether this man will ever catch a walking tortoise, given that in the time it takes this Greek man to reach the tortoise, the tortoise will have moved forward.",
+          "The question of Achilles versus the tortoise was posed by this Ancient Greek philosopher from Elea."
+        ],
+        "formatted_answers": [
+          "<strong>paradox</strong>",
+          "<strong>Achilles</strong>",
+          "<strong>Zeno</strong> of Elea"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31725",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 25,
+          "name": "Philosophy",
+          "created_at": "2017-08-27T19:30:45.930Z",
+          "updated_at": "2017-08-27T19:30:45.930Z",
+          "url": "https://www.quizdb.org/api/categories/25"
+        },
+        "subcategory": {
+          "id": 61,
+          "name": "Philosophy Classical",
+          "created_at": "2017-09-04T21:40:52.886Z",
+          "updated_at": "2017-09-04T21:40:52.886Z",
+          "url": "https://www.quizdb.org/api/subcategories/61"
+        }
+      }
+    ]
+  }
+}

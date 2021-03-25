@@ -1,0 +1,420 @@
+Imperfections in these devices can lead to aberrations such as coma and chromatic aberration. For 10 points each:
+Name these devices that focus light through refraction and are often contrasted with mirrors.
+If the lens formula gives a negative image distance, then the image is of this type. These images cannot be projected onto a screen.
+The thin lens approximation simplifies the lensmaker’s equation, which states the inverse of what quantity is equal to the difference of the reciprocals of the radii of curvature, all times the index of refraction minus 1? Optical power is equal to the inverse of this quantity.
+lenses
+virtual image
+focal length &lt;Seth Ebner&gt;/&lt;ed. Seth Ebner&gt;
+Paul Hermann Muller was given the 1948 Nobel Prize in Physiology or Medicine for his discovery of this chemical. For 10 points each:
+Identify this organochlorine, which was widely used as an insecticide after World War II.
+This book brought the dangers of DDT to public attention by highlighting the impact pesticide use had on the environment, especially on birds.
+This marine biologist inspired the conservationist movement with Silent Spring.
+DDT [or dichlorodiphenyltrichloroethane]
+Silent Spring
+Rachel Carson [Rachel Louise Carson] &lt;Wenzer Qin&gt;/&lt;ed. Jacob&gt;
+Answer these questions about sleep. For 10 points each:
+Sleep-deprived people experience a “rebound” of this type of sleep, in which they spend more time in this sleep stage during which dreaming occurs.
+An abnormal sleep schedule can indicate a disorder of these roughly 24-hour cycles of biological processes. Jet lag occurs when these cycles are disturbed.
+This hormone helps regulate the sleep cycle. Exposure to light reduces production of this hormone in the pineal gland.
+Rapid eye movement sleep [or REM sleep; prompt on a partial answer]
+Circadian rhythms
+Melatonin &lt;Wenzer Qin/ed. David Dennis&gt;
+These materials are used in rectifiers and transistors. For 10 points each:
+Name these materials that have conductivities between conductors and insulators. They are called p-type or n-type when they have been doped.
+When a semiconductor is doped to the point that it acts more like a conductor, it is referred to by this term. In chemistry, this term also refers to two orbitals with different quantum states but the same measured energy value.
+This element with atomic number 14 is commonly doped with phosphorus. A famous valley in California is named after it.
+semiconductors
+degenerate
+Silicon [or Si] &lt;Wenzer Qin/ed. David Dennis&gt;
+Archimedes determined this value within two decimal places by using inscribed and circumscribed hexagons. For 10 points each:
+Name this mathematical constant, the ratio of a circle’s circumference to its diameter.
+This other method of calculating pi stems from a probability question posed by a French naturalist. In it, an item length L is dropped onto an infinite plane with lines D distance apart, where D is greater than L.
+The period of one of these items will take approximately pi seconds, if its length is 1/4th of the local gravity, or about 2.45 meters on Earth.
+Pi
+Buffon’s Needle
+Pendulum &lt;David Dennis&gt;
+The shallow part of this layer of the earth contains abundant olivine. For 10 points each:
+Name this layer comprising over 80% of the earth’s volume, which lies above the core and below the crust.
+The mantle is separated from the crust above it by this boundary, which is named for a Croatian seismologist.
+This boundary separates the d double prime layer of the mantle from the outer core. It is named for a German scientist who helped to develop the Richter scale
+Mantle
+Moho discontinuity [or Mohorovicic discontinuity]
+Gutenberg discontinuity &lt;Alex Harmata&gt;/&lt;ed. Jacob&gt;
+The phrase “survival of the fittest” is actually from economics, although it is more commonly attributed to this theory. For 10 points each:
+Name this mechanism of evolution formulated by Charles Darwin, which states that traits that contribute to survival or reproductive success are more likely to be passed on.
+Darwin studied these birds on the Galápagos Islands while developing his theory. Varieties of these birds include the mangrove, vampire, cactus, and ground species.
+This evolutionary process is when a lineage of organisms rapidly diversifies into a multitude of new species. It usually occurs when new resources or new environmental pressures are introduced to the environment.
+Natural selection
+Finches
+Adaptive radiation &lt;Wenzer Qin/ed. David Dennis&gt;
+Column, thin-layer, flash, gas, and high-performance liquid are all varieties of this technique for separating chemicals. For 10 points each:
+Name this broad range of physical methods used to separate and analyze complex mixtures, whose name comes from the Greek word for “color.”
+This stationary phase is used primarily as a teaching tool in simple experiments, such as aiming to separate dyes in pen ink. Instead of this substance, thin-layer chromatography uses an absorbent like silica gel.
+This value, which can be described as the "speed" of an analyte through the chromatography, is the distance a compound moves over the distance the solvent moves.
+chromatography
+paper [or cellulose]
+retention factor [or rf] &lt;Alex Harmata/ed. David Dennis&gt;
+A Type 1a instance of these events was discovered in the Pinwheel Galaxy in 2011. For 10 points each:
+Identify these explosions of massive stars that occur at the end of a star’s lifetime. They are sometimes caused by sudden gravitational collapse.
+These stellar remnants can explode in a Type 1a supernova if their mass exceeds the Chandrasekhar limit. Sirius B is the closest known example.
+Type 1a supernovae are caused by this effect which consists of multiple nuclei merging together. Supernovae nucleosynthesis explains the production of various elements due to this kind of reaction.
+Supernovae
+White dwarf [or degenerate dwarf]
+nuclear fusion [do NOT accept “fission”] &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+The fractional variety of this procedure is used in oil refineries. For 10 points each:
+Name this laboratory technique where substances are separated by differences in boiling point. It can be used to purify ethanol.
+These mixtures do not change composition due to boiling, and thus cannot be separated by distillation.
+Azeotropes deviate from this law, named for a French scientist. It calculates total vapor pressure as a sum of partial pressures multiplied by mole fractions.
+distillation
+azeotropes
+Raoult’s law &lt;Alex Harmata/ed. David Dennis&gt;
+This procedure was developed in Kansas in 1947 using napalm and sand from the Arkansas River. For 10 points each:
+Name this controversial method of extracting previously unavailable hydrocarbons from shale by injecting chemical fluid at high pressure.
+Fracking has allowed this Baltic nation with capital at Tallinn to become the world’s first country to meet all its power needs by processing oil shale.
+Estonian oil shale contains this precursor to liquid oil consisting of bituminous solids. It is also found in areas such as Colorado’s Green River formation and must be heated to become viable.
+Hydraulic fracturing [or hydrofracturing; or hydrofracking; or fracking]
+Estonia [Republic of Estonia; or Eesti Vabariik]
+Kerogen &lt;David Dennis&gt;
+Did you know that light can behave both as a wave and as a particle? For 10 points each:
+This experiment, performed by shining light through two narrow openings onto a screen, demonstrated the wave nature of light.
+If you wanted to use more than two slits, you could use a “grating” named for this effect. Light behaving as a wave can exhibit this phenomenon in which the wave bends around an obstacle.
+Light’s particle nature is supported by this effect, in which charge carriers are ejected from a material when it is hit by sufficiently energetic photons.
+Young’s double slit experiment [or Thomas Young’s double slit experiment]
+Diffraction
+Photoelectric effect &lt;Wenzer Qin/Andy Sun&gt;/&lt;ed. Seth Ebner&gt;
+These polymers are made up of two nucleic acid chains in the form of a double helix. For 10 points each:
+Name this molecule that encodes the genetic instructions of life. It is made of the nucleotides thymine, guanine, adenine, and cytosine.
+This pyrimidine base pairs with adenine in RNA instead of thymine, and isn't present in DNA.
+This scientist first stated the central dogma of biology, which says that DNA codes for RNA, which codes for proteins, in 1958.  He was the co-recipient of a Nobel for the discovery of DNA.
+DNA [or deoxyribonucleic acid]
+Uracil
+Francis Crick [Francis Harry Compton Crick] &lt;Wenzer Qin/ed. David Dennis&gt;
+Surfaces of revolution are formed when 2-dimensional curves are rotated along an axis. For 10 points each:
+Rotating a circle that is centered at the origin of the x,y-plane around the y-axis produces one of these surfaces. The area of this surface is 4 pi times the radius squared.
+If instead the circle is rotated about a coplanar axis not contained in the circle, this donut-like figure results.
+When the graph “y equals x squared” is rotated about the y-axis, one of these figures is formed.
+sphere
+torus
+paraboloid &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;
+The Strecker synthesis produces these compounds. For 10 points each:
+Name these building blocks of proteins. Examples include cysteine and lysine, and they are held together by peptide bonds.
+This amino acid’s side chain forms a pyrrolidine (“py-ROH-li-deen”) ring with its nitrogen atom. It is the only biological amino acid with a secondary amine.
+Proline is hydroxylated in this most abundant protein in mammals. This protein is the main component of connective tissue.
+Amino acids
+proline
+collagen &lt;Alex Harmata/ed. David Dennis&gt;
+Science wouldn’t be science if it didn’t prove itself wrong. For 10 points each:
+Nicolaus Copernicus is renowned for positing that the universe was centered around this object instead of the Earth, as Ptolemaic thought had previously suggested.
+This fire-like substance was allegedly found in combustible materials and was lost to the environment as they burned. The theory of this substance was inconsistent with the fact that magnesium gains mass as it burns.
+This doubly-eponymous experiment attempted to detect the existence of the luminiferous ether, which had been proposed to explain the propagation of light through space. However, this experiment showed that the speed of light is orientation-independent.
+the sun [or Sol]
+phlogiston
+Michelson-Morley experiment &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;
+Answer the following about the physics of slinkies. For 10 points each:
+A slinky is one of these coiled objects that stores mechanical energy. These devices’ namesake constant has units of Newtons per meter.
+Springs obey this law which states that the restoring force exerted by a spring is proportional to its displacement from equilibrium.
+The angular frequency of a slinky-tennis ball system is equal to what function of the quotient of the spring constant and mass of the ball?
+springs
+Hooke’s law
+square root [or 1/2 power] &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+Carbon and its compounds can make some cool shapes. For 10 points each:
+These sp2 hybridized “pipes” can be millions of times longer than they are wide, allowing for unique electrical properties.
+Nanotubes are a essentially rolled-up version of this material, a single layered honeycomb lattice of carbon.  It can be isolated using the “Scotch Tape” technique.
+ This spherical allotrope of carbon is formed by a network of 60 atoms resembling a soccer ball. It derives one of its names from the designer of the geodesic dome.
+carbon nanotubes
+graphene [do NOT accept or prompt on “graphite”]
+buckminsterfullerenes [or buckyballs] &lt;Alex Harmata/ed. David Dennis&gt;
+Answer some questions about the eyes. For 10 points each:
+This light-sensitive tissue located in the back of the eye contains photosensitive cells. In diabetics, blood vessels in this tissue can bleed or leak fluid, distorting vision.
+This yellow part of the retina contains the fovea. The often age-related degeneration of this retinal structure occurs in "dry" and "wet" forms.
+Most forms of Daltonism, also known as the red-green form of this common visual problem, can be detected by the Ishihara test, a circle and number made of dots.
+retina
+macula
+color blindness &lt;Wenzer Qin/ed. David Dennis&gt;
+A compound of this element and hydrogen adds to double bonds in an anti-Markovnikov fashion due to its electronegativity being lower than hydrogen’s. For 10 points each:
+Name this element whose trifluoride fits the Lewis acid definition but not other popular definitions. Its silicate is used in Pyrex glass.
+These elements, such as boron, germanium, and arsenic, lie along a stair-step line separating metals from non-metals and have properties between those of metals and non-metals.
+Boron often violates this rule because it can achieve stability with only six electrons in its outer shell. This rule explains the high electron affinity of halogens.
+boron [or B]
+metalloids or semi-metals [do not accept "semiconductors"]
+octet rule &lt;Alex Harmata/ed. David Dennis&gt;
+Leyden jars are examples of these devices. For 10 points each:
+Name these electrical devices which often consist of two parallel plates. The namesake value of the parallel plate type of this device is proportional to the plate area and inversely proportional to the separation distance.
+These insulating materials often separate the two plates of capacitors. Capacitance is proportional to these materials’ namesake constant, which is just their relative permittivity.
+The SI unit of capacitance is named for this scientist, whose namesake “cage” is used as a shield from electromagnetic phenomena.
+capacitors
+ANSWER: dielectrics
+Michael Faraday &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;
+Waterspouts are a form of this phenomenon that develops over the sea. For 10 points each:
+Name these rotating air columns. A devastating one of these phenomenons struck Joplin, Missouri in 2011, killing over 150 people.
+A telltale sign of a tornado is this signature on weather radar. This pendant-shaped signature is a result of air and precipitation flowing into a mesocyclone.
+This Japanese-American studied hook echoes, and also developed a scale for measuring the intensity of tornadoes. The Joplin tornado was an F4 on his namesake scale.
+Tornadoes [or Twisters]
+hook echo
+Ted Fujita [or Tetsuya Theodore Fujita; or the Fujita scale] &lt;Alex Harmata&gt;/&lt;ed. Jacob&gt;
+This rule is often written as n-one times sine theta-one equals n-two times sine theta-two, where n stands for index of refraction. For 10 points each:
+Identify this formula that describes the relationship between angles of incident light and refracted light. It can be derived from Fermat’s principle of least time.
+When light traveling into a medium of lower refractive index is incident at this angle, the refracted ray has an angle of ninety degrees. This is the angle past which incident light will experience total internal reflection instead of refraction.
+Snell’s Law can be used to determine that Brewster’s angle--the angle of incidence at which polarized light experiences no reflection--is equal to this function of the quotient of final and initial materials’ refractive indices.
+Snell’s Law
+critical angle
+arctangent or inverse tangent [do not accept “tangent”] &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+Memory can be dynamically allocated in this language using functions such as malloc. For 10 points each:
+Name this programming language which was created by Dennis Ritchie, who also wrote a book about this language with Brian Kernighan. Bjarne Stroustrup created a language named for this one whose name includes the incrementation operator.
+In languages such as C, C++ (“see plus plus”), and Java, these data structures are declared using square brackets. Their elements can only be of a single type, and unlike vectors, these structures’ sizes remain fixed.
+Programs written in C often start with a list of names of these files prepended by the “#include” directive. These files, which end in the suffix “.h” (“dot-h”), often contain declarations of functions.
+C [the other language is C++]
+Arrays
+header files &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+This organelle’s inner membrane is made up of numerous folds called cristae. For 10 points each:
+Name this double-membraned organelle that generates a majority of a cell’s energy. This organelle is nicknamed the “powerhouse of the cell.”
+Mitochondria break down glucose in order to drive oxidative phosphorylation and create this compound, the cell’s chemical energy “currency.”
+This theory states that mitochondria were originally bacteria that were absorbed by other cells, explaining the origin of eukaryotic cells from prokaryotic cells.
+Mitochondria
+ATP [or adenosine triphosphate]
+Endosymbiotic theory [or symbiogenesis; or closely related terms, such as endosymbiotic theory] &lt;Wenzer Qin/ed. David Dennis&gt;
+The First World War has been called “The Chemist’s War,” and Fritz Haber was one of its soldiers. For 10 points each:
+Several years prior to the start of the war, Haber developed a process to produce this compound. Domestic production of this compound helped free Germany from reliance on foreign nitrate deposits.
+Ammonia was transformed into the militarily significant chemical nitric acid by this process, also developed in Germany in the early 20th century.
+During the War, Haber led German weaponization of this gas, which can itself be reacted with carbon monoxide to produce phosgene, another war gas.
+ammonia [or NH3]
+Ostwald process
+chlorine [or Cl2] &lt;Alex Harmata/ed. David Dennis&gt;
+This operation can be interpreted as determining the area under a curve. For 10 points each:
+Name this operation, shown to be the inverse of differentiation by the Fundamental Theorem of Calculus.
+If you cut up a curve into lots of contiguous rectangles, then find the cumulative area of the rectangles, you’ve done a type of integration named for this German mathematician. This type of integration should not be confused with Lebesgue integration.
+Integration can be used to find that this figure, formed by rotation of the curve “1 divided by x from x equals 1 to x equals infinity” around the x-axis, has infinite surface area but finite volume.
+integration [or word forms, such as finding the integral]
+Riemann integration [or Riemann integral]
+Gabriel’s Horn [or Toricelli’s trumpet] &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;
+This man is considered the father of modern genetics. For 10 points each:
+Name this monk who formulated three laws of inheritance. He is famous for his work with pea plants.
+This name given to Mendel's second law states that the passing on of one gene does not affect the passing on of a different gene.
+Thomas Hunt Morgan’s work cross-breeding red and white-eyed members of this species allowed him to find an exception to the law of independent assortment. These tiny, winged insects are attracted to rotting food.
+Gregor Mendel
+Law of independent assortment [or inheritance law]
+Drosophila melanogaster [or fruit fly] &lt;David Dennis&gt;
+Part of the New Frontiers program, this probe became the first solar-powered spacecraft to explore an outer planet. For 10 points each:
+Name this probe launched in 2011 that reached its destination of Jupiter.in July of 2016.
+The probe Dawn has been orbiting this dwarf planet since March of 2015. It also orbited Vesta in 2011.
+This successor to the Hubble and Spitzer telescopes is scheduled to launch in 2018. It was previously known as the Next Generation Space Telescope, and was renamed after the 2nd director of NASA.
+Juno
+Ceres
+James Webb Space Telescope [or JWST] &lt;David Dennis&gt;
+Rings make the world of chemistry go round. For 10 points each:
+This compound, which can exist as a 6-membered ring, is a sugar used for energy in cellular respiration. Its formula is C6H12O6.
+The cyclic structure of this aromatic hydrocarbon was legendarily determined by Kekule’s (“kay-KOO-lay’s”) daydream of a snake biting its own tail. It is a potent carcinogen.
+This allotrope of oxygen is believed to cleave alkenes through a cyclic intermediate, forming carbonyl containing products.
+glucose
+ANSWER: benzene
+ozone [or O3] &lt;Alex Harmata/ed. David Dennis&gt;
+A light source’s movement can affect our observations of it. For 10 points each:
+When the source is moving towards the observer, this happens to the wavelength of the light the observer sees, and thus the light appears to be slightly blue.
+This complementary phenomenon occurs when the source is moving away from the observer. Cosmological examples of this phenomenon serve as evidence that our universe is expanding.
+Both blueshift and redshift are examples of this change in a wave’s frequency due to its relative motion. Sirens on moving vehicles are common examples of this effect.
+it decreases [or lessens; or goes down; accept equivalents]
+Redshift
+Doppler effect [or Doppler shift] &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+These structures are supported by a peduncle, which branches off into more than one pedicels. For 10 points each:
+Name these reproductive organs of angiosperms. The perianths of these structures are comprised of the calyx and corolla.
+This substance, produced by seed-plants contains male reproductive cells. It is often transported by the wind and insects such as bees.
+Pollen can be found on this portion of a flower, the top of the stamen, which is supported by the filament.
+flower
+pollen
+anther &lt;Alex Harmata/ed. David Dennis&gt;
+These astronomical objects have a radius smaller than their Schwarzschild radius. For 10 points each:
+Name these entities whose gravitational pull is so strong that nothing can escape from within their event horizons.
+This man lost a bet to John Preskill over whether information is preserved during black hole evaporation. His namesake radiation is predicted to be emitted by black holes.
+The no-hair theorem states that black holes can be completely characterized by three quantities from outside their event horizons: their electric charge, their angular momentum, and this other quantity. A kind of black hole named for this quantity is found at galactic centers.
+Black holes
+Stephen Hawking [Stephen William Hawking] [10]
+mass [or a supermassive black hole] &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+VSEPR <strong>(“vesper”)</strong> theory helps us understand orientations of atoms in space. For 10 points each:
+This simplest hydrocarbon, also a potent greenhouse gas, has a tetrahedral molecular geometry.
+Due to its two lone pairs of electrons, water adopts this geometry, with a bond angle slightly less than the 109.5 degree angles in methane.
+ Carbon dioxide shows this geometry due to the two double bonds on its central atom. This geometry has a bond angle of 180 degrees.
+methane [or CH4]
+bent geometry
+linear geometry &lt;Alex Harmata/ed. David Dennis&gt;
+Atmospheric concentrations of this molecule are now over 400 parts per million, for the first time in history. For 10 points each:
+Name this greenhouse gas produced by cellular respiration. During the complete combustion of hydrocarbons, this gas, along with steam and heat, is produced.
+The increase in global temperatures poses the risk of releasing enormous amounts of methane that is trapped as this substance, which consists of a lattice that traps molecules.
+A “Protocol” named for this Japanese city is an international treaty aimed at reducing greenhouse gas emissions. The US is one of the few nations that has not ratified that treaty.
+Carbon dioxide [or CO2]
+ANSWER: clathrates [or answers that describe methane being trapped in ice; or a methane clathrate; or a methane hydrate; or natural gas hydrate; or gas hydrate]
+ANSWER: Kyoto [or the Kyoto Protocol] &lt;Alex Harmata&gt;/&lt;ed. Jacob&gt;
+Examples of these mathematical objects include the Hessian and the Jacobian. For 10 points each:
+Name these rectangular arrangements of numbers or symbols in rows and columns.
+For a matrix with top row A, B, and bottom row C, D, performing this operation yields AD minus BC. This operation performed on a 3-by-3 matrix can be done using Sarrus’s Rule.
+These numbers for a square matrix are the roots of its characteristic polynomial. The trace of a matrix is equal to the sum of these numbers.
+ANSWER: matrix [or matrices]
+ANSWER: determinant
+eigenvalues &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;
+Answer some questions about lab equipment in Chemistry. For 10 points each:
+This piece of lab equipment has adjustable air and gas inflows in order to produce different temperatures and sizes of flames. Its namesake discovered Cesium and Rubidium with Kirchhoff.
+This device is attached to a similarly named flask and a vacuum source to perform filtrations. It has vertical sides, unlike a similar product designed by Hirsch.
+This graduated cylinder is used during titrations. This long piece of glassware with a stopcock is used to dispense precise amounts of a chemical solution.
+Bunsen burner [prompt on burner]
+Buchner funnel [prompt on funnel]
+buret &lt;Alex Harmata/ed. David Dennis&gt;
+This constant is equal to a particle’s momentum times its wavelength. For 10 points each:
+Name this eponymous constant that relates a photon’s energy to its frequency. It is symbolized by a lowercase ‘h’, and its reduced version is smaller by a factor of two pi.
+Planck’s constant arises in this physicist’s explanation of the photoelectric effect. He formulated the general theory of relativity and developed the equation “E equals m c squared.”
+Max Planck also developed a law that solved this classical physics dilemma, in which the Rayleigh-Jeans Law predicted that an ideal blackbody at thermal equilibrium would emit radiation with infinite power.
+ANSWER: Planck’s (“plahngk’s”) constant
+ANSWER: Albert Einstein
+Ultraviolet catastrophe &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+They are naturally-occurring weak bases with at least one nitrogen atom. Answer some questions about alkaloids, for 10 points each:
+This alkaloid can bind to, but not activate, receptors for adenosine in the brain, raising alertness levels. This stimulant is found in chocolate, cola, and coffee and is the most consumed drug on Earth.
+This alkaloid with anti-malarial properties is extracted from the bark of the cinchona tree. It is a flavor component of tonic water.
+This alkaloid, an agonist of acetylcholine receptors, is the addictive chemical in tobacco.
+caffeine
+quinine
+ANSWER: nicotine &lt;David Dennis&gt;
+This equation describes the quantum state of a system of one or more particles and encodes information about the system’s measurable quantities. For 10 points each:
+Name this function, often symbolized with the Greek letter psi.
+The time-dependent version of this eponymous equation describes how a system’s wave function evolves over time. It is named after a physicist who also put forward a thought experiment involving a cat.
+The wave function for this system is a plane wave with a definite momentum. This system’s potential energy is constant.
+wave functions
+(time-dependent) Schrodinger (“shroh-ding-er”) equation
+free particle &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+It can be extracted from the bark of the white willow tree. For 10 points each:
+Name this beta-hydroxy acid that is known for its abilities to ease pain and exfoliate the skin. It was first isolated by Felix Hoffman and often used in treating acne.
+This commonly used anti-inflammatory and pain-relieving drug is a derivative of salicylic acid. It is often prescribed as a blood thinner, and children using this drug after a viral infection risk Reye’s syndrome.
+Relatives of this vitamin, called retinoids, such as adapalene and tretinoin, can be found in prescription creams for the treatment of acne. Beta-carotene is a precursor of this vitamin.
+salicylic acid
+Aspirin
+ANSWER: vitamin A &lt;Alex Harmata/ed. David Dennis&gt;
+Several highly fatal diseases have been linked to bats. For 10 points each:
+This common zoonotic viral disease leads to hydrophobia and inflammation of the brain. One of its characteristic signs is foaming at the mouth.
+Fruit bats of the Pteropodidae family are considered a reservoir for this virus named for a river in the DRC which causes symptoms resembling Marburg hemorrhagic fever.
+Chinese horseshoe bats were found to be the carriers of the coronavirus that causes this disease related to MERS. This respiratory disease had a near pandemic in late 2002.
+Rabies
+Ebola virus
+SARS [or severe acute respiratory syndrome] &lt;David Dennis&gt;
+Several prehistoric creatures with this ability included quetzalcoatlus and sordes. For 10 points each:
+Name this skill possessed by pterodactyls, enabled by extremely long fourth fingers and light, thin membranes.
+This enormous late cretaceous pterosaur was native to what is now the USA. It is the most abundant genus of pterosaur in the fossil record.
+Many pterosaurs had these hard features on their heads. Saurolophus were dinosaurs with this anatomical feature.
+flight [or the ability to fly; or flying; or equivalents]
+Pteranodon
+crest [or cranial crest] &lt;Alex Harmata&gt;/&lt;ed. Jacob&gt;
+It is is divided into four sections, called "lobes" and Brodmann classified areas of its cortex. For 10 points each:
+Name this largest part of the brain. It is split into two hemispheres and is separated by the corpus callosum.
+This part of the limbic system in the medial temporal lobe is necessary for the formation of new memories. Its name comes from its resemblance to a seahorse
+This hindmost region of the brainstem relays information from the spinal cord and is responsible for autonomic functions like breathing.
+cerebrum [or the cerebral cortex]
+hippocampus
+medulla oblongata &lt;David Dennis&gt;
+This set of equations describes all classical electromagnetic phenomena. For 10 points each:
+Identify this set of four fundamental laws, which includes Faraday’s Law and Ampere’s (“am-peer’s”) Law, that was compiled by a Scottish physicist.
+Gauss’s Law for magnetism states that the total magnetic flux through any Gaussian surface is zero, implying that these hypothetical particles do not exist. Blas Cabrera mistakenly believed he had found one of these entities at his Stanford lab in 1982.
+One of these one-dimensional curves named for Paul Dirac (“dih-rak”) is hypothesized to connect two magnetic monopoles of opposite charge. This name is also given to entities that vibrate in space in a theory involving a ten-dimensional universe.
+Maxwell’s equations
+magnetic monopoles
+strings &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+Answer the following about the safety of what we ingest into our body. For 10 points each:
+This component of many plastics, found commonly in water bottles and food and beverage cans, may mimic estrogen in the body. Its use in baby bottles has been banned in the US.
+A flavor enhancer partially named for this element intensifies the meaty, savory flavor of food. This metal’s bicarbonate is baking soda.
+Amaranth, a dye of this color for foodstuffs and medicines, was banned by the FDA in 1976.  Even though M&amp;M’s of this color did not contain the dye, they were discontinued for a decade. Acids turn litmus paper this color.
+ANSWER: Bisphenol A [or BPA]
+Sodium [or Na; or Natrium]
+Red &lt;Alex Harmata&gt;/&lt;ed. Jacob&gt;/&lt;ed. David Dennis&gt;
+Not all reactions are spontaneous. For 10 points each:
+Name this process by which a chemical reaction is driven by an outside electrical current. Products form at the anode and cathode in its namesake cell.
+This industrial process uses electrolysis on a mixture of alumina dissolved in molten cryolite to smelt aluminum.
+Alumina or aluminum oxide is most often obtained from this ore using the Bayer process. It was first discovered by geologist Pierre Berthier and named for a town in southern France.
+electrolysis
+Hall-Heroult process
+ANSWER: bauxite &lt;Alex Harmata/ed. David Dennis&gt;
+Examples of these properties include freezing point depression and osmotic pressure. For 10 points each:
+Name these properties of solutions which depend on the number, not identity, of solute particles.
+Another colligative property is the elevation of this point. This point occurs at a higher temperature as non-volatile solvent concentration is increased.
+This value, named for a Dutch chemist, is symbolized i and measures the effect a dissolved solute has on colligative properties.
+colligative properties
+boiling point
+van ’t Hoff factor &lt;Alex Harmata/ed. David Dennis&gt;
+On Earth, the acceleration of an object due to this force is about 9.8 meters per second squared. For 10 points each:
+Name this force whose universal form is the weakest of the four fundamental forces.
+The force of gravity between two point masses is proportional to this function of their separation distance. The relation is analogous Coulomb’s law.
+The gravitational constant was determined by this man using a torsion balance. He was the first to recognize hydrogen gas as a unique substance.
+ANSWER: gravity [or universal gravitation or standard gravitation]
+inverse square [or “to the negative 2;” or “to the negative second power”]
+Henry Cavendish &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;
+Show your prowess at understanding the science of things you use almost every day. For 10 points each:
+Microwave ovens heat food by exciting this molecule with microwave radiation. This universal solvent is formed when hydrogen combusts.
+This type of printer contains a negatively charged drum which selectively attracts electrically charged toner. Heat is then used to fuse the toner of this type of printer to the paper.
+Soaps and detergents contain negatively-charged functional groups. Detergents contain sulfonates, while soaps contain this functional group, making soaps less soluble in hard water.
+water [or H2O; or dihydrogen monoxide; or DHMO]
+ANSWER: laser printer [or laserjet printer]
+ANSWER: carboxyl (“kahr-bok-sil”) [or carboxylate; or carboxylic acids; or C(=O)OH; or RCOOH] &lt;Alex Harmata&gt;/&lt;ed. Jacob&gt;
+Recent advances in gene-editing technology have opened up many new opportunities in genetic engineering. For 10 points each:
+Gene-editing can be performed with the help of these enzymes, which cleave DNA at specific sites. They are used to prepare DNA fragments for use in gel electrophoresis.
+Unlike restriction enzymes, this part of the prokaryotic immune system can recognize multiple sequences, depending on its guide RNA which allows selective gene editing.
+In 2016, it was proposed that genetically modified mosquitoes be used to combat the spread of this disease, which causes microcephaly in fetuses.
+restriction enzymes
+ANSWER: CRISPR [accept Clustered regularly interspaced short palindromic repeats]
+zika virus &lt;Alex Harmata/ed. David Dennis&gt;
+Answer some questions about medications that have earned a lot of money for their corporations. For 10 points each:
+Cimetidine (“suh-MET-uh-deen”) is an h2 blocker which treats excess acid in this organ. It is commonly sold as Tagamet and is considered the first “blockbuster drug.”
+Scientists working for this company were trying to make a drug for hypertension and chest pain. It showed an unintended consequence in clinical trials, earning the company a fortune as Viagra.
+Pfizer also produces Zoloft, a wildly successful SSRI-type medication for the treatment of this condition. It works by selectively inhibiting the reuptake of serotonin.
+stomach
+Pfizer
+depression &lt;Alex Harmata/ed. David Dennis&gt;
+These mathematical objects include ellipses, parabolas, and hyperbolas. For 10 points each:
+Name these two-dimensional curves obtained by slicing a plane through a namesake three-dimensional figure.
+The volume of a right, circular cone is the area of the base times the height times this constant.
+If you let the apex of a right, circular cone approach infinity, you obtain this figure as the limit.
+conic sections
+1/3 [or one-third]
+cylinder &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;
+Along with a proton, it is produced in the autoionization of water. For 10 points each:
+Name this anion found in milk of magnesia with formula “O-H minus”. It bonds to alkali and alkaline earth metals in many strong bases.
+Salts of this other polyatomic anion are generally soluble, but it forms insoluble salts with strontium, barium, and lead. Its central atom in is its “plus 6” oxidation state.
+This term refers to substances that can act as either an acid or a base. Water exemplifies this as it can dissociate into both hydronium and hydroxide ions.
+hydroxide
+sulfate [or SO42-]
+amphoteric [or amphiprotic] &lt;Alex Harmata/ed. David Dennis&gt;
+Astronomers can classify stars based on their locations on this graph. For 10 points each:
+Name this chart of stars that plots their luminosities against their colors.
+Most stars fall on this band of the H-R diagram. The Sun belongs to this group, and white dwarfs appear below this band while subgiants, giants, and supergiants appear above it.
+Cepheid variables, RR Lyrae variables, and many other types of pulsating variable star are found in this region of the H-R diagram.
+Hertzsprung-Russell diagram [or H-R diagram]
+ANSWER: main sequence
+instability strip &lt;Wenzer Qin&gt;/&lt;ed. Seth Ebner&gt;
+If small enough bits of this substance are ejected high enough, it can be pulled by the wind into a delicate form of glass called Pele’s hair.  For 10 points each:
+Name this molten rock ejected out of an erupting vent. Its A’a type flow is characterized by a jagged surface.
+Contrasted with A’a flow is this smooth, billowy type of lava flow that has a lower viscosity due to its higher temperature.
+Both A’a and Pahoehoe form this type of extrusive igneous rock high in pyroxene and feldspars. The intrusive version of this rock is called gabbro.
+Lava
+Pahoehoe
+Basalt &lt;David Dennis&gt;
+Enzymes serve as biological examples of these entities. For 10 points each:
+Name these substances which are not consumed in a reaction but increase its rate by lowering the activation energy.
+Peroxisomes contain this enzyme that decomposes hydrogen peroxide in the body. It is found in large amounts in the liver.
+These enzymes break the hydrogen bonds between adjacent nucleotides in DNA and “unzips” the two strands to prepare it for replication.
+catalysts
+catalase
+helicases &lt;Alex Harmata/ed. David Dennis&gt;
+Answer some questions about things that are blue in chemistry. For 10 points each:
+Bromothymol Blue is one of these compounds used in acid-base chemistry to visually represent the pH of a solution. These compounds change color at particular pH values.
+This ferromagnetic element with atomic number 27 is often used in blue pigments and forms a namesake blue glass. Its 60-isotope is used medically for radiation therapy.
+The pigment Prussian Blue is a complex compound of iron and this anion. It attacks an iminium ion to form an aminonitrile in the Strecker amino acid synthesis.
+ANSWER: indicator
+cobalt
+cyanide [or CN-] &lt;Alex Harmata/ed. David Dennis&gt;
+These particles have half integer spins, such as protons and neutrons. For 10 points each:
+Name these particles, which include quarks and leptons, named for an Italian physicist.
+According to this rule, no two identical fermions may have the same set of quantum numbers. In other words, identical fermions cannot be in the same quantum state at the same time.
+This quantum number for an electron describes the shape of the atomic orbital it inhabits. Its value is 0 for s orbitals and 1 for p orbitals, and it is symbolized lowercase-L.
+ANSWER: fermions
+Pauli exclusion principle
+azimuthal quantum number [or orbital angular momentum quantum number; or orbital quantum number; or second quantum number] &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;
+Identify the following related to the analytical engine. For 10 points each:
+This man developed plans for the analytical engine and difference engine, although he was not able to complete the construction of those devices in his lifetime.
+This person produced the first algorithm as part of her work with the analytical engine. This daughter of the poet Lord Byron is considered to be the first computer programmer.
+Programs for the analytical engine were written on these stiff pieces of paper with holes in them.
+Charles Babbage
+Ada Lovelace [or Augusta Ada King-Noel, Countess of Lovelace]
+punch cards [or punched cards] &lt;Alex Harmata&gt;/&lt;ed. Seth Ebner&gt;

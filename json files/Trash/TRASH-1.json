@@ -1,0 +1,643 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 10,
+    "num_bonuses_shown": 10,
+    "bonuses": [
+      {
+        "id": 31539,
+        "number": 8,
+        "round": "1",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "A Dinosaur Comics strip about \"[this game] AS SHE IS PLAYED\" notes that its object is to \"fully explore the sensations of boredom, sorrow, and rage.\" For 10 points each,",
+        "created_at": "2018-08-02T15:50:55.217Z",
+        "updated_at": "2018-08-02T15:50:55.217Z",
+        "formatted_leadin": "A Dinosaur Comics strip about \"[this game] AS SHE IS PLAYED\" notes that its object is to \"fully explore the sensations of boredom, sorrow, and rage.\" For 10 points each,",
+        "texts": [
+          "Name this classic Parker Brothers board game in which you seek to buy properties like Park Place and Boardwalk.",
+          "A common house variation, but not an official Monopoly rule, is to award $500, or some other amount, to anyone who lands on this corner space between New York and Kentucky Avenues.",
+          "On television, the Simpsons own five versions of the game: \"regular Monopoly, Star Wars Monopoly, Rasta-Mon-opoly, Galip-olopoly, and\" one named for this character, Bart Simpson's 4th grade teacher. She was retired from the show when her voice actress, Marcia Wallace, passed away."
+        ],
+        "answers": [
+          "Monopoly",
+          "Free Parking",
+          "Edna Krabappel-Flanders (accept either underlined name; accept Edna Krabappoly; be lenient and accept Krabappoly)"
+        ],
+        "formatted_texts": [
+          "Name this classic Parker Brothers board game in which you seek to buy properties like Park Place and Boardwalk.",
+          "A common house variation, but not an official Monopoly rule, is to award $500, or some other amount, to anyone who lands on this corner space between New York and Kentucky Avenues.",
+          "On television, the Simpsons own five versions of the game: \"regular Monopoly, Star Wars Monopoly, Rasta-Mon-opoly, Galip-olopoly, and\" one named for this character, Bart Simpson's 4th grade teacher. She was retired from the show when her voice actress, Marcia Wallace, passed away."
+        ],
+        "formatted_answers": [
+          "<strong>Monopoly</strong>",
+          "<strong>Free Parking</strong>",
+          "<strong>Edna Krabappel</strong>-Flanders (accept either underlined name; accept <strong>Edna Krabappoly</strong>; be lenient and accept <strong>Krabappoly</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31539",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31554,
+        "number": 3,
+        "round": "2",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "A July 2014 report on <em>FiveThirtyEight.com</em> found that the Pythagorean expected record of Red Klotz' Washington Generals was equal to their actual record: roughly 6 wins and 14,000 losses. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.151Z",
+        "updated_at": "2018-08-02T15:51:45.151Z",
+        "formatted_leadin": "A July 2014 report on <em>FiveThirtyEight.com</em> found that the Pythagorean expected record of Red Klotz' Washington Generals was equal to their actual record: roughly 6 wins and 14,000 losses. For 10 points each,",
+        "texts": [
+          "First, the Washington Generals are the traditional opponent of this barnstorming comedic basketball team. On Futurama, this team's players double as math geniuses.",
+          "This statistician analyzed the Harlem Globetrotters for his website, FiveThirtyEight.com, which also published his completely correct prediction of the 2012 electoral college results.",
+          "In 2014, FiveThirtyEight.com transitioned from The New York Times to this sports website, which also publishes Grantland.com. As a TV channel, it produces the 30 for 30 documentary film series and Sportscenter."
+        ],
+        "answers": [
+          "Harlem Globetrotters (prompt on \"Harlem\")",
+          "Nathaniel Read \"Nate\" Silver",
+          "ESPN.com"
+        ],
+        "formatted_texts": [
+          "First, the Washington Generals are the traditional opponent of this barnstorming comedic basketball team. On Futurama, this team's players double as math geniuses.",
+          "This statistician analyzed the Harlem Globetrotters for his website, <em>FiveThirtyEight.com</em>, which also published his completely correct prediction of the 2012 electoral college results.",
+          "In 2014, <em>FiveThirtyEight.com</em> transitioned from <em>The New York Times</em> to this sports website, which also publishes <em>Grantland.com</em>. As a TV channel, it produces the <em>30 for 30</em> documentary film series and <em>Sportscenter</em>."
+        ],
+        "formatted_answers": [
+          "Harlem <strong>Globetrotters</strong> (prompt on \"Harlem\")",
+          "Nathaniel Read \"Nate\" <strong>Silver</strong>",
+          "<strong>ESPN</strong>.com"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31554",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31582,
+        "number": 11,
+        "round": "3",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The Stanley Cup isn't the only hardware the NHL gives out! For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.967Z",
+        "updated_at": "2018-08-02T15:51:45.967Z",
+        "formatted_leadin": "The Stanley Cup isn't the only hardware the NHL gives out! For 10 points each,",
+        "texts": [
+          "The Hart Memorial Trophy is the official name of this NHL award, given to Sidney Crosby in 2014 and eight consecutive times to Wayne Gretzky.",
+          "The Vezina Trophy is given to the best player of this position. The league's GM's vote to decide this award now, but until 1964, it was simply given to the primary player of this position for whichever team gave up the fewest goals.",
+          "This trophy is awarded to the NHL \"regular season champion\" -- that is, the team with the most standings points. The Boston Bruins won this in 2014 with 54 wins, 19 losses, and 9 shootout losses for 117 points."
+        ],
+        "answers": [
+          "Most Valuable Player",
+          "goaltender (or goalie)",
+          "Presidents' Trophy"
+        ],
+        "formatted_texts": [
+          "The Hart Memorial Trophy is the official name of this NHL award, given to Sidney Crosby in 2014 and eight consecutive times to Wayne Gretzky.",
+          "The Vezina Trophy is given to the best player of this position. The league's GM's vote to decide this award now, but until 1964, it was simply given to the primary player of this position for whichever team gave up the fewest goals.",
+          "This trophy is awarded to the NHL \"regular season champion\" -- that is, the team with the most standings points. The Boston Bruins won this in 2014 with 54 wins, 19 losses, and 9 shootout losses for 117 points."
+        ],
+        "formatted_answers": [
+          "<strong>M</strong>ost <strong>V</strong>aluable <strong>P</strong>layer",
+          "<strong>goaltender</strong> (or <strong>goalie</strong>)",
+          "<strong>Presidents'</strong> Trophy"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31582",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31601,
+        "number": 10,
+        "round": "4",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "At a staff party at this network, newscaster and amateur magician Carl Kasell performed the \"sawing legal affairs correspondent Nina Totenberg in half\" illusion. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.482Z",
+        "updated_at": "2018-08-02T15:51:46.482Z",
+        "formatted_leadin": "At a staff party at this network, newscaster and amateur magician Carl Kasell performed the \"sawing legal affairs correspondent Nina Totenberg in half\" illusion. For 10 points each,",
+        "texts": [
+          "Name this radio network, which produces the news programs Morning Edition and All Things Considered and distributes Fresh Air and Car Talk.",
+          "In 2014, Carl Kasell retired as Scorekeeper for this NPR news quiz show, hosted by Peter Sagal. Even in retirement, though, Kasell continues to record voicemail messages as prizes for listeners of this show.",
+          "Wait Wait...Don’t Tell Me! welcomes panelists like writer and voice actor Tom Bodett, famous as the voice of this American hotel chain’s slogan, “We’ll leave the light on for you.”"
+        ],
+        "answers": [
+          "National Public Radio",
+          "Wait Wait...Don't Tell Me!",
+          "Motel 6"
+        ],
+        "formatted_texts": [
+          "Name this radio network, which produces the news programs <em>Morning Edition</em> and <em>All Things Considered</em> and distributes <em>Fresh Air</em> and <em>Car Talk</em>.",
+          "In 2014, Carl Kasell retired as Scorekeeper for this NPR news quiz show, hosted by Peter Sagal. Even in retirement, though, Kasell continues to record voicemail messages as prizes for listeners of this show.",
+          "<em>Wait Wait...Don’t Tell Me!</em> welcomes panelists like writer and voice actor Tom Bodett, famous as the voice of this American hotel chain’s slogan, “We’ll leave the light on for you.”"
+        ],
+        "formatted_answers": [
+          "<strong>N</strong>ational <strong>P</strong>ublic <strong>R</strong>adio",
+          "<strong>Wait Wait...Don't Tell Me!</strong>",
+          "<strong>Motel 6</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31601",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31618,
+        "number": 7,
+        "round": "5",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "A 2014 article in <em>Vulture</em> explains and defends \"schlock:\" overwrought, melodramatic music where \"bad taste becomes great art.\" For 10 points each,",
+        "created_at": "2018-08-02T15:51:47.034Z",
+        "updated_at": "2018-08-02T15:51:47.034Z",
+        "formatted_leadin": "A 2014 article in <em>Vulture</em> explains and defends \"schlock:\" overwrought, melodramatic music where \"bad taste becomes great art.\" For 10 points each,",
+        "texts": [
+          "The article heaps praise on this 1981 song by Journey, even as it laughs at lyrics like \"streetlight people / Livin' just to find emotion.\" This song was used for the iconic ending of The Sopranos' final episode, and is ranked third on Vulture’s list of the best schlock songs.",
+          "The top spot is held by Judy Garland's 1961 performance \"Over The Rainbow,\" which she had originally performed as Dorothy in this 1939 film.",
+          "The runner-up is 1984’s “Purple Rain,” by this Minneapolis-born rocker with his band, the Revolution. Later in his career, he changed his name a number of times."
+        ],
+        "answers": [
+          "Don't Stop Believin' (accept Don't Stop Believing)",
+          "The Wizard of Oz",
+          "Prince Rogers Nelson (accept The Artist Formerly Known as Prince)"
+        ],
+        "formatted_texts": [
+          "The article heaps praise on this 1981 song by Journey, even as it laughs at lyrics like \"streetlight people / Livin' just to find emotion.\" This song was used for the iconic ending of <em>The Sopranos'</em> final episode, and is ranked third on <em>Vulture</em>’s list of the best schlock songs.",
+          "The top spot is held by Judy Garland's 1961 performance \"Over The Rainbow,\" which she had originally performed as Dorothy in this 1939 film.",
+          "The runner-up is 1984’s “Purple Rain,” by this Minneapolis-born rocker with his band, the Revolution. Later in his career, he changed his name a number of times."
+        ],
+        "formatted_answers": [
+          "<strong>Don't Stop Believin'</strong> (accept <strong>Don't Stop Believing</strong>)",
+          "The <strong>Wizard of Oz</strong>",
+          "<strong>Prince</strong> Rogers Nelson (accept The <strong>Artist Formerly Known as Prince</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31618",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31645,
+        "number": 14,
+        "round": "6",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This man's Twitter description simply says \"You know... the 'Eat It' Guy.\" For 10 points each,",
+        "created_at": "2018-08-02T15:51:47.808Z",
+        "updated_at": "2018-08-02T15:51:47.808Z",
+        "formatted_leadin": "This man's Twitter description simply says \"You know... the 'Eat It' Guy.\" For 10 points each,",
+        "texts": [
+          "Name this polka musician, whose 2014 album Mandatory Fun features the songs \"Handy\" and \"Word Crimes,\" which are parodies of Iggy Azalea and Robin Thicke songs.",
+          "Weird Al released eight music videos for Mandatory Fun, beginning with this parody of Pharrell Williams' song \"Happy.\" This music video features Jack Black wearing a glittery fanny pack backwards.",
+          "A 1992 Weird Al parody includes the lyrics \"Now I'm mumblin'/ and I'm screamin'\" and \"It's hard to bargle nawdle zouss/with all these marbles in my mouth.\" You can give either the name of the Weird Al song title or the title of the song it's parodying."
+        ],
+        "answers": [
+          "Weird Al Yankovic (or Weird Al)",
+          "Tacky",
+          "Smells Like Nirvana OR Smells Like Teen Spirit (accept either or both)"
+        ],
+        "formatted_texts": [
+          "Name this polka musician, whose 2014 album <em>Mandatory Fun</em> features the songs \"Handy\" and \"Word Crimes,\" which are parodies of Iggy Azalea and Robin Thicke songs.",
+          "Weird Al released eight music videos for <em>Mandatory Fun</em>, beginning with this parody of Pharrell Williams' song \"Happy.\" This music video features Jack Black wearing a glittery fanny pack backwards.",
+          "A 1992 Weird Al parody includes the lyrics \"Now I'm mumblin'/ and I'm screamin'\" and \"It's hard to bargle nawdle zouss/with all these marbles in my mouth.\" You can give either the name of the Weird Al song title or the title of the song it's parodying."
+        ],
+        "formatted_answers": [
+          "Weird Al <strong>Yankovic</strong> (or <strong>Weird Al</strong>)",
+          "<strong>Tacky</strong>",
+          "<strong>Smells Like Nirvana</strong> OR <strong>Smells Like Teen Spirit</strong> (accept either or both)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31645",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31654,
+        "number": 3,
+        "round": "7",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This league's commissioner, Roger Goodell, was criticized for his peculiar sense of arithmetic in 2014. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.219Z",
+        "updated_at": "2018-08-02T15:51:48.219Z",
+        "formatted_leadin": "This league's commissioner, Roger Goodell, was criticized for his peculiar sense of arithmetic in 2014. For 10 points each,",
+        "texts": [
+          "Name this major American sports league, whose players were locked out in 2011 and whose referees were locked out in 2012.",
+          "In 2014, Goodell initially announced that this Baltimore Ravens running back was suspended two games after allegedly knocking his fiancee unconscious in an Atlantic City hotel",
+          "The original two-game punishment Rice received for domestic abuse was criticized for being eight times lighter than the full season suspension that this Cleveland Browns wide receiver originally received for a repeat violation of the NFL's restriction on marijuana use."
+        ],
+        "answers": [
+          "National Football League",
+          "Ray Rice",
+          "Josh Gordon"
+        ],
+        "formatted_texts": [
+          "Name this major American sports league, whose players were locked out in 2011 and whose referees were locked out in 2012.",
+          "In 2014, Goodell initially announced that this Baltimore Ravens running back was suspended two games after allegedly knocking his fiancee unconscious in an Atlantic City hotel",
+          "The original two-game punishment Rice received for domestic abuse was criticized for being eight times lighter than the full season suspension that this Cleveland Browns wide receiver originally received for a repeat violation of the NFL's restriction on marijuana use."
+        ],
+        "formatted_answers": [
+          "<strong>N</strong>ational <strong>F</strong>ootball <strong>L</strong>eague",
+          "Ray <strong>Rice</strong>",
+          "Josh <strong>Gordon</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31654",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31677,
+        "number": 6,
+        "round": "8",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "One plot point in this film is the possession of \"letters of transit\" that allow the holder to freely travel throughout Nazi Europe; in reality, such a thing never existed. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.943Z",
+        "updated_at": "2018-08-02T15:51:48.943Z",
+        "formatted_leadin": "One plot point in this film is the possession of \"letters of transit\" that allow the holder to freely travel throughout Nazi Europe; in reality, such a thing never existed. For 10 points each,",
+        "texts": [
+          "Name this classic 1942 film set at Rick's American Cafe in the title Moroccan city.",
+          "Casablanca's lead role, Rick Blaine, was played by this legendary actor, who also starred in The Maltese Falcon and The Treasure of the Sierra Madre.",
+          "The \"letters of transit\" aren't particularly important to the plot of Casablanca; they simply get the plot moving. This director of Vertigo, Rear Window, and Psycho coined the term \"MacGuffin\" for such plot devices."
+        ],
+        "answers": [
+          "Casablanca",
+          "Humphrey Bogart",
+          "Alfred Hitchcock"
+        ],
+        "formatted_texts": [
+          "Name this classic 1942 film set at Rick's American Cafe in the title Moroccan city.",
+          "<em>Casablanca</em>'s lead role, Rick Blaine, was played by this legendary actor, who also starred in <em>The Maltese Falcon</em> and <em>The Treasure of the Sierra Madre</em>.",
+          "The \"letters of transit\" aren't particularly important to the plot of <em>Casablanca</em>; they simply get the plot moving. This director of <em>Vertigo</em>, <em>Rear Window</em>, and <em>Psycho</em> coined the term \"MacGuffin\" for such plot devices."
+        ],
+        "formatted_answers": [
+          "<strong>Casablanca</strong>",
+          "Humphrey <strong>Bogart</strong>",
+          "Alfred <strong>Hitchcock</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31677",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31698,
+        "number": 7,
+        "round": "9",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, answer the following about subtraction in pop culture.",
+        "created_at": "2018-08-02T15:51:49.645Z",
+        "updated_at": "2018-08-02T15:51:49.645Z",
+        "formatted_leadin": "For 10 points each, answer the following about subtraction in pop culture.",
+        "texts": [
+          "Dan Walsh created a webcomic subtracting this orange, lasagna-loving cat from his regular Jim Davis comic. The result is, usually, a lonely, depressed Jon Arbuckle, talking to no one.",
+          "A similar concept, filled with just as much existential angst, is the video series “Full House Without Michelle.” It takes the classic 1990s sitcom and removes a toddler whose role was shared by these twin girls, who are now involved in the fashion world.",
+          "In this 1946 Christmastime film by Frank Capra, George Bailey wishes he had never lived; the angel Clarence shows him that, had he not lived, Mr. Potter would have ruined the town of Bedford Falls."
+        ],
+        "answers": [
+          "Garfield (accept Garfield Minus Garfield)",
+          "Mary-Kate and Ashley Olsen (or the Olsens, Olsen twins, Olsen sisters, etc.; prompt on partial answers)",
+          "It's a Wonderful Life"
+        ],
+        "formatted_texts": [
+          "Dan Walsh created a webcomic subtracting this orange, lasagna-loving cat from his regular Jim Davis comic. The result is, usually, a lonely, depressed Jon Arbuckle, talking to no one.",
+          "A similar concept, filled with just as much existential angst, is the video series “Full House Without Michelle.” It takes the classic 1990s sitcom and removes a toddler whose role was shared by these twin girls, who are now involved in the fashion world.",
+          "In this 1946 Christmastime film by Frank Capra, George Bailey wishes he had never lived; the angel Clarence shows him that, had he not lived, Mr. Potter would have ruined the town of Bedford Falls."
+        ],
+        "formatted_answers": [
+          "<strong>Garfield</strong> (accept <strong>Garfield Minus Garfield</strong>)",
+          "<strong>Mary-Kate and Ashley</strong> Olsen (or the <strong>Olsens</strong>, <strong>Olsen twins</strong>, <strong>Olsen sisters</strong>, etc.; prompt on partial answers)",
+          "<strong>It's a Wonderful Life</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31698",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31719,
+        "number": 8,
+        "round": "10",
+        "category_id": 16,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In 2014, shortly after being diagnosed with Marfan syndrome, Isaiah Austin ceremonially took part in this event. For 10 points each,",
+        "created_at": "2018-08-02T15:51:50.350Z",
+        "updated_at": "2018-08-02T15:51:50.350Z",
+        "formatted_leadin": "In 2014, shortly after being diagnosed with Marfan syndrome, Isaiah Austin ceremonially took part in this event. For 10 points each,",
+        "texts": [
+          "Name this annual event. From 2011 to 2014, the Cleveland Cavaliers started this event three times, selecting Kyrie Irving and two Canadians, Anthony Bennett and Andrew Wiggins.",
+          "This ACC school had two first round draft picks in the 2014 Draft: Rodney Hood and the #2 overall selection, Jabari Parker. This school has been coached since 1980 by Mike Krzyzewski [shuh-SHEF-ski].",
+          "Near the end of the 2014 Draft's first round, the Miami Heat traded up to acquire this Connecticut Huskie. LeBron James tweeted was his \"favorite player in the draft,” but drafting this player apparently wasn’t enough to keep LeBron in Miami."
+        ],
+        "answers": [
+          "National Basketball Association Draft (prompt on \"the Draft\")",
+          "Duke University",
+          "Shabazz Napier"
+        ],
+        "formatted_texts": [
+          "Name this annual event. From 2011 to 2014, the Cleveland Cavaliers started this event three times, selecting Kyrie Irving and two Canadians, Anthony Bennett and Andrew Wiggins.",
+          "This ACC school had two first round draft picks in the 2014 Draft: Rodney Hood and the #2 overall selection, Jabari Parker. This school has been coached since 1980 by Mike Krzyzewski [shuh-SHEF-ski].",
+          "Near the end of the 2014 Draft's first round, the Miami Heat traded up to acquire this Connecticut Huskie. LeBron James tweeted was his \"favorite player in the draft,” but drafting this player apparently wasn’t enough to keep LeBron in Miami."
+        ],
+        "formatted_answers": [
+          "<strong>N</strong>ational <strong>B</strong>asketball <strong>A</strong>ssociation <strong>Draft</strong> (prompt on \"the Draft\")",
+          "<strong>Duke</strong> University",
+          "Shabazz <strong>Napier</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31719",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 16,
+          "name": "Trash",
+          "created_at": "2017-08-27T19:30:45.878Z",
+          "updated_at": "2017-08-27T19:30:45.878Z",
+          "url": "https://www.quizdb.org/api/categories/16"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

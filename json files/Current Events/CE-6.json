@@ -1,0 +1,3102 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 48,
+    "num_bonuses_shown": 48,
+    "bonuses": [
+      {
+        "id": 39026,
+        "number": 15,
+        "round": "Packet 04",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 395,
+        "leadin": "After this state’s legislature rejected a bill banning assault weapons, Dinesh D’Souza tweeted, “Adults 1, kids 0.” For 10 points each:",
+        "created_at": "2019-05-18T19:56:38.745Z",
+        "updated_at": "2019-05-18T19:56:38.745Z",
+        "formatted_leadin": "After this state’s legislature rejected a bill banning assault weapons, Dinesh D’Souza tweeted, “Adults 1, kids 0.” For 10 points each:",
+        "texts": [
+          "Name this state where Cameron Kasky and David Hogg, among others, began the Never Again campaign after their classmates were killed in the Stoneman Douglas High School shooting in Parkland.",
+          "A branch of the Women’s March organized the Enough! National School Walkout a month after the Parkland shooting, which lasted for this many minutes, one for each casualty of the shooting.",
+          "Shari Redstone, a high-ranking executive of this media conglomerate, donated 500,000 dollars to the March for Our Lives and had its channels, including MTV and Nickelodeon, participate in a 17-minute blackout."
+        ],
+        "answers": [
+          "Florida",
+          "17 minutes",
+          "Viacom &lt;KH, Current Events&gt;"
+        ],
+        "formatted_texts": [
+          "Name this state where Cameron Kasky and David Hogg, among others, began the Never Again campaign after their classmates were killed in the Stoneman Douglas High School shooting in Parkland.",
+          "A branch of the Women’s March organized the Enough! National School Walkout a month after the Parkland shooting, which lasted for this many minutes, one for each casualty of the shooting.",
+          "Shari Redstone, a high-ranking executive of this media conglomerate, donated 500,000 dollars to the March for Our Lives and had its channels, including MTV and Nickelodeon, participate in a 17-minute blackout."
+        ],
+        "formatted_answers": [
+          "<strong>Florida</strong>",
+          "<strong>17</strong> minutes",
+          "<strong>Viacom</strong> &lt;KH, Current Events&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/39026",
+        "type": "bonus",
+        "tournament": {
+          "id": 395,
+          "year": 2018,
+          "name": "2018 Early Fall Tournament (EFT)",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "",
+          "created_at": "2019-05-18T19:56:00.786Z",
+          "updated_at": "2020-09-17T23:31:52.859Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/395"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31056,
+        "number": 15,
+        "round": "6",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 371,
+        "leadin": "In 2013, this man was succeeded as Director of the FBI by James Comey, before being appointed to his current post by Deputy Attorney General Rod Rosenstein. For 10 points each:",
+        "created_at": "2018-05-19T22:35:47.388Z",
+        "updated_at": "2018-05-19T22:35:47.388Z",
+        "formatted_leadin": "In 2013, this man was succeeded as Director of the FBI by James Comey, before being appointed to his current post by Deputy Attorney General Rod Rosenstein. For 10 points each:",
+        "texts": [
+          "Name this Republican Special Counsel for the Department of Justice, who is currently overseeing an investigation into Russian interference in the 2016 US Presidential Election.",
+          "This former Trump campaign advisor entered a plea deal with Mueller, which resulted in additional charges for him and Paul Manafort, such as conspiracy against the United States from when they lobbied for Ukraine.",
+          "Gates and Manafort were lobbyists for this pro-Russian Ukrainian Party. Former President Viktor Yanukovych was the first member of this party to be elected president before leaving office in 2014."
+        ],
+        "answers": [
+          "Robert “Bob” Swan Mueller III",
+          "Richard “Rick” W. Gates III",
+          "Party of Regions [accept Partiya regionov] &lt;AN Current Events&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Republican Special Counsel for the Department of Justice, who is currently overseeing an investigation into Russian interference in the 2016 US Presidential Election.",
+          "This former Trump campaign advisor entered a plea deal with Mueller, which resulted in additional charges for him and Paul Manafort, such as conspiracy against the United States from when they lobbied for Ukraine.",
+          "Gates and Manafort were lobbyists for this pro-Russian Ukrainian Party. Former President Viktor Yanukovych was the first member of this party to be elected president before leaving office in 2014."
+        ],
+        "formatted_answers": [
+          "Robert “Bob” Swan <strong>Mueller</strong> III",
+          "Richard “Rick” W. <strong>Gates</strong> III",
+          "Party of <strong>Regions</strong> [accept <em>Partiya <strong>regionov</strong></em>] &lt;AN Current Events&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31056",
+        "type": "bonus",
+        "tournament": {
+          "id": 371,
+          "year": 2018,
+          "name": "2018 SMT",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://collegiate.quizbowlpackets.com/2095/",
+          "created_at": "2018-05-19T22:34:42.493Z",
+          "updated_at": "2018-05-19T22:34:42.493Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/371"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31180,
+        "number": 13,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 371,
+        "leadin": "A former mayor of this city claimed that he would not enter into a coalition government with anyone that had not watched the HBO series <em>The Wire</em>. For 10 points each:",
+        "created_at": "2018-05-19T22:37:24.752Z",
+        "updated_at": "2018-05-19T22:37:24.752Z",
+        "formatted_leadin": "A former mayor of this city claimed that he would not enter into a coalition government with anyone that had not watched the HBO series <em>The Wire</em>. For 10 points each:",
+        "texts": [
+          "Name this city where comedian Jon Gnarr was elected mayor in 2010 as part of a backlash against the political establishment. Gnarr campaigned on promises of “free towels in all swimming pools” and a polar bear for this Icelandic capital’s zoo.",
+          "This anti-establishment Italian political party founded by blogger and comedian Beppe Grillo received the most votes of any single party in the 2018 parliamentary elections, finishing second behind the center-right coalition.",
+          "The comedian Dieudonné is a close friend of this French politician, probably due to their shared anti-Semitism. This former head of the FN was succeeded by his daughter Marine."
+        ],
+        "answers": [
+          "Reykjavík",
+          "Five Star Movement [or Movimento 5 Stelle or M5S]",
+          "Jean-Marie Le Pen [do not accept or prompt on “Marine Le Pen”] &lt;JK Current Events&gt;"
+        ],
+        "formatted_texts": [
+          "Name this city where comedian Jon Gnarr was elected mayor in 2010 as part of a backlash against the political establishment. Gnarr campaigned on promises of “free towels in all swimming pools” and a polar bear for this Icelandic capital’s zoo.",
+          "This anti-establishment Italian political party founded by blogger and comedian Beppe Grillo received the most votes of any single party in the 2018 parliamentary elections, finishing second behind the center-right coalition.",
+          "The comedian Dieudonné is a close friend of this French politician, probably due to their shared anti-Semitism. This former head of the FN was succeeded by his daughter Marine."
+        ],
+        "formatted_answers": [
+          "<strong>Reykjavík</strong>",
+          "<strong>Five Star</strong> Movement [or Movimento <strong>5 Stelle</strong> or <strong>M5S</strong>]",
+          "Jean-Marie <strong>Le Pen</strong> [do not accept or prompt on “Marine Le Pen”] &lt;JK Current Events&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31180",
+        "type": "bonus",
+        "tournament": {
+          "id": 371,
+          "year": 2018,
+          "name": "2018 SMT",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://collegiate.quizbowlpackets.com/2095/",
+          "created_at": "2018-05-19T22:34:42.493Z",
+          "updated_at": "2018-05-19T22:34:42.493Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/371"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 25883,
+        "number": 15,
+        "round": "Cambridge B_Knox A_MSU A_UConn A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 358,
+        "leadin": "This man took over as the campaign manager of Donald Trump's 2016 presidential campaign after Corey Lewandowski was fired. For 10 points each:",
+        "created_at": "2017-12-17T20:07:13.874Z",
+        "updated_at": "2017-12-17T20:07:13.874Z",
+        "formatted_leadin": "This man took over as the campaign manager of Donald Trump's 2016 presidential campaign after Corey Lewandowski was fired. For 10 points each:",
+        "texts": [
+          "Name this man, who was indicted in late October 2017 on charges related to Robert Mueller’s investigation of connections between the Trump campaign and the Russian government.",
+          "Manafort’s indictment accuses him of laundering money from this country, whose then-leader Viktor Yanukovych fled as part of the 2014 unrest that led to Russia annexing this country’s Crimean peninsula.",
+          "Manafort’s debt to pro-Russian interests was revealed by the records of this country where his shell companies filed taxes. This country is divided in two by a “Green Line” enforced by the UN."
+        ],
+        "answers": [
+          "Paul Manafort",
+          "Ukraine",
+          "Cyprus [or Kibris or Kypriaki]"
+        ],
+        "formatted_texts": [
+          "Name this man, who was indicted in late October 2017 on charges related to Robert Mueller’s investigation of connections between the Trump campaign and the Russian government.",
+          "Manafort’s indictment accuses him of laundering money from this country, whose then-leader Viktor Yanukovych fled as part of the 2014 unrest that led to Russia annexing this country’s Crimean peninsula.",
+          "Manafort’s debt to pro-Russian interests was revealed by the records of this country where his shell companies filed taxes. This country is divided in two by a “Green Line” enforced by the UN."
+        ],
+        "formatted_answers": [
+          "Paul <strong><u>Manafort</u></strong>",
+          "<strong><u>Ukraine</u></strong>",
+          "<strong><u>Cyprus</u></strong> [or <strong><u>Kibris</u></strong> or <strong><u>Kypriaki</u></strong>]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/25883",
+        "type": "bonus",
+        "tournament": {
+          "id": 358,
+          "year": 2017,
+          "name": "2017 ACF Fall",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://collegiate.quizbowlpackets.com/2040/",
+          "created_at": "2017-12-17T20:05:10.315Z",
+          "updated_at": "2017-12-17T20:05:10.315Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/358"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 28158,
+        "number": 12,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 365,
+        "leadin": "In September 2017, Aung San Suu Kyi [ong sahn soo chee] referred to news about this ethnic group as “a huge iceberg of misinformation.” For 10 points each:",
+        "created_at": "2018-02-19T05:42:06.737Z",
+        "updated_at": "2018-02-19T05:42:06.737Z",
+        "formatted_leadin": "In September 2017, Aung San Suu Kyi [ong sahn soo chee] referred to news about this ethnic group as “a huge iceberg of misinformation.” For 10 points each:",
+        "texts": [
+          "Name this Muslim ethnic group whose members have undergone a mass exodus from Rakhine [ruh-KYNE] state. Myanmar’s military launched a campaign against these people in response to an attack by the Arakan Salvation Army.",
+          "Hundreds of thousands of Rohingya refugees went to this Muslim-majority neighbor of Myanmar. It gained its independence from Pakistan in 1971.",
+          "This leader of Bangladesh refused Rohingya refugees in 2012. This current prime minister of Bangladesh leads the Awami League and is a rival of Khaleda Zia, who leads the Bangladesh National Party."
+        ],
+        "answers": [
+          "Rohingya [ROH-hin-juh] people",
+          "(People’s Republic of) Bangladesh",
+          "Sheikh Hasina Wajed &lt;RY, Other&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Muslim ethnic group whose members have undergone a mass exodus from Rakhine [ruh-KYNE] state. Myanmar’s military launched a campaign against these people in response to an attack by the Arakan Salvation Army.",
+          "Hundreds of thousands of Rohingya refugees went to this Muslim-majority neighbor of Myanmar. It gained its independence from Pakistan in 1971.",
+          "This leader of Bangladesh refused Rohingya refugees in 2012. This current prime minister of Bangladesh leads the Awami League and is a rival of Khaleda Zia, who leads the Bangladesh National Party."
+        ],
+        "formatted_answers": [
+          "<strong>Rohingya</strong> [ROH-hin-juh] people",
+          "(People’s Republic of) <strong>Bangladesh</strong>",
+          "Sheikh <strong>Hasina</strong> Wajed &lt;RY, Other&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/28158",
+        "type": "bonus",
+        "tournament": {
+          "id": 365,
+          "year": 2017,
+          "name": "2017 Early Fall Tournament (EFT)",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://collegiate.quizbowlpackets.com/2048/",
+          "created_at": "2018-02-19T04:38:52.580Z",
+          "updated_at": "2018-02-19T04:38:57.618Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/365"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 28289,
+        "number": 3,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 365,
+        "leadin": "In March 2017, this country’s Supreme Tribunal of Justice asserted authority over the National Assembly in a move criticized by most Western Hemisphere nations. For 10 points each:",
+        "created_at": "2018-02-19T05:43:01.333Z",
+        "updated_at": "2018-02-19T05:43:01.333Z",
+        "formatted_leadin": "In March 2017, this country’s Supreme Tribunal of Justice asserted authority over the National Assembly in a move criticized by most Western Hemisphere nations. For 10 points each:",
+        "texts": [
+          "Name this country, whose president since 2013 has been Nicolás Maduro.",
+          "Maduro’s government has been strongly criticized by this incumbent governor for the state of Miranda, who co-founded the Justice First party. This man has apparently been banned from participating in politics since early 2017.",
+          "In order to fight food shortages, the Maduro government has begun to promote this high-protein, low-cholesterol source of meat. Export of the Flemish Giant variety of this animal to North Korea ended after Kim Jong-il ate all the ones that were sent."
+        ],
+        "answers": [
+          "Venezuela [or the Bolivarian Republic of Venezuela]",
+          "Henrique Capriles Radonski",
+          "rabbits [or equivalents] &lt;VC, CE&gt;"
+        ],
+        "formatted_texts": [
+          "Name this country, whose president since 2013 has been Nicolás Maduro.",
+          "Maduro’s government has been strongly criticized by this incumbent governor for the state of Miranda, who co-founded the Justice First party. This man has apparently been banned from participating in politics since early 2017.",
+          "In order to fight food shortages, the Maduro government has begun to promote this high-protein, low-cholesterol source of meat. Export of the Flemish Giant variety of this animal to North Korea ended after Kim Jong-il ate all the ones that were sent."
+        ],
+        "formatted_answers": [
+          "<strong>Venezuela</strong> [or the Bolivarian Republic of <strong>Venezuela</strong>]",
+          "Henrique <strong>Capriles</strong> Radonski",
+          "<strong>rabbits</strong> [or equivalents] &lt;VC, CE&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/28289",
+        "type": "bonus",
+        "tournament": {
+          "id": 365,
+          "year": 2017,
+          "name": "2017 Early Fall Tournament (EFT)",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://collegiate.quizbowlpackets.com/2048/",
+          "created_at": "2018-02-19T04:38:52.580Z",
+          "updated_at": "2018-02-19T04:38:57.618Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/365"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 38224,
+        "number": 7,
+        "round": "9",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 272,
+        "leadin": "This man represented the US government at the preliminary hearings of the Oklahoma City bomber Timothy McVeigh. For 10 points each:",
+        "created_at": "2019-05-09T22:08:55.735Z",
+        "updated_at": "2019-05-09T22:08:55.735Z",
+        "formatted_leadin": "This man represented the US government at the preliminary hearings of the Oklahoma City bomber Timothy McVeigh. For 10 points each:",
+        "texts": [
+          "Name this judge who was nominated by President Obama to fill the vacancy on the US Supreme Court following Antonin Scalia’s death.",
+          "This Senate majority leader announced early that he would refuse to consider Garland’s nomination in the Senate. As host of The Daily Show, Jon Stewart often did impressions of this Kentuckian as a turtle.",
+          "This Justice was nominated to the Supreme Court by Bill Clinton. She recently took heat for calling Colin Kaepernick’s pre-game protests “dumb and disrespectful.”"
+        ],
+        "answers": [
+          "Merrick Garland",
+          "Mitch McConnell [or Addison Mitchell McConnell, Jr.]",
+          "Ruth Bader Ginsburg [prompt on “RBG”]"
+        ],
+        "formatted_texts": [
+          "Name this judge who was nominated by President Obama to fill the vacancy on the US Supreme Court following Antonin Scalia’s death.",
+          "This Senate majority leader announced early that he would refuse to consider Garland’s nomination in the Senate. As host of <em>The Daily Show</em>, Jon Stewart often did impressions of this Kentuckian as a turtle.",
+          "This Justice was nominated to the Supreme Court by Bill Clinton. She recently took heat for calling Colin Kaepernick’s pre-game protests “dumb and disrespectful.”"
+        ],
+        "formatted_answers": [
+          "Merrick <strong><u>Garland</u></strong>",
+          "Mitch <strong><u>McConnell</u></strong> [or Addison Mitchell <strong><u>McConnell</u></strong>, Jr.]",
+          "Ruth Bader <strong><u>Ginsburg</u></strong> [prompt on “RBG”]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/38224",
+        "type": "bonus",
+        "tournament": {
+          "id": 272,
+          "year": 2016,
+          "name": "2016 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:34.154Z",
+          "updated_at": "2017-08-27T18:48:34.154Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/272"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 23999,
+        "number": 16,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 278,
+        "leadin": "A mayor of this city said “Don't believe any false rumors, unless you hear them from me”. For 10 points each:",
+        "created_at": "2017-11-11T03:30:15.004Z",
+        "updated_at": "2017-11-11T03:30:15.004Z",
+        "formatted_leadin": "A mayor of this city said “Don't believe any false rumors, unless you hear them from me”. For 10 points each:",
+        "texts": [
+          "Name this city, also led by a more recent mayor, Ray Nagin, who once proclaimed that this city would remain a “Chocolate City”.",
+          "Nagin was mayor when this 2005 hurricane caused massive destruction and flooding in New Orleans.",
+          "This bald-headed New Jersey attorney was criticized for saying Katrina was “breathtaking in its surprise”. The second U.S. Secretary of Homeland Security, he avoided further criticism due to the fact that FEMA was even more incompetent."
+        ],
+        "answers": [
+          "New Orleans",
+          "Katrina",
+          "Michael Chertoff &lt;Cheyne&gt;"
+        ],
+        "formatted_texts": [
+          "Name this city, also led by a more recent mayor, Ray Nagin, who once proclaimed that this city would remain a “Chocolate City”.",
+          "Nagin was mayor when this 2005 hurricane caused massive destruction and flooding in New Orleans.",
+          "This bald-headed New Jersey attorney was criticized for saying Katrina was “breathtaking in its surprise”. The second U.S. Secretary of Homeland Security, he avoided further criticism due to the fact that FEMA was even more incompetent."
+        ],
+        "formatted_answers": [
+          "<strong><u>New Orleans</u></strong>",
+          "<strong><u>Katrina</u></strong>",
+          "Michael <strong><u>Chertoff</u></strong> &lt;Cheyne&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/23999",
+        "type": "bonus",
+        "tournament": {
+          "id": 278,
+          "year": 2016,
+          "name": "2016 MUT",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:34.834Z",
+          "updated_at": "2017-08-27T18:48:34.834Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/278"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 23821,
+        "number": 6,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 278,
+        "leadin": "Dr. Mona Hanna-Attisha helped bring this city's crisis to light, and Marc Edwards led a study that showed its drinking water had high levels of lead present. For 10 points each:",
+        "created_at": "2017-11-11T03:28:53.506Z",
+        "updated_at": "2017-11-11T03:28:53.506Z",
+        "formatted_leadin": "Dr. Mona Hanna-Attisha helped bring this city's crisis to light, and Marc Edwards led a study that showed its drinking water had high levels of lead present. For 10 points each:",
+        "texts": [
+          "Name this city in Genesee County, Michigan, where a cost-saving switch in water supply from Lake Huron to a namesake river has caused many health problems for residents.",
+          "This governor of Michigan declared a state of emergency in January 2016 due to the water crisis in Flint, although he may have already known about the issues as much as a year earlier.",
+          "The water is also believed by some to be responsible for an increase in cases of this disease, which has caused ten deaths in Genesee County since the change in water supply."
+        ],
+        "answers": [
+          "Flint",
+          "Rick Snyder [or Richard Dale Snyder]",
+          "Legionnaires' disease [or legionellosis] &lt;Gehring&gt;"
+        ],
+        "formatted_texts": [
+          "Name this city in Genesee County, Michigan, where a cost-saving switch in water supply from Lake Huron to a namesake river has caused many health problems for residents.",
+          "This governor of Michigan declared a state of emergency in January 2016 due to the water crisis in Flint, although he may have already known about the issues as much as a year earlier.",
+          "The water is also believed by some to be responsible for an increase in cases of this disease, which has caused ten deaths in Genesee County since the change in water supply."
+        ],
+        "formatted_answers": [
+          "<strong><u>Flint</u></strong>",
+          "Rick <strong><u>Snyder</u></strong> [or Richard Dale <strong><u>Snyder</u></strong>]",
+          "<strong><u>Legionnaires'</u></strong> disease [or <strong><u>legionellosis</u></strong>] &lt;Gehring&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/23821",
+        "type": "bonus",
+        "tournament": {
+          "id": 278,
+          "year": 2016,
+          "name": "2016 MUT",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:34.834Z",
+          "updated_at": "2017-08-27T18:48:34.834Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/278"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26417,
+        "number": 8,
+        "round": "Vassar A + Amherst A",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 245,
+        "leadin": "This agreement caused an uprising of Zapatistas in Chiapas. For 10 points each:",
+        "created_at": "2017-12-23T02:09:45.007Z",
+        "updated_at": "2017-12-23T02:09:45.007Z",
+        "formatted_leadin": "This agreement caused an uprising of Zapatistas in Chiapas. For 10 points each:",
+        "texts": [
+          "Name this free trade agreement between the United States, Canada and Mexico that came into effect in 1994.",
+          "Mexico entered NAFTA under President Carlos Salinas, a member of this political party. It dominated Mexican politics until it was defeated by PAN in the 2000 presidential elections.",
+          "After NAFTA went into effect, the number of these Mexican sweatshops in existence increased exponentially. Many are located near the border with the United States, and they mostly employ young women."
+        ],
+        "answers": [
+          "NAFTA [or North American Free Trade Agreement]",
+          "PRI [or Partido Revolucionario Institucional; or IRP; or Institutional Revolutionary Party]",
+          "maquiladoras [or maquilas]"
+        ],
+        "formatted_texts": [
+          "Name this free trade agreement between the United States, Canada and Mexico that came into effect in 1994.",
+          "Mexico entered NAFTA under President Carlos Salinas, a member of this political party. It dominated Mexican politics until it was defeated by PAN in the 2000 presidential elections.",
+          "After NAFTA went into effect, the number of these Mexican sweatshops in existence increased exponentially. Many are located near the border with the United States, and they mostly employ young women."
+        ],
+        "formatted_answers": [
+          "<strong><u>NAFTA</u></strong> [or <strong><u>North American Free Trade Agreement</u></strong>]",
+          "<strong><u>PRI</u></strong> [or <strong><u>Partido Revolucionario Institucional</u></strong>; or <strong><u>IRP</u></strong>; or <strong><u>Institutional Revolutionary Party</u></strong>]",
+          "<strong><u>maquiladora</u></strong>s [or <strong><u>maquila</u></strong>s]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26417",
+        "type": "bonus",
+        "tournament": {
+          "id": 245,
+          "year": 2015,
+          "name": "2015 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.325Z",
+          "updated_at": "2017-08-27T18:48:30.325Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/245"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 25426,
+        "number": 10,
+        "round": "Michigan A, Michigan State A, MIT B, and UVA B",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 245,
+        "leadin": "Answer the following about the Islamic State of Iraq and the Levant, for 10 points each.",
+        "created_at": "2017-12-16T04:35:14.073Z",
+        "updated_at": "2017-12-16T04:35:14.073Z",
+        "formatted_leadin": "Answer the following about the Islamic State of Iraq and the Levant, for 10 points each.",
+        "texts": [
+          "ISIL’s expansion has complicated the ongoing civil war in this Middle Eastern country, where Bashar al-Assad still holds power from its capital of Damascus.",
+          "This leader of ISIL was incorrectly reported to have died in an American airstrike in October 2015. He reportedly married himself to captive American aid worker Kayla Mueller and sexually abused before her death.",
+          "In the fall of 2015, ISIL captured this historically significant city in Syria. ISIL destroyed many of this city’s ancient landmark, including its Temple of Bel."
+        ],
+        "answers": [
+          "Syria [or Syrian Arab Republic]",
+          "Abu Bakr al-Baghdadi",
+          "Palmyra [or Tadmur]"
+        ],
+        "formatted_texts": [
+          "ISIL’s expansion has complicated the ongoing civil war in this Middle Eastern country, where Bashar al-Assad still holds power from its capital of Damascus.",
+          "This leader of ISIL was incorrectly reported to have died in an American airstrike in October 2015. He reportedly married himself to captive American aid worker Kayla Mueller and sexually abused before her death.",
+          "In the fall of 2015, ISIL captured this historically significant city in Syria. ISIL destroyed many of this city’s ancient landmark, including its Temple of Bel."
+        ],
+        "formatted_answers": [
+          "<strong><u>Syria</u></strong> [or <strong><u>Syria</u></strong>n Arab Republic]",
+          "Abu Bakr <strong><u>al-Baghdadi</u></strong>",
+          "<strong><u>Palmyra</u></strong> [or <strong><u>Tadmur</u></strong>]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/25426",
+        "type": "bonus",
+        "tournament": {
+          "id": 245,
+          "year": 2015,
+          "name": "2015 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.325Z",
+          "updated_at": "2017-08-27T18:48:30.325Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/245"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26532,
+        "number": 1,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "Martin Winterkorn recently resigned as CEO of this company. For 10 points each:",
+        "created_at": "2017-12-25T21:17:44.622Z",
+        "updated_at": "2017-12-25T21:17:44.622Z",
+        "formatted_leadin": "Martin Winterkorn recently resigned as CEO of this company. For 10 points each:",
+        "texts": [
+          "Name this German automaker that admitted in 2015 to have cheated on emissions tests.",
+          "Certain models of VW emit much higher than permitted levels of the oxides of this element.",
+          "A couple years ago, Volkswagen considered changing the name of this luxury SUV after its namesake Berber-speaking Muslim nomads of the Sahara area drove Mali's army out of Azawad."
+        ],
+        "answers": [
+          "Volkswagen [or VW]",
+          "nitrogen [or N]",
+          "Touareg [or Tuareg; or Twareg; do NOT accept \"Tiguan\"]"
+        ],
+        "formatted_texts": [
+          "Name this German automaker that admitted in 2015 to have cheated on emissions tests.",
+          "Certain models of VW emit much higher than permitted levels of the oxides of this element.",
+          "A couple years ago, Volkswagen considered changing the name of this luxury SUV after its namesake Berber-speaking Muslim nomads of the Sahara area drove Mali's army out of Azawad."
+        ],
+        "formatted_answers": [
+          "<u>Volkswagen</u> [or <u>VW</u>]",
+          "<u>nitrogen</u> [or <u>N</u>]",
+          "<u>Touareg</u> [or <u>Tuareg</u>; or <u>Twareg</u>; do NOT accept \"Tiguan\"]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26532",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26522,
+        "number": 11,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "Bill Baroni and Bridget Anne Kelly are awaiting trial for their roles in this scandal. FTPE:",
+        "created_at": "2017-12-25T03:35:24.769Z",
+        "updated_at": "2017-12-25T03:35:24.769Z",
+        "formatted_leadin": "Bill Baroni and Bridget Anne Kelly are awaiting trial for their roles in this scandal. FTPE:",
+        "texts": [
+          "Name this scandal in which lanes on a structure named for George Washington in Fort Lee were closed in 2013 in order to create traffic jams and retaliate against a Democratic mayor.",
+          "Bridgegate is one of many controversies surrounding the administration of this New Jersey governor, who had the audacity to embrace President Obama shortly after Hurricane Sandy.",
+          "Jeff Smisek resigned as this airline’s CEO amid a probe into a money-losing flight from Newark to Columbia, South Carolina, near where Christie ally David Samson has a home."
+        ],
+        "answers": [
+          "Bridgegate",
+          "Chris Christie",
+          "United"
+        ],
+        "formatted_texts": [
+          "Name this scandal in which lanes on a structure named for George Washington in Fort Lee were closed in 2013 in order to create traffic jams and retaliate against a Democratic mayor.",
+          "Bridgegate is one of many controversies surrounding the administration of this New Jersey governor, who had the audacity to embrace President Obama shortly after Hurricane Sandy.",
+          "Jeff Smisek resigned as this airline’s CEO amid a probe into a money-losing flight from Newark to Columbia, South Carolina, near where Christie ally David Samson has a home."
+        ],
+        "formatted_answers": [
+          "<u>Bridgegate</u>",
+          "Chris <u>Christie</u>",
+          "<u>United</u>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26522",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26481,
+        "number": 10,
+        "round": "2",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "This creature was found beheaded and skinned outside the Hwange Game Reserve. FTPE:",
+        "created_at": "2017-12-24T18:32:07.442Z",
+        "updated_at": "2017-12-24T18:32:07.442Z",
+        "formatted_leadin": "This creature was found beheaded and skinned outside the Hwange Game Reserve. FTPE:",
+        "texts": [
+          "Name this lion from Zimbabwe who was killed in July of 2015 by a dentist from Minnesota.",
+          "This president of Zimbabwe, who defeated Morgan Tsvangirai [CHAHN-gihr-EYE] in the 2008 and 2013 general elections, called big-game hunting a \"sin.\"",
+          "Robert Mugabe has ruled Zimbabwe for over thirty-five years, but the presidents of Equatorial Guinea and Angola have ruled for over thirty-six years. Name either."
+        ],
+        "answers": [
+          "Cecil",
+          "Robert Mugabe",
+          "Teodoro Obiang Nguema Mbasogo or José Eduardo dos Santos"
+        ],
+        "formatted_texts": [
+          "Name this lion from Zimbabwe who was killed in July of 2015 by a dentist from Minnesota.",
+          "This president of Zimbabwe, who defeated Morgan Tsvangirai [<em>CHAHN-gihr-EYE</em>] in the 2008 and 2013 general elections, called big-game hunting a \"sin.\"",
+          "Robert Mugabe has ruled Zimbabwe for over thirty-five years, but the presidents of Equatorial Guinea and Angola have ruled for over thirty-six years. Name either."
+        ],
+        "formatted_answers": [
+          "<u>Cecil</u>",
+          "Robert <u>Mugabe</u>",
+          "Teodoro <u>Obiang</u> Nguema Mbasogo <em><u>or</u></em> José Eduardo <u>dos Santos</u>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26481",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26467,
+        "number": 16,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "The beginning of an essay by this man centers on Clyde Ross, who joins the Contract Buyers League after moving to the North Lawndale neighborhood of Chicago. For 10 points each:",
+        "created_at": "2017-12-24T01:44:07.054Z",
+        "updated_at": "2017-12-24T01:44:07.054Z",
+        "formatted_leadin": "The beginning of an essay by this man centers on Clyde Ross, who joins the Contract Buyers League after moving to the North Lawndale neighborhood of Chicago. For 10 points each:",
+        "texts": [
+          "Name this man who wrote letters to his son in the recent book Between the World and Me.",
+          "Ta-Nehisi Coates may be best known for a 2014 essay in The Atlantic called \"The Case for\" these payments for the descendants of slaves.",
+          "Ta-Nehisi Coates was born in this city, where protests occurred after Freddie Gray's death. Martin O'Malley served as mayor of this city for eight years."
+        ],
+        "answers": [
+          "Ta-Nehisi Coates",
+          "reparations",
+          "Baltimore"
+        ],
+        "formatted_texts": [
+          "Name this man who wrote letters to his son in the recent book <em>Between the World and Me</em>.",
+          "Ta-Nehisi Coates may be best known for a 2014 essay in <em>The Atlantic</em> called \"The Case for\" these payments for the descendants of slaves.",
+          "Ta-Nehisi Coates was born in this city, where protests occurred after Freddie Gray's death. Martin O'Malley served as mayor of this city for eight years."
+        ],
+        "formatted_answers": [
+          "Ta-Nehisi <u>Coates</u>",
+          "<u>reparations</u>",
+          "<u>Baltimore</u>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26467",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26672,
+        "number": 1,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "Mindanao is the second largest island of this nation, which also owns the Sulu Archipelago. FTPE:",
+        "created_at": "2017-12-30T00:08:49.259Z",
+        "updated_at": "2017-12-30T00:08:49.259Z",
+        "formatted_leadin": "Mindanao is the second largest island of this nation, which also owns the Sulu Archipelago. FTPE:",
+        "texts": [
+          "Name this Asian country whose principle language is Tagalog.",
+          "This current President of the Philippines is the son of Corazon, who served as President after the 1986 People Power Revolution removed Ferdinand Marcos from power.",
+          "The Philippines is home to this Islamic militant group, which carried out the 2001 Dos Palmas kidnappings. This group killed over 100 people in 2004 when it bombed SuperFerry 14."
+        ],
+        "answers": [
+          "Philippines [or Pilipinas]",
+          "Benigno Aquino III",
+          "Abu Sayyaf Group [or ASG]"
+        ],
+        "formatted_texts": [
+          "Name this Asian country whose principle language is Tagalog.",
+          "This current President of the Philippines is the son of Corazon, who served as President after the 1986 People Power Revolution removed Ferdinand Marcos from power.",
+          "The Philippines is home to this Islamic militant group, which carried out the 2001 Dos Palmas kidnappings. This group killed over 100 people in 2004 when it bombed SuperFerry 14."
+        ],
+        "formatted_answers": [
+          "<u>Philippines</u> [or <u>Pilipinas</u>]",
+          "Benigno <u>Aquino</u> III",
+          "<u>Abu Sayyaf</u> Group [or <u>ASG</u>]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26672",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26663,
+        "number": 12,
+        "round": "11",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "This concept is sometimes considered the basis for the common American expectation that a woman’s family should pay for a wedding. FTPE:",
+        "created_at": "2017-12-29T23:49:57.429Z",
+        "updated_at": "2017-12-29T23:49:57.429Z",
+        "formatted_leadin": "This concept is sometimes considered the basis for the common American expectation that a woman’s family should pay for a wedding. FTPE:",
+        "texts": [
+          "What is this payment made by the family of a bride to her groom?",
+          "Despite the 1961 Dowry Prohibition Act in this country, over 5,000 women were murdered by their husbands’ families in 2014 in this country sadly known for such dowry killings.",
+          "The opposite of dowry, this type of payment more common in agricultural societies compensates a family for the loss of a daughter’s labor."
+        ],
+        "answers": [
+          "dowry",
+          "India",
+          "bride price or bride token"
+        ],
+        "formatted_texts": [
+          "What is this payment made by the family of a bride to her groom?",
+          "Despite the 1961 Dowry Prohibition Act in this country, over 5,000 women were murdered by their husbands’ families in 2014 in this country sadly known for such dowry killings.",
+          "The opposite of dowry, this type of payment more common in agricultural societies compensates a family for the loss of a daughter’s labor."
+        ],
+        "formatted_answers": [
+          "<u>dowry</u>",
+          "<u>India</u>",
+          "<u>bride price</u> or <u>bride token</u>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26663",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26618,
+        "number": 7,
+        "round": "9",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "Only twenty-one million units in this system will ever be created. For 10 points each:",
+        "created_at": "2017-12-29T02:03:30.032Z",
+        "updated_at": "2017-12-29T02:03:30.032Z",
+        "formatted_leadin": "Only twenty-one million units in this system will ever be created. For 10 points each:",
+        "texts": [
+          "Name this digital payment system whose transactions are recorded on a \"block chain.\"",
+          "Bitcoin was invented by this person, who, according to a dubious Newsweek cover story, is a 64-year-old Japanese-American man who lives in California.",
+          "This online drugs marketplace, Chris Borglum's one-time favorite, used bitcoins to conduct all of its transactions. It was started in 2011 by Ross Ulbricht using the pseudonym Dread Pirate Roberts."
+        ],
+        "answers": [
+          "Bitcoin",
+          "Satoshi Nakamoto [accept either name in either order]",
+          "Silk Road"
+        ],
+        "formatted_texts": [
+          "Name this digital payment system whose transactions are recorded on a \"block chain.\"",
+          "Bitcoin was invented by this person, who, according to a dubious <em>Newsweek</em> cover story, is a 64-year-old Japanese-American man who lives in California.",
+          "This online drugs marketplace, Chris Borglum's one-time favorite, used bitcoins to conduct all of its transactions. It was started in 2011 by Ross Ulbricht using the pseudonym Dread Pirate Roberts."
+        ],
+        "formatted_answers": [
+          "<u>Bitcoin</u>",
+          "<u>Satoshi</u> <u>Nakamoto</u> [accept either name in either order]",
+          "<u>Silk Road</u>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26618",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26598,
+        "number": 7,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "This book's subject performed a hemi-spherectomy on \"A Girl Named Maranda.\" FTPE:",
+        "created_at": "2017-12-28T00:21:35.169Z",
+        "updated_at": "2017-12-28T00:21:35.169Z",
+        "formatted_leadin": "This book's subject performed a hemi-spherectomy on \"A Girl Named Maranda.\" FTPE:",
+        "texts": [
+          "Name this book that also details the 1987 separation of Siamese twins joined at the head thanks in part to the special ability of the titular appendages.",
+          "The book Gifted Hands is the story of this neurosurgeon, who is celebrated in the National Great Blacks in Wax Museum, and is running for President of the United States.",
+          "Ben Carson was once held at gunpoint at this fast-food chain, but courageously told the assailant, \"I believe that you want the guy behind the counter.\""
+        ],
+        "answers": [
+          "Gifted Hands",
+          "Ben Carson",
+          "Popeye’s"
+        ],
+        "formatted_texts": [
+          "Name this book that also details the 1987 separation of Siamese twins joined at the head thanks in part to the special ability of the titular appendages.",
+          "The book <em>Gifted Hands</em> is the story of this neurosurgeon, who is celebrated in the National Great Blacks in Wax Museum, and is running for President of the United States.",
+          "Ben Carson was once held at gunpoint at this fast-food chain, but courageously told the assailant, \"I believe that you want the guy behind the counter.\""
+        ],
+        "formatted_answers": [
+          "<em><u>Gifted Hands</u></em>",
+          "Ben <u>Carson</u>",
+          "<u>Popeye’s</u>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26598",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26563,
+        "number": 12,
+        "round": "6",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 287,
+        "leadin": "This person's website includes a photo of the numbers 1488 scrawled in sand. For 10 points each:",
+        "created_at": "2017-12-26T22:33:50.629Z",
+        "updated_at": "2017-12-26T22:33:50.629Z",
+        "formatted_leadin": "This person's website includes a photo of the numbers 1488 scrawled in sand. For 10 points each:",
+        "texts": [
+          "Name this person who murdered nine black churchgoers in Charleston in June of 2015.",
+          "The murders led South Carolina to remove this object from the grounds of the state capitol. Walmart also stopped selling this object, although Chris Borglum still proudly displays it.",
+          "A jacket owned by Dylann Roof included the flag of this African polity, which was led by noted racist Ian Smith until 1979, the year before it changed its name to Zimbabwe."
+        ],
+        "answers": [
+          "Dylann Roof",
+          "Confederate (battle) flag [accept equivalents]",
+          "(Southern) Rhodesia"
+        ],
+        "formatted_texts": [
+          "Name this person who murdered nine black churchgoers in Charleston in June of 2015.",
+          "The murders led South Carolina to remove this object from the grounds of the state capitol. Walmart also stopped selling this object, although Chris Borglum still proudly displays it.",
+          "A jacket owned by Dylann Roof included the flag of this African polity, which was led by noted racist Ian Smith until 1979, the year before it changed its name to Zimbabwe."
+        ],
+        "formatted_answers": [
+          "Dylann <u>Roof</u>",
+          "<u>Confederate</u> (battle) <u>flag</u> [accept equivalents]",
+          "(Southern) <u>Rhodesia</u>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26563",
+        "type": "bonus",
+        "tournament": {
+          "id": 287,
+          "year": 2015,
+          "name": "2015 Delta Burke",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:36.444Z",
+          "updated_at": "2017-09-06T05:56:22.402Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/287"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 6605,
+        "number": 20,
+        "round": "CalTech A + Sheffield + Arcadia A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 6619,
+        "tournament_id": 33,
+        "leadin": "The 2014 epidemic of this disease has led to the institution of a cordon sanitaire in August leading to a quarantine of West Point, Monrovia. For 10 points each: ",
+        "created_at": "2017-08-28T03:49:16.398Z",
+        "updated_at": "2017-08-28T03:49:16.398Z",
+        "formatted_leadin": "The 2014 epidemic of this disease has led to the institution of a cordon sanitaire in August leading to a quarantine of West Point, Monrovia. For 10 points each: ",
+        "texts": [
+          "Name this disease, symptoms of which include severe vomiting and diarrhea. The 2014 epidemic of this disease has seen thousands of reported cases and economic damage in Liberia, Sierra Leone, and Guinea. ",
+          "In early August 2014, this United Nations health agency declared the ebola outbreak a Public Health Emergency of International Concern. ",
+          "Two Americans infected with Ebola, Dr. Kent Brantly and Nancy Writebol, were treated with this experimental monoclonal antibody drug, which the World Health Organization later endorsed, despite a lack of data. "
+        ],
+        "answers": [
+          "Ebola virus disease [or Ebola hemorrhagic disease] ",
+          "WHO [or World Health Organization] ",
+          "ZMapp "
+        ],
+        "formatted_texts": [
+          "Name this disease, symptoms of which include severe vomiting and diarrhea. The 2014 epidemic of this disease has seen thousands of reported cases and economic damage in Liberia, Sierra Leone, and Guinea. ",
+          "In early August 2014, this United Nations health agency declared the ebola outbreak a Public Health Emergency of International Concern. ",
+          "Two Americans infected with Ebola, Dr. Kent Brantly and Nancy Writebol, were treated with this experimental monoclonal antibody drug, which the World Health Organization later endorsed, despite a lack of data. "
+        ],
+        "formatted_answers": [
+          "Ebola virus disease [or Ebola hemorrhagic disease] ",
+          "WHO [or World Health Organization] ",
+          "ZMapp "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6605",
+        "type": "bonus",
+        "tournament": {
+          "id": 33,
+          "year": 2014,
+          "name": "2014 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.465Z",
+          "updated_at": "2017-08-27T18:44:17.465Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/33"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 7050,
+        "number": 19,
+        "round": "DCC C + UGA + Brown A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 7064,
+        "tournament_id": 33,
+        "leadin": "This country has faced civic unrest in eastern cities like Donetsk and Luhansk. For 10 points each: ",
+        "created_at": "2017-08-28T03:49:21.349Z",
+        "updated_at": "2017-08-28T03:49:21.349Z",
+        "formatted_leadin": "This country has faced civic unrest in eastern cities like Donetsk and Luhansk. For 10 points each: ",
+        "texts": [
+          "Name this former Soviet Republic. Its Crimean peninsula was annexed by Vladimir Putin in 2014. ",
+          "This owner of the Roshen candy company succeeded Viktor Yanukovych and Oleksandr Turchynov  as President of Ukraine in May 2014. ",
+          "Putin claimed that Russia could overrun Kiev in a fortnight in a leaked conversation with JosÃ© Manuel  Barroso, the president of this executive branch of the European Union."
+        ],
+        "answers": [
+          "Ukraine [or Urkrayina]",
+          "Petro Oleksiyovych Poroshenko ",
+          "European Commission [or EC; don't accept \"European Council\"]"
+        ],
+        "formatted_texts": [
+          "Name this former Soviet Republic. Its Crimean peninsula was annexed by Vladimir Putin in 2014. ",
+          "This owner of the Roshen candy company succeeded Viktor Yanukovych and Oleksandr Turchynov  as President of Ukraine in May 2014. ",
+          "Putin claimed that Russia could overrun Kiev in a fortnight in a leaked conversation with JosÃ© Manuel  Barroso, the president of this executive branch of the European Union."
+        ],
+        "formatted_answers": [
+          "Ukraine [or Urkrayina]",
+          "Petro Oleksiyovych Poroshenko ",
+          "European Commission [or EC; don't accept \"European Council\"]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/7050",
+        "type": "bonus",
+        "tournament": {
+          "id": 33,
+          "year": 2014,
+          "name": "2014 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.465Z",
+          "updated_at": "2017-08-27T18:44:17.465Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/33"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 15752,
+        "number": 8,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 15766,
+        "tournament_id": 52,
+        "leadin": "The Secretary of Homeland Security is currently the last person on this list. ",
+        "created_at": "2017-08-28T03:50:40.866Z",
+        "updated_at": "2017-08-28T03:50:40.866Z",
+        "formatted_leadin": "The Secretary of Homeland Security is currently the last person on this list. ",
+        "texts": [
+          "Name this list, the current order of which was established by law in 1947, of individuals who are eligible to hold a particular political office under certain circumstances.",
+          "Until 1971, the holder of this office was in the line of succession. This person oversees the largest civilian vehicle fleet in the world, many of which have a right-hand driver's seat.",
+          "This former REI executive and banker is ineligible to succeed to the presidency despite serving as the country's Secretary of the Interior, as she was born in the United Kingdom."
+        ],
+        "answers": [
+          "United States presidential line of succession [accept any equivalents that indicate the order in which persons may succeed to the U.S. presidency]",
+          "United States Postmaster General",
+          "Sally Roffey Jewell"
+        ],
+        "formatted_texts": [
+          "Name this list, the current order of which was established by law in 1947, of individuals who are eligible to hold a particular political office under certain circumstances.",
+          "Until 1971, the holder of this office was in the line of succession. This person oversees the largest civilian vehicle fleet in the world, many of which have a right-hand driver's seat.",
+          "This former REI executive and banker is ineligible to succeed to the presidency despite serving as the country's Secretary of the Interior, as she was born in the United Kingdom."
+        ],
+        "formatted_answers": [
+          "United States presidential line of succession [accept any equivalents that indicate the order in which persons may succeed to the U.S. presidency]",
+          "United States Postmaster General",
+          "Sally Roffey Jewell"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/15752",
+        "type": "bonus",
+        "tournament": {
+          "id": 52,
+          "year": 2014,
+          "name": "2014 ICCS",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:21.953Z",
+          "updated_at": "2017-09-06T05:55:04.136Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/52"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 9069,
+        "number": 6,
+        "round": "2",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 9083,
+        "tournament_id": 52,
+        "leadin": "In December 2013, this country's Supreme Court overturned a lower court ruling that had decriminalized homosexuality. ",
+        "created_at": "2017-08-28T03:49:41.126Z",
+        "updated_at": "2017-08-28T03:49:41.126Z",
+        "formatted_leadin": "In December 2013, this country's Supreme Court overturned a lower court ruling that had decriminalized homosexuality. ",
+        "texts": [
+          "Name this country with capital New Delhi; it is the second largest in the world by population.",
+          "The 2014 Indian elections led to the election of this man as Prime Minister. This Hindu nationalist was the Chief Minister of Gujarat from 2001-2014.",
+          "Modi is a member of this right-wing party, which previously led the country from 1998-2004 as part of the National Democratic Alliance."
+        ],
+        "answers": [
+          "Republic of India [or Bharat]",
+          "Narendra Modi",
+          "Bharatiya Janata Party"
+        ],
+        "formatted_texts": [
+          "Name this country with capital New Delhi; it is the second largest in the world by population.",
+          "The 2014 Indian elections led to the election of this man as Prime Minister. This Hindu nationalist was the Chief Minister of Gujarat from 2001-2014.",
+          "Modi is a member of this right-wing party, which previously led the country from 1998-2004 as part of the National Democratic Alliance."
+        ],
+        "formatted_answers": [
+          "Republic of India [or Bharat]",
+          "Narendra Modi",
+          "Bharatiya Janata Party"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/9069",
+        "type": "bonus",
+        "tournament": {
+          "id": 52,
+          "year": 2014,
+          "name": "2014 ICCS",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:21.953Z",
+          "updated_at": "2017-09-06T05:55:04.136Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/52"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 9132,
+        "number": 21,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 9146,
+        "tournament_id": 52,
+        "leadin": "This state is the largest to have only one seat in the House of Representatives; that position is currently held by Republican Steve Daines. ",
+        "created_at": "2017-08-28T03:49:41.622Z",
+        "updated_at": "2017-08-28T03:49:41.622Z",
+        "formatted_leadin": "This state is the largest to have only one seat in the House of Representatives; that position is currently held by Republican Steve Daines. ",
+        "texts": [
+          "Name this western state that usually votes Republican in Presidential elections, but is currently led by Democratic Governor Steve Bullock from Helena.",
+          "Bullock appointed this former lieutenant governor to fill Max Baucus's Senate seat in 2014. He recently dropped a re-election bid when he was found to have plagiarized his master's thesis.",
+          "Bullock's predecessor as Governor was this Democrat, who may be considering a run for President in 2016."
+        ],
+        "answers": [
+          "Montana",
+          "John Walsh",
+          "Brian Schweitzer"
+        ],
+        "formatted_texts": [
+          "Name this western state that usually votes Republican in Presidential elections, but is currently led by Democratic Governor Steve Bullock from Helena.",
+          "Bullock appointed this former lieutenant governor to fill Max Baucus's Senate seat in 2014. He recently dropped a re-election bid when he was found to have plagiarized his master's thesis.",
+          "Bullock's predecessor as Governor was this Democrat, who may be considering a run for President in 2016."
+        ],
+        "formatted_answers": [
+          "Montana",
+          "John Walsh",
+          "Brian Schweitzer"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/9132",
+        "type": "bonus",
+        "tournament": {
+          "id": 52,
+          "year": 2014,
+          "name": "2014 ICCS",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:21.953Z",
+          "updated_at": "2017-09-06T05:55:04.136Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/52"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 15325,
+        "number": 5,
+        "round": "6",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 15339,
+        "tournament_id": 52,
+        "leadin": "Romario described this event as \"the biggest theft in history.\" ",
+        "created_at": "2017-08-28T03:50:36.964Z",
+        "updated_at": "2017-08-28T03:50:36.964Z",
+        "formatted_leadin": "Romario described this event as \"the biggest theft in history.\" ",
+        "texts": [
+          "Name this large soccer tournament held in Brazil in 2014, which was marked by protests throughout the country.",
+          "Brazil's current President is this woman, a member of the Workers' Party.",
+          "This other Workers' Party politician preceded Rousseff as President of Brazil."
+        ],
+        "answers": [
+          "2014 FIFA World Cup",
+          "Dilma Rousseff",
+          "Luiz Inacio Lula de la Silva"
+        ],
+        "formatted_texts": [
+          "Name this large soccer tournament held in Brazil in 2014, which was marked by protests throughout the country.",
+          "Brazil's current President is this woman, a member of the Workers' Party.",
+          "This other Workers' Party politician preceded Rousseff as President of Brazil."
+        ],
+        "formatted_answers": [
+          "2014 FIFA World Cup",
+          "Dilma Rousseff",
+          "Luiz Inacio Lula de la Silva"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/15325",
+        "type": "bonus",
+        "tournament": {
+          "id": 52,
+          "year": 2014,
+          "name": "2014 ICCS",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:21.953Z",
+          "updated_at": "2017-09-06T05:55:04.136Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/52"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 15748,
+        "number": 4,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 15762,
+        "tournament_id": 52,
+        "leadin": "This \"closely held\" corporation is owned and operated by David Green and his family. ",
+        "created_at": "2017-08-28T03:50:40.834Z",
+        "updated_at": "2017-08-28T03:50:40.834Z",
+        "formatted_leadin": "This \"closely held\" corporation is owned and operated by David Green and his family. ",
+        "texts": [
+          "Name this craft store chain that won a 2014 Supreme Court case against the federal government over their opposition to birth control requirements in the Affordable Care Act.",
+          "Hobby Lobby and several organizations affiliated with the Catholic Church argued that requiring them to purchase health insurance covering birth control violated this type of freedom.",
+          "The Hobby Lobby case led many LGBT rights activists to call for religious freedom clauses to be omitted from this bill that would make it illegal to fire people for their sexual orientation."
+        ],
+        "answers": [
+          "Hobby Lobby",
+          "religious freedom",
+          "Employment Non-Discrimination Act"
+        ],
+        "formatted_texts": [
+          "Name this craft store chain that won a 2014 Supreme Court case against the federal government over their opposition to birth control requirements in the Affordable Care Act.",
+          "Hobby Lobby and several organizations affiliated with the Catholic Church argued that requiring them to purchase health insurance covering birth control violated this type of freedom.",
+          "The Hobby Lobby case led many LGBT rights activists to call for religious freedom clauses to be omitted from this bill that would make it illegal to fire people for their sexual orientation."
+        ],
+        "formatted_answers": [
+          "Hobby Lobby",
+          "religious freedom",
+          "Employment Non-Discrimination Act"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/15748",
+        "type": "bonus",
+        "tournament": {
+          "id": 52,
+          "year": 2014,
+          "name": "2014 ICCS",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:21.953Z",
+          "updated_at": "2017-09-06T05:55:04.136Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/52"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 15803,
+        "number": 11,
+        "round": "10",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 15817,
+        "tournament_id": 52,
+        "leadin": "Prime Minister Manuel Valls recently had to replace his entire cabinet in this country. ",
+        "created_at": "2017-08-28T03:50:41.264Z",
+        "updated_at": "2017-08-28T03:50:41.264Z",
+        "formatted_leadin": "Prime Minister Manuel Valls recently had to replace his entire cabinet in this country. ",
+        "texts": [
+          "Name this European country whose former presidents include ValÃ©ry Giscard d'Estaing and Nicolas Sarkozy.",
+          "Name this Socialist politician who defeated Sarkozy in 2012 and is currently the president of France.",
+          "Hollande and Sarkozy were the top two vote getters in the 2012 Presidential election, but nearly eighteen percent of the vote in the first round went to this leader of the far-right National Front party."
+        ],
+        "answers": [
+          "France [or French Republic; or RÃ©publique FranÃ§aise]",
+          "Francois Hollande",
+          "Marine Le Pen"
+        ],
+        "formatted_texts": [
+          "Name this European country whose former presidents include ValÃ©ry Giscard d'Estaing and Nicolas Sarkozy.",
+          "Name this Socialist politician who defeated Sarkozy in 2012 and is currently the president of France.",
+          "Hollande and Sarkozy were the top two vote getters in the 2012 Presidential election, but nearly eighteen percent of the vote in the first round went to this leader of the far-right National Front party."
+        ],
+        "formatted_answers": [
+          "France [or French Republic; or RÃ©publique FranÃ§aise]",
+          "Francois Hollande",
+          "Marine Le Pen"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/15803",
+        "type": "bonus",
+        "tournament": {
+          "id": 52,
+          "year": 2014,
+          "name": "2014 ICCS",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:44:21.953Z",
+          "updated_at": "2017-09-06T05:55:04.136Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/52"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 2490,
+        "number": 21,
+        "round": "Michigan A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2504,
+        "tournament_id": 2,
+        "leadin": "Ahead of rivals like Wells Fargo and Bank of America, this bank is the largest in the world by assets. For 10 points each:",
+        "created_at": "2017-08-28T03:48:31.590Z",
+        "updated_at": "2017-08-28T03:48:31.590Z",
+        "formatted_leadin": "Ahead of rivals like Wells Fargo and Bank of America, this bank is the largest in the world by assets. For 10 points each:",
+        "texts": [
+          "Name this retail bank, created in a merger in 2000, which acquired Bank One in 2004. During the 2008 crash, it acquired Bear Stearns Washington Mutual under pressure from the Fed.",
+          "This Federal Reserve chairman teamed up with Secretary of Treasury Hank Paulsen to convince Chase to make the acquisition. He was nominated for a second term in 2010.",
+          "Fed scrutiny of JP Morgan Chase amped up in 2012, when it was discovered that trading done by Bruno Iksil cost the bank 2 billion dollars. The press gave the incident this two-word derisive nickname. "
+        ],
+        "answers": [
+          "JP Morgan Chase &amp; Co. [prompt on partial answers]",
+          "Ben Shalom Bernanke",
+          "London Whale Incident"
+        ],
+        "formatted_texts": [
+          "Name this retail bank, created in a merger in 2000, which acquired Bank One in 2004. During the 2008 crash, it acquired Bear Stearns Washington Mutual under pressure from the Fed.",
+          "This Federal Reserve chairman teamed up with Secretary of Treasury Hank Paulsen to convince Chase to make the acquisition. He was nominated for a second term in 2010.",
+          "Fed scrutiny of JP Morgan Chase amped up in 2012, when it was discovered that trading done by Bruno Iksil cost the bank 2 billion dollars. The press gave the incident this two-word derisive nickname. "
+        ],
+        "formatted_answers": [
+          "JP Morgan Chase & Co. [prompt on partial answers]",
+          "Ben Shalom Bernanke",
+          "London Whale Incident"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/2490",
+        "type": "bonus",
+        "tournament": {
+          "id": 2,
+          "year": 2013,
+          "name": "2013 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.214Z",
+          "updated_at": "2017-08-27T18:44:13.214Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/2"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 2600,
+        "number": 16,
+        "round": "Ottawa A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2614,
+        "tournament_id": 2,
+        "leadin": "Sixty female prisoners in this country were freed in October 2013. For 10 points each:",
+        "created_at": "2017-08-28T03:48:32.637Z",
+        "updated_at": "2017-08-28T03:48:32.637Z",
+        "formatted_leadin": "Sixty female prisoners in this country were freed in October 2013. For 10 points each:",
+        "texts": [
+          "Name this civil war-wrought country led by Bashar al-Assad.",
+          "In February 2012, this diplomat was appointed at the head of the UN-Arab League envoy to Syria and created a  ceasefire beginning that April. Ban Ki-Moon succeeded this man as Secretary-General of the UN.",
+          "The UN has also announced that it will use drones to monitor the border of this other war-torn country. The rebel group M23 mainly operates in the North Kivu province of this nation."
+        ],
+        "answers": [
+          "Syrian Arab Republic",
+          "Kofi Annan",
+          "Democratic Republic of the Congo [or DRC; or Republique democratique du Congo; prompt on \"Congo\"]"
+        ],
+        "formatted_texts": [
+          "Name this civil war-wrought country led by Bashar al-Assad.",
+          "In February 2012, this diplomat was appointed at the head of the UN-Arab League envoy to Syria and created a  ceasefire beginning that April. Ban Ki-Moon succeeded this man as Secretary-General of the UN.",
+          "The UN has also announced that it will use drones to monitor the border of this other war-torn country. The rebel group M23 mainly operates in the North Kivu province of this nation."
+        ],
+        "formatted_answers": [
+          "Syrian Arab Republic",
+          "Kofi Annan",
+          "Democratic Republic of the Congo [or DRC; or Republique democratique du Congo; prompt on \"Congo\"]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/2600",
+        "type": "bonus",
+        "tournament": {
+          "id": 2,
+          "year": 2013,
+          "name": "2013 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.214Z",
+          "updated_at": "2017-08-27T18:44:13.214Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/2"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 2638,
+        "number": 6,
+        "round": "St. John's ",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2652,
+        "tournament_id": 2,
+        "leadin": "Some Texan politicians have made the news for speaking out in length to oppose certain bills. For 10 points each:",
+        "created_at": "2017-08-28T03:48:33.000Z",
+        "updated_at": "2017-08-28T03:48:33.000Z",
+        "formatted_leadin": "Some Texan politicians have made the news for speaking out in length to oppose certain bills. For 10 points each:",
+        "texts": [
+          "This Democratic state senator staged an eleven hour filibuster to block the passage of Senate Bill 5, which placed restrictions on abortions. However, Rick Perry simply reconvened the Senate and passed the bill anyway.",
+          "This formerly Canadian junior senator spoke for over twenty one hours to the Senate about Obamacare, and he was perhaps the greatest force behind the Republican shutdown of the government in 2013.",
+          "Rand Paul, who grew up in Texas, filibustered for thirteen hours about the Obama administration's use of drones to prevent the nomination of this man, the current director of the CIA. That filibuster didn't work either."
+        ],
+        "answers": [
+          "Wendy Davis",
+          "Ted Cruz",
+          "John Owen Brennan"
+        ],
+        "formatted_texts": [
+          "This Democratic state senator staged an eleven hour filibuster to block the passage of Senate Bill 5, which placed restrictions on abortions. However, Rick Perry simply reconvened the Senate and passed the bill anyway.",
+          "This formerly Canadian junior senator spoke for over twenty one hours to the Senate about Obamacare, and he was perhaps the greatest force behind the Republican shutdown of the government in 2013.",
+          "Rand Paul, who grew up in Texas, filibustered for thirteen hours about the Obama administration's use of drones to prevent the nomination of this man, the current director of the CIA. That filibuster didn't work either."
+        ],
+        "formatted_answers": [
+          "Wendy Davis",
+          "Ted Cruz",
+          "John Owen Brennan"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/2638",
+        "type": "bonus",
+        "tournament": {
+          "id": 2,
+          "year": 2013,
+          "name": "2013 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.214Z",
+          "updated_at": "2017-08-27T18:44:13.214Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/2"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 2746,
+        "number": 5,
+        "round": "Stanford A + Maryland A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2760,
+        "tournament_id": 2,
+        "leadin": "Beginning on October 1, 2013, thousands of people experienced frozen screens and unexpected logouts when attempting to access a website. For 10 points each:",
+        "created_at": "2017-08-28T03:48:34.164Z",
+        "updated_at": "2017-08-28T03:48:34.164Z",
+        "formatted_leadin": "Beginning on October 1, 2013, thousands of people experienced frozen screens and unexpected logouts when attempting to access a website. For 10 points each:",
+        "texts": [
+          "The website allowed consumers to purchase this commodity, the subject of a law abbreviated ACA signed by President Obama in 2010 which instituted an \"individual mandate\" for purchasing this good.",
+          "Consumers were supposed to be able to purchase plans from these common markets. States can opt to create one of these marketplaces for themselves, or default to the federal one.",
+          "One of the few remaining popular aspects of Obamacare is that it allows individuals to remain on their parents' health care plans until they turn this age. "
+        ],
+        "answers": [
+          "health insurance [or health insurance plans; or Obamacare; or same-knowledge equivalents]",
+          "exchanges",
+          "26 years old"
+        ],
+        "formatted_texts": [
+          "The website allowed consumers to purchase this commodity, the subject of a law abbreviated ACA signed by President Obama in 2010 which instituted an \"individual mandate\" for purchasing this good.",
+          "Consumers were supposed to be able to purchase plans from these common markets. States can opt to create one of these marketplaces for themselves, or default to the federal one.",
+          "One of the few remaining popular aspects of Obamacare is that it allows individuals to remain on their parents' health care plans until they turn this age. "
+        ],
+        "formatted_answers": [
+          "health insurance [or health insurance plans; or Obamacare; or same-knowledge equivalents]",
+          "exchanges",
+          "26 years old"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/2746",
+        "type": "bonus",
+        "tournament": {
+          "id": 2,
+          "year": 2013,
+          "name": "2013 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.214Z",
+          "updated_at": "2017-08-27T18:44:13.214Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/2"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 846,
+        "number": 13,
+        "round": "Caltech A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2350,
+        "tournament_id": 2,
+        "leadin": "This man's CCA party triumphed in the June 2013 elections over Mohammed Bagher Ghalibaf's Islamic Society of Engineers. For 10 points each:",
+        "created_at": "2017-08-28T03:48:16.682Z",
+        "updated_at": "2017-08-28T03:48:16.682Z",
+        "formatted_leadin": "This man's CCA party triumphed in the June 2013 elections over Mohammed Bagher Ghalibaf's Islamic Society of Engineers. For 10 points each:",
+        "texts": [
+          "Name this current president of Iran who was once nicknamed the \"Diplomat Sheikh.\"",
+          "Rohani succeeded this Holocaust-denying, 9/11-crackpot-spouting president of Iran who constantly conflicted with Supreme Leader Khameini.",
+          "Rohani waltzed into the job, after this government body permitted just eight to run of the 680 who applied. This twelve-member body consists of jurists, picked half by the Supreme Leader and half by the legislature."
+        ],
+        "answers": [
+          "Hassan Rouhani [or Hassan Rohani]",
+          "Mahmoud Ahmadinejad",
+          "Guardian Council of the Constitution [or Shora-ye Negahban or close phonetic equivalents]"
+        ],
+        "formatted_texts": [
+          "Name this current president of Iran who was once nicknamed the \"Diplomat Sheikh.\"",
+          "Rohani succeeded this Holocaust-denying, 9/11-crackpot-spouting president of Iran who constantly conflicted with Supreme Leader Khameini.",
+          "Rohani waltzed into the job, after this government body permitted just eight to run of the 680 who applied. This twelve-member body consists of jurists, picked half by the Supreme Leader and half by the legislature."
+        ],
+        "formatted_answers": [
+          "Hassan Rouhani [or Hassan Rohani]",
+          "Mahmoud Ahmadinejad",
+          "Guardian Council of the Constitution [or Shora-ye Negahban or close phonetic equivalents]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/846",
+        "type": "bonus",
+        "tournament": {
+          "id": 2,
+          "year": 2013,
+          "name": "2013 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.214Z",
+          "updated_at": "2017-08-27T18:44:13.214Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/2"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 482,
+        "number": 19,
+        "round": "Chattahoochee",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2381,
+        "tournament_id": 2,
+        "leadin": "Answer the following about terriers, for 10 points each:",
+        "created_at": "2017-08-28T03:48:13.867Z",
+        "updated_at": "2017-08-28T03:48:13.867Z",
+        "formatted_leadin": "Answer the following about terriers, for 10 points each:",
+        "texts": [
+          "An Affenpinscher terrier named Banana Joe won the 2013 incarnation of this dog show held every February by a certain Kennel Club in Madison Square Garden.",
+          "Many terriers, including the Affenpinscher and Yorkshire terrier, are classified in this group of the smallest dogs, named for the fact that they don't actually have a purpose, most obviously exemplified by chihuahuas.",
+          "This white and brown-spotted breed was first bred for fox hunting, by their namesake 19th century English parson. Ron Weasley's patronus is this kind of terrier."
+        ],
+        "answers": [
+          "Westminster Kennel Club Dog Show",
+          "Toy Group",
+          "Jack Russell terrier"
+        ],
+        "formatted_texts": [
+          "An Affenpinscher terrier named Banana Joe won the 2013 incarnation of this dog show held every February by a certain Kennel Club in Madison Square Garden.",
+          "Many terriers, including the Affenpinscher and Yorkshire terrier, are classified in this group of the smallest dogs, named for the fact that they don't actually have a purpose, most obviously exemplified by chihuahuas.",
+          "This white and brown-spotted breed was first bred for fox hunting, by their namesake 19th century English parson. Ron Weasley's patronus is this kind of terrier."
+        ],
+        "formatted_answers": [
+          "Westminster Kennel Club Dog Show",
+          "Toy Group",
+          "Jack Russell terrier"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/482",
+        "type": "bonus",
+        "tournament": {
+          "id": 2,
+          "year": 2013,
+          "name": "2013 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.214Z",
+          "updated_at": "2017-08-27T18:44:13.214Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/2"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 3995,
+        "number": 11,
+        "round": "Yale A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4009,
+        "tournament_id": 2,
+        "leadin": "As an OB-GYN in Texas, this man refused to charge or accept federal funds. For 10 points each:",
+        "created_at": "2017-08-28T03:48:47.889Z",
+        "updated_at": "2017-08-28T03:48:47.889Z",
+        "formatted_leadin": "As an OB-GYN in Texas, this man refused to charge or accept federal funds. For 10 points each:",
+        "texts": [
+          "Name this former representative who ran for the Republican Presidential nomination in 2008 and 2012 and advocates eliminating most federal agencies. His son became a senator from Kentucky in 2010.",
+          "This New Mexico politician also ran for president in 2012, as the Libertarian candidate.",
+          "More recently, Libertarian candidate Robert Sarvis was banned from participating in an important debate for this state's 2013 gubernatorial race, which will be contested between Terry McAuliffe and Ken Cuccinelli II."
+        ],
+        "answers": [
+          "Ron Paul [prompt on \"Paul\" or \"R. Paul\"; do not accept \"Rand Paul\"]",
+          "Gary Johnson",
+          "Virginia"
+        ],
+        "formatted_texts": [
+          "Name this former representative who ran for the Republican Presidential nomination in 2008 and 2012 and advocates eliminating most federal agencies. His son became a senator from Kentucky in 2010.",
+          "This New Mexico politician also ran for president in 2012, as the Libertarian candidate.",
+          "More recently, Libertarian candidate Robert Sarvis was banned from participating in an important debate for this state's 2013 gubernatorial race, which will be contested between Terry McAuliffe and Ken Cuccinelli II."
+        ],
+        "formatted_answers": [
+          "Ron Paul [prompt on \"Paul\" or \"R. Paul\"; do not accept \"Rand Paul\"]",
+          "Gary Johnson",
+          "Virginia"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/3995",
+        "type": "bonus",
+        "tournament": {
+          "id": 2,
+          "year": 2013,
+          "name": "2013 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.214Z",
+          "updated_at": "2017-08-27T18:44:13.214Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/2"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 3324,
+        "number": 5,
+        "round": "Stanford B + Chicago A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 3338,
+        "tournament_id": 2,
+        "leadin": "The CDC reported 1,925 cases of this disease were diagnosed in 2011 in the US, the highest total since 1971. For 10 points each:",
+        "created_at": "2017-08-28T03:48:40.230Z",
+        "updated_at": "2017-08-28T03:48:40.230Z",
+        "formatted_leadin": "The CDC reported 1,925 cases of this disease were diagnosed in 2011 in the US, the highest total since 1971. For 10 points each:",
+        "texts": [
+          "Name this disease spread by the Anopheles mosquito.",
+          "Perhaps more worrying is the cholera epidemic continuing to rage this Caribbean nation, the worst such epidemic in modern history. It has killed more than 8000 people and infected more than 5% of the population.",
+          "This coronavirus of the SARS superfamily has caused 150 deaths, mostly around the Arabian peninsula, since it was first reported in August 2012, but its roughly 50% mortality rate has the WHO fearful of a further epidemic."
+        ],
+        "answers": [
+          "malaria",
+          "Republic of Haiti",
+          "Middle East respiratory syndrome coronavirus [or MERS CoV]"
+        ],
+        "formatted_texts": [
+          "Name this disease spread by the Anopheles mosquito.",
+          "Perhaps more worrying is the cholera epidemic continuing to rage this Caribbean nation, the worst such epidemic in modern history. It has killed more than 8000 people and infected more than 5% of the population.",
+          "This coronavirus of the SARS superfamily has caused 150 deaths, mostly around the Arabian peninsula, since it was first reported in August 2012, but its roughly 50% mortality rate has the WHO fearful of a further epidemic."
+        ],
+        "formatted_answers": [
+          "malaria",
+          "Republic of Haiti",
+          "Middle East respiratory syndrome coronavirus [or MERS CoV]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/3324",
+        "type": "bonus",
+        "tournament": {
+          "id": 2,
+          "year": 2013,
+          "name": "2013 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.214Z",
+          "updated_at": "2017-08-27T18:44:13.214Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/2"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 8625,
+        "number": 9,
+        "round": "9",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 8639,
+        "tournament_id": 37,
+        "leadin": "This city was hit by an F5 tornado in May 1999.",
+        "created_at": "2017-08-28T03:49:37.460Z",
+        "updated_at": "2017-08-28T03:49:37.460Z",
+        "formatted_leadin": "This city was hit by an F5 tornado in May 1999.",
+        "texts": [
+          "Name this suburb of Oklahoma City that was devastated by an EF5 tornado on May 20, 2013.",
+          "This scale, which ranges from F0 to F5 and is now used in its \"enhanced\" form, was introduced in the early 1970s to classify the intensity of tornadoes.",
+          "The National Weather Service is an agency within this cabinet-level department that promotes economic growth and conducts the census every ten years."
+        ],
+        "answers": [
+          "Moore",
+          "[enhanced] Fujita scale",
+          "Department of Commerce"
+        ],
+        "formatted_texts": [
+          "Name this suburb of Oklahoma City that was devastated by an EF5 tornado on May 20, 2013.",
+          "This scale, which ranges from F0 to F5 and is now used in its \"enhanced\" form, was introduced in the early 1970s to classify the intensity of tornadoes.",
+          "The National Weather Service is an agency within this cabinet-level department that promotes economic growth and conducts the census every ten years."
+        ],
+        "formatted_answers": [
+          "Moore",
+          "[enhanced] Fujita scale",
+          "Department of Commerce"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/8625",
+        "type": "bonus",
+        "tournament": {
+          "id": 37,
+          "year": 2013,
+          "name": "2013 Collegiate Novice",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:19.070Z",
+          "updated_at": "2017-08-27T18:44:19.070Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/37"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 8306,
+        "number": 17,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 8320,
+        "tournament_id": 37,
+        "leadin": "At a Grey Cup event, this politician face-planted while trying to take a snap.",
+        "created_at": "2017-08-28T03:49:34.836Z",
+        "updated_at": "2017-08-28T03:49:34.836Z",
+        "formatted_leadin": "At a Grey Cup event, this politician face-planted while trying to take a snap.",
+        "texts": [
+          "Name this obese man, the current mayor of Toronto.",
+          "In 2013, Ford was accused of smoking the \"crack\" variety of this drug.",
+          "This gossip news site, which also controls Deadspin and Gizmodo, originally broke the story that they'd been offered a video of Ford using a glass crack pipe."
+        ],
+        "answers": [
+          "[Robet Bruce] Rob Ford",
+          "cocaine",
+          "Gawker Media"
+        ],
+        "formatted_texts": [
+          "Name this obese man, the current mayor of Toronto.",
+          "In 2013, Ford was accused of smoking the \"crack\" variety of this drug.",
+          "This gossip news site, which also controls Deadspin and Gizmodo, originally broke the story that they'd been offered a video of Ford using a glass crack pipe."
+        ],
+        "formatted_answers": [
+          "[Robet Bruce] Rob Ford",
+          "cocaine",
+          "Gawker Media"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/8306",
+        "type": "bonus",
+        "tournament": {
+          "id": 37,
+          "year": 2013,
+          "name": "2013 Collegiate Novice",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:19.070Z",
+          "updated_at": "2017-08-27T18:44:19.070Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/37"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 8088,
+        "number": 8,
+        "round": "3",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 8102,
+        "tournament_id": 37,
+        "leadin": "This man's rise to power began when his brother face-planted while missing a small stair after a 2008 speech.",
+        "created_at": "2017-08-28T03:49:32.744Z",
+        "updated_at": "2017-08-28T03:49:32.744Z",
+        "formatted_leadin": "This man's rise to power began when his brother face-planted while missing a small stair after a 2008 speech.",
+        "texts": [
+          "Name this man who currently serves as the leader of an embargoed Caribbean country.",
+          "RaÃºl Castro and his brother Fidel served as president of this country with its capital at Havana.",
+          "This Cuban-American, a U.S. Senator from Florida, gave the Republican response to Barack Obama's 2013 State of the Union Address."
+        ],
+        "answers": [
+          "RaÃºl [Modesto] Castro [Ruz]",
+          "[Republic of/Republica de] Cuba",
+          "Marco [Antonio] Rubio"
+        ],
+        "formatted_texts": [
+          "Name this man who currently serves as the leader of an embargoed Caribbean country.",
+          "RaÃºl Castro and his brother Fidel served as president of this country with its capital at Havana.",
+          "This Cuban-American, a U.S. Senator from Florida, gave the Republican response to Barack Obama's 2013 State of the Union Address."
+        ],
+        "formatted_answers": [
+          "RaÃºl [Modesto] Castro [Ruz]",
+          "[Republic of/Republica de] Cuba",
+          "Marco [Antonio] Rubio"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/8088",
+        "type": "bonus",
+        "tournament": {
+          "id": 37,
+          "year": 2013,
+          "name": "2013 Collegiate Novice",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:19.070Z",
+          "updated_at": "2017-08-27T18:44:19.070Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/37"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 7375,
+        "number": 21,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 7389,
+        "tournament_id": 18,
+        "leadin": "This was the way in which Anwar al-Awlaki, a U.S. citizen living in Yemen, was killed. For 10 points each:",
+        "created_at": "2017-08-28T03:49:24.982Z",
+        "updated_at": "2017-08-28T03:49:24.982Z",
+        "formatted_leadin": "This was the way in which Anwar al-Awlaki, a U.S. citizen living in Yemen, was killed. For 10 points each:",
+        "texts": [
+          "Name these controversial missile attacks, which have increased sharply under President Obama, in which targets are attacked using unmanned airplanes.",
+          "Drone strikes are a controversial tactic employed against this terrorist organization, whose former leader Osama bin Laden was killed in May 2011.",
+          "This man, the current leader of al-Qaeda, once led the Egyptian Islamic Jihad. In June, the military called him the only significant al-Qaeda leader left."
+        ],
+        "answers": [
+          "drone strikes [accept equivalents including the word drone; prompt on targeted killing]",
+          "al-Qaeda [or The Base]",
+          "Ayman al-Zawahiri"
+        ],
+        "formatted_texts": [
+          "Name these controversial missile attacks, which have increased sharply under President Obama, in which targets are attacked using unmanned airplanes.",
+          "Drone strikes are a controversial tactic employed against this terrorist organization, whose former leader Osama bin Laden was killed in May 2011.",
+          "This man, the current leader of al-Qaeda, once led the Egyptian Islamic Jihad. In June, the military called him the only significant al-Qaeda leader left."
+        ],
+        "formatted_answers": [
+          "drone strikes [accept equivalents including the word drone; prompt on targeted killing]",
+          "al-Qaeda [or The Base]",
+          "Ayman al-Zawahiri"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/7375",
+        "type": "bonus",
+        "tournament": {
+          "id": 18,
+          "year": 2012,
+          "name": "2012 Collegiate Novice",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:15.013Z",
+          "updated_at": "2017-08-27T18:44:15.013Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/18"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 15996,
+        "number": 18,
+        "round": "9",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 16010,
+        "tournament_id": 18,
+        "leadin": "In this man's confirmation hearings, he said that a judge's role is to \"call balls and strikes.\" ",
+        "created_at": "2017-08-28T03:50:42.866Z",
+        "updated_at": "2017-08-28T03:50:42.866Z",
+        "formatted_leadin": "In this man's confirmation hearings, he said that a judge's role is to \"call balls and strikes.\" ",
+        "texts": [
+          "Name this current Chief Justice of the Supreme Court of the United States. ",
+          "Roberts cited this power of Congress in his majority opinion in NFIB v. Sebelius, ruling that the Affordable Care Act is constitutional under this power of Congress rather than the Commerce Clause. ",
+          " Roberts's opinion in NFIB v. Sebelius struck down a provision of the ACA that would have punished noncomplying states by withholding funds from this medical insurance program for the poor. "
+        ],
+        "answers": [
+          "John [Glover] Roberts Jr. ",
+          "taxing power [or Taxing and Spending Clause; prompt on Article 1, Section 8 of the Constitution] ",
+          "Medicaid"
+        ],
+        "formatted_texts": [
+          "Name this current Chief Justice of the Supreme Court of the United States. ",
+          "Roberts cited this power of Congress in his majority opinion in NFIB v. Sebelius, ruling that the Affordable Care Act is constitutional under this power of Congress rather than the Commerce Clause. ",
+          " Roberts's opinion in NFIB v. Sebelius struck down a provision of the ACA that would have punished noncomplying states by withholding funds from this medical insurance program for the poor. "
+        ],
+        "formatted_answers": [
+          "John [Glover] Roberts Jr. ",
+          "taxing power [or Taxing and Spending Clause; prompt on Article 1, Section 8 of the Constitution] ",
+          "Medicaid"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/15996",
+        "type": "bonus",
+        "tournament": {
+          "id": 18,
+          "year": 2012,
+          "name": "2012 Collegiate Novice",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:15.013Z",
+          "updated_at": "2017-08-27T18:44:15.013Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/18"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 15897,
+        "number": 2,
+        "round": "6",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 15911,
+        "tournament_id": 18,
+        "leadin": "Name these Latin American leaders, ",
+        "created_at": "2017-08-28T03:50:42.068Z",
+        "updated_at": "2017-08-28T03:50:42.068Z",
+        "formatted_leadin": "Name these Latin American leaders, ",
+        "texts": [
+          "This current President of Venezuela referred to George W. Bush as \"the devil\" in a 2006 speech. ",
+          "This former President of Chile was deposed in 1973 by a coup led by Augusto Pinochet. ",
+          "This current president of Bolivia has been criticized for massive human rights violations, including an August 2011 police attack on protesting citizens. "
+        ],
+        "answers": [
+          " Hugo Chavez [or Hugo Rafael Chavez Frias] ",
+          "Salvador Allende [Gossens] ",
+          "Evo Morales [or Juan Evo Morales Ayma] "
+        ],
+        "formatted_texts": [
+          "This current President of Venezuela referred to George W. Bush as \"the devil\" in a 2006 speech. ",
+          "This former President of Chile was deposed in 1973 by a coup led by Augusto Pinochet. ",
+          "This current president of Bolivia has been criticized for massive human rights violations, including an August 2011 police attack on protesting citizens. "
+        ],
+        "formatted_answers": [
+          " Hugo Chavez [or Hugo Rafael Chavez Frias] ",
+          "Salvador Allende [Gossens] ",
+          "Evo Morales [or Juan Evo Morales Ayma] "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/15897",
+        "type": "bonus",
+        "tournament": {
+          "id": 18,
+          "year": 2012,
+          "name": "2012 Collegiate Novice",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:15.013Z",
+          "updated_at": "2017-08-27T18:44:15.013Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/18"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 15856,
+        "number": 20,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 15870,
+        "tournament_id": 18,
+        "leadin": " This man lost to Ted Kennedy in the 1994 U.S. Senate election in Massachusetts. ",
+        "created_at": "2017-08-28T03:50:41.755Z",
+        "updated_at": "2017-08-28T03:50:41.755Z",
+        "formatted_leadin": " This man lost to Ted Kennedy in the 1994 U.S. Senate election in Massachusetts. ",
+        "texts": [
+          "Name this man who served as Governor of Massachusetts from 2003 to 2007, and is the current Republican nominee for this year's Presidential election. ",
+          "Mitt Romney's business tactics at this private equity firm have come under fire. An insane theory holds that the villain in the recent Dark Knight Rises film was chosen to draw attention to this company.",
+          "Mitt Romney grew up in this state in which his father George served as President of American Motors Company and was Governor of from 1963 to 1969. "
+        ],
+        "answers": [
+          "[Willard] Mitt Romney",
+          "Bain Capital ",
+          "Michigan"
+        ],
+        "formatted_texts": [
+          "Name this man who served as Governor of Massachusetts from 2003 to 2007, and is the current Republican nominee for this year's Presidential election. ",
+          "Mitt Romney's business tactics at this private equity firm have come under fire. An insane theory holds that the villain in the recent Dark Knight Rises film was chosen to draw attention to this company.",
+          "Mitt Romney grew up in this state in which his father George served as President of American Motors Company and was Governor of from 1963 to 1969. "
+        ],
+        "formatted_answers": [
+          "[Willard] Mitt Romney",
+          "Bain Capital ",
+          "Michigan"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/15856",
+        "type": "bonus",
+        "tournament": {
+          "id": 18,
+          "year": 2012,
+          "name": "2012 Collegiate Novice",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:15.013Z",
+          "updated_at": "2017-08-27T18:44:15.013Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/18"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 3063,
+        "number": 18,
+        "round": "WUSTL A",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 3077,
+        "tournament_id": 4,
+        "leadin": "The namesake structure of this experiment was introduced to an electric field and was observed for its deflection. For 10 points each:",
+        "created_at": "2017-08-28T03:48:37.388Z",
+        "updated_at": "2017-08-28T03:48:37.388Z",
+        "formatted_leadin": "The namesake structure of this experiment was introduced to an electric field and was observed for its deflection. For 10 points each:",
+        "texts": [
+          "Name this experiment conducted by Millikan that determined the elementary charge of an electron.",
+          "The Oil Drop Experiment was primarily conducted at this Midwestern university. Miller and Urey conducted their experiment about the origin of life in the primordial soup in this university.",
+          "The Miller-Urey experiment was based on Juan Oro's discovery that amino acids could be synthesized from ammonia and a protonated version of this compound, made up of a carbon atom triple bonded to nitrogen."
+        ],
+        "answers": [
+          "Millikan Oil Drop Experiment",
+          "University of Chicago",
+          "hydrogen cyanide"
+        ],
+        "formatted_texts": [
+          "Name this experiment conducted by Millikan that determined the elementary charge of an electron.",
+          "The Oil Drop Experiment was primarily conducted at this Midwestern university. Miller and Urey conducted their experiment about the origin of life in the primordial soup in this university.",
+          "The Miller-Urey experiment was based on Juan Oro's discovery that amino acids could be synthesized from ammonia and a protonated version of this compound, made up of a carbon atom triple bonded to nitrogen."
+        ],
+        "formatted_answers": [
+          "Millikan Oil Drop Experiment",
+          "University of Chicago",
+          "hydrogen cyanide"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/3063",
+        "type": "bonus",
+        "tournament": {
+          "id": 4,
+          "year": 2011,
+          "name": "2011 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.250Z",
+          "updated_at": "2017-08-27T18:44:13.250Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/4"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 2823,
+        "number": 16,
+        "round": "Minnesota A and MIT A ",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2837,
+        "tournament_id": 4,
+        "leadin": "This organization sought relief for flood victims in Pakistan. For 10 points each:",
+        "created_at": "2017-08-28T03:48:35.000Z",
+        "updated_at": "2017-08-28T03:48:35.000Z",
+        "formatted_leadin": "This organization sought relief for flood victims in Pakistan. For 10 points each:",
+        "texts": [
+          "Name this world organization whose headquarters in Nigeria were bombed by a member of Boko Haram.",
+          "This Palestinian leader has filed a bid for recognition of the Palestine State by the UN, despite Obama's promises that the U.S. will veto the vote in the Security Council.",
+          "This current U.S. Ambassador to the United Nations called Abbas's bid \"dangerous and counterproductive\" as well as \"unwise.\""
+        ],
+        "answers": [
+          "United Nations [or UN]",
+          "Mahmoud Abbas [or Abu Mazen]",
+          "Susan Elizabeth Rice"
+        ],
+        "formatted_texts": [
+          "Name this world organization whose headquarters in Nigeria were bombed by a member of Boko Haram.",
+          "This Palestinian leader has filed a bid for recognition of the Palestine State by the UN, despite Obama's promises that the U.S. will veto the vote in the Security Council.",
+          "This current U.S. Ambassador to the United Nations called Abbas's bid \"dangerous and counterproductive\" as well as \"unwise.\""
+        ],
+        "formatted_answers": [
+          "United Nations [or UN]",
+          "Mahmoud Abbas [or Abu Mazen]",
+          "Susan Elizabeth Rice"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/2823",
+        "type": "bonus",
+        "tournament": {
+          "id": 4,
+          "year": 2011,
+          "name": "2011 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.250Z",
+          "updated_at": "2017-08-27T18:44:13.250Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/4"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 2847,
+        "number": 19,
+        "round": "Northwestern A ",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2861,
+        "tournament_id": 4,
+        "leadin": "This state's government shut down on July 1, 2011, after a budget disagreement between the governor and the Republican legislature. For 10 points each:",
+        "created_at": "2017-08-28T03:48:35.243Z",
+        "updated_at": "2017-08-28T03:48:35.243Z",
+        "formatted_leadin": "This state's government shut down on July 1, 2011, after a budget disagreement between the governor and the Republican legislature. For 10 points each:",
+        "texts": [
+          "Name this state where Governor Mark Dayton eventually agreed to the Republicans' budget cuts on July 20, ending the shutdown.",
+          "This Republican's governorship left Minnesota's budget about five billion dollars short. Serving from 2003 to 2011, he grappled with the Minnesota Supreme Court over his use of \"unallotment.\"",
+          "Tim Pawlenty withdrew from the 2012 Republican Presidential race in August 2011 after finishing third in the Iowa Ames Straw Poll. This Minnesota congresswoman and Tea Party member came in first."
+        ],
+        "answers": [
+          "Minnesota",
+          "Tim Pawlenty [or Timothy James Pawlenty]",
+          "Michele Marie Bachmann [or Michele Marie Amble]"
+        ],
+        "formatted_texts": [
+          "Name this state where Governor Mark Dayton eventually agreed to the Republicans' budget cuts on July 20, ending the shutdown.",
+          "This Republican's governorship left Minnesota's budget about five billion dollars short. Serving from 2003 to 2011, he grappled with the Minnesota Supreme Court over his use of \"unallotment.\"",
+          "Tim Pawlenty withdrew from the 2012 Republican Presidential race in August 2011 after finishing third in the Iowa Ames Straw Poll. This Minnesota congresswoman and Tea Party member came in first."
+        ],
+        "formatted_answers": [
+          "Minnesota",
+          "Tim Pawlenty [or Timothy James Pawlenty]",
+          "Michele Marie Bachmann [or Michele Marie Amble]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/2847",
+        "type": "bonus",
+        "tournament": {
+          "id": 4,
+          "year": 2011,
+          "name": "2011 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.250Z",
+          "updated_at": "2017-08-27T18:44:13.250Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/4"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 2664,
+        "number": 8,
+        "round": "Georgia Tech A ",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 2678,
+        "tournament_id": 24,
+        "leadin": "His father was responsible for the Hama massacre, which killed over 10,000 civilians. For 10 points each:",
+        "created_at": "2017-08-28T03:48:33.277Z",
+        "updated_at": "2017-08-28T03:48:33.277Z",
+        "formatted_leadin": "His father was responsible for the Hama massacre, which killed over 10,000 civilians. For 10 points each:",
+        "texts": [
+          "Name this Syrian president who is currently cracking down on protests within his country.",
+          "Bashar al-Assad and his father both belong to this Shia offshoot, from which they draw many of their followers, and which is responsible for many of the violent attacks on protesters.",
+          "The protests in Syria have recently reached this capital of Syria, which has prompted further crackdowns"
+        ],
+        "answers": [
+          "Bashar Al-Assad",
+          "Alawite",
+          "Damascus [or Dimashq]"
+        ],
+        "formatted_texts": [
+          "Name this Syrian president who is currently cracking down on protests within his country.",
+          "Bashar al-Assad and his father both belong to this Shia offshoot, from which they draw many of their followers, and which is responsible for many of the violent attacks on protesters.",
+          "The protests in Syria have recently reached this capital of Syria, which has prompted further crackdowns"
+        ],
+        "formatted_answers": [
+          "Bashar Al-Assad",
+          "Alawite",
+          "Damascus [or Dimashq]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/2664",
+        "type": "bonus",
+        "tournament": {
+          "id": 24,
+          "year": 2011,
+          "name": "2011 ACF Fall ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:15.822Z",
+          "updated_at": "2017-08-27T18:44:15.822Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/24"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 12824,
+        "number": 5,
+        "round": "Bellarmine and UCLA (1)",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 12838,
+        "tournament_id": 73,
+        "leadin": "This group declared a ceasefire in September 2010 after an earlier, broken \"permanent ceasefire\" in 2006. For 10 points each:",
+        "created_at": "2017-08-28T03:50:14.286Z",
+        "updated_at": "2017-08-28T03:50:14.286Z",
+        "formatted_leadin": "This group declared a ceasefire in September 2010 after an earlier, broken \"permanent ceasefire\" in 2006. For 10 points each:",
+        "texts": [
+          "] Name this group responsible for assassinating Prime Minister Luis Carrero Blanco in 1973 and accused by some of carrying out some 2004 train bombings in a capital city.",
+          "[10] The ETA want freedom for this ethnic group who speak a language isolate and are centered in a namesake region in France and Spain including Bilbao.",
+          "This man decided to negotiate with the ETA after the 2006 ceasefire. Despite that ceasefire lasting under a year and costing him political capital, he is still the Prime Minister of Spain."
+        ],
+        "answers": [
+          "Euskadi Ta Askatasuna",
+          "Basques [or Vascos or Euskaldunak or Euskotarak]\t",
+          "Jose Luis Rodriguez Zapatero"
+        ],
+        "formatted_texts": [
+          "] Name this group responsible for assassinating Prime Minister Luis Carrero Blanco in 1973 and accused by some of carrying out some 2004 train bombings in a capital city.",
+          "[10] The ETA want freedom for this ethnic group who speak a language isolate and are centered in a namesake region in France and Spain including Bilbao.",
+          "This man decided to negotiate with the ETA after the 2006 ceasefire. Despite that ceasefire lasting under a year and costing him political capital, he is still the Prime Minister of Spain."
+        ],
+        "formatted_answers": [
+          "Euskadi Ta Askatasuna",
+          "Basques [or Vascos or Euskaldunak or Euskotarak]\t",
+          "Jose Luis Rodriguez Zapatero"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/12824",
+        "type": "bonus",
+        "tournament": {
+          "id": 73,
+          "year": 2010,
+          "name": "2010 2010 ACF Fall",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:25.770Z",
+          "updated_at": "2017-08-27T18:44:25.770Z",
+          "difficulty": "Easy College",
+          "difficulty_num": 6,
+          "url": "https://www.quizdb.org/api/tournaments/73"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

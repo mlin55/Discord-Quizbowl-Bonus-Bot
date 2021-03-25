@@ -1,0 +1,3500 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 54,
+    "num_bonuses_shown": 54,
+    "bonuses": [
+      {
+        "id": 44539,
+        "number": 13,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 417,
+        "leadin": "This journalist is married to David Miranda, who is currently the only openly gay member of Brazil’s Chamber of Deputies. For 10 points each:",
+        "created_at": "2020-09-17T23:26:02.488Z",
+        "updated_at": "2020-09-17T23:26:02.488Z",
+        "formatted_leadin": "This journalist is married to David Miranda, who is currently the only openly gay member of Brazil’s Chamber of Deputies. For 10 points each:",
+        "texts": [
+          "Name this journalist who was arrested in 2020 for publishing Telegram messages showing that a judge illegally interfered in the trial of former Brazilian president Lula da Silva.",
+          "Those Telegram messages showed that this current Brazilian Minister of Justice had illegally conspired with prosecutors while presiding over the anti-corruption investigation Operation Car Wash.",
+          "Upon winning the presidency in 2018, this far-right Brazilian politician made Sérgio Moro his Minister of Justice. In a tweet, he infamously asked Greenwald if he “burned the donut,” a reference to anal sex."
+        ],
+        "answers": [
+          "Glenn Greenwald",
+          "Sérgio Moro",
+          "Jair Bolsonaro &lt;CK, Modern World&gt;"
+        ],
+        "formatted_texts": [
+          "Name this journalist who was arrested in 2020 for publishing Telegram messages showing that a judge illegally interfered in the trial of former Brazilian president Lula da Silva.",
+          "Those Telegram messages showed that this current Brazilian Minister of Justice had illegally conspired with prosecutors while presiding over the anti-corruption investigation Operation Car Wash.",
+          "Upon winning the presidency in 2018, this far-right Brazilian politician made Sérgio Moro his Minister of Justice. In a tweet, he infamously asked Greenwald if he “burned the donut,” a reference to anal sex."
+        ],
+        "formatted_answers": [
+          "Glenn <strong>Greenwald</strong>",
+          "Sérgio <strong>Moro</strong>",
+          "Jair <strong>Bolsonaro</strong> &lt;CK, Modern World&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/44539",
+        "type": "bonus",
+        "tournament": {
+          "id": 417,
+          "year": 2020,
+          "name": "2020 Terrapin",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2020-09-17T23:25:36.532Z",
+          "updated_at": "2020-09-20T00:58:08.470Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/417"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 44755,
+        "number": 9,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 417,
+        "leadin": "Nancy Pelosi controversially authorized funding for Trump’s border wall in order to secure funding for a riverwalk in Laredo, a city in this politician’s district. For 10 points each:",
+        "created_at": "2020-09-17T23:27:06.016Z",
+        "updated_at": "2020-09-17T23:27:06.016Z",
+        "formatted_leadin": "Nancy Pelosi controversially authorized funding for Trump’s border wall in order to secure funding for a riverwalk in Laredo, a city in this politician’s district. For 10 points each:",
+        "texts": [
+          "Name this representative from Texas’s 28th congressional district. Considered one of the most conservative Democrats in the US House, he defeated Jessica Cisneros’s (“siss-NAIR-ose’s”) attempt to unseat him in the 2020 primaries.",
+          "Cisneros was backed by this PAC founded by progressive talk-show hosts Kyle Kulinski and Cenk Uygur (“jank YOO-gur”), which has backed left-wing candidates like Ilhan Omar, Alexandria Ocasio-Cortez, and Bernie Sanders.",
+          "Cenk Uygur was a candidate in a special election for California’s 25th congressional district. That seat has been vacant since October 2019, when this woman resigned after sexually explicit photos of her were leaked."
+        ],
+        "answers": [
+          "Henry Cuellar (“KWAY-ar”) [or Enrique Roberto Cuellar]",
+          "Justice Democrats",
+          "Katie Hill &lt;CK, Modern World&gt;"
+        ],
+        "formatted_texts": [
+          "Name this representative from Texas’s 28th congressional district. Considered one of the most conservative Democrats in the US House, he defeated Jessica Cisneros’s (“siss-NAIR-ose’s”) attempt to unseat him in the 2020 primaries.",
+          "Cisneros was backed by this PAC founded by progressive talk-show hosts Kyle Kulinski and Cenk Uygur (“jank YOO-gur”), which has backed left-wing candidates like Ilhan Omar, Alexandria Ocasio-Cortez, and Bernie Sanders.",
+          "Cenk Uygur was a candidate in a special election for California’s 25th congressional district. That seat has been vacant since October 2019, when this woman resigned after sexually explicit photos of her were leaked."
+        ],
+        "formatted_answers": [
+          "Henry <strong>Cuellar</strong> (“KWAY-ar”) [or Enrique Roberto <strong>Cuellar</strong>]",
+          "<strong>Justice Democrats</strong>",
+          "Katie <strong>Hill</strong> &lt;CK, Modern World&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/44755",
+        "type": "bonus",
+        "tournament": {
+          "id": 417,
+          "year": 2020,
+          "name": "2020 Terrapin",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2020-09-17T23:25:36.532Z",
+          "updated_at": "2020-09-20T00:58:08.470Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/417"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 44215,
+        "number": 13,
+        "round": "9 Asher + Liu",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 415,
+        "leadin": "Events in this city triggered the activism of LeeAnne Walters and were the subject of reports by Mona Hanna-Atisha at the Hurley Medical Center and Virginia Tech’s Marc Edwards. For 10 points:",
+        "created_at": "2020-09-17T22:03:30.051Z",
+        "updated_at": "2020-09-17T22:03:30.051Z",
+        "formatted_leadin": "Events in this city triggered the activism of LeeAnne Walters and were the subject of reports by Mona Hanna-Atisha at the Hurley Medical Center and Virginia Tech’s Marc Edwards. For 10 points:",
+        "texts": [
+          "Name this city, several of whose officials were indicted on criminal charges by Bill Schuette.",
+          "Schuette was defeated in the 2018 Michigan gubernatorial election by Gretchen Whitmer, who had defeated this public health professional in the Democratic primary. This man would have been the first Muslim governor in the U.S.",
+          "The resignation of John Conyers in Michigan’s 13th district led to the election of this Squad member, a Palestinian-American who along with Ilhan Omar is one of the first two Muslim women ever elected to congress."
+        ],
+        "answers": [
+          "Flint, Michigan",
+          "Abdul El-Sayed",
+          "Rashida Tlaib &lt;Modern World&gt;"
+        ],
+        "formatted_texts": [
+          "Name this city, several of whose officials were indicted on criminal charges by Bill Schuette.",
+          "Schuette was defeated in the 2018 Michigan gubernatorial election by Gretchen Whitmer, who had defeated <em>this</em> public health professional in the Democratic primary. This man would have been the first Muslim governor in the U.S.",
+          "The resignation of John Conyers in Michigan’s 13th district led to the election of <em>this</em> Squad member, a Palestinian-American who along with Ilhan Omar is one of the first two Muslim women ever elected to congress."
+        ],
+        "formatted_answers": [
+          "<strong>Flint</strong>, Michigan",
+          "Abdul <strong>El-Sayed </strong>",
+          "Rashida <strong>Tlaib</strong> &lt;Modern World&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/44215",
+        "type": "bonus",
+        "tournament": {
+          "id": 415,
+          "year": 2019,
+          "name": "2019 Chicago Open",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2020-09-17T22:01:40.787Z",
+          "updated_at": "2020-09-17T22:01:40.787Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/415"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 26737,
+        "number": 22,
+        "round": "2",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Hong Kong and Macau are exempted from this system and use identification cards instead. For 10 points each:",
+        "created_at": "2017-12-30T07:15:15.960Z",
+        "updated_at": "2017-12-30T07:15:15.960Z",
+        "formatted_leadin": "Hong Kong and Macau are exempted from this system and use identification cards instead. For 10 points each:",
+        "texts": [
+          "Identify this household registration system in China, which requires a person to register with an area.",
+          "The 270 million or so of these people in China are routinely denied health care in urban areas thanks to the hukou system. Groups of these people who live in underground accommodations are called the “rat tribe.”",
+          "Somewhat better off than the “rat tribe” is the “ant tribe” which consists of recent university graduates who earn little or have this economic status, something they share with over half the young people of Greece."
+        ],
+        "answers": [
+          "hukou system",
+          "migrant workers [or economic migrants; or rural migrants; or nóngmín gōng]",
+          "unemployed [or unemployment]"
+        ],
+        "formatted_texts": [
+          "Identify this household registration system in China, which requires a person to register with an area.",
+          "The 270 million or so of these people in China are routinely denied health care in urban areas thanks to the <em>hukou</em> system. Groups of these people who live in underground accommodations are called the “rat tribe.”",
+          "Somewhat better off than the “rat tribe” is the “ant tribe” which consists of recent university graduates who earn little or have this economic status, something they share with over half the young people of Greece."
+        ],
+        "formatted_answers": [
+          "<strong><em><u>hukou</u></em></strong> system",
+          "<strong><u>migrant</u></strong> workers [or economic <strong><u>migrant</u></strong>s; or rural <strong><u>migrant</u></strong>s; or <strong><u>nóngmín gōng</u></strong>]",
+          "<strong><u>unemployed</u></strong> [or <strong><u>unemployment</u></strong>]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26737",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26693,
+        "number": 2,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "In August 2014, this newspaper retracted the testimony of Seiji Yoshida, which it had used in several articles in the 1990s exposing war crimes related to comfort women. For 10 points each:",
+        "created_at": "2017-12-30T01:11:20.900Z",
+        "updated_at": "2017-12-30T01:11:20.900Z",
+        "formatted_leadin": "In August 2014, this newspaper retracted the testimony of Seiji Yoshida, which it had used in several articles in the 1990s exposing war crimes related to comfort women. For 10 points each: ",
+        "texts": [
+          "Name this second-largest newspaper in Japan, frequently attacked by the LDP for its pacifist views.",
+          "Asahi is also the name of the largest Japanese company in this industry; unlike most Japanese companies, it actually has experienced some growth, and acquired 19.9% of Tsingtao from Anheuser-Busch.",
+          "The case of Asahi Metal Co. determined whether being in the U.S. “stream of commerce” granted minimal rights to this legal requirement that the state respect all rights owed to a person."
+        ],
+        "answers": [
+          "Asahi Shimbun",
+          "beer industry [or brewing industry; or alcohol industry]",
+          "due process"
+        ],
+        "formatted_texts": [
+          "Name this second-largest newspaper in Japan, frequently attacked by the LDP for its pacifist views.",
+          "Asahi is also the name of the largest Japanese company in this industry; unlike most Japanese companies, it actually has experienced some growth, and acquired 19.9% of Tsingtao from Anheuser-Busch.",
+          "The case of Asahi Metal Co. determined whether being in the U.S. “stream of commerce” granted minimal rights to this legal requirement that the state respect all rights owed to a person."
+        ],
+        "formatted_answers": [
+          "<strong><u>Asahi</u></strong> Shimbun",
+          "<strong><u>beer</u></strong> industry [or <strong><u>brewing</u></strong> industry; or <strong><u>alcohol</u></strong> industry]",
+          "<strong><u>due process</u></strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26693",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26702,
+        "number": 11,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Labor activists now often hold signs saying “Fight for” [this value]. For 10 points each:",
+        "created_at": "2017-12-30T03:29:33.428Z",
+        "updated_at": "2017-12-30T03:29:33.428Z",
+        "formatted_leadin": "Labor activists now often hold signs saying “Fight for” [this value]. For 10 points each:",
+        "texts": [
+          "Identify this proposed value of the minimum wage endorsed by Bernie Sanders. It’s more than twice the value of the current federal minimum wage.",
+          "In January 2014, this city became the first jurisdiction in the nation to raise its minimum wage to $15 per hour.",
+          "This governor recently approved a minimum wage that applies only to fast food workers."
+        ],
+        "answers": [
+          "$15 per hour [accept any equivalent mentioning the number fifteen]",
+          "SeaTac, Washington [do not accept “Seattle” or “Tacoma”]",
+          "Andrew Cuomo"
+        ],
+        "formatted_texts": [
+          "Identify this proposed value of the minimum wage endorsed by Bernie Sanders. It’s more than twice the value of the current federal minimum wage.",
+          "In January 2014, this city became the first jurisdiction in the nation to raise its minimum wage to $15 per hour.",
+          "This governor recently approved a minimum wage that applies only to fast food workers."
+        ],
+        "formatted_answers": [
+          "<strong><u>$15</u></strong> per hour [accept any equivalent mentioning the number <strong><u>fifteen</u></strong>]",
+          "<strong><u>SeaTac</u></strong>, Washington [do not accept “Seattle” or “Tacoma”]",
+          "Andrew <strong><u>Cuomo</u></strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26702",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26901,
+        "number": 18,
+        "round": "9",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "This world leader’s approval ratings have dipped below ten percent in recent months. For 10 points each:",
+        "created_at": "2018-01-04T04:56:46.061Z",
+        "updated_at": "2018-01-04T04:56:46.061Z",
+        "formatted_leadin": "This world leader’s approval ratings have dipped <em>below ten percent</em> in recent months. For 10 points each:",
+        "texts": [
+          "Identify this leader of the Workers’ Party. Many voters probably now regret narrowly choosing this handpicked successor of Lula instead of Aécio Neves [“ah-EH-siu NEH-vees”] in 2014.",
+          "Dilma Rousseff is the leader of this South American country, the second-largest economy in the Americas.",
+          "Brazil is often grouped with China, Russia, and India as the BRIC emerging economies. What fifth emerging market country, home to the JSE stock exchange, is frequently grouped along with the BRIC countries?"
+        ],
+        "answers": [
+          "Dilma Rousseff [pronounced “DJEEW-ma WHO-zeff” but be lenient]",
+          "(Federative Republic of) Brazil [or Republica Federativa do Brasil]",
+          "South Africa (the fifth of the BRICS)"
+        ],
+        "formatted_texts": [
+          "Identify this leader of the Workers’ Party. Many voters probably now regret narrowly choosing this handpicked successor of Lula instead of Aécio Neves <em>[“ah-EH-siu NEH-vees”</em>] in 2014.",
+          "Dilma Rousseff is the leader of this South American country, the second-largest economy in the Americas.",
+          "Brazil is often grouped with China, Russia, and India as the BRIC emerging economies. What fifth emerging market country, home to the JSE stock exchange, is frequently grouped along with the BRIC countries?"
+        ],
+        "formatted_answers": [
+          "Dilma <strong><u>Rousseff</u></strong> [pronounced <em>“DJEEW-ma WHO-zeff”</em> but be lenient]",
+          "(Federative Republic of) <strong><u>Brazil</u></strong> [or Republica Federativa do <strong><u>Brasil</u></strong>]",
+          "<strong><u>South Africa</u></strong> (the fifth of the BRICS)"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26901",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26941,
+        "number": 10,
+        "round": "11",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Answer the following about prostitution in Europe, for 10 points each.",
+        "created_at": "2018-01-05T20:24:13.905Z",
+        "updated_at": "2018-01-05T20:24:13.905Z",
+        "formatted_leadin": "Answer the following about prostitution in Europe, for 10 points each.",
+        "texts": [
+          "This country passed a law in 1999 criminalizing the purchase, but not the sale, of sexual favors, a model for a law passed more recently in France.",
+          "The red-light district De Wallen is found in this country’s largest city of Amsterdam.",
+          "This country, the home of activist Iana Matei, is the source of most foreign prostitutes in Germany. After this country joined the EU in 2007, the larger of two countries to do so, over 100,000 citizens migrated to the UK."
+        ],
+        "answers": [
+          "(Kingdom of) Sweden [or Konungariket Sverige]",
+          "The Netherlands [or Nederlanden]",
+          "Romania"
+        ],
+        "formatted_texts": [
+          "This country passed a law in 1999 criminalizing the purchase, but not the sale, of sexual favors, a model for a law passed more recently in France.",
+          "The red-light district <em>De Wallen</em> is found in this country’s largest city of Amsterdam.",
+          "This country, the home of activist Iana Matei, is the source of most foreign prostitutes in Germany. After this country joined the EU in 2007, the larger of two countries to do so, over 100,000 citizens migrated to the UK."
+        ],
+        "formatted_answers": [
+          "(Kingdom of) <strong><u>Sweden</u></strong> [or Konungariket <strong><u>Sverige]</u></strong>",
+          "The <strong><u>Netherlands</u></strong> [or <strong><u>Nederland</u></strong>en]",
+          "<strong><u>Romania</u></strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26941",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26929,
+        "number": 22,
+        "round": "10",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Demonstrate that your knowledge of India’s tech development goes beyond changing your Facebook profile picture, for 10 points each.",
+        "created_at": "2018-01-05T02:59:15.086Z",
+        "updated_at": "2018-01-05T02:59:15.086Z",
+        "formatted_leadin": "Demonstrate that your knowledge of India’s tech development goes beyond changing your Facebook profile picture, for 10 points each.",
+        "texts": [
+          "This Prime Minister of India signed a bunch of tech deals in late September 2015, including the deal with Mark Zuckerberg that inspired the new profile picture options.",
+          "This capital of Karnataka, a city of 8 million in central India, is known as the “Silicon Valley of India.”",
+          "India’s success in producing tech workers is partly credited to these sixteen places of public higher education, whose entrance exams are highly competitive and only have a 2% pass rate."
+        ],
+        "answers": [
+          "Narendra Modi",
+          "Bangalore",
+          "Indian Institutes of Technology [IITs - the specific name is required]"
+        ],
+        "formatted_texts": [
+          "This Prime Minister of India signed a bunch of tech deals in late September 2015, including the deal with Mark Zuckerberg that inspired the new profile picture options.",
+          "This capital of Karnataka, a city of 8 million in central India, is known as the “Silicon Valley of India.”",
+          "India’s success in producing tech workers is partly credited to these sixteen places of public higher education, whose entrance exams are highly competitive and only have a 2% pass rate."
+        ],
+        "formatted_answers": [
+          "Narendra <strong><u>Modi</u></strong>",
+          "<strong><u>Bangalore</u></strong>",
+          "<strong><u>I</u></strong>ndian <strong><u>I</u></strong>nstitutes of <strong><u>T</u></strong>echnology [<strong><u>IIT</u></strong>s - the specific name is required]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26929",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26911,
+        "number": 4,
+        "round": "10",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Cultural competence is a major area in which health care organizations are seeking to improve. For 10 points each:",
+        "created_at": "2018-01-04T19:23:48.825Z",
+        "updated_at": "2018-01-04T19:23:48.825Z",
+        "formatted_leadin": "Cultural competence is a major area in which health care organizations are seeking to improve. For 10 points each:",
+        "texts": [
+          "Anne Fadiman’s The Spirit Catches You and You Fall Down chronicles the cultural difficulties that a family of this Southeast Asian ethnicity, prominent in Minneapolis, experienced with the California health care system.",
+          "In 2005, this state began mandating six hours of cultural competence training to renew medical licenses. It recently enacted an ACA Medicaid expansion under governor Chris Christie.",
+          "This university runs the National Center for Cultural Competence. A law student at this university was attacked by Rush Limbaugh in 2012 for her advocacy for free contraceptives."
+        ],
+        "answers": [
+          "Hmong",
+          "New Jersey",
+          "Georgetown University"
+        ],
+        "formatted_texts": [
+          "Anne Fadiman’s <em>The Spirit Catches You and You Fall Down</em> chronicles the cultural difficulties that a family of this Southeast Asian ethnicity, prominent in Minneapolis, experienced with the California health care system.",
+          "In 2005, this state began mandating six hours of cultural competence training to renew medical licenses. It recently enacted an ACA Medicaid expansion under governor Chris Christie.",
+          "This university runs the National Center for Cultural Competence. A law student at this university was attacked by Rush Limbaugh in 2012 for her advocacy for free contraceptives."
+        ],
+        "formatted_answers": [
+          "<strong><u>Hmong</u></strong>",
+          "<strong><u>N</u></strong>ew <strong><u>J</u></strong>ersey",
+          "<strong><u>Georgetown</u></strong> University"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26911",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26881,
+        "number": 22,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Name some gay rights advocacy organizations, for 10 points each.",
+        "created_at": "2018-01-03T02:19:23.956Z",
+        "updated_at": "2018-01-03T02:19:23.956Z",
+        "formatted_leadin": "Name some gay rights advocacy organizations, for 10 points each.",
+        "texts": [
+          "This project founded by Dan Savage is named for a three-word assurance to gay youth that life will improve, despite harassment.",
+          "This organization changed its name to a common acronym for in order to indicate that it had embraced transgender issues. It distributes annual awards for fair and accurate representation of LGBT individuals in media.",
+          "GOProud was founded by conservatives who weren’t satisfied with the centrist stances of this organization which advocates gay rights within the Republican Party."
+        ],
+        "answers": [
+          "It Gets Better",
+          "GLAAD [or Gay & Lesbian Alliance Against Defamation]",
+          "Log Cabin Republicans"
+        ],
+        "formatted_texts": [
+          "This project founded by Dan Savage is named for a three-word assurance to gay youth that life will improve, despite harassment.",
+          "This organization changed its name to a common acronym for in order to indicate that it had embraced transgender issues. It distributes annual awards for fair and accurate representation of LGBT individuals in media.",
+          "GOProud was founded by conservatives who weren’t satisfied with the centrist stances of this organization which advocates gay rights within the Republican Party."
+        ],
+        "formatted_answers": [
+          "<strong><u>It Gets Better</u></strong>",
+          "<strong><u>GLAAD</u></strong> [or <strong><u>Gay &amp; Lesbian Alliance Against Defamation</u></strong>]",
+          "<strong><u>Log Cabin</u></strong> Republicans"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26881",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26753,
+        "number": 14,
+        "round": "3",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Recent polls indicate that this party is now first in the polls, surpassing the Social Democrats. For 10 points each:",
+        "created_at": "2017-12-30T19:48:27.927Z",
+        "updated_at": "2017-12-30T19:48:27.927Z",
+        "formatted_leadin": "Recent polls indicate that this party is now first in the polls, surpassing the Social Democrats. For 10 points each:",
+        "texts": [
+          "Identify this far-right political party led by Jimmie Åkesson, which is symbolized by a blue flower.",
+          "Some right-wingers point to statistics that immigrants commit most instances of this crime in Sweden, whose high rate of it may be due to high reporting rates. Sweden sought to have Julian Assange extradited for this crime.",
+          "Swedish right-wingers are also critical of the rights afforded to these indigenous people of Northern Sweden, such as reindeer husbandry and their own parliament."
+        ],
+        "answers": [
+          "Sweden Democrats [or Swedish Democrats]",
+          "rape [or sexual assault; or clear equivalents]",
+          "Sami [or Lapps]"
+        ],
+        "formatted_texts": [
+          "Identify this far-right political party led by Jimmie Åkesson, which is symbolized by a blue flower.",
+          "Some right-wingers point to statistics that immigrants commit most instances of this crime in Sweden, whose high rate of it may be due to high reporting rates. Sweden sought to have Julian Assange extradited for this crime.",
+          "Swedish right-wingers are also critical of the rights afforded to these indigenous people of Northern Sweden, such as reindeer husbandry and their own parliament."
+        ],
+        "formatted_answers": [
+          "<strong><u>Sweden Democrat</u></strong>s [or <strong><u>Swedish Democrat</u></strong>s]",
+          "<strong><u>rape</u></strong> [or <strong><u>sexual assault</u></strong>; or clear equivalents]",
+          "<strong><u>Sami</u></strong> [or <strong><u>Lapps</u></strong>]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26753",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26772,
+        "number": 9,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Two of this website’s editors resigned in June 2015 over exposing a Condé Nast executive who was soliciting sex with a gay porn star. For 10 points each:",
+        "created_at": "2017-12-30T21:10:11.924Z",
+        "updated_at": "2017-12-30T21:10:11.924Z",
+        "formatted_leadin": "Two of this website’s editors resigned in June 2015 over exposing a Condé Nast executive who was soliciting sex with a gay porn star. For 10 points each:",
+        "texts": [
+          "Name this website, a self-styled “source for daily Manhattan news and gossip” whose namesake media company also owns Deadspin and Jezebel.",
+          "This website dedicated to covering video games and, to a lesser extent, Japanese culture, is part of Gawker Media’s evil empire.",
+          "As if you needed more proof that Gawker is evil, it’s incorporated in this British overseas possession, a popular tax haven in the Caribbean whose capital is George Town."
+        ],
+        "answers": [
+          "Gawker [accept Gawker Media]",
+          "Kotaku [コタク if you will]",
+          "Cayman Islands"
+        ],
+        "formatted_texts": [
+          "Name this website, a self-styled “source for daily Manhattan news and gossip” whose namesake media company also owns Deadspin and Jezebel.",
+          "This website dedicated to covering video games and, to a lesser extent, Japanese culture, is part of Gawker Media’s evil empire.",
+          "As if you needed more proof that Gawker is evil, it’s incorporated in this British overseas possession, a popular tax haven in the Caribbean whose capital is George Town."
+        ],
+        "formatted_answers": [
+          "<strong><u>Gawker</u></strong> [accept <strong><u>Gawker Media</u></strong>]",
+          "<strong><u>Kotaku</u></strong> [<strong><u>コタク</u></strong> if you will]",
+          "<strong><u>Cayman Islands</u></strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26772",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26957,
+        "number": 2,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "A video from this country showed a news camera woman kicking refugees. For 10 points each:",
+        "created_at": "2018-01-06T13:55:16.170Z",
+        "updated_at": "2018-01-06T13:55:16.170Z",
+        "formatted_leadin": "A video from this country showed a news camera woman kicking refugees. For 10 points each:",
+        "texts": [
+          "Name this central European country which has attracted lots of international criticism for denying refugees entrance and constructing border fences to keep them out.",
+          "This Prime Minister of Hungary has attacked Muslim immigrants, including refugees, as threats to European civilization.",
+          "Like Austria, this country has had to deal with thousands of passing refugees due to Hungary’s actions. On October 20th, this country deployed its army to the borders and a massive fire broke out in one of its refugee camps."
+        ],
+        "answers": [
+          "Hungary [or Magyarország]",
+          "Viktor Orbán",
+          "(Republic of) Slovenia [or Republika Slovenija]"
+        ],
+        "formatted_texts": [
+          "Name this central European country which has attracted lots of international criticism for denying refugees entrance and constructing border fences to keep them out.",
+          "This Prime Minister of Hungary has attacked Muslim immigrants, including refugees, as threats to European civilization.",
+          "Like Austria, this country has had to deal with thousands of passing refugees due to Hungary’s actions. On October 20th, this country deployed its army to the borders and a massive fire broke out in one of its refugee camps."
+        ],
+        "formatted_answers": [
+          "<strong><u>Hungary</u></strong> [or <strong><u>Magyarország</u></strong>]",
+          "Viktor <strong><u>Orbán</u></strong>",
+          "(Republic of) <strong><u>Slovenia</u></strong> [or Republika <strong><u>Slovenija</u></strong>]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26957",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26946,
+        "number": 15,
+        "round": "11",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Name some people who, as of the writing of this bonus in early October, were Republican candidates for President. For 10 points each:",
+        "created_at": "2018-01-05T20:40:47.514Z",
+        "updated_at": "2018-01-05T20:40:47.514Z",
+        "formatted_leadin": "Name some people who, as of the writing of this bonus in early October, were Republican candidates for President. For 10 points each:",
+        "texts": [
+          "This bombastic real estate magnate has been a leading candidate in the polls for several months.",
+          "In his first appearance in a debate, this candidate mainly emphasized his leadership on 9/11 since he really doesn’t have much to distinguish himself on. His campaign’s motto is the similarly generic “People Over Politics.”",
+          "This Senator, who is widely rumored to be gay, has remained low in the polls but was widely regarded as the winner of the September 16th “kid’s table” debate."
+        ],
+        "answers": [
+          "Donald Trump",
+          "George Pataki",
+          "Lindsey Graham"
+        ],
+        "formatted_texts": [
+          "This bombastic real estate magnate has been a leading candidate in the polls for several months.",
+          "In his first appearance in a debate, this candidate mainly emphasized his leadership on 9/11 since he really doesn’t have much to distinguish himself on. His campaign’s motto is the similarly generic “People Over Politics.”",
+          "This Senator, who is widely rumored to be gay, has remained low in the polls but was widely regarded as the winner of the September 16th “kid’s table” debate."
+        ],
+        "formatted_answers": [
+          "Donald <strong><u>Trump</u></strong>",
+          "George <strong><u>Pataki</u></strong>",
+          "Lindsey <strong><u>Graham</u></strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26946",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26846,
+        "number": 11,
+        "round": "7",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "This legislation was upheld in the 2012 case NFIB v. Sebelius. For 10 points each:",
+        "created_at": "2018-01-02T03:10:56.727Z",
+        "updated_at": "2018-01-02T03:10:56.727Z",
+        "formatted_leadin": "This legislation was upheld in the 2012 case <em>NFIB v. Sebelius</em>. For 10 points each:",
+        "texts": [
+          "Identify this massive health care reform legislation passed in 2010.",
+          "This current Secretary of Health and Human Services was named as defendant in a 2015 case about the ACA’s tax credits whose plaintiffs were listed as David King et al. She was also the plaintiff in the 2014 Hobby Lobby case.",
+          "In King v. Burwell, a two-step test named for this company, which is used to determine whether to grant deference to a federal agency’s interpretation of federal statute, was applied to the Affordable Care Act."
+        ],
+        "answers": [
+          "Patient Protection and Affordable Care Act [or ACA; or Obamacare]",
+          "Sylvia Burwell",
+          "Chevron [accept Chevron test or Chevron doctrine]"
+        ],
+        "formatted_texts": [
+          "Identify this massive health care reform legislation passed in 2010.",
+          "This current Secretary of Health and Human Services was named as defendant in a 2015 case about the ACA’s tax credits whose plaintiffs were listed as David King et al. She was also the plaintiff in the 2014 Hobby Lobby case.",
+          "In <em>King v. Burwell</em>, a two-step test <em>named for this company</em>, which is used to determine whether to grant deference to a federal agency’s interpretation of federal statute, was applied to the Affordable Care Act."
+        ],
+        "formatted_answers": [
+          "Patient Protection and <strong><u>Affordable Care Act</u></strong> [or <strong><u>ACA</u></strong>; or <strong><u>Obamacare</u></strong>]",
+          "Sylvia <strong><u>Burwell</u></strong>",
+          "<strong><u>Chevron</u></strong> [accept <strong><u>Chevron</u></strong> test or <strong><u>Chevron</u></strong> doctrine]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26846",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26837,
+        "number": 2,
+        "round": "7",
+        "category_id": 26,
+        "subcategory_id": 40,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Shockingly, Dianne Feinstein’s husband won a huge contract for building this kind of project. For 10 points each:",
+        "created_at": "2018-01-01T05:29:29.025Z",
+        "updated_at": "2018-01-01T05:29:29.025Z",
+        "formatted_leadin": "<em>Shockingly</em>, Dianne Feinstein’s husband won a <em>huge</em> contract for building this kind of project. For 10 points each:",
+        "texts": [
+          "Identify this kind of infrastructure proposed to eventually connect Northern and Southern California. Projected to cost $68 billion - and probably more - it’s been widely denounced as a waste.",
+          "High-speed rail advocates often bemoan the slow speed of this US government-funded passenger rail service, which offers high-speed service via Acela Express.",
+          "This man has proposed the Hyperloop, a high-speed transportation system in which passengers would travel in pressurized capsules, as a solution for NorCal transportation."
+        ],
+        "answers": [
+          "California high-speed rail [accept equivalents indicating a fast railroad of some kind; prompt on just rail or railroad]",
+          "Amtrak",
+          "Elon Musk"
+        ],
+        "formatted_texts": [
+          "Identify this kind of infrastructure proposed to eventually connect Northern and Southern California. Projected to cost $68 billion - and probably more - it’s been widely denounced as a waste.",
+          "High-speed rail advocates often bemoan the slow speed of this US government-funded passenger rail service, which offers high-speed service via Acela Express.",
+          "This man has proposed the Hyperloop, a high-speed transportation system in which passengers would travel in pressurized capsules, as a solution for NorCal transportation."
+        ],
+        "formatted_answers": [
+          "California <strong><u>high-speed rail</u></strong> [accept equivalents indicating a <strong><u>fast</u></strong> <strong><u>rail</u></strong>road of some kind; prompt on just <strong><u>rail</u></strong> or <strong><u>rail</u></strong>road]",
+          "<strong><u>Amtrak</u></strong>",
+          "Elon <strong><u>Musk</u></strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26837",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 40,
+          "name": "Current Events American",
+          "created_at": "2017-08-27T19:36:40.861Z",
+          "updated_at": "2017-08-27T19:36:40.861Z",
+          "url": "https://www.quizdb.org/api/subcategories/40"
+        }
+      },
+      {
+        "id": 26829,
+        "number": 18,
+        "round": "6",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "This term, somewhat similarly to “salad bowl”, describes a policy contrasting with assimilation. For 10 points each:",
+        "created_at": "2018-01-01T04:56:54.207Z",
+        "updated_at": "2018-01-01T04:56:54.207Z",
+        "formatted_leadin": "This term, somewhat similarly to “salad bowl”, describes a policy contrasting with assimilation. For 10 points each:",
+        "texts": [
+          "Give this two-word term for multiculturalism, most commonly employed in Canada, where the term was coined by John Murray Gibbon in 1938.",
+          "Spokespeople for this left-wing party in Canada frequently deliver endorsements of the cultural mosaic. This party, which got demolished in the recent Canadian elections, is led by Thomas Mulcair.",
+          "The NDP has the second-most seats in the partisan legislature of this Canadian territory, which borders Alaska and is named for a river."
+        ],
+        "answers": [
+          "cultural mosaic",
+          "New Democratic Party [NDP]",
+          "Yukon Territory"
+        ],
+        "formatted_texts": [
+          "Give this two-word term for multiculturalism, most commonly employed in Canada, where the term was coined by John Murray Gibbon in 1938.",
+          "Spokespeople for this left-wing party in Canada frequently deliver endorsements of the cultural mosaic. This party, which got demolished in the recent Canadian elections, is led by Thomas Mulcair.",
+          "The NDP has the second-most seats in the partisan legislature of this Canadian territory, which borders Alaska and is named for a river."
+        ],
+        "formatted_answers": [
+          "<strong><u>cultural mosaic</u></strong>",
+          "<strong><u>N</u></strong>ew <strong><u>D</u></strong>emocratic <strong><u>P</u></strong>arty [<strong><u>NDP</u></strong>]",
+          "<strong><u>Yukon</u></strong> Territory"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26829",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26802,
+        "number": 15,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "Economic growth in this country tends to fluctuate based on the price of its main export, copper. For 10 points each:",
+        "created_at": "2017-12-31T03:44:09.213Z",
+        "updated_at": "2017-12-31T03:44:09.213Z",
+        "formatted_leadin": "Economic growth in this country tends to fluctuate based on the price of its main export, copper. For 10 points each:",
+        "texts": [
+          "Identify this Sub-Saharan African country which briefly had a white man, Guy Scott, as its President until the early 2015 election of Edgar Lungu.",
+          "Most white people in Zambia are refugees from this neighboring country, where Robert Mugabe’s government expropriated almost all of their land.",
+          "A lot of white people, including former retornados and numerous Brazilians, have flocked to this country thanks to its economic boom, which took off after the MPLA won its civil war in 2002."
+        ],
+        "answers": [
+          "(Republic of) Zambia",
+          "(Republic of) Zimbabwe",
+          "(Republic of) Angola [or República de Angola]"
+        ],
+        "formatted_texts": [
+          "Identify this Sub-Saharan African country which briefly had a white man, Guy Scott, as its President until the early 2015 election of Edgar Lungu.",
+          "Most white people in Zambia are refugees from this neighboring country, where Robert Mugabe’s government expropriated almost all of their land.",
+          "A lot of white people, including former <em>retornados</em> and numerous Brazilians, have flocked to this country thanks to its economic boom, which took off after the MPLA won its civil war in 2002."
+        ],
+        "formatted_answers": [
+          "(Republic of) <strong><u>Zambia</u></strong>",
+          "(Republic of) <strong><u>Zimbabwe</u></strong>",
+          "(Republic of) <strong><u>Angola</u></strong> [or República de <strong><u>Angola</u></strong>]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26802",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 26781,
+        "number": 18,
+        "round": "4",
+        "category_id": 26,
+        "subcategory_id": 42,
+        "quinterest_id": null,
+        "tournament_id": 249,
+        "leadin": "This man is also known as Ibrahim al-Badri. For 10 points each:",
+        "created_at": "2017-12-30T22:12:14.681Z",
+        "updated_at": "2017-12-30T22:12:14.681Z",
+        "formatted_leadin": "This man is also known as Ibrahim al-Badri. For 10 points each:",
+        "texts": [
+          "Identify this head of state, a former member of Al Qaeda in Iraq. He has the second-highest State Department bounty for information leading to his death, behind only Ayman al-Zawahiri.",
+          "al-Baghdadi is the leader of this radical group which claims to have established a caliphate in the Middle East.",
+          "This other more peaceful organization is a global pan-Islamist party aiming to establish a new caliphate under which non-Muslims would not be allowed to hold office. It is led by Ata Abu Rashta."
+        ],
+        "answers": [
+          "Abu Bakr al-Baghdadi",
+          "Islamic State of Iraq and Syria [or Islamic State of Iraq and the Levant; or ISIS; or ISIL; or Daesh; or Dawlah al-Islamiyyah fil-Iraq wa ash-Sham]",
+          "Hizb ut-Tahrir [or Party of Liberation]"
+        ],
+        "formatted_texts": [
+          "Identify this head of state, a former member of Al Qaeda in Iraq. He has the second-highest State Department bounty for information leading to his death, behind only Ayman al-Zawahiri.",
+          "al-Baghdadi is the leader of this radical group which claims to have established a caliphate in the Middle East.",
+          "This other more peaceful organization is a global pan-Islamist party aiming to establish a new caliphate under which non-Muslims would not be allowed to hold office. It is led by Ata Abu Rashta."
+        ],
+        "formatted_answers": [
+          "Abu Bakr al-<strong><u>Baghdadi</u></strong>",
+          "<strong><u>Islamic State</u></strong> of Iraq and Syria [or <strong><u>Islamic State</u></strong> of Iraq and the Levant; or <strong><u>IS</u></strong>IS; or <strong><u>IS</u></strong>IL; or <strong><u>Daesh</u></strong>; or <strong><u>Dawlah al-Islamiyyah</u></strong> fil-Iraq wa ash-Sham]",
+          "<strong><u>Hizb ut-Tahrir</u></strong> [or <strong><u>Party of Liberation</u></strong>]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/26781",
+        "type": "bonus",
+        "tournament": {
+          "id": 249,
+          "year": 2015,
+          "name": "2015 Missouri Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:48:30.979Z",
+          "updated_at": "2017-08-27T18:48:30.979Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/249"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+          "id": 42,
+          "name": "Current Events Other",
+          "created_at": "2017-08-27T19:36:43.873Z",
+          "updated_at": "2017-08-27T19:36:43.873Z",
+          "url": "https://www.quizdb.org/api/subcategories/42"
+        }
+      },
+      {
+        "id": 17111,
+        "number": 14,
+        "round": "15",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 17125,
+        "tournament_id": 82,
+        "leadin": "This family illegally sealed off their beachfront property in Vallauris on the French Riviera. ",
+        "created_at": "2017-08-28T03:50:54.011Z",
+        "updated_at": "2017-08-28T03:50:54.011Z",
+        "formatted_leadin": "This family illegally sealed off their beachfront property in Vallauris on the French Riviera. ",
+        "texts": [
+          "Name this ruling family, whose King Abdullah died in January 2015.",
+          "This man, Abdullah's half-brother, is the current king of Saudi Arabia.",
+          "This is the name of Salman's son. This name is shared by both a previous Saudi king and his nephew, who assassinated him in 1975 over the installation of television in Saudi Arabia."
+        ],
+        "answers": [
+          "House of Saud [or: the Saudi royal family, Al Saud]",
+          "Salman bin Abdulaziz Al Saud",
+          "Faisal"
+        ],
+        "formatted_texts": [
+          "Name this ruling family, whose King Abdullah died in January 2015.",
+          "This man, Abdullah's half-brother, is the current king of Saudi Arabia.",
+          "This is the name of Salman's son. This name is shared by both a previous Saudi king and his nephew, who assassinated him in 1975 over the installation of television in Saudi Arabia."
+        ],
+        "formatted_answers": [
+          "House of Saud [or: the Saudi royal family, Al Saud]",
+          "Salman bin Abdulaziz Al Saud",
+          "Faisal"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/17111",
+        "type": "bonus",
+        "tournament": {
+          "id": 82,
+          "year": 2015,
+          "name": "2015 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:27.726Z",
+          "updated_at": "2017-08-27T18:44:27.726Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/82"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13811,
+        "number": 13,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 13825,
+        "tournament_id": 82,
+        "leadin": " A 2011 cartoon showed this person saying \"One hundred lashes if you don't die of laughter!\" ",
+        "created_at": "2017-08-28T03:50:22.199Z",
+        "updated_at": "2017-08-28T03:50:22.199Z",
+        "formatted_leadin": " A 2011 cartoon showed this person saying \"One hundred lashes if you don't die of laughter!\" ",
+        "texts": [
+          "Name this prophet who was satirically made a special editor-in-chief of an issue renamed Charia Hebdo. ",
+          "The 2015 shooting at Charlie Hebdo's Paris headquarters was perpetrated by members of this Yemen-based group, which constantly competes for territory against the Houthis. ",
+          "This phrase captions a provocative Charlie Hebdo cartoon that shows Muhammad kissing a cartoonist. English or French answers are acceptable. "
+        ],
+        "answers": [
+          "Muhammad [or: Mahomet] ",
+          " AQAP [or: al-Qaeda in the Arabian Peninsula, Ansar al-Sharia; prompt on: \"al-Qaeda\"] ",
+          "\"Love is stronger than hate\" [or: any reasonably close answers, \"L'amour plus fort que la haine\"] "
+        ],
+        "formatted_texts": [
+          "Name this prophet who was satirically made a special editor-in-chief of an issue renamed Charia Hebdo. ",
+          "The 2015 shooting at Charlie Hebdo's Paris headquarters was perpetrated by members of this Yemen-based group, which constantly competes for territory against the Houthis. ",
+          "This phrase captions a provocative Charlie Hebdo cartoon that shows Muhammad kissing a cartoonist. English or French answers are acceptable. "
+        ],
+        "formatted_answers": [
+          "Muhammad [or: Mahomet] ",
+          " AQAP [or: al-Qaeda in the Arabian Peninsula, Ansar al-Sharia; prompt on: \"al-Qaeda\"] ",
+          "\"Love is stronger than hate\" [or: any reasonably close answers, \"L'amour plus fort que la haine\"] "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13811",
+        "type": "bonus",
+        "tournament": {
+          "id": 82,
+          "year": 2015,
+          "name": "2015 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:27.726Z",
+          "updated_at": "2017-08-27T18:44:27.726Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/82"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 16963,
+        "number": 6,
+        "round": "13",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 16977,
+        "tournament_id": 82,
+        "leadin": "The 2015 installment of this event was held in Phoenix, Arizona. ",
+        "created_at": "2017-08-28T03:50:52.705Z",
+        "updated_at": "2017-08-28T03:50:52.705Z",
+        "formatted_leadin": "The 2015 installment of this event was held in Phoenix, Arizona. ",
+        "texts": [
+          "Name this convention organized by readers and writers for The Daily Kos. Crowds booed Martin O'Malley after he said \"Black lives matter, white lives matter, all lives matter\" during a Q&amp;A at this event.",
+          " This prospective presidential candidate, currently a Senator from Vermont, was also present at Netroots Nation in Phoenix.",
+          "Sanders called for \"real police reform\" after this African-American woman hanged herself in her Texas jail cell. Witnesses state that her head was slammed into the ground during her arrest for a traffic violation."
+        ],
+        "answers": [
+          "Netroots Nation",
+          "Bernie Sanders",
+          "Sandra Bland"
+        ],
+        "formatted_texts": [
+          "Name this convention organized by readers and writers for The Daily Kos. Crowds booed Martin O'Malley after he said \"Black lives matter, white lives matter, all lives matter\" during a Q&A at this event.",
+          " This prospective presidential candidate, currently a Senator from Vermont, was also present at Netroots Nation in Phoenix.",
+          "Sanders called for \"real police reform\" after this African-American woman hanged herself in her Texas jail cell. Witnesses state that her head was slammed into the ground during her arrest for a traffic violation."
+        ],
+        "formatted_answers": [
+          "Netroots Nation",
+          "Bernie Sanders",
+          "Sandra Bland"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/16963",
+        "type": "bonus",
+        "tournament": {
+          "id": 82,
+          "year": 2015,
+          "name": "2015 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:27.726Z",
+          "updated_at": "2017-08-27T18:44:27.726Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/82"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 16127,
+        "number": 7,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 16141,
+        "tournament_id": 82,
+        "leadin": " Protesters in Kuala Lumpur dressed up as zombies to criticize this agreement and its potential impact on healthcare. ",
+        "created_at": "2017-08-28T03:50:44.136Z",
+        "updated_at": "2017-08-28T03:50:44.136Z",
+        "formatted_leadin": " Protesters in Kuala Lumpur dressed up as zombies to criticize this agreement and its potential impact on healthcare. ",
+        "texts": [
+          "Name this trade agreement widely denounced as a \"Trojan Horse\" and \"NAFTA on steroids.\" If approved, this agreement will take effect in the U.S., Australia, and Japan, among others. ",
+          "This two-word phrase describes the presidential power to negotiate international agreements like NAFTA, GATT, and TPP while preventing Congress from modifying said agreements.",
+          "TPP's provisions regarding intellectual property resemble this other international treaty, which aims to curb online piracy and trade of generic drugs. Like SOPA and PIPA, this treaty was the subject of widespread 2012 protests throughout the U.S. and Europe. "
+        ],
+        "answers": [
+          "TPP [or: Trans-Pacific Partnership]",
+          "fast track",
+          "ACTA [or: Anti-Counterfeiting Trade Agreement] "
+        ],
+        "formatted_texts": [
+          "Name this trade agreement widely denounced as a \"Trojan Horse\" and \"NAFTA on steroids.\" If approved, this agreement will take effect in the U.S., Australia, and Japan, among others. ",
+          "This two-word phrase describes the presidential power to negotiate international agreements like NAFTA, GATT, and TPP while preventing Congress from modifying said agreements.",
+          "TPP's provisions regarding intellectual property resemble this other international treaty, which aims to curb online piracy and trade of generic drugs. Like SOPA and PIPA, this treaty was the subject of widespread 2012 protests throughout the U.S. and Europe. "
+        ],
+        "formatted_answers": [
+          "TPP [or: Trans-Pacific Partnership]",
+          "fast track",
+          "ACTA [or: Anti-Counterfeiting Trade Agreement] "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/16127",
+        "type": "bonus",
+        "tournament": {
+          "id": 82,
+          "year": 2015,
+          "name": "2015 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:27.726Z",
+          "updated_at": "2017-08-27T18:44:27.726Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/82"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 17070,
+        "number": 14,
+        "round": "14",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 17084,
+        "tournament_id": 82,
+        "leadin": "This politician's government arrested the leader of Popular Will, Leopoldo LÃ³pez, for inciting 2014 protests. ",
+        "created_at": "2017-08-28T03:50:53.605Z",
+        "updated_at": "2017-08-28T03:50:53.605Z",
+        "formatted_leadin": "This politician's government arrested the leader of Popular Will, Leopoldo LÃ³pez, for inciting 2014 protests. ",
+        "texts": [
+          "Name this leader whose country has consistently topped the Global Misery Index, despite fighting a so-called \"economic war.\" He defeated Henrique Capriles by a narrow 1.5% during a 2013 presidential election.",
+          "Several airlines suspended service to this country over billions dollars in unpaid debts. Maduro became president of this country after the death of Hugo Chavez.",
+          "These community groups have fought against the waves of recent protests in Venezuela, often by attacking universities. They include the Fifth of March, La Piedrita, and the non-Uruguayan Tupamaros."
+        ],
+        "answers": [
+          "Nicolas Maduro",
+          "Venezuela",
+          "colectivos [or: collectives]"
+        ],
+        "formatted_texts": [
+          "Name this leader whose country has consistently topped the Global Misery Index, despite fighting a so-called \"economic war.\" He defeated Henrique Capriles by a narrow 1.5% during a 2013 presidential election.",
+          "Several airlines suspended service to this country over billions dollars in unpaid debts. Maduro became president of this country after the death of Hugo Chavez.",
+          "These community groups have fought against the waves of recent protests in Venezuela, often by attacking universities. They include the Fifth of March, La Piedrita, and the non-Uruguayan Tupamaros."
+        ],
+        "formatted_answers": [
+          "Nicolas Maduro",
+          "Venezuela",
+          "colectivos [or: collectives]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/17070",
+        "type": "bonus",
+        "tournament": {
+          "id": 82,
+          "year": 2015,
+          "name": "2015 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:27.726Z",
+          "updated_at": "2017-08-27T18:44:27.726Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/82"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 16856,
+        "number": 1,
+        "round": "9",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 16870,
+        "tournament_id": 82,
+        "leadin": "In 2015, this politician revealed plans to create a state-run media service named JustIN. ",
+        "created_at": "2017-08-28T03:50:51.750Z",
+        "updated_at": "2017-08-28T03:50:51.750Z",
+        "formatted_leadin": "In 2015, this politician revealed plans to create a state-run media service named JustIN. ",
+        "texts": [
+          "Name this governor who aimed for a 10% income tax cut after succeeding Mitch Daniels in 2013. He received backlash after the signing of the Religious Freedom Restoration Act.",
+          "By refusing to cater to same-sex couples, Memories Pizza became the first to utilize this state's Religious Freedom Restoration Act. In response to that act, this state's largest newspaper included the massive headline \"FIX THIS NOW\" on its front page.",
+          "Naturally, Mike Pence opposed a 2009 anti-hate crime act named after this person, who was tied to a fence and left for dead in Laramie, Wyoming in 1998."
+        ],
+        "answers": [
+          "Mike Pence",
+          "Indiana",
+          "Matthew Shepard"
+        ],
+        "formatted_texts": [
+          "Name this governor who aimed for a 10% income tax cut after succeeding Mitch Daniels in 2013. He received backlash after the signing of the Religious Freedom Restoration Act.",
+          "By refusing to cater to same-sex couples, Memories Pizza became the first to utilize this state's Religious Freedom Restoration Act. In response to that act, this state's largest newspaper included the massive headline \"FIX THIS NOW\" on its front page.",
+          "Naturally, Mike Pence opposed a 2009 anti-hate crime act named after this person, who was tied to a fence and left for dead in Laramie, Wyoming in 1998."
+        ],
+        "formatted_answers": [
+          "Mike Pence",
+          "Indiana",
+          "Matthew Shepard"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/16856",
+        "type": "bonus",
+        "tournament": {
+          "id": 82,
+          "year": 2015,
+          "name": "2015 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:27.726Z",
+          "updated_at": "2017-08-27T18:44:27.726Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/82"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 16903,
+        "number": 7,
+        "round": "10",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 16917,
+        "tournament_id": 82,
+        "leadin": "Although he is not from Italy, this politician is supported by an Italian party named The Other Europe.",
+        "created_at": "2017-08-28T03:50:52.181Z",
+        "updated_at": "2017-08-28T03:50:52.181Z",
+        "formatted_leadin": "Although he is not from Italy, this politician is supported by an Italian party named The Other Europe.",
+        "texts": [
+          "Name this head of state, whose finance minister formerly worked for Valve and resigned in July 2015. He currently leads the SYRIZA Party. ",
+          "Yanis Varoufakis's resignation, as well as Antonis Samaras's resignation from the leadership of New Democracy, were both caused by this country rejecting the European Commission's bailout conditions in July 2015. ",
+          "The first Greek bailout in 2010 was negotiated by George Papandreou, causing a drop in the popularity of this party and forcing it to enter a coalition government with its chief rival, New Democracy. "
+        ],
+        "answers": [
+          "Alexis Tsipras",
+          " Greece [or: Hellenic Republic, Hellas] ",
+          "PASOK [or: Panhellenic Socialist Movement] "
+        ],
+        "formatted_texts": [
+          "Name this head of state, whose finance minister formerly worked for Valve and resigned in July 2015. He currently leads the SYRIZA Party. ",
+          "Yanis Varoufakis's resignation, as well as Antonis Samaras's resignation from the leadership of New Democracy, were both caused by this country rejecting the European Commission's bailout conditions in July 2015. ",
+          "The first Greek bailout in 2010 was negotiated by George Papandreou, causing a drop in the popularity of this party and forcing it to enter a coalition government with its chief rival, New Democracy. "
+        ],
+        "formatted_answers": [
+          "Alexis Tsipras",
+          " Greece [or: Hellenic Republic, Hellas] ",
+          "PASOK [or: Panhellenic Socialist Movement] "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/16903",
+        "type": "bonus",
+        "tournament": {
+          "id": 82,
+          "year": 2015,
+          "name": "2015 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:27.726Z",
+          "updated_at": "2017-08-27T18:44:27.726Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/82"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 11003,
+        "number": 20,
+        "round": "8",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 11017,
+        "tournament_id": 63,
+        "leadin": "Because publications of this type can fall victim to the \"file drawer problem,\" they increasingly depend on pre-registration through CTRs. For 10 points each:",
+        "created_at": "2017-08-28T03:49:58.882Z",
+        "updated_at": "2017-08-28T03:49:58.882Z",
+        "formatted_leadin": "Because publications of this type can fall victim to the \"file drawer problem,\" they increasingly depend on pre-registration through CTRs. For 10 points each:",
+        "texts": [
+          "Name these publications that have been criticized for exhibiting publication bias toward significant results and for publishing results that are non-reproducible even though they were based on randomized controlled trials. A prominent one is published in New England.",
+          "This Greek-American doctor and meta-analyst, who was profiled in the 2010 Atlantic article \"Lies, Damn Lies, and Medical Science,\" published a 2005 article in the journal PLOS Medicine titled \"Why Most Published Research Findings Are False.\"",
+          "In February 2010, this weekly peer-reviewed journal, considered the gold standard of British medical journals, fully retracted an Andrew Wakefield-led study from 1998 linking childhood vaccines to autism."
+        ],
+        "answers": [
+          "medical journals [or public health journals; accept journals of medicine or other close equivalents]",
+          "John P.A. Ioannidis",
+          "The Lancet"
+        ],
+        "formatted_texts": [
+          "Name these publications that have been criticized for exhibiting publication bias toward significant results and for publishing results that are non-reproducible even though they were based on randomized controlled trials. A prominent one is published in New England.",
+          "This Greek-American doctor and meta-analyst, who was profiled in the 2010 Atlantic article \"Lies, Damn Lies, and Medical Science,\" published a 2005 article in the journal PLOS Medicine titled \"Why Most Published Research Findings Are False.\"",
+          "In February 2010, this weekly peer-reviewed journal, considered the gold standard of British medical journals, fully retracted an Andrew Wakefield-led study from 1998 linking childhood vaccines to autism."
+        ],
+        "formatted_answers": [
+          "medical journals [or public health journals; accept journals of medicine or other close equivalents]",
+          "John P.A. Ioannidis",
+          "The Lancet"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/11003",
+        "type": "bonus",
+        "tournament": {
+          "id": 63,
+          "year": 2014,
+          "name": "2014 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:23.228Z",
+          "updated_at": "2017-08-27T18:44:23.228Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/63"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 10299,
+        "number": 12,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 10313,
+        "tournament_id": 63,
+        "leadin": "This author's The Language Police argues that both left- and right-wing interest groups attempt to stifle opposition in standardized tests and textbooks. For 10 points each:",
+        "created_at": "2017-08-28T03:49:52.340Z",
+        "updated_at": "2017-08-28T03:49:52.340Z",
+        "formatted_leadin": "This author's The Language Police argues that both left- and right-wing interest groups attempt to stifle opposition in standardized tests and textbooks. For 10 points each:",
+        "texts": [
+          "Name this historian of education who chronicled the history of the New York City school system in The Great School Wars and critiqued the obsession with testing in The Death and Life of the Great American School System.",
+          "Ravitch criticized this 2010 Davis Guggenheim documentary, which features Geoffrey Canada and Michelle Rhee, as misleading propaganda suggesting that charter schools are a solution to the problems in urban public schools.",
+          "This MSNBC host critiqued elite educational institutions in his Twilight of the Elites: America After Meritocracy."
+        ],
+        "answers": [
+          "Diane [Silvers] Ravitch",
+          "Waiting for \"Superman\"",
+          "[Christopher L.] Chris Hayes"
+        ],
+        "formatted_texts": [
+          "Name this historian of education who chronicled the history of the New York City school system in The Great School Wars and critiqued the obsession with testing in The Death and Life of the Great American School System.",
+          "Ravitch criticized this 2010 Davis Guggenheim documentary, which features Geoffrey Canada and Michelle Rhee, as misleading propaganda suggesting that charter schools are a solution to the problems in urban public schools.",
+          "This MSNBC host critiqued elite educational institutions in his Twilight of the Elites: America After Meritocracy."
+        ],
+        "formatted_answers": [
+          "Diane [Silvers] Ravitch",
+          "Waiting for \"Superman\"",
+          "[Christopher L.] Chris Hayes"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/10299",
+        "type": "bonus",
+        "tournament": {
+          "id": 63,
+          "year": 2014,
+          "name": "2014 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:23.228Z",
+          "updated_at": "2017-08-27T18:44:23.228Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/63"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 10322,
+        "number": 15,
+        "round": "2",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 10336,
+        "tournament_id": 63,
+        "leadin": "In April 1966, Esquire published a profile of a singer that was written by this journalist, who did not have consent of the subject, but wrote the piece after trailing the singer's entourage and writing his observations. For 10 points each:",
+        "created_at": "2017-08-28T03:49:52.582Z",
+        "updated_at": "2017-08-28T03:49:52.582Z",
+        "formatted_leadin": "In April 1966, Esquire published a profile of a singer that was written by this journalist, who did not have consent of the subject, but wrote the piece after trailing the singer's entourage and writing his observations. For 10 points each:",
+        "texts": [
+          "Name this still-living journalist who wrote the Esquire article \"Frank Sinatra Has a Cold.\"",
+          "Talese's articles were some of the earliest examples of \"New Journalism,\" a term coined by this author of The Electric Kool-Aid Acid Test and A Man in Full.",
+          "The Wolfe-edited 1973 anthology The New Journalism contained Beth Ann and Macrobioticism, the first magazine article by this rock music critic whose \"Consumer Guide\" columns appear in The Village V oice."
+        ],
+        "answers": [
+          "Gay Talese",
+          "Tom Wolfe [accept Thomas Kennerly Wolfe (Jr.); do not accept or prompt on \"Thomas (Clayton) Wolfe\"]",
+          "Robert Christgau"
+        ],
+        "formatted_texts": [
+          "Name this still-living journalist who wrote the Esquire article \"Frank Sinatra Has a Cold.\"",
+          "Talese's articles were some of the earliest examples of \"New Journalism,\" a term coined by this author of The Electric Kool-Aid Acid Test and A Man in Full.",
+          "The Wolfe-edited 1973 anthology The New Journalism contained Beth Ann and Macrobioticism, the first magazine article by this rock music critic whose \"Consumer Guide\" columns appear in The Village V oice."
+        ],
+        "formatted_answers": [
+          "Gay Talese",
+          "Tom Wolfe [accept Thomas Kennerly Wolfe (Jr.); do not accept or prompt on \"Thomas (Clayton) Wolfe\"]",
+          "Robert Christgau"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/10322",
+        "type": "bonus",
+        "tournament": {
+          "id": 63,
+          "year": 2014,
+          "name": "2014 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:23.228Z",
+          "updated_at": "2017-08-27T18:44:23.228Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/63"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 10345,
+        "number": 18,
+        "round": "3",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 10359,
+        "tournament_id": 63,
+        "leadin": "Archie McPhee made an action figure of this person that featured \"amazing push-button shushing action.\" For 10 points each:",
+        "created_at": "2017-08-28T03:49:52.858Z",
+        "updated_at": "2017-08-28T03:49:52.858Z",
+        "formatted_leadin": "Archie McPhee made an action figure of this person that featured \"amazing push-button shushing action.\" For 10 points each:",
+        "texts": [
+          "Name this librarian who published a series of suggested-reading lists in 2003 called Book Lust: Recommended Reading for Every Mood, Moment, and Reason.",
+          "Pearl came to fame while working in the library system of this city, whose central library was designed by Rem Koolhaas to feature a \"mixing chamber\" and a \"living room.\"",
+          "In 2012, Pearl agreed to work with this publisher on the Book Lust Rediscoveries program, which publishes six out-of-print books a year. This publisher's imprints include Thomas &amp; Mercer for crime fiction, 47North for scifi, and its \"Encore\" imprint for out-of-print or self-published titles."
+        ],
+        "answers": [
+          "Nancy Pearl",
+          "Seattle, Washington",
+          "Amazon Publishing [accept Amazon.com Inc. or AmazonEncore]"
+        ],
+        "formatted_texts": [
+          "Name this librarian who published a series of suggested-reading lists in 2003 called Book Lust: Recommended Reading for Every Mood, Moment, and Reason.",
+          "Pearl came to fame while working in the library system of this city, whose central library was designed by Rem Koolhaas to feature a \"mixing chamber\" and a \"living room.\"",
+          "In 2012, Pearl agreed to work with this publisher on the Book Lust Rediscoveries program, which publishes six out-of-print books a year. This publisher's imprints include Thomas & Mercer for crime fiction, 47North for scifi, and its \"Encore\" imprint for out-of-print or self-published titles."
+        ],
+        "formatted_answers": [
+          "Nancy Pearl",
+          "Seattle, Washington",
+          "Amazon Publishing [accept Amazon.com Inc. or AmazonEncore]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/10345",
+        "type": "bonus",
+        "tournament": {
+          "id": 63,
+          "year": 2014,
+          "name": "2014 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:23.228Z",
+          "updated_at": "2017-08-27T18:44:23.228Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/63"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 11351,
+        "number": 9,
+        "round": "14",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 11365,
+        "tournament_id": 63,
+        "leadin": "\"Prolonged Stay in Weightless Environment,\" \"Sibling Rivalry\" and \"Struck by Orca\" are elements of this system's 10th revision, whose \"Clinical Modification\" is slated to go into effect on October 1, 2015. For 10 points each:",
+        "created_at": "2017-08-28T03:50:02.309Z",
+        "updated_at": "2017-08-28T03:50:02.309Z",
+        "formatted_leadin": "\"Prolonged Stay in Weightless Environment,\" \"Sibling Rivalry\" and \"Struck by Orca\" are elements of this system's 10th revision, whose \"Clinical Modification\" is slated to go into effect on October 1, 2015. For 10 points each:",
+        "texts": [
+          "Name this scheme that is used to codify diagnoses, symptoms, and ailments in health records, making it easy to compare health data internationally. It is maintained by the World Health Organization.",
+          "In its surveys, the WHO uses these units to report on the impact of a disease or intervention. The \"disability adjusted\" metric of this type incorporates time costs due to mortality and morbidity, and the \"quality adjusted\" metric with these units scales incremental longevity by a factor representing a \"health utility\" score.",
+          "Recent surveys show that the global burden of this disease peaked around 2005, thanks to greater access to antiretroviral therapies such as a combination of Tenofovir, Efavirenz, and Lamivudine."
+        ],
+        "answers": [
+          "ICD [9 or 10] [or International [Statistical] Classification of Diseases [and Related Health Problems]]",
+          "life years [or LY; accept life months or life days]",
+          "HIV/AIDS [or human immunodeficiency virus/acquired immunodeficiency syndrome; prompt on \"HIV\" or \"human immunodeficiency virus\"]"
+        ],
+        "formatted_texts": [
+          "Name this scheme that is used to codify diagnoses, symptoms, and ailments in health records, making it easy to compare health data internationally. It is maintained by the World Health Organization.",
+          "In its surveys, the WHO uses these units to report on the impact of a disease or intervention. The \"disability adjusted\" metric of this type incorporates time costs due to mortality and morbidity, and the \"quality adjusted\" metric with these units scales incremental longevity by a factor representing a \"health utility\" score.",
+          "Recent surveys show that the global burden of this disease peaked around 2005, thanks to greater access to antiretroviral therapies such as a combination of Tenofovir, Efavirenz, and Lamivudine."
+        ],
+        "formatted_answers": [
+          "ICD [9 or 10] [or International [Statistical] Classification of Diseases [and Related Health Problems]]",
+          "life years [or LY; accept life months or life days]",
+          "HIV/AIDS [or human immunodeficiency virus/acquired immunodeficiency syndrome; prompt on \"HIV\" or \"human immunodeficiency virus\"]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/11351",
+        "type": "bonus",
+        "tournament": {
+          "id": 63,
+          "year": 2014,
+          "name": "2014 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:23.228Z",
+          "updated_at": "2017-08-27T18:44:23.228Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/63"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 11482,
+        "number": 18,
+        "round": "18",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 11496,
+        "tournament_id": 63,
+        "leadin": "Early theories that attempted to study whether these phenomena were driven by rational behavior were inspired by the excess volatility observations of Shiller, Le Roy, and Porter in the early 1980s. For 10 points each:",
+        "created_at": "2017-08-28T03:50:03.382Z",
+        "updated_at": "2017-08-28T03:50:03.382Z",
+        "formatted_leadin": "Early theories that attempted to study whether these phenomena were driven by rational behavior were inspired by the excess volatility observations of Shiller, Le Roy, and Porter in the early 1980s. For 10 points each:",
+        "texts": [
+          "Name these phenomena. Modern statistical tests to confirm or deny the existence of them check for whether time-series such as price-dividend ratios become non-stationary. Historical examples of these phenomena include the \"Dot-Com\" one that \"popped\" in at the turn of the millennium.",
+          "According to this hypothesis, economies exaggerate the namesake behavior by pursuing debt-fueled investment in good times; the unfolding of Ponzi schemes and other frictions push things in the other direction. It was developed by Hyman Minsky.",
+          "The liquidity crisis that resulted from the collapse of \"Shadow Banks\" is often cited as the \"Minsky moment\" of the 2007-08 financial crisis. The term \"Shadow Banks\" was coined by this now-Chief Economist of PIMCO, who wrote a lengthy research note in May 2009 outlining the financial crisis from a Minskian perspective."
+        ],
+        "answers": [
+          "bubble [accept economic bubble or asset price bubble]",
+          "financial instability hypothesis",
+          "Paul McCulley"
+        ],
+        "formatted_texts": [
+          "Name these phenomena. Modern statistical tests to confirm or deny the existence of them check for whether time-series such as price-dividend ratios become non-stationary. Historical examples of these phenomena include the \"Dot-Com\" one that \"popped\" in at the turn of the millennium.",
+          "According to this hypothesis, economies exaggerate the namesake behavior by pursuing debt-fueled investment in good times; the unfolding of Ponzi schemes and other frictions push things in the other direction. It was developed by Hyman Minsky.",
+          "The liquidity crisis that resulted from the collapse of \"Shadow Banks\" is often cited as the \"Minsky moment\" of the 2007-08 financial crisis. The term \"Shadow Banks\" was coined by this now-Chief Economist of PIMCO, who wrote a lengthy research note in May 2009 outlining the financial crisis from a Minskian perspective."
+        ],
+        "formatted_answers": [
+          "bubble [accept economic bubble or asset price bubble]",
+          "financial instability hypothesis",
+          "Paul McCulley"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/11482",
+        "type": "bonus",
+        "tournament": {
+          "id": 63,
+          "year": 2014,
+          "name": "2014 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:23.228Z",
+          "updated_at": "2017-08-27T18:44:23.228Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/63"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4497,
+        "number": 22,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4511,
+        "tournament_id": 29,
+        "leadin": "An Anne Elizabeth Morse article on the \"triumph\" of this company was titled \"The Vertically Integrated Rape Joke\".",
+        "created_at": "2017-08-28T03:48:53.421Z",
+        "updated_at": "2017-09-02T02:18:53.334Z",
+        "formatted_leadin": "An Anne Elizabeth Morse article on the \"triumph\" of this company was titled \"The Vertically Integrated Rape Joke\".",
+        "texts": [
+          "Identify this media company whose CEO is Shane Smith, and which is fond of pulling stunts like setting homeless people on fire and running fake stories about Osama bin Laden being discovered. It now has a series on HBO.",
+          "Vice gained a lot of publicity for filming the basketball diplomacy between this former Bulls forward and Kim Jong-un.",
+          "Before joining up with News Corp., Vice hired a lookalike of News of the World editor Rebekah Brooks to \"identity hack David Cameron's crush\" during these proceedings on the phone-hacking scandal. The two thousand page report issued by this body in November 2012 called for replacing the Press Complaints Commission and beefing up the Data Protection Act."
+        ],
+        "answers": [
+          "Vice",
+          "Dennis (Keith) Rodman",
+          "Leveson Inquiry"
+        ],
+        "formatted_texts": [
+          "Identify this media company whose CEO is Shane Smith, and which is fond of pulling stunts like setting homeless people on fire and running fake stories about Osama bin Laden being discovered. It now has a series on HBO.",
+          "Vice gained a lot of publicity for filming the basketball diplomacy between this former Bulls forward and Kim Jong-un.",
+          "Before joining up with News Corp., Vice hired a lookalike of News of the World editor Rebekah Brooks to \"identity hack David Cameron's crush\" during these proceedings on the phone-hacking scandal. The two thousand page report issued by this body in November 2012 called for replacing the Press Complaints Commission and beefing up the Data Protection Act."
+        ],
+        "formatted_answers": [
+          "Vice",
+          "Dennis (Keith) Rodman",
+          "Leveson Inquiry"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4497",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4681,
+        "number": 16,
+        "round": "14",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4695,
+        "tournament_id": 29,
+        "leadin": "In a July 2014 debate, Al Sharpton charged that Dante de Blasio would be subject to this procedure if he were not the mayor's son.",
+        "created_at": "2017-08-28T03:48:55.622Z",
+        "updated_at": "2017-09-02T02:18:56.191Z",
+        "formatted_leadin": "In a July 2014 debate, Al Sharpton charged that Dante de Blasio would be subject to this procedure if he were not the mayor's son.",
+        "texts": [
+          "Identify this illegal police maneuver which the NYPD was caught on film using two times within the span of a week in July 2014, once on pregnant woman Rosan Miller and once on Eric Garner, who died as a result.",
+          "Garner was being arrested for this crime, which is common in New York City due to the $5.85 in total tax applied when purchasing the same goods in the legally allowable unit.",
+          "Another NYPD member, Kenneth Moreno, filed a $175 million lawsuit in July after his acquittal for this crime, of which he was definitely guilty. A Google bombing campaign seeks to permanently associate this word and \"cop\" with Moreno's name."
+        ],
+        "answers": [
+          "a chokehold",
+          "selling individual cigarettes [or selling untaxed cigarettes or selling loosie cigarettes; prompt on selling cigarettes]",
+          "rape"
+        ],
+        "formatted_texts": [
+          "Identify this illegal police maneuver which the NYPD was caught on film using two times within the span of a week in July 2014, once on pregnant woman Rosan Miller and once on Eric Garner, who died as a result.",
+          "Garner was being arrested for this crime, which is common in New York City due to the $5.85 in total tax applied when purchasing the same goods in the legally allowable unit.",
+          "Another NYPD member, Kenneth Moreno, filed a $175 million lawsuit in July after his acquittal for this crime, of which he was definitely guilty. A Google bombing campaign seeks to permanently associate this word and \"cop\" with Moreno's name."
+        ],
+        "formatted_answers": [
+          "a chokehold",
+          "selling individual cigarettes [or selling untaxed cigarettes or selling loosie cigarettes; prompt on selling cigarettes]",
+          "rape"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4681",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4529,
+        "number": 11,
+        "round": "7",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4543,
+        "tournament_id": 29,
+        "leadin": "This building's popular name comes from the man who owned it prior to its seizure in the 1994 banking crisis.",
+        "created_at": "2017-08-28T03:48:53.799Z",
+        "updated_at": "2017-09-02T02:18:53.837Z",
+        "formatted_leadin": "This building's popular name comes from the man who owned it prior to its seizure in the 1994 banking crisis.",
+        "texts": [
+          "Name this 45-story skyscraper in Caracas in which the government has encouraged people to squat since 2007, prior to 2014 evictions.",
+          "This current president of Venezuela has suggested selling the tower to Chinese investors.",
+          "This founder of Voluntad Popular was arrested by the Maduro regime in February 2014, and has since been the subject of Human Rights Watch complaints over torture and isolation from his attorneys and family in Ramo Verde military prison."
+        ],
+        "answers": [
+          "the Tower of David [or Centro Financiero Confinanzas]",
+          "Nicholas Maduro",
+          "Leopoldo Lopez"
+        ],
+        "formatted_texts": [
+          "Name this 45-story skyscraper in Caracas in which the government has encouraged people to squat since 2007, prior to 2014 evictions.",
+          "This current president of Venezuela has suggested selling the tower to Chinese investors.",
+          "This founder of Voluntad Popular was arrested by the Maduro regime in February 2014, and has since been the subject of Human Rights Watch complaints over torture and isolation from his attorneys and family in Ramo Verde military prison."
+        ],
+        "formatted_answers": [
+          "the Tower of David [or Centro Financiero Confinanzas]",
+          "Nicholas Maduro",
+          "Leopoldo Lopez"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4529",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4500,
+        "number": 3,
+        "round": "6",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4514,
+        "tournament_id": 29,
+        "leadin": "In 2014, this country's parliament building was attacked by a rogue militia loyal to Khalifa Hiftar. ",
+        "created_at": "2017-08-28T03:48:53.455Z",
+        "updated_at": "2017-09-02T02:18:53.384Z",
+        "formatted_leadin": "In 2014, this country's parliament building was attacked by a rogue militia loyal to Khalifa Hiftar. ",
+        "texts": [
+          "Name this country, where Christopher Stevens and Sean Smith were killed in September 2012.",
+          "A recurring source of turmoil in 2014 Libyan politics is rebel groups performing this economically crippling action, especially at Zueitina and Hariga.",
+          "13,000 Filipino citizens were urged to evacuate Libya in July 2013 following the murder of a construction worker and the sexual assault of a guest worker in this profession. In 2000, five Bulgarians with this profession were put on trial in Libya after being accused of heading a bizarre conspiracy by the Gaddafi government."
+        ],
+        "answers": [
+          "Libya",
+          "blockading the export of oil [or equivalents, prompt on answers that don't mention oil]",
+          "nurses"
+        ],
+        "formatted_texts": [
+          "Name this country, where Christopher Stevens and Sean Smith were killed in September 2012.",
+          "A recurring source of turmoil in 2014 Libyan politics is rebel groups performing this economically crippling action, especially at Zueitina and Hariga.",
+          "13,000 Filipino citizens were urged to evacuate Libya in July 2013 following the murder of a construction worker and the sexual assault of a guest worker in this profession. In 2000, five Bulgarians with this profession were put on trial in Libya after being accused of heading a bizarre conspiracy by the Gaddafi government."
+        ],
+        "formatted_answers": [
+          "Libya",
+          "blockading the export of oil [or equivalents, prompt on answers that don't mention oil]",
+          "nurses"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4500",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4496,
+        "number": 21,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4510,
+        "tournament_id": 29,
+        "leadin": "An Anne Elizabeth Morse article on the \"triumph\" of this company was titled \"The Vertically Integrated Rape Joke\".",
+        "created_at": "2017-08-28T03:48:53.411Z",
+        "updated_at": "2017-09-02T02:18:53.316Z",
+        "formatted_leadin": "An Anne Elizabeth Morse article on the \"triumph\" of this company was titled \"The Vertically Integrated Rape Joke\".",
+        "texts": [
+          "Identify this media company whose CEO is Shane Smith, and which is fond of pulling stunts like setting homeless people on fire and running fake stories about Osama bin Laden being discovered. It now has a series on HBO.",
+          "Vice gained a lot of publicity for filming the basketball diplomacy between this former Bulls forward and Kim Jong-un.",
+          "Before joining up with News Corp., Vice hired a lookalike of News of the World editor Rebekah Brooks to \"identity hack David Cameron's crush\" during these proceedings on the phone-hacking scandal. The two thousand page report issued by this body in November 2012 called for replacing the Press Complaints Commission and beefing up the Data Protection Act."
+        ],
+        "answers": [
+          "Vice",
+          "Dennis (Keith) Rodman",
+          "Leveson Inquiry"
+        ],
+        "formatted_texts": [
+          "Identify this media company whose CEO is Shane Smith, and which is fond of pulling stunts like setting homeless people on fire and running fake stories about Osama bin Laden being discovered. It now has a series on HBO.",
+          "Vice gained a lot of publicity for filming the basketball diplomacy between this former Bulls forward and Kim Jong-un.",
+          "Before joining up with News Corp., Vice hired a lookalike of News of the World editor Rebekah Brooks to \"identity hack David Cameron's crush\" during these proceedings on the phone-hacking scandal. The two thousand page report issued by this body in November 2012 called for replacing the Press Complaints Commission and beefing up the Data Protection Act."
+        ],
+        "formatted_answers": [
+          "Vice",
+          "Dennis (Keith) Rodman",
+          "Leveson Inquiry"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4496",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 3713,
+        "number": 3,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 3727,
+        "tournament_id": 29,
+        "leadin": "In March 2010, this group collected ten milliliters of blood from volunteers and symbolically poured it out at the Government House. For 10 points each:",
+        "created_at": "2017-08-28T03:48:44.995Z",
+        "updated_at": "2017-08-28T03:48:44.995Z",
+        "formatted_leadin": "In March 2010, this group collected ten milliliters of blood from volunteers and symbolically poured it out at the Government House. For 10 points each:",
+        "texts": [
+          "Name this coalition headed by Nattawut Saikua and Jatuporn Prompan, which opposes the People's Alliance for Democracy.",
+          "The Red Shirts support deposed prime ministers Thaksin and Yingluck Shinawatra in this country.",
+          "This military junta led by Prayuth Chan-ocha seized power in Thailand in May 2014."
+        ],
+        "answers": [
+          "Red Shirts [or United Front for Democracy Against Dictatorship]",
+          "Thailand",
+          "National Council for Peace and Order"
+        ],
+        "formatted_texts": [
+          "Name this coalition headed by Nattawut Saikua and Jatuporn Prompan, which opposes the People's Alliance for Democracy.",
+          "The Red Shirts support deposed prime ministers Thaksin and Yingluck Shinawatra in this country.",
+          "This military junta led by Prayuth Chan-ocha seized power in Thailand in May 2014."
+        ],
+        "formatted_answers": [
+          "Red Shirts [or United Front for Democracy Against Dictatorship]",
+          "Thailand",
+          "National Council for Peace and Order"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/3713",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4647,
+        "number": 3,
+        "round": "13",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4661,
+        "tournament_id": 29,
+        "leadin": "In March 2014, three members of Congress wrote a letter to this company asking why one of its best selling drugs costs so much.",
+        "created_at": "2017-08-28T03:48:55.277Z",
+        "updated_at": "2017-08-28T03:48:55.277Z",
+        "formatted_leadin": "In March 2014, three members of Congress wrote a letter to this company asking why one of its best selling drugs costs so much.",
+        "texts": [
+          "Identify this biotech company which produces Sovaldi, a drug whose full treatment costs around eighty thousand dollars.",
+          "With Sovaldi, Gilead has developed one of the first effective treatments for this disease, which causes liver problems for about 3.2 million Americans. Unlike two similarly named diseases, there is no vaccine for it.",
+          "One of the Congressmen who grilled Gilead on its drug prices was this California representative and net neutrality advocate who announced he was stepped down in 2014 after almost 40 years in office. His stint as chairman of the House Committee on Energy and Commerce attracted criticism from Darrell Issa for close ties to Solyndra."
+        ],
+        "answers": [
+          "Gilead Sciences",
+          "Hepatitis-C [prompt on partial answer]",
+          "Henry (Arnold) Waxman"
+        ],
+        "formatted_texts": [
+          "Identify this biotech company which produces Sovaldi, a drug whose full treatment costs around eighty thousand dollars.",
+          "With Sovaldi, Gilead has developed one of the first effective treatments for this disease, which causes liver problems for about 3.2 million Americans. Unlike two similarly named diseases, there is no vaccine for it.",
+          "One of the Congressmen who grilled Gilead on its drug prices was this California representative and net neutrality advocate who announced he was stepped down in 2014 after almost 40 years in office. His stint as chairman of the House Committee on Energy and Commerce attracted criticism from Darrell Issa for close ties to Solyndra."
+        ],
+        "formatted_answers": [
+          "Gilead Sciences",
+          "Hepatitis-C [prompt on partial answer]",
+          "Henry (Arnold) Waxman"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4647",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4590,
+        "number": 9,
+        "round": "10",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4604,
+        "tournament_id": 29,
+        "leadin": "There are some \"interesting\" Senate races taking place in 2014. Name some stuff about one of them. ",
+        "created_at": "2017-08-28T03:48:54.566Z",
+        "updated_at": "2017-08-28T03:48:54.566Z",
+        "formatted_leadin": "There are some \"interesting\" Senate races taking place in 2014. Name some stuff about one of them. ",
+        "texts": [
+          "This Louisiana senator from a long line of Louisiana politicians is in a tight race with Bill Cassidy. Her brother Mitch, the Mayor of New Orleans, is a rumored candidate for governor in 2016.",
+          "Representative Cory Gardner jumped into the race against this incumbent, making his re-election chances much more difficult. Tom Steyer's super PAC has given this environmentalist a lot of money.",
+          "This goofy-looking member of the House of Representatives is taking on Terri Lynn Land in Michigan. He looks so boring I'm sure there's nothing else interesting to say about him."
+        ],
+        "answers": [
+          "Mary Landrieu",
+          "Mark Udall",
+          "Gary Peters"
+        ],
+        "formatted_texts": [
+          "This Louisiana senator from a long line of Louisiana politicians is in a tight race with Bill Cassidy. Her brother Mitch, the Mayor of New Orleans, is a rumored candidate for governor in 2016.",
+          "Representative Cory Gardner jumped into the race against this incumbent, making his re-election chances much more difficult. Tom Steyer's super PAC has given this environmentalist a lot of money.",
+          "This goofy-looking member of the House of Representatives is taking on Terri Lynn Land in Michigan. He looks so boring I'm sure there's nothing else interesting to say about him."
+        ],
+        "formatted_answers": [
+          "Mary Landrieu",
+          "Mark Udall",
+          "Gary Peters"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4590",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 3938,
+        "number": 17,
+        "round": "3",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 3952,
+        "tournament_id": 29,
+        "leadin": "In 2002, NYU became the first private university to recognize a labor union representing these type of people. ",
+        "created_at": "2017-08-28T03:48:47.303Z",
+        "updated_at": "2017-08-28T03:48:47.303Z",
+        "formatted_leadin": "In 2002, NYU became the first private university to recognize a labor union representing these type of people. ",
+        "texts": [
+          "Identify these people, who often receive a stipend in exchange for conducting research or teaching classes.",
+          "Under President John Sexton, NYU has opened a satellite campus in this Middle Eastern city. This home of the massive Sheikh Zayed Mosque is where Etihad Airways, and the state-of-the-art Khalifa Port opened here in 2012.",
+          "Sexton tapped Al Bloom, a former president of this university, to head NYU Abu Dhabi. Solomon Asch did his first conformity experiments at this liberal arts college."
+        ],
+        "answers": [
+          "graduate students [or graduate assistants or teaching assistants of TAs or postgraduate students or PhD candidates; prompt on just \"students\" or \"college students\"]",
+          "Abu Dhabi",
+          "Swarthmore College"
+        ],
+        "formatted_texts": [
+          "Identify these people, who often receive a stipend in exchange for conducting research or teaching classes.",
+          "Under President John Sexton, NYU has opened a satellite campus in this Middle Eastern city. This home of the massive Sheikh Zayed Mosque is where Etihad Airways, and the state-of-the-art Khalifa Port opened here in 2012.",
+          "Sexton tapped Al Bloom, a former president of this university, to head NYU Abu Dhabi. Solomon Asch did his first conformity experiments at this liberal arts college."
+        ],
+        "formatted_answers": [
+          "graduate students [or graduate assistants or teaching assistants of TAs or postgraduate students or PhD candidates; prompt on just \"students\" or \"college students\"]",
+          "Abu Dhabi",
+          "Swarthmore College"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/3938",
+        "type": "bonus",
+        "tournament": {
+          "id": 29,
+          "year": 2014,
+          "name": "2014 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:16.895Z",
+          "updated_at": "2017-08-27T18:44:16.895Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/29"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6682,
+        "number": 13,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 6696,
+        "tournament_id": 41,
+        "leadin": "Juan Dominguez represented workers of this company in the Tellez trial against it. For 10 points each:",
+        "created_at": "2017-08-28T03:49:17.218Z",
+        "updated_at": "2017-08-28T03:49:17.218Z",
+        "formatted_leadin": "Juan Dominguez represented workers of this company in the Tellez trial against it. For 10 points each:",
+        "texts": [
+          "Name this multinational corporation, which was sued by Nicaraguan workers for exposing them to the harmful pesticide DBCP.",
+          "Dole's Latin American plantations mainly grow this product. Ed Whitman produced a film called \"Why the Kremlin Hates [This Product]\" to support the CIA's overthrow of Guatemala on behalf of United Fruit",
+          "In 2012, this organization signed an agreement with eleven Latin American countries which ended the decades-long \"banana wars,\" which were fought over tariffs on banana exports. "
+        ],
+        "answers": [
+          "Dole Food Company Inc",
+          "bananas ",
+          "the European Union"
+        ],
+        "formatted_texts": [
+          "Name this multinational corporation, which was sued by Nicaraguan workers for exposing them to the harmful pesticide DBCP.",
+          "Dole's Latin American plantations mainly grow this product. Ed Whitman produced a film called \"Why the Kremlin Hates [This Product]\" to support the CIA's overthrow of Guatemala on behalf of United Fruit",
+          "In 2012, this organization signed an agreement with eleven Latin American countries which ended the decades-long \"banana wars,\" which were fought over tariffs on banana exports. "
+        ],
+        "formatted_answers": [
+          "Dole Food Company Inc",
+          "bananas ",
+          "the European Union"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6682",
+        "type": "bonus",
+        "tournament": {
+          "id": 41,
+          "year": 2013,
+          "name": "2013 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:19.717Z",
+          "updated_at": "2017-08-27T18:44:19.717Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/41"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13093,
+        "number": 1,
+        "round": "7",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 13107,
+        "tournament_id": 30,
+        "leadin": "Massive protests in this country over a nine-cent hike in bus fare became radically more popular after the Movement for Free Travel was brutally repressed. For 10 points each:",
+        "created_at": "2017-08-28T03:50:16.420Z",
+        "updated_at": "2017-08-28T03:50:16.420Z",
+        "formatted_leadin": "Massive protests in this country over a nine-cent hike in bus fare became radically more popular after the Movement for Free Travel was brutally repressed. For 10 points each:",
+        "texts": [
+          " Name this country where June 2013 protests broke out over cuts to services such as education and transportation.",
+          "This leftist President of Brazil has said she is proud of the protesters's fight to improve the country. A mocking chant by the protesters asked this leader \"what's the point? / To ride the bus / we're paying more than for a joint\".",
+          " This movement led a March for [its namesake substance's] Legalization after journalist Piero Locatelli was arrested for carrying said substance."
+        ],
+        "answers": [
+          "Federative Republic of Brazil [or RepÃºblica Federativa do Brasil]",
+          "Dilma Rousseff",
+          "V for Vinegar [do not accept or prompt on \"Salad Uprising\"]"
+        ],
+        "formatted_texts": [
+          " Name this country where June 2013 protests broke out over cuts to services such as education and transportation.",
+          "This leftist President of Brazil has said she is proud of the protesters's fight to improve the country. A mocking chant by the protesters asked this leader \"what's the point? / To ride the bus / we're paying more than for a joint\".",
+          " This movement led a March for [its namesake substance's] Legalization after journalist Piero Locatelli was arrested for carrying said substance."
+        ],
+        "formatted_answers": [
+          "Federative Republic of Brazil [or RepÃºblica Federativa do Brasil]",
+          "Dilma Rousseff",
+          "V for Vinegar [do not accept or prompt on \"Salad Uprising\"]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13093",
+        "type": "bonus",
+        "tournament": {
+          "id": 30,
+          "year": 2013,
+          "name": "2013 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.013Z",
+          "updated_at": "2017-08-27T18:44:17.013Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/30"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13483,
+        "number": 8,
+        "round": "10",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 13497,
+        "tournament_id": 30,
+        "leadin": "A November 2011 report revealed this man had broken a promise to forego a salary. For 10 points each:",
+        "created_at": "2017-08-28T03:50:19.548Z",
+        "updated_at": "2017-08-28T03:50:19.548Z",
+        "formatted_leadin": "A November 2011 report revealed this man had broken a promise to forego a salary. For 10 points each:",
+        "texts": [
+          "Name this former basketball player and embattled mayor, who had previously donated that salary to the funding for the Detroit Police Department.",
+          "This Emergency Financial Manager represented Chrysler during its restructuring before being hired in March to oversee Detroit's finances. In July 2013, this man filed for Detroit to enter bankruptcy proceedings.",
+          "This President and first openly gay member of the Detroit City Council basically stopped showing up to work after allegations emerged of a relationship with a teenage boy that he had been \"mentoring\". Orr saved a few bucks by promptly severing his pay."
+        ],
+        "answers": [
+          "Dave Bing",
+          "Kevyn Orr",
+          "Charles Pugh"
+        ],
+        "formatted_texts": [
+          "Name this former basketball player and embattled mayor, who had previously donated that salary to the funding for the Detroit Police Department.",
+          "This Emergency Financial Manager represented Chrysler during its restructuring before being hired in March to oversee Detroit's finances. In July 2013, this man filed for Detroit to enter bankruptcy proceedings.",
+          "This President and first openly gay member of the Detroit City Council basically stopped showing up to work after allegations emerged of a relationship with a teenage boy that he had been \"mentoring\". Orr saved a few bucks by promptly severing his pay."
+        ],
+        "formatted_answers": [
+          "Dave Bing",
+          "Kevyn Orr",
+          "Charles Pugh"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13483",
+        "type": "bonus",
+        "tournament": {
+          "id": 30,
+          "year": 2013,
+          "name": "2013 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.013Z",
+          "updated_at": "2017-08-27T18:44:17.013Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/30"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13681,
+        "number": 10,
+        "round": "12",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 13695,
+        "tournament_id": 30,
+        "leadin": "One candidate for this office claimed that the 2013 elections would be \"the funnest campaign ever\" for her. For 10 points each:",
+        "created_at": "2017-08-28T03:50:21.185Z",
+        "updated_at": "2017-09-02T02:19:44.777Z",
+        "formatted_leadin": "One candidate for this office claimed that the 2013 elections would be \"the funnest campaign ever\" for her. For 10 points each:",
+        "texts": [
+          "Name this position that in early summer 2013 many assumed would be filled by Scott Stringer after John Liu elected not to seek re-election to this position.",
+          "This candidate was forced to resign as governor of New York after the New York Times revealed he had been caught using Emperors Club VIP to hire a $1,000 an hour hooker multiple times. He is running for Comptroller against the madam that he paid for the aforementioned prostitutes.",
+          "Eliot Spitzer has certainly profited from this sexting addict's attempt to become mayor. The media has turned on his wife, Huma Abedin, attacking her for staying with her husband as his political career goes down in flames...again."
+        ],
+        "answers": [
+          "Comptroller of New York City [or Comptroller of NYC]",
+          "Eliot Spitzer",
+          "Anthony Weiner [or Carlos Danger]"
+        ],
+        "formatted_texts": [
+          "Name this position that in early summer 2013 many assumed would be filled by Scott Stringer after John Liu elected not to seek re-election to this position.",
+          "This candidate was forced to resign as governor of New York after the New York Times revealed he had been caught using Emperors Club VIP to hire a $1,000 an hour hooker multiple times. He is running for Comptroller against the madam that he paid for the aforementioned prostitutes.",
+          "Eliot Spitzer has certainly profited from this sexting addict's attempt to become mayor. The media has turned on his wife, Huma Abedin, attacking her for staying with her husband as his political career goes down in flames...again."
+        ],
+        "formatted_answers": [
+          "Comptroller of New York City [or Comptroller of NYC]",
+          "Eliot Spitzer",
+          "Anthony Weiner [or Carlos Danger]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13681",
+        "type": "bonus",
+        "tournament": {
+          "id": 30,
+          "year": 2013,
+          "name": "2013 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.013Z",
+          "updated_at": "2017-08-27T18:44:17.013Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/30"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4300,
+        "number": 12,
+        "round": "5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4314,
+        "tournament_id": 30,
+        "leadin": "A UN report held that eight women a day die in childbirth in this country, which may be related to the case of a hospital that charged $5 for every scream the mother made. For 10 points each:",
+        "created_at": "2017-08-28T03:48:50.797Z",
+        "updated_at": "2017-08-28T03:48:50.797Z",
+        "formatted_leadin": "A UN report held that eight women a day die in childbirth in this country, which may be related to the case of a hospital that charged $5 for every scream the mother made. For 10 points each:",
+        "texts": [
+          "Name this incredibly corrupt country, where the ruling party has asked that courts move the elections scheduled for July 31st back by at least two weeks.",
+          "This South African president was forced to backtrack claims made by aides that Zimbabwe was nowhere near ready for July 31st elections. Robert Mugabe may have tried to get a Lebanese hit squad to murder this man.",
+          "This Zimbabwean activist and civil rights lawyer was arrested for obstruction of justice after insisting police searching a client's home produce a warrant. A secretly-produced documentary recounting this activist \"and the Rule of Law\" was released in 2013."
+        ],
+        "answers": [
+          "Zimbabwe",
+          "Jacob Zuma",
+          "Beatrice Mtetwa"
+        ],
+        "formatted_texts": [
+          "Name this incredibly corrupt country, where the ruling party has asked that courts move the elections scheduled for July 31st back by at least two weeks.",
+          "This South African president was forced to backtrack claims made by aides that Zimbabwe was nowhere near ready for July 31st elections. Robert Mugabe may have tried to get a Lebanese hit squad to murder this man.",
+          "This Zimbabwean activist and civil rights lawyer was arrested for obstruction of justice after insisting police searching a client's home produce a warrant. A secretly-produced documentary recounting this activist \"and the Rule of Law\" was released in 2013."
+        ],
+        "formatted_answers": [
+          "Zimbabwe",
+          "Jacob Zuma",
+          "Beatrice Mtetwa"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4300",
+        "type": "bonus",
+        "tournament": {
+          "id": 30,
+          "year": 2013,
+          "name": "2013 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.013Z",
+          "updated_at": "2017-08-27T18:44:17.013Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/30"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4227,
+        "number": 2,
+        "round": "2",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 4241,
+        "tournament_id": 30,
+        "leadin": "A Voter ID law in this state allowing the use of expired gun permits and banning the use of social security cards or student IDs was implemented two hours after the Shelby County v. Holder decision was announced. For 10 points each:",
+        "created_at": "2017-08-28T03:48:50.102Z",
+        "updated_at": "2017-08-28T03:48:50.102Z",
+        "formatted_leadin": "A Voter ID law in this state allowing the use of expired gun permits and banning the use of social security cards or student IDs was implemented two hours after the Shelby County v. Holder decision was announced. For 10 points each:",
+        "texts": [
+          "Name this state that had a vote in a special session of the legislature negated because the gallery was screaming too loud for order to be restored before midnight.",
+          "This Texas State Senator stood for thirteen hours in pink sneakers to protest SB 5. In 2012, her staff managed to extinguish an office fire after a bomb was thrown into the office.",
+          "While two of the rules charges filed against Davis were for supposedly speaking \"off-topic\", the third was for Rodney Ellis assisting her in adjusting this device."
+        ],
+        "answers": [
+          "Texas",
+          "Wendy Russell Davis",
+          "her back brace"
+        ],
+        "formatted_texts": [
+          "Name this state that had a vote in a special session of the legislature negated because the gallery was screaming too loud for order to be restored before midnight.",
+          "This Texas State Senator stood for thirteen hours in pink sneakers to protest SB 5. In 2012, her staff managed to extinguish an office fire after a bomb was thrown into the office.",
+          "While two of the rules charges filed against Davis were for supposedly speaking \"off-topic\", the third was for Rodney Ellis assisting her in adjusting this device."
+        ],
+        "formatted_answers": [
+          "Texas",
+          "Wendy Russell Davis",
+          "her back brace"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4227",
+        "type": "bonus",
+        "tournament": {
+          "id": 30,
+          "year": 2013,
+          "name": "2013 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.013Z",
+          "updated_at": "2017-08-27T18:44:17.013Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/30"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13566,
+        "number": 4,
+        "round": "11",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 13580,
+        "tournament_id": 30,
+        "leadin": " During the 2011 reading of the Constitution, this representative read the first amendment into the Congressional record, and sponsored a 2007 bill to ban the sale of F-14 parts. For 10 points each:",
+        "created_at": "2017-08-28T03:50:20.210Z",
+        "updated_at": "2017-08-28T03:50:20.210Z",
+        "formatted_leadin": " During the 2011 reading of the Constitution, this representative read the first amendment into the Congressional record, and sponsored a 2007 bill to ban the sale of F-14 parts. For 10 points each:",
+        "texts": [
+          "Name this three-term \"Blue Dog\" Democratic representative from Arizona who hosted a tragic \"Congress On Your Corner\" event in January 2011.",
+          "Gabby Giffords' would-be-assassin was one of these people who probably like to stop you and tell you about the temperature that steel melts at and rant about \"controlled demolitions.\" These people usually assume that someone, somewhere in the Bush Administration is some kind of grand mastermind.",
+          "This movie was released four separate times in four separate versions, with the finale being subtitled \"An American Coup.\" Director Dylan Avery attempted to debate the editors of Popular Mechanics as the plausibility of its arguments."
+        ],
+        "answers": [
+          "Gabrielle Dee Giffords",
+          "9/11 truthers",
+          "Loose Change"
+        ],
+        "formatted_texts": [
+          "Name this three-term \"Blue Dog\" Democratic representative from Arizona who hosted a tragic \"Congress On Your Corner\" event in January 2011.",
+          "Gabby Giffords' would-be-assassin was one of these people who probably like to stop you and tell you about the temperature that steel melts at and rant about \"controlled demolitions.\" These people usually assume that someone, somewhere in the Bush Administration is some kind of grand mastermind.",
+          "This movie was released four separate times in four separate versions, with the finale being subtitled \"An American Coup.\" Director Dylan Avery attempted to debate the editors of Popular Mechanics as the plausibility of its arguments."
+        ],
+        "formatted_answers": [
+          "Gabrielle Dee Giffords",
+          "9/11 truthers",
+          "Loose Change"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13566",
+        "type": "bonus",
+        "tournament": {
+          "id": 30,
+          "year": 2013,
+          "name": "2013 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.013Z",
+          "updated_at": "2017-08-27T18:44:17.013Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/30"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6316,
+        "number": 12,
+        "round": "Canadian",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 6330,
+        "tournament_id": 40,
+        "leadin": "Vermin Supreme poured glitter on this man to turn him gay during a Lesser Known Candidate Debate in December 2011. FTPE:",
+        "created_at": "2017-08-28T03:49:13.284Z",
+        "updated_at": "2017-08-28T03:49:13.284Z",
+        "formatted_leadin": "Vermin Supreme poured glitter on this man to turn him gay during a Lesser Known Candidate Debate in December 2011. FTPE:",
+        "texts": [
+          "Name this founder of Operation Rescue who led an unsuccessful primary challenge to Barack Obama in the 2012 Democratic Party primary",
+          "Terry attempted to use equal-time rules to air a graphic Super Bowl ad attacking this practice. He also publicly supported the murder of George Tiller, who performed these actions",
+          "Terry once hired a Clinton impersonator to give a fake endorsement of Jim King, his opponent in a State Senate race in this state.  In 2010, a senator in its legislature, Mike Bennett, was caught watching porn during an abortion debate, while its current governor founded Conservatives for Patients' Rights"
+        ],
+        "answers": [
+          "Randall Almira Terry",
+          "Having an Abortion [accept equivalents that Terry might give like Killing Babies]",
+          " Florida"
+        ],
+        "formatted_texts": [
+          "Name this founder of Operation Rescue who led an unsuccessful primary challenge to Barack Obama in the 2012 Democratic Party primary",
+          "Terry attempted to use equal-time rules to air a graphic Super Bowl ad attacking this practice. He also publicly supported the murder of George Tiller, who performed these actions",
+          "Terry once hired a Clinton impersonator to give a fake endorsement of Jim King, his opponent in a State Senate race in this state.  In 2010, a senator in its legislature, Mike Bennett, was caught watching porn during an abortion debate, while its current governor founded Conservatives for Patients' Rights"
+        ],
+        "formatted_answers": [
+          "Randall Almira Terry",
+          "Having an Abortion [accept equivalents that Terry might give like Killing Babies]",
+          " Florida"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6316",
+        "type": "bonus",
+        "tournament": {
+          "id": 40,
+          "year": 2012,
+          "name": "2012 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:19.400Z",
+          "updated_at": "2017-08-27T18:44:19.400Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/40"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6382,
+        "number": 1,
+        "round": "Hart ",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 6396,
+        "tournament_id": 40,
+        "leadin": "July 2012 protest marches against this man charged that his party bribed voters with gift cards to the Soriana grocery store. FTPE:",
+        "created_at": "2017-08-28T03:49:13.971Z",
+        "updated_at": "2018-03-18T17:22:28.725Z",
+        "formatted_leadin": "July 2012 protest marches against this man charged that his party bribed voters with gift cards to the Soriana grocery store. FTPE:",
+        "texts": [
+          "Name this candidate, the apparent winner of a disputed election over Andrés Manuel López Obrador",
+          "Peña Nieto is the candidate of this party, which ruled Mexico for decades until it lost to Vicente Fox in the elections of 2000.",
+          "Many protestors against Peña Nieto claim affiliation with this movement. Its numerical name claims that the speaker is one more dissident from a group who protested a Peña Nieto news conference at the Universidad Iberoamericana"
+        ],
+        "answers": [
+          "Enrique Peña Nieto [prompt on \"Nieto\"]",
+          "PRI (or Partido Revolucionario Institucional or Institutional Revolutionary Party)",
+          "Yo Soy 132"
+        ],
+        "formatted_texts": [
+          "Name this candidate, the apparent winner of a disputed election over Andrés Manuel López Obrador",
+          "Peña Nieto is the candidate of this party, which ruled Mexico for decades until it lost to Vicente Fox in the elections of 2000.",
+          "Many protestors against Peña Nieto claim affiliation with this movement. Its numerical name claims that the speaker is one more dissident from a group who protested a Peña Nieto news conference at the Universidad Iberoamericana"
+        ],
+        "formatted_answers": [
+          "Enrique Peña Nieto [prompt on \"Nieto\"]",
+          "PRI (or Partido Revolucionario Institucional or Institutional Revolutionary Party)",
+          "Yo Soy 132"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6382",
+        "type": "bonus",
+        "tournament": {
+          "id": 40,
+          "year": 2012,
+          "name": "2012 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:19.400Z",
+          "updated_at": "2017-08-27T18:44:19.400Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/40"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6522,
+        "number": 17,
+        "round": "Listeruud ",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 6536,
+        "tournament_id": 40,
+        "leadin": "In March 2012, Western countries filed a complaint to the WTO about restrictions placed on these substances. FTPE:",
+        "created_at": "2017-08-28T03:49:15.525Z",
+        "updated_at": "2017-08-28T03:49:15.525Z",
+        "formatted_leadin": "In March 2012, Western countries filed a complaint to the WTO about restrictions placed on these substances. FTPE:",
+        "texts": [
+          "Identify these substances important in electronics manufacturing which have been the subject of export restrictions imposed by the Chinese government.  Examples include neodymium",
+          "One potential non-Chinese source for elements like dysprosium is Hoidas Lake, located north of Uranium City in this polity.  Its namesake political party is led by premier Brad Wall, which opposes the NDP founded by Tommy Douglas in this polity.",
+          "The Chinese announced the export restrictions on rare earth elements shortly after the captain of a Chinese fishing vessel was arrested by the Japanese coast guard near these disputed and uninhabited islands.  They're located southwest of the Ryukyu Islands"
+        ],
+        "answers": [
+          "Rare Earth Metals [or Rare Earth Minerals or Rare Earth Element or Lanthanides]",
+          "Saskatchewan",
+          "Senkaku Islands [or Diaoyu Islands or Diaoyutai Islands or Pinnacle Islands]"
+        ],
+        "formatted_texts": [
+          "Identify these substances important in electronics manufacturing which have been the subject of export restrictions imposed by the Chinese government.  Examples include neodymium",
+          "One potential non-Chinese source for elements like dysprosium is Hoidas Lake, located north of Uranium City in this polity.  Its namesake political party is led by premier Brad Wall, which opposes the NDP founded by Tommy Douglas in this polity.",
+          "The Chinese announced the export restrictions on rare earth elements shortly after the captain of a Chinese fishing vessel was arrested by the Japanese coast guard near these disputed and uninhabited islands.  They're located southwest of the Ryukyu Islands"
+        ],
+        "formatted_answers": [
+          "Rare Earth Metals [or Rare Earth Minerals or Rare Earth Element or Lanthanides]",
+          "Saskatchewan",
+          "Senkaku Islands [or Diaoyu Islands or Diaoyutai Islands or Pinnacle Islands]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6522",
+        "type": "bonus",
+        "tournament": {
+          "id": 40,
+          "year": 2012,
+          "name": "2012 Chicago Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:19.400Z",
+          "updated_at": "2017-08-27T18:44:19.400Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/40"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 16809,
+        "number": 16,
+        "round": "1",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 16823,
+        "tournament_id": 94,
+        "leadin": "One company that operates on this formation is Range Resources, which has the comforting corporate slogan, \"Drilling is just the beginning.\" For 10 points each: ",
+        "created_at": "2017-08-28T03:50:51.226Z",
+        "updated_at": "2017-08-28T03:50:51.226Z",
+        "formatted_leadin": "One company that operates on this formation is Range Resources, which has the comforting corporate slogan, \"Drilling is just the beginning.\" For 10 points each: ",
+        "texts": [
+          "[10] Name this part of the Romney formation and Hamilton group, a large shale formation in Appalachia.",
+          "[10] The untapped natural gas in the Marcellus shale may be accessible via the \"plug and perf\" or \"sliding sleeve\" versions of this procedure, which involves forcing highly pressurized fluid into the rock. ",
+          "[10] The controversial Act 13 in this state would strip local municipalities of the power to zone against fracking. Because a conservative justice of this state's supreme court, Joan Orie Melvin, is currently suspended for improper electioneering, the law will probably be struck down. "
+        ],
+        "answers": [
+          "ANSWER: the Marcellus formation/subgroup/member/shale/anything ",
+          "ANSWER: fracking [or induced hydraulic fracturing; or hydrofracking; or word forms of any of those] ",
+          "ANSWER: Pennsylvania"
+        ],
+        "formatted_texts": [
+          "[10] Name this part of the Romney formation and Hamilton group, a large shale formation in Appalachia.",
+          "[10] The untapped natural gas in the Marcellus shale may be accessible via the \"plug and perf\" or \"sliding sleeve\" versions of this procedure, which involves forcing highly pressurized fluid into the rock. ",
+          "[10] The controversial Act 13 in this state would strip local municipalities of the power to zone against fracking. Because a conservative justice of this state's supreme court, Joan Orie Melvin, is currently suspended for improper electioneering, the law will probably be struck down. "
+        ],
+        "formatted_answers": [
+          "ANSWER: the Marcellus formation/subgroup/member/shale/anything ",
+          "ANSWER: fracking [or induced hydraulic fracturing; or hydrofracking; or word forms of any of those] ",
+          "ANSWER: Pennsylvania"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/16809",
+        "type": "bonus",
+        "tournament": {
+          "id": 94,
+          "year": 2012,
+          "name": "2012 Minnesota Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:31.180Z",
+          "updated_at": "2017-08-27T18:44:31.180Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/94"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 14542,
+        "number": 19,
+        "round": "Editors 5",
+        "category_id": 26,
+        "subcategory_id": null,
+        "quinterest_id": 14556,
+        "tournament_id": 71,
+        "leadin": "This website's contributors went on strike from 4-6 October 2011. For 10 points each:",
+        "created_at": "2017-08-28T03:50:29.537Z",
+        "updated_at": "2017-08-28T03:50:29.537Z",
+        "formatted_leadin": "This website's contributors went on strike from 4-6 October 2011. For 10 points each:",
+        "texts": [
+          "Name this website which protested against a proposed Wiretapping Bill that would force it to make changes to its articles without third-party review for merely being unfavourable to a citizen of a country that was until recently, ruled by Berlusconi.",
+          "This British internet child-porn watchdog organization was widely criticized for its December 2008 decision to block a Wikipedia image of the Virgin Killer album from the Scorpions, which led to no one from the UK being able to edit.",
+          "This man went on a 2010 purge of pornographic images from Wikimedia Commons after a former colleague, Larry Sanger, reported the foundation to the FBI. He is also widely seen as the founder of Wikpedia."
+        ],
+        "answers": [
+          "Italian-language Wikipedia",
+          "British Internet Watch Foundation or IWF",
+          "Jimmy \"Jimbo\" Wales [accept either underlined; prompt on \"Jimmy\"]"
+        ],
+        "formatted_texts": [
+          "Name this website which protested against a proposed Wiretapping Bill that would force it to make changes to its articles without third-party review for merely being unfavourable to a citizen of a country that was until recently, ruled by Berlusconi.",
+          "This British internet child-porn watchdog organization was widely criticized for its December 2008 decision to block a Wikipedia image of the Virgin Killer album from the Scorpions, which led to no one from the UK being able to edit.",
+          "This man went on a 2010 purge of pornographic images from Wikimedia Commons after a former colleague, Larry Sanger, reported the foundation to the FBI. He is also widely seen as the founder of Wikpedia."
+        ],
+        "formatted_answers": [
+          "Italian-language Wikipedia",
+          "British Internet Watch Foundation or IWF",
+          "Jimmy \"Jimbo\" Wales [accept either underlined; prompt on \"Jimmy\"]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/14542",
+        "type": "bonus",
+        "tournament": {
+          "id": 71,
+          "year": 2011,
+          "name": "2011 Minnesota Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:25.324Z",
+          "updated_at": "2017-08-27T18:44:25.324Z",
+          "difficulty": "Open",
+          "difficulty_num": 9,
+          "url": "https://www.quizdb.org/api/tournaments/71"
+        },
+        "category": {
+          "id": 26,
+          "name": "Current Events",
+          "created_at": "2017-08-27T19:30:46.210Z",
+          "updated_at": "2017-08-27T19:30:46.210Z",
+          "url": "https://www.quizdb.org/api/categories/26"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

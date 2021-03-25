@@ -1,0 +1,3881 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 61,
+    "num_bonuses_shown": 61,
+    "bonuses": [
+      {
+        "id": 40692,
+        "number": 6,
+        "round": "6",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 400,
+        "leadin": "A Filipino expert in this resource allegedly jumped out of a helicopter over Borneo, where his body was eaten by wild boars. For 10 points each:",
+        "created_at": "2019-10-14T22:47:55.467Z",
+        "updated_at": "2019-10-14T22:47:55.467Z",
+        "formatted_leadin": "A Filipino expert in this resource allegedly jumped out of a helicopter over Borneo, where his body was eaten by wild boars. For 10 points each:",
+        "texts": [
+          "Name this resource at the center of a 1997 scandal, when it was discovered that Canadian company Bre-X had faked the discovery of vast amounts of this resource in Indonesia. This resource was produced intensively in Canada from 1896 to ‘99.",
+          "This Canadian province’s Teachers Pension Plan, which is one of the world’s largest investors, lost over $100 million in the Bre-X scandal. The Sudbury Basin is the center of mining in this most populous Canadian province.",
+          "Settlement in Northern Ontario was driven by this 1909 gold rush, which was the world’s largest by total amount of gold discovered."
+        ],
+        "answers": [
+          "gold",
+          "Ontario",
+          "Porcupine gold rush [or Porcupine Lake gold rush] &lt;DS&gt;"
+        ],
+        "formatted_texts": [
+          "Name this resource at the center of a 1997 scandal, when it was discovered that Canadian company Bre-X had faked the discovery of vast amounts of this resource in Indonesia. This resource was produced intensively in Canada from 1896 to ‘99.",
+          "<em>This</em> Canadian province’s Teachers Pension Plan, which is one of the world’s largest investors, lost over $100 million in the Bre-X scandal. The Sudbury Basin is the center of mining in this most populous Canadian province.",
+          "Settlement in Northern Ontario was driven by <em>this</em> 1909 gold rush, which was the world’s largest by total amount of gold discovered."
+        ],
+        "formatted_answers": [
+          "<strong>gold</strong>",
+          "<strong>Ontario</strong>",
+          "<strong>Porcupine</strong> gold rush [or <strong>Porcupine</strong> Lake gold rush] &lt;DS&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/40692",
+        "type": "bonus",
+        "tournament": {
+          "id": 400,
+          "year": 2019,
+          "name": "2019 PIANO",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "https://collegiate.quizbowlpackets.com/2207/",
+          "created_at": "2019-10-14T22:47:05.917Z",
+          "updated_at": "2019-10-20T03:09:30.979Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/400"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 40535,
+        "number": 8,
+        "round": "12",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 400,
+        "leadin": "Cool air seeps out of the ground in algific talus slopes, a rare and delicate type of ecosystem found mostly in <em>this</em> region, which harbors endemic species like the Iowa Pleistocene snail. For 10 points each:",
+        "created_at": "2019-10-14T22:47:31.948Z",
+        "updated_at": "2019-10-14T22:47:31.948Z",
+        "formatted_leadin": "Cool air seeps out of the ground in algific talus slopes, a rare and delicate type of ecosystem found mostly in <em>this</em> region, which harbors endemic species like the Iowa Pleistocene snail. For 10 points each:",
+        "texts": [
+          "Name this region within the Paleozoic Plateau near the border of Iowa, Wisconsin, and Minnesota. It’s named for its lack of sediment deposits from recent glaciation.",
+          "The Driftless Area is bisected by this major river, whose namesake flyway is an important migration path for birds. This river forms the southern part of the Minnesota–Wisconsin border and has its source at Lake Itasca.",
+          "The karst topography of the Driftless Area is caused by widespread erosion of limestone and this other carbonate mineral, which is also the namesake of a branch of the Alps that extends into northeastern Italy."
+        ],
+        "answers": [
+          "Driftless Area [or Driftless Zone]",
+          "Upper Mississippi River",
+          "dolomite [accept the Dolomites or Dolomite Alps] &lt;SK&gt;"
+        ],
+        "formatted_texts": [
+          "Name this region within the Paleozoic Plateau near the border of Iowa, Wisconsin, and Minnesota. It’s named for its lack of sediment deposits from recent glaciation.",
+          "The Driftless Area is bisected by this major river, whose namesake flyway is an important migration path for birds. This river forms the southern part of the Minnesota–Wisconsin border and has its source at Lake Itasca.",
+          "The karst topography of the Driftless Area is caused by widespread erosion of limestone and <em>this</em> other carbonate mineral, which is also the namesake of a branch of the Alps that extends into northeastern Italy."
+        ],
+        "formatted_answers": [
+          "<strong>Driftless Area</strong> [or <strong>Driftless Zone</strong>]",
+          "Upper <strong>Mississippi</strong> River",
+          "<strong>dolomite</strong> [accept the <strong>Dolomite</strong>s or <strong>Dolomite</strong> Alps] &lt;SK&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/40535",
+        "type": "bonus",
+        "tournament": {
+          "id": 400,
+          "year": 2019,
+          "name": "2019 PIANO",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "https://collegiate.quizbowlpackets.com/2207/",
+          "created_at": "2019-10-14T22:47:05.917Z",
+          "updated_at": "2019-10-20T03:09:30.979Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/400"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 33994,
+        "number": 7,
+        "round": "16 - Oxford + Duke A",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 377,
+        "leadin": "Answer the following about the proto-Inuit Thule (TOO-luh) civilization, for 10 points each.",
+        "created_at": "2018-08-03T23:23:26.343Z",
+        "updated_at": "2018-08-03T23:23:26.343Z",
+        "formatted_leadin": "Answer the following about the proto-Inuit Thule (TOO-luh) civilization, for 10 points each.",
+        "texts": [
+          "The Thule moved eastward from Alaska through the Canadian Arctic following the migration of these large mammals—specifically, the bowhead species, whose jaws have long baleen plates.",
+          "Therkel Mathiassen’s early evidence of Thule culture came from a site known as Comer’s one of these places in Greenland. The earliest evidence of Jomon culture came from one of these refuse sites in Omori in Japan.",
+          "Thule whale hunters replaced people from this earlier Eskimo culture, named for a cape in Nunavut where artifacts were found and sent to Diamond Jenness. This microlithic stone-tool culture died out between AD 1150 and 1350, possibly due to climate changes during the Medieval Cool Period."
+        ],
+        "answers": [
+          "whales",
+          "middens [accept kitchen-middens or shell middens]",
+          "Dorset culture [accept any answer mentioning Dorset]"
+        ],
+        "formatted_texts": [
+          "The Thule moved eastward from Alaska through the Canadian Arctic following the migration of these large mammals—specifically, the bowhead species, whose jaws have long baleen plates.",
+          "Therkel Mathiassen’s early evidence of Thule culture came from a site known as Comer’s one of these places in Greenland. The earliest evidence of Jomon culture came from one of these refuse sites in Omori in Japan.",
+          "Thule whale hunters replaced people from this earlier Eskimo culture, named for a cape in Nunavut where artifacts were found and sent to Diamond Jenness. This microlithic stone-tool culture died out between AD 1150 and 1350, possibly due to climate changes during the Medieval Cool Period."
+        ],
+        "formatted_answers": [
+          "<strong>whale</strong>s",
+          "<strong>midden</strong>s [accept kitchen-<strong>midden</strong>s or <strong>shell midden</strong>s]",
+          "<strong>Dorset</strong> culture [accept any answer mentioning <strong>Dorset</strong>]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/33994",
+        "type": "bonus",
+        "tournament": {
+          "id": 377,
+          "year": 2018,
+          "name": "2018 ACF Nationals",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-03T23:17:05.601Z",
+          "updated_at": "2018-08-03T23:17:05.601Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/377"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 29387,
+        "number": 15,
+        "round": "3",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 369,
+        "leadin": "Free-trade zones are often established to facilitate this process. For 10 points each:",
+        "created_at": "2018-05-02T03:54:14.909Z",
+        "updated_at": "2018-05-02T03:54:14.909Z",
+        "formatted_leadin": "Free-trade zones are often established to facilitate this process. For 10 points each:",
+        "texts": [
+          "Identify this process in which goods are brought into a port before being re-exported. Ports that specialize in this process are sometimes known as entrepôts, and Singapore is the busiest port for this process today.",
+          "This free port city was once the major Middle Eastern coaling station on the British sea routes to India, which led it to become a major transshipment port. Ships passing through the Bab-el-Mandeb would often stop in this city, where Khormaksar Airbase near the Crater district later became a stopover for flights to Singapore.",
+          "This city is developing Al Maktoum International Airport as a cargo hub linked with its nearby sea port at Jebel Ali, which is today the busiest transshipment port in the Middle East. The airline Emirates is based at this city’s other international airport, which is likewise the busiest airport for transshipment in the Middle East."
+        ],
+        "answers": [
+          "transshipment",
+          "Aden (“AH-den”)",
+          "Dubai &lt;MC, Geography&gt;"
+        ],
+        "formatted_texts": [
+          "Identify this process in which goods are brought into a port before being re-exported. Ports that specialize in this process are sometimes known as entrepôts, and Singapore is the busiest port for this process today.",
+          "This free port city was once the major Middle Eastern coaling station on the British sea routes to India, which led it to become a major transshipment port. Ships passing through the Bab-el-Mandeb would often stop in this city, where Khormaksar Airbase near the Crater district later became a stopover for flights to Singapore.",
+          "This city is developing Al Maktoum International Airport as a cargo hub linked with its nearby sea port at Jebel Ali, which is today the busiest transshipment port in the Middle East. The airline Emirates is based at this city’s other international airport, which is likewise the busiest airport for transshipment in the Middle East."
+        ],
+        "formatted_answers": [
+          "<strong>transshipment</strong>",
+          "<strong>Aden</strong> (“AH-den”)",
+          "<strong>Dubai</strong> &lt;MC, Geography&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/29387",
+        "type": "bonus",
+        "tournament": {
+          "id": 369,
+          "year": 2018,
+          "name": "2018 CMST",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://collegiate.quizbowlpackets.com/2103/",
+          "created_at": "2018-05-02T03:53:00.928Z",
+          "updated_at": "2018-05-02T03:53:00.928Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/369"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 29618,
+        "number": 6,
+        "round": "15",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 369,
+        "leadin": "The GFAJ-1 bacteria, which a 2010 <em>Science</em> article falsely claimed could substitute arsenic for phosphorus, was discovered in this lake. For 10 points each:",
+        "created_at": "2018-05-02T03:54:57.832Z",
+        "updated_at": "2018-05-02T03:54:57.832Z",
+        "formatted_leadin": "The GFAJ-1 bacteria, which a 2010 <em>Science</em> article falsely claimed could substitute arsenic for phosphorus, was discovered in this lake. For 10 points each:",
+        "texts": [
+          "Name this large saline lake located east of the Sierra Nevada in Inyo National Forest. This lake is known for its tufa towers on its southern shore and for having an endemic species of brine shrimp. It became the subject of a major conservation effort after a number of creeks that fed it were diverted to supply water to Los Angeles.",
+          "Mono Lake serves as a resting stop for numerous migratory species of this general type of animal, which feed on the aforementioned shrimp. The Audubon Society worked with the Mono Lake Committee to protect the lake for these animals.",
+          "Mono Lake is also home to this insect species, which can trap an air bubble within its densely packed hairs allowing it to feed on underwater algae. The Kucadikadi (“koots-ah-dee-KAH-dee”) band of Northern Paiutes (“PY-yoots”) are named for eating the pupae of this member of the Ephydridae family."
+        ],
+        "answers": [
+          "Mono (“MOH-noh”) Lake",
+          "birds [or Aves]",
+          "alkali fly [or Ephydra hians, Hydropyrus hians; prompt on brine fly] &lt;EC, Geography&gt;"
+        ],
+        "formatted_texts": [
+          "Name this large saline lake located east of the Sierra Nevada in Inyo National Forest. This lake is known for its tufa towers on its southern shore and for having an endemic species of brine shrimp. It became the subject of a major conservation effort after a number of creeks that fed it were diverted to supply water to Los Angeles.",
+          "Mono Lake serves as a resting stop for numerous migratory species of this general type of animal, which feed on the aforementioned shrimp. The Audubon Society worked with the Mono Lake Committee to protect the lake for these animals.",
+          "Mono Lake is also home to this insect species, which can trap an air bubble within its densely packed hairs allowing it to feed on underwater algae. The Kucadikadi (“koots-ah-dee-KAH-dee”) band of Northern Paiutes (“PY-yoots”) are named for eating the pupae of this member of the Ephydridae family."
+        ],
+        "formatted_answers": [
+          "<strong>Mono</strong> (“MOH-noh”) Lake",
+          "<strong>bird</strong>s [or <strong>Aves</strong>]",
+          "<strong>alkali fly</strong> [or <em><strong>E</strong>phydra <strong>hians</strong></em>, <em><strong>H</strong>ydropyrus <strong>hians</strong></em>; prompt on brine fly] &lt;EC, Geography&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/29618",
+        "type": "bonus",
+        "tournament": {
+          "id": 369,
+          "year": 2018,
+          "name": "2018 CMST",
+          "address": "",
+          "quality": "good",
+          "type": null,
+          "link": "http://collegiate.quizbowlpackets.com/2103/",
+          "created_at": "2018-05-02T03:53:00.928Z",
+          "updated_at": "2018-05-02T03:53:00.928Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/369"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34419,
+        "number": 13,
+        "round": "13",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "Name the following countries that are the number one exporters of bauxite on their continents. All other countries have inferior bauxite. For 10 points each,",
+        "created_at": "2018-08-06T18:12:39.560Z",
+        "updated_at": "2018-08-06T18:12:39.560Z",
+        "formatted_leadin": "Name the following countries that are the number one exporters of bauxite on their continents. All other countries have inferior bauxite. For 10 points each,",
+        "texts": [
+          "This country, whose impoverished Blue Mountains region contains most of its bauxite mines, exports the most bauxite of any country in the Americas.",
+          "This West African nation, the first in its region to declare independence from France, developed its bauxite industry with Czechoslovak and Soviet assistance under its first leader, Sekou Toure.",
+          "This country exports a lot of bauxite, along with a lot of other minerals. Its town of Coober Pedy is the world’s largest opal mine, and its cities of Kalgoorlie and Adelaide are also mining centers."
+        ],
+        "answers": [
+          "Jamaica",
+          "Guinea",
+          "Australia &lt;JM&gt;"
+        ],
+        "formatted_texts": [
+          "This country, whose impoverished Blue Mountains region contains most of its bauxite mines, exports the most bauxite of any country in the Americas.",
+          "This West African nation, the first in its region to declare independence from France, developed its bauxite industry with Czechoslovak and Soviet assistance under its first leader, Sekou Toure.",
+          "This country exports a lot of bauxite, along with a lot of other minerals. Its town of Coober Pedy is the world’s largest opal mine, and its cities of Kalgoorlie and Adelaide are also mining centers."
+        ],
+        "formatted_answers": [
+          "<strong>Jamaica</strong>",
+          "<strong>Guinea</strong>",
+          "<strong>Australia</strong> &lt;JM&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34419",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34476,
+        "number": 13,
+        "round": "16",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "Answer the following about the geography of Australian aborigines. For 10 points each,",
+        "created_at": "2018-08-06T18:16:04.396Z",
+        "updated_at": "2018-08-06T18:16:04.396Z",
+        "formatted_leadin": "Answer the following about the geography of Australian aborigines. For 10 points each,",
+        "texts": [
+          "This large sandstone formation is a sacred place for many Aboriginal groups. Before a name change, it was known as Ayers Rock.",
+          "This region of Australia’s Northern Territory bordering the Gulf of Carpentaria is home to a huge number of aboriginal groups living a largely traditional lifestyle. The territorial capital of Darwin is located in this region.",
+          "The three main deserts of Western Australia all have majority-aboriginal populations. Name any of the three."
+        ],
+        "answers": [
+          "Uluru [prompt on Ayers Rock if someone answered the bonus before it was fully read]",
+          "Arnhem Land",
+          "Gibson, Great Victoria, or Great Sandy Deserts &lt;JM&gt;"
+        ],
+        "formatted_texts": [
+          "This large sandstone formation is a sacred place for many Aboriginal groups. Before a name change, it was known as Ayers Rock.",
+          "This region of Australia’s Northern Territory bordering the Gulf of Carpentaria is home to a huge number of aboriginal groups living a largely traditional lifestyle. The territorial capital of Darwin is located in this region.",
+          "The three main deserts of Western Australia all have majority-aboriginal populations. Name any of the three."
+        ],
+        "formatted_answers": [
+          "<strong>Uluru</strong> [prompt on Ayers Rock if someone answered the bonus before it was fully read]",
+          "<strong>Arnhem</strong> Land",
+          "<strong>Gibson</strong>, <strong>Great Victoria</strong>, or <strong>Great Sandy</strong> Deserts &lt;JM&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34476",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34334,
+        "number": 8,
+        "round": "09",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "How much do you know about weird stuff happening in lakes? For 10 points each:",
+        "created_at": "2018-08-06T18:10:20.866Z",
+        "updated_at": "2018-08-06T18:10:20.866Z",
+        "formatted_leadin": "How much do you know about weird stuff happening in lakes? For 10 points each:",
+        "texts": [
+          "Only two instances of this have happened in recorded history, both in Cameroon in the 1980s. Thousands died after an occurrence of this type of natural disaster at Lake Nyos.",
+          "Lac Rose, so named because it’s pink due to Algal blooms, is located on this peninsula, also colorfully named, outside Dakar, the westernmost point in mainland Africa.",
+          "This lake in Israel is notably so saline you can’t sink in it. Its basin is the lowest point on Earth."
+        ],
+        "answers": [
+          "limnic eruption [prompt on outgassing, CO2 eruption, stuff involving a lake burping out lots of Carbon Dioxide]",
+          "Cap Vert",
+          "Dead Sea &lt;JM&gt;"
+        ],
+        "formatted_texts": [
+          "Only two instances of this have happened in recorded history, both in Cameroon in the 1980s. Thousands died after an occurrence of this type of natural disaster at Lake Nyos.",
+          "Lac Rose, so named because it’s pink due to Algal blooms, is located on this peninsula, also colorfully named, outside Dakar, the westernmost point in mainland Africa.",
+          "This lake in Israel is notably so saline you can’t sink in it. Its basin is the lowest point on Earth."
+        ],
+        "formatted_answers": [
+          "<strong>limnic eruption</strong> [prompt on outgassing, CO2 eruption, stuff involving a lake burping out lots of Carbon Dioxide]",
+          "Cap <strong>Vert</strong>",
+          "<strong>Dead</strong> Sea &lt;JM&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34334",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34382,
+        "number": 16,
+        "round": "11",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "Answer the following about the most topographically thrilling region of the United States, downstate Illinois. For 10 points each:",
+        "created_at": "2018-08-06T18:10:22.164Z",
+        "updated_at": "2018-08-06T18:10:22.164Z",
+        "formatted_leadin": "Answer the following about the most topographically thrilling region of the United States, downstate Illinois. For 10 points each:",
+        "texts": [
+          "Southern Illinois is home to this floodplain of the Mississippi River, which also encompasses some of the St. Louis metro area. This region was a center of pre-Columbian settlement, containing cities such as Cahokia.",
+          "Southern Illinois’ Hicks Dome is one of a strangely linear series of igneous landforms named for the 38th parallel. That linearity has led to speculation that they were formed by one of these geological features, another one of which was responsible for the uplift of the Hawaiian Islands.",
+          "The Southern Illinois town of Cairo [Care-oh] is located at the confluence of the Mississippi and this other major American river, which flows through cities such as Pittsburgh and forms the border between its namesake state and Kentucky."
+        ],
+        "answers": [
+          "American Bottom",
+          "Hot spots",
+          "Ohio River &lt;JM&gt;"
+        ],
+        "formatted_texts": [
+          "Southern Illinois is home to this floodplain of the Mississippi River, which also encompasses some of the St. Louis metro area. This region was a center of pre-Columbian settlement, containing cities such as Cahokia.",
+          "Southern Illinois’ Hicks Dome is one of a strangely linear series of igneous landforms named for the 38th parallel. That linearity has led to speculation that they were formed by one of these geological features, another one of which was responsible for the uplift of the Hawaiian Islands.",
+          "The Southern Illinois town of Cairo [Care-oh] is located at the confluence of the Mississippi and this other major American river, which flows through cities such as Pittsburgh and forms the border between its namesake state and Kentucky."
+        ],
+        "formatted_answers": [
+          "<strong>American Bottom</strong>",
+          "<strong>Hot spots</strong>",
+          "<strong>Ohio</strong> River &lt;JM&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34382",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34198,
+        "number": 11,
+        "round": "02",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "Answer the following about some saline bodies of water in Central Asia. For 10 points each,",
+        "created_at": "2018-08-06T18:08:34.004Z",
+        "updated_at": "2018-08-06T18:08:34.004Z",
+        "formatted_leadin": "Answer the following about some saline bodies of water in Central Asia. For 10 points each,",
+        "texts": [
+          "This lagoon, which adjoins a port that Sapurmanat Niyazov renamed after himself, seasonally fluctuates between being a lake and a bay.",
+          "When it isn’t a lake of its own, Karabogaz Kol is a bay of this sea, the largest inland body of water in the world.",
+          "The Aral Sea is shrinking due to its draining by two Soviet canals built to irrigate this crop, Uzbekistan’s main export."
+        ],
+        "answers": [
+          "Karabogaz Gol [accept Great Strait Lake]",
+          "Caspian Sea",
+          "cotton &lt;JM&gt;"
+        ],
+        "formatted_texts": [
+          "This lagoon, which adjoins a port that Sapurmanat Niyazov renamed after himself, seasonally fluctuates between being a lake and a bay.",
+          "When it isn’t a lake of its own, Karabogaz Kol is a bay of this sea, the largest inland body of water in the world.",
+          "The Aral Sea is shrinking due to its draining by two Soviet canals built to irrigate this crop, Uzbekistan’s main export."
+        ],
+        "formatted_answers": [
+          "<strong>Karabogaz</strong> Gol [accept <strong>Great Strait</strong> Lake]",
+          "<strong>Caspian</strong> Sea",
+          "<strong>cotton</strong> &lt;JM&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34198",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34291,
+        "number": 5,
+        "round": "07",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "Answer the following about Terra Preta do Indio, a weirdly productive type of soil. For 10 points each,",
+        "created_at": "2018-08-06T18:10:11.375Z",
+        "updated_at": "2018-08-06T18:10:11.375Z",
+        "formatted_leadin": "Answer the following about Terra Preta do Indio, a weirdly productive type of soil. For 10 points each,",
+        "texts": [
+          "Terra Preta is found in this river’s basin. This river receives tributaries such as the Araguaia and Xingu [Shin-goo], and it contains the world’s largest rainforest.",
+          "Terra Preta do Indio, as its name implies, is black, which marks it as distinct from this soil order that surrounds it. This soil order is known for its high kaolinite content, which, along with other minerals, renders it red. It covers most tropical and subtropical regions.",
+          "Terra Preta do Indio derives most of its fertility from pre-Columbian peoples who integrated this, along with potsherds and feces, into soil. This substance is the darker colored of the two by-products of swidden agriculture."
+        ],
+        "answers": [
+          "Amazon [accept Solimoes]",
+          "Oxisols",
+          "charcoal &lt;JM&gt;"
+        ],
+        "formatted_texts": [
+          "Terra Preta is found in this river’s basin. This river receives tributaries such as the Araguaia and Xingu [Shin-goo], and it contains the world’s largest rainforest.",
+          "Terra Preta do Indio, as its name implies, is black, which marks it as distinct from this soil order that surrounds it. This soil order is known for its high kaolinite content, which, along with other minerals, renders it red. It covers most tropical and subtropical regions.",
+          "Terra Preta do Indio derives most of its fertility from pre-Columbian peoples who integrated this, along with potsherds and feces, into soil. This substance is the darker colored of the two by-products of swidden agriculture."
+        ],
+        "formatted_answers": [
+          "<strong>Amazon</strong> [accept <strong>Solimoes</strong>]",
+          "<strong>Oxisols</strong>",
+          "<strong>charcoal</strong> &lt;JM&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34291",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 39600,
+        "number": 1,
+        "round": "13",
+        "category_id": 20,
+        "subcategory_id": 44,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "Name the following American geographical features named for early navigators. For 10 points each:",
+        "created_at": "2019-09-03T19:07:28.232Z",
+        "updated_at": "2019-09-03T19:07:28.232Z",
+        "formatted_leadin": "Name the following American geographical features named for early navigators. For 10 points each:",
+        "texts": [
+          "This river, which flows through the cities of Albany and New York, is named for a Dutch explorer sailing under the English flag.",
+          "This Greek explorer, who sailed for Spain, names both a strait in Washington state and a tectonic plate that adjoins it.",
+          "This Alaskan island chain is named for a Russian navigator. Along with the Near and Rat Islands, it is one of the sub-chains of the Aleutians."
+        ],
+        "answers": [
+          "Hudson River",
+          "Juan de Fuca [or Ioannis Phocas]",
+          "Andreanof Islands"
+        ],
+        "formatted_texts": [
+          "This river, which flows through the cities of Albany and New York, is named for a Dutch explorer sailing under the English flag.",
+          "This Greek explorer, who sailed for Spain, names both a strait in Washington state and a tectonic plate that adjoins it.",
+          "This Alaskan island chain is named for a Russian navigator. Along with the Near and Rat Islands, it is one of the sub-chains of the Aleutians."
+        ],
+        "formatted_answers": [
+          "<strong><u>Hudson</u></strong> River",
+          "Juan de <strong><u>Fuca</u></strong> [or Ioannis <strong><u>Phocas</u></strong>]",
+          "<strong><u>Andreanof</u></strong> Islands"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/39600",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+          "id": 44,
+          "name": "Geography World",
+          "created_at": "2017-08-27T19:36:47.423Z",
+          "updated_at": "2017-08-27T19:36:47.423Z",
+          "url": "https://www.quizdb.org/api/subcategories/44"
+        }
+      },
+      {
+        "id": 34455,
+        "number": 11,
+        "round": "15",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "One sultanate on this island had Spanish gun-making manuals translated into its native “bird-writing” script in the 16th century. For 10 points each:",
+        "created_at": "2018-08-06T18:16:03.815Z",
+        "updated_at": "2018-08-06T18:16:03.815Z",
+        "formatted_leadin": "One sultanate on this island had Spanish gun-making manuals translated into its native “bird-writing” script in the 16th century. For 10 points each:",
+        "texts": [
+          "Name this weirdly shaped Indonesian island that was home to the Makassar Sultanate. This island was known as Celebes under Dutch colonial rule.",
+          "This other Indonesian island is the home of the Dayak people, as well as much of the wild Orangutan population. Indonesia shares it with Brunei and Malaysia.",
+          "This Indonesian island is the namesake of a very small hominid species. Komodo Island, of dragon fame, is located between it and Sumbawa."
+        ],
+        "answers": [
+          "Sulawesi",
+          "Borneo [accept Kalimantan]",
+          "Flores &lt;JM&gt;"
+        ],
+        "formatted_texts": [
+          "Name this weirdly shaped Indonesian island that was home to the Makassar Sultanate. This island was known as Celebes under Dutch colonial rule.",
+          "This other Indonesian island is the home of the Dayak people, as well as much of the wild Orangutan population. Indonesia shares it with Brunei and Malaysia.",
+          "This Indonesian island is the namesake of a very small hominid species. Komodo Island, of dragon fame, is located between it and Sumbawa."
+        ],
+        "formatted_answers": [
+          "<strong>Sulawesi</strong>",
+          "<strong>Borneo</strong> [accept <strong>Kalimantan</strong>]",
+          "<strong>Flores</strong> &lt;JM&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34455",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34436,
+        "number": 11,
+        "round": "15",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 378,
+        "leadin": "One sultanate on this island had Spanish gun-making manuals translated into its native “bird-writing” script in the 16th century. For 10 points each:",
+        "created_at": "2018-08-06T18:13:34.502Z",
+        "updated_at": "2018-08-06T18:13:34.502Z",
+        "formatted_leadin": "One sultanate on this island had Spanish gun-making manuals translated into its native “bird-writing” script in the 16th century. For 10 points each:",
+        "texts": [
+          "Name this weirdly shaped Indonesian island that was home to the Makassar Sultanate. This island was known as Celebes under Dutch colonial rule.",
+          "This other Indonesian island is the home of the Dayak people, as well as much of the wild Orangutan population. Indonesia shares it with Brunei and Malaysia.",
+          "This Indonesian island is the namesake of a very small hominid species. Komodo Island, of dragon fame, is located between it and Sumbawa."
+        ],
+        "answers": [
+          "Sulawesi",
+          "Borneo [accept Kalimantan]",
+          "Flores &lt;JM&gt;"
+        ],
+        "formatted_texts": [
+          "Name this weirdly shaped Indonesian island that was home to the Makassar Sultanate. This island was known as Celebes under Dutch colonial rule.",
+          "This other Indonesian island is the home of the Dayak people, as well as much of the wild Orangutan population. Indonesia shares it with Brunei and Malaysia.",
+          "This Indonesian island is the namesake of a very small hominid species. Komodo Island, of dragon fame, is located between it and Sumbawa."
+        ],
+        "formatted_answers": [
+          "<strong>Sulawesi</strong>",
+          "<strong>Borneo</strong> [accept <strong>Kalimantan</strong>]",
+          "<strong>Flores</strong> &lt;JM&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34436",
+        "type": "bonus",
+        "tournament": {
+          "id": 378,
+          "year": 2017,
+          "name": "2017 WAO II",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2018-08-06T18:07:00.663Z",
+          "updated_at": "2018-08-06T18:07:00.663Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/378"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 37451,
+        "number": 2,
+        "round": "12",
+        "category_id": 20,
+        "subcategory_id": 44,
+        "quinterest_id": null,
+        "tournament_id": 294,
+        "leadin": "Answer the following about beer in Germany, for 10 points each:",
+        "created_at": "2019-04-16T19:00:57.568Z",
+        "updated_at": "2019-04-16T19:00:57.568Z",
+        "formatted_leadin": "Answer the following about beer in Germany, for 10 points each:",
+        "texts": [
+          "Over six million people visit Munich during this 16-day beer festival, hosted every fall.",
+          "This German city produces alsterwasser, a mixture of juice and alcohol that tastes a lot like Mike’s Hard Lemonade. This city’s St. Pauli district is home to Europe’s largest red light district, the Reeperbahn.",
+          "Many upscale bars can be found in this trendy Berlin neighborhood, which has the city’s largest Turkish population. This district is also the center of Berlin’s LGBT community."
+        ],
+        "answers": [
+          "Oktoberfest",
+          "Hamburg",
+          "Kreuzberg"
+        ],
+        "formatted_texts": [
+          "Over six million people visit Munich during this 16-day beer festival, hosted every fall.",
+          "This German city produces alsterwasser, a mixture of juice and alcohol that tastes a lot like Mike’s Hard Lemonade. This city’s St. Pauli district is home to Europe’s largest red light district, the Reeperbahn.",
+          "Many upscale bars can be found in this trendy Berlin neighborhood, which has the city’s largest Turkish population. This district is also the center of Berlin’s LGBT community."
+        ],
+        "formatted_answers": [
+          "Oktoberfest",
+          "Hamburg",
+          "Kreuzberg"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/37451",
+        "type": "bonus",
+        "tournament": {
+          "id": 294,
+          "year": 2016,
+          "name": "2016 \"stanford housewrite\"",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:37.513Z",
+          "updated_at": "2017-09-01T04:04:04.202Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/294"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+          "id": 44,
+          "name": "Geography World",
+          "created_at": "2017-08-27T19:36:47.423Z",
+          "updated_at": "2017-08-27T19:36:47.423Z",
+          "url": "https://www.quizdb.org/api/subcategories/44"
+        }
+      },
+      {
+        "id": 37430,
+        "number": 1,
+        "round": "11",
+        "category_id": 20,
+        "subcategory_id": 44,
+        "quinterest_id": null,
+        "tournament_id": 294,
+        "leadin": "This lake is connected to the ocean by the San Juan river. For 10 points each:",
+        "created_at": "2019-04-16T18:11:22.904Z",
+        "updated_at": "2019-04-16T18:11:22.904Z",
+        "formatted_leadin": "This lake is connected to the ocean by the San Juan river. For 10 points each:",
+        "texts": [
+          "Name this lake that names a species of freshwater bull shark and includes the volcanic island Ometepe. While many historical attempts to build a canal through this lake failed, it is now the subject of a proposed “ecocanal” that would connect it to Puerto Limon.",
+          "Lake Nicaragua is located just north of the border between Nicaragua and this country, a popular ecotourism destination. This country with capital at San Jose has not had a military since 1949.",
+          "This National Park, located on the Osa Peninsula in southwest Costa Rica, is one of the most biodiverse places on earth. It protects most of Central America’s remaining tapir population."
+        ],
+        "answers": [
+          "Lake Nicaragua",
+          "Costa Rica",
+          "Corcovado National Park"
+        ],
+        "formatted_texts": [
+          "Name this lake that names a species of freshwater bull shark and includes the volcanic island Ometepe. While many historical attempts to build a canal through this lake failed, it is now the subject of a proposed “ecocanal” that would connect it to Puerto Limon.",
+          "Lake Nicaragua is located just north of the border between Nicaragua and this country, a popular ecotourism destination. This country with capital at San Jose has not had a military since 1949.",
+          "This National Park, located on the Osa Peninsula in southwest Costa Rica, is one of the most biodiverse places on earth. It protects most of Central America’s remaining tapir population."
+        ],
+        "formatted_answers": [
+          "Lake Nicaragua",
+          "Costa Rica",
+          "Corcovado National Park"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/37430",
+        "type": "bonus",
+        "tournament": {
+          "id": 294,
+          "year": 2016,
+          "name": "2016 \"stanford housewrite\"",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:37.513Z",
+          "updated_at": "2017-09-01T04:04:04.202Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/294"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+          "id": 44,
+          "name": "Geography World",
+          "created_at": "2017-08-27T19:36:47.423Z",
+          "updated_at": "2017-08-27T19:36:47.423Z",
+          "url": "https://www.quizdb.org/api/subcategories/44"
+        }
+      },
+      {
+        "id": 28389,
+        "number": 2,
+        "round": "5",
+        "category_id": 20,
+        "subcategory_id": 44,
+        "quinterest_id": null,
+        "tournament_id": 294,
+        "leadin": "Answer the following about notable Asian airports, for 10 points each:",
+        "created_at": "2018-04-15T23:02:32.036Z",
+        "updated_at": "2018-04-15T23:02:32.036Z",
+        "formatted_leadin": "Answer the following about notable Asian airports, for 10 points each:",
+        "texts": [
+          "Until this city relocated its airport, landing planes were forced to fly close to the high rises of its Kowloon neighborhood. Great Britain transferred control of this city to China in 1997.",
+          "This Renzo Piano-designed airport is located on an artificial island off the coast of Honshu. It shares its name with the region of Honshu that contains Osaka, Kobe and Kyoto.",
+          "Landing at this country’s sole international airport, Paro Airport, is so challenging that only 25 pilots are legally qualified to fly there."
+        ],
+        "answers": [
+          "Hong Kong",
+          "Kansai International Airport",
+          "Kingdom of Bhutan"
+        ],
+        "formatted_texts": [
+          "Until this city relocated its airport, landing planes were forced to fly close to the high rises of its Kowloon neighborhood. Great Britain transferred control of this city to China in 1997.",
+          "This Renzo Piano-designed airport is located on an artificial island off the coast of Honshu. It shares its name with the region of Honshu that contains Osaka, Kobe and Kyoto.",
+          "Landing at this country’s sole international airport, Paro Airport, is so challenging that only 25 pilots are legally qualified to fly there."
+        ],
+        "formatted_answers": [
+          "<strong><u>Hong Kong</u></strong>",
+          "<strong><u>Kansai</u></strong> International Airport",
+          "Kingdom of <strong><u>Bhutan</u></strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/28389",
+        "type": "bonus",
+        "tournament": {
+          "id": 294,
+          "year": 2016,
+          "name": "2016 \"stanford housewrite\"",
+          "address": "",
+          "quality": null,
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:37.513Z",
+          "updated_at": "2017-09-01T04:04:04.202Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/294"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+          "id": 44,
+          "name": "Geography World",
+          "created_at": "2017-08-27T19:36:47.423Z",
+          "updated_at": "2017-08-27T19:36:47.423Z",
+          "url": "https://www.quizdb.org/api/subcategories/44"
+        }
+      },
+      {
+        "id": 6028,
+        "number": 7,
+        "round": "1",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 6042,
+        "tournament_id": 38,
+        "leadin": "This city's Mediterranean Revival architecture was inspired by the industrialist James Deering's nearby Villa Vizcaya.",
+        "created_at": "2017-08-28T03:49:10.165Z",
+        "updated_at": "2017-08-28T03:49:10.165Z",
+        "formatted_leadin": "This city's Mediterranean Revival architecture was inspired by the industrialist James Deering's nearby Villa Vizcaya.",
+        "texts": [
+          "Name this planned community designed by the avocado baron George Merrick in collaboration with Phineas Paist. Merrick colluded with John Bowman to attract people to this strictly zoned city by building a Biltmore hotel.",
+          "The development of Coral Gables followed the tenets of this progressive movement that sought to inspire civic virtue through the power of Beaux-Arts architecture. Its ideas influenced monuments in D.C. via the McMillan Plan.",
+          "The City Beautiful movement was first manifested on a large scale in the \"White City\" of the 1893 World's Columbian Exhibition in this city. Edward H. Bennett and Daniel Burnham created 1909 urban plan for this city."
+        ],
+        "answers": [
+          "Coral Gables, Florida [prompt on \"Miami\"]",
+          "City Beautiful movement",
+          "Chicago, Illinois [accept the Windy City; accept hog butcher to the world or other Sandburg references]"
+        ],
+        "formatted_texts": [
+          "Name this planned community designed by the avocado baron George Merrick in collaboration with Phineas Paist. Merrick colluded with John Bowman to attract people to this strictly zoned city by building a Biltmore hotel.",
+          "The development of Coral Gables followed the tenets of this progressive movement that sought to inspire civic virtue through the power of Beaux-Arts architecture. Its ideas influenced monuments in D.C. via the McMillan Plan.",
+          "The City Beautiful movement was first manifested on a large scale in the \"White City\" of the 1893 World's Columbian Exhibition in this city. Edward H. Bennett and Daniel Burnham created 1909 urban plan for this city."
+        ],
+        "formatted_answers": [
+          "Coral Gables, Florida [prompt on \"Miami\"]",
+          "City Beautiful movement",
+          "Chicago, Illinois [accept the Windy City; accept hog butcher to the world or other Sandburg references]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6028",
+        "type": "bonus",
+        "tournament": {
+          "id": 38,
+          "year": 2014,
+          "name": "2014 Cane Ridge Revival",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:19.104Z",
+          "updated_at": "2017-09-01T16:58:07.260Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/38"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5862,
+        "number": 20,
+        "round": "Yale ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 5876,
+        "tournament_id": 36,
+        "leadin": "The Ket people live along the banks of this river. For 10 points each:",
+        "created_at": "2017-08-28T03:49:08.403Z",
+        "updated_at": "2017-08-28T03:49:08.403Z",
+        "formatted_leadin": "The Ket people live along the banks of this river. For 10 points each:",
+        "texts": [
+          "Name this Siberian river that drains into the Arctic Ocean. It lies east of the Ob, and its headwaters are in Lake Baikal.",
+          "In 2008, Edward Vajda proposed that the Yeniseian languages were genealogically linked to this language family of North America, which includes Tlingit. That proposal constitutes the first known genealogical relation among pre-contact Eurasian and American languages.",
+          "The predecessors of the Na-Dene would presumably have come to the Americas by crossing this narrow waterway between Russia and Alaska, which would have been frozen during the Ice Age. It connects a sea of the same name to the Chukchi Sea."
+        ],
+        "answers": [
+          "Yenisei river ",
+          "Na-Dene ",
+          "Bering strait "
+        ],
+        "formatted_texts": [
+          "Name this Siberian river that drains into the Arctic Ocean. It lies east of the Ob, and its headwaters are in Lake Baikal.",
+          "In 2008, Edward Vajda proposed that the Yeniseian languages were genealogically linked to this language family of North America, which includes Tlingit. That proposal constitutes the first known genealogical relation among pre-contact Eurasian and American languages.",
+          "The predecessors of the Na-Dene would presumably have come to the Americas by crossing this narrow waterway between Russia and Alaska, which would have been frozen during the Ice Age. It connects a sea of the same name to the Chukchi Sea."
+        ],
+        "formatted_answers": [
+          "Yenisei river ",
+          "Na-Dene ",
+          "Bering strait "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5862",
+        "type": "bonus",
+        "tournament": {
+          "id": 36,
+          "year": 2013,
+          "name": "2013 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:18.771Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/36"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5793,
+        "number": 15,
+        "round": "VCU + Michigan",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 5807,
+        "tournament_id": 36,
+        "leadin": "The beautiful \"Going-to-The-Sun Road\" runs through this National Park. For 10 points each: ",
+        "created_at": "2017-08-28T03:49:07.618Z",
+        "updated_at": "2017-08-28T03:49:07.618Z",
+        "formatted_leadin": "The beautiful \"Going-to-The-Sun Road\" runs through this National Park. For 10 points each: ",
+        "texts": [
+          "Name this US National Park, which famously borders the Canadian Waterton Lakes National Park.",
+          "Glacier National Park is found in this US State, nicknamed the \"Treasure State\" Flathead Lake is the largest lake here and the state capital is Helena.",
+          "This sub-range of the Rockies runs along the western border of Montana, separating it from Idaho."
+        ],
+        "answers": [
+          "Glacier National Park",
+          "Montana ",
+          "Bitterroot Range "
+        ],
+        "formatted_texts": [
+          "Name this US National Park, which famously borders the Canadian Waterton Lakes National Park.",
+          "Glacier National Park is found in this US State, nicknamed the \"Treasure State\" Flathead Lake is the largest lake here and the state capital is Helena.",
+          "This sub-range of the Rockies runs along the western border of Montana, separating it from Idaho."
+        ],
+        "formatted_answers": [
+          "Glacier National Park",
+          "Montana ",
+          "Bitterroot Range "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5793",
+        "type": "bonus",
+        "tournament": {
+          "id": 36,
+          "year": 2013,
+          "name": "2013 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:18.771Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/36"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5359,
+        "number": 20,
+        "round": "Editors 5 ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 5373,
+        "tournament_id": 34,
+        "leadin": "This state is directly west of the Palk Strait and contains the Indian side of Rama's Bridge. For 10 points each:",
+        "created_at": "2017-08-28T03:49:03.052Z",
+        "updated_at": "2017-08-28T03:49:03.052Z",
+        "formatted_leadin": "This state is directly west of the Palk Strait and contains the Indian side of Rama's Bridge. For 10 points each:",
+        "texts": [
+          "Name this southern-most state of India, which is named in part after a major Dravidian language spoken by the locals.",
+          "This city, formerly a major center of British colonial power, is the capital of Tamil Nadu.",
+          "This other major city of Tamil Nadu, located south of Chennai, was formerly the main French possession in southern India. Today it is a popular tourist destination for its beaches."
+        ],
+        "answers": [
+          "Tamil Nadu",
+          "Chennai or Madras ",
+          "Pondicherry or Puducherry"
+        ],
+        "formatted_texts": [
+          "Name this southern-most state of India, which is named in part after a major Dravidian language spoken by the locals.",
+          "This city, formerly a major center of British colonial power, is the capital of Tamil Nadu.",
+          "This other major city of Tamil Nadu, located south of Chennai, was formerly the main French possession in southern India. Today it is a popular tourist destination for its beaches."
+        ],
+        "formatted_answers": [
+          "Tamil Nadu",
+          "Chennai or Madras ",
+          "Pondicherry or Puducherry"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5359",
+        "type": "bonus",
+        "tournament": {
+          "id": 34,
+          "year": 2013,
+          "name": "2013 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:18.260Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/34"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5473,
+        "number": 10,
+        "round": "Finals 2",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 5487,
+        "tournament_id": 34,
+        "leadin": "The Tory Channel and the Marlborough Sounds are drowned valleys that connect to this body. For 10 points each:",
+        "created_at": "2017-08-28T03:49:04.364Z",
+        "updated_at": "2017-08-28T03:49:04.364Z",
+        "formatted_leadin": "The Tory Channel and the Marlborough Sounds are drowned valleys that connect to this body. For 10 points each:",
+        "texts": [
+          "Name this strait that separates New Zealand's North and South Islands.",
+          "The North Island is home to this largest lake in New Zealand, created 27,000 years ago by a supervolcanic eruption. It is the second largest lake in Oceania.",
+          "South of South Island, on the other side of the Foveaux Strait, lies this third largest island of New Zealand. Its largest city is Oban."
+        ],
+        "answers": [
+          " Cook Strait ",
+          "Lake Taupo",
+          "Stewart Island "
+        ],
+        "formatted_texts": [
+          "Name this strait that separates New Zealand's North and South Islands.",
+          "The North Island is home to this largest lake in New Zealand, created 27,000 years ago by a supervolcanic eruption. It is the second largest lake in Oceania.",
+          "South of South Island, on the other side of the Foveaux Strait, lies this third largest island of New Zealand. Its largest city is Oban."
+        ],
+        "formatted_answers": [
+          " Cook Strait ",
+          "Lake Taupo",
+          "Stewart Island "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5473",
+        "type": "bonus",
+        "tournament": {
+          "id": 34,
+          "year": 2013,
+          "name": "2013 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:18.260Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/34"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5187,
+        "number": 18,
+        "round": "Editors 2",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 5201,
+        "tournament_id": 34,
+        "leadin": "Congratulations! You and your teammates have won a trip to Slovakia. For 10 points each:",
+        "created_at": "2017-08-28T03:49:01.098Z",
+        "updated_at": "2017-08-28T03:49:01.098Z",
+        "formatted_leadin": "Congratulations! You and your teammates have won a trip to Slovakia. For 10 points each:",
+        "texts": [
+          "Your team arrives at Milan Stefanik International Airport, located in this Danubian city, the capital of Slovakia.",
+          "Seeing only flat land around you, you quickly realize that Bratislava is on this large plain of Central Europe. It takes its name from the Latin word for Hungary.",
+          "To escape the unbearable monotony of the plain, your team heads north to the Slovakian/Polish border, where you see this mountain chain, a branch of the Carpathians."
+        ],
+        "answers": [
+          "Bratislava [or Pressburg; or Pozsony]",
+          "Pannonian Plain [or Pannonian Basin; or Pannonia]",
+          "Tatras Mountains [or Tatra; or Tatry]"
+        ],
+        "formatted_texts": [
+          "Your team arrives at Milan Stefanik International Airport, located in this Danubian city, the capital of Slovakia.",
+          "Seeing only flat land around you, you quickly realize that Bratislava is on this large plain of Central Europe. It takes its name from the Latin word for Hungary.",
+          "To escape the unbearable monotony of the plain, your team heads north to the Slovakian/Polish border, where you see this mountain chain, a branch of the Carpathians."
+        ],
+        "formatted_answers": [
+          "Bratislava [or Pressburg; or Pozsony]",
+          "Pannonian Plain [or Pannonian Basin; or Pannonia]",
+          "Tatras Mountains [or Tatra; or Tatry]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5187",
+        "type": "bonus",
+        "tournament": {
+          "id": 34,
+          "year": 2013,
+          "name": "2013 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:18.260Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/34"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5180,
+        "number": 11,
+        "round": "Editors 2",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 5194,
+        "tournament_id": 34,
+        "leadin": "This man's namesake plan created an unbroken stretch of parks along the coast of Lake Michigan, accomplished through the use of landfill. For 10 points each:",
+        "created_at": "2017-08-28T03:49:01.036Z",
+        "updated_at": "2017-08-28T03:49:01.036Z",
+        "formatted_leadin": "This man's namesake plan created an unbroken stretch of parks along the coast of Lake Michigan, accomplished through the use of landfill. For 10 points each:",
+        "texts": [
+          "Name this turn-of-the century urban planner closely associated with Chicago.",
+          "Burnham is perhaps best known for his leading role in this 1893 event, for which the \"white city\" was built, also notable for its enormous Ferris Wheel.",
+          "This five-term mayor of Chicago was assassinated during the Columbian Exposition. His son of the same name also became a five-term mayor."
+        ],
+        "answers": [
+          "John Burnham",
+          "World's Columbian Exposition [prompt on \"World Fair\"]",
+          "Carter Harrison Sr. "
+        ],
+        "formatted_texts": [
+          "Name this turn-of-the century urban planner closely associated with Chicago.",
+          "Burnham is perhaps best known for his leading role in this 1893 event, for which the \"white city\" was built, also notable for its enormous Ferris Wheel.",
+          "This five-term mayor of Chicago was assassinated during the Columbian Exposition. His son of the same name also became a five-term mayor."
+        ],
+        "formatted_answers": [
+          "John Burnham",
+          "World's Columbian Exposition [prompt on \"World Fair\"]",
+          "Carter Harrison Sr. "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5180",
+        "type": "bonus",
+        "tournament": {
+          "id": 34,
+          "year": 2013,
+          "name": "2013 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:18.260Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/34"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5561,
+        "number": 16,
+        "round": "MIT + GMU + Minnesota ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 5575,
+        "tournament_id": 34,
+        "leadin": "This city is home to a film industry nicknamed \"Lollywood.\" For 10 points each:",
+        "created_at": "2017-08-28T03:49:05.285Z",
+        "updated_at": "2017-08-28T03:49:05.285Z",
+        "formatted_leadin": "This city is home to a film industry nicknamed \"Lollywood.\" For 10 points each:",
+        "texts": [
+          "Name this second largest city of Pakistan.",
+          "Lahore is the capital of the Pakistani province with this name. The Indian province with this name has its capital at Chandigargh.",
+          "This fourth largest city in Pakistan is technically within Punjab, but its closeness to Islamabad makes it increasingly part of the same metro area as the capital."
+        ],
+        "answers": [
+          "Lahore ",
+          "Punjab",
+          "Rawalpindi"
+        ],
+        "formatted_texts": [
+          "Name this second largest city of Pakistan.",
+          "Lahore is the capital of the Pakistani province with this name. The Indian province with this name has its capital at Chandigargh.",
+          "This fourth largest city in Pakistan is technically within Punjab, but its closeness to Islamabad makes it increasingly part of the same metro area as the capital."
+        ],
+        "formatted_answers": [
+          "Lahore ",
+          "Punjab",
+          "Rawalpindi"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5561",
+        "type": "bonus",
+        "tournament": {
+          "id": 34,
+          "year": 2013,
+          "name": "2013 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:18.260Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/34"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13117,
+        "number": 4,
+        "round": "Haverford and Michigan State B",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 13131,
+        "tournament_id": 76,
+        "leadin": "This city is home to Templetown and a neighborhood to its north known as the Badlands, which is located between Allegheny and Lehigh Avenue. For 10 points each:",
+        "created_at": "2017-08-28T03:50:16.606Z",
+        "updated_at": "2017-08-28T03:50:16.606Z",
+        "formatted_leadin": "This city is home to Templetown and a neighborhood to its north known as the Badlands, which is located between Allegheny and Lehigh Avenue. For 10 points each:",
+        "texts": [
+          "Name this consolidated city-county found across the Delaware River from Camden, also home to Spruce Hill and Center City.",
+          "This section of Broad Street in Center City Philadelphia is home to the Philadelphia Orchestra, the Academy of Music, the Wilma Theater, and Suzanne Roberts Theatre.",
+          "This river that runs southeast through Philadelphia passes through Norristown and Reading. It is home to the Aberdeen Dad Vail Regatta, the largest American intercollegiate rowing event."
+        ],
+        "answers": [
+          "Philadelphia",
+          "Avenue of the Arts",
+          "Schuykill River"
+        ],
+        "formatted_texts": [
+          "Name this consolidated city-county found across the Delaware River from Camden, also home to Spruce Hill and Center City.",
+          "This section of Broad Street in Center City Philadelphia is home to the Philadelphia Orchestra, the Academy of Music, the Wilma Theater, and Suzanne Roberts Theatre.",
+          "This river that runs southeast through Philadelphia passes through Norristown and Reading. It is home to the Aberdeen Dad Vail Regatta, the largest American intercollegiate rowing event."
+        ],
+        "formatted_answers": [
+          "Philadelphia",
+          "Avenue of the Arts",
+          "Schuykill River"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13117",
+        "type": "bonus",
+        "tournament": {
+          "id": 76,
+          "year": 2013,
+          "name": "2013 VCU Closed",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:25.851Z",
+          "updated_at": "2017-08-27T18:44:25.851Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/76"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 12902,
+        "number": 17,
+        "round": "Editors 1",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 12916,
+        "tournament_id": 76,
+        "leadin": "This city was over forty percent Jewish at the turn of the twentieth century, though a notorious 1903 pogrom and a three‐year Nazi occupation displaced almost all of its Jews by 1944. For 10 points each:",
+        "created_at": "2017-08-28T03:50:14.941Z",
+        "updated_at": "2017-08-28T04:29:02.418Z",
+        "formatted_leadin": "This city was over forty percent Jewish at the turn of the twentieth century, though a notorious 1903 pogrom and a three&#8208;year Nazi occupation displaced almost all of its Jews by 1944. For 10 points each:",
+        "texts": [
+          "Name this city, found just south of Lake Ghidighici, which ranks ahead of Tiraspol and Balti as the most populous in its country.",
+          "Chisinau is found in this country, which is found between Romania and Ukraine and was ruled by Communists throughout the 2000s.",
+          "This area along the Ukrainian border controls the city of Bender and functions as a de facto independent state, though most international bodies recognize it as part of Moldova. It seceded from Moldova during the breakup of the USSR in opposition to Moldova's Romania‐friendly language policies."
+        ],
+        "answers": [
+          "Chisinau [or Kishinev]",
+          "Moldova",
+          "Transnistria [or Trans‐Dniester]"
+        ],
+        "formatted_texts": [
+          "Name this city, found just south of Lake Ghidighici, which ranks ahead of Tiraspol and Balti as the most populous in its country.",
+          "Chisinau is found in this country, which is found between Romania and Ukraine and was ruled by Communists throughout the 2000s.",
+          "This area along the Ukrainian border controls the city of Bender and functions as a de facto independent state, though most international bodies recognize it as part of Moldova. It seceded from Moldova during the breakup of the USSR in opposition to Moldova's Romania&#8208;friendly language policies."
+        ],
+        "formatted_answers": [
+          "Chisinau [or Kishinev]",
+          "Moldova",
+          "Transnistria [or Trans&#8208;Dniester]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/12902",
+        "type": "bonus",
+        "tournament": {
+          "id": 76,
+          "year": 2013,
+          "name": "2013 VCU Closed",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:25.851Z",
+          "updated_at": "2017-08-27T18:44:25.851Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/76"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13349,
+        "number": 3,
+        "round": "Penn and Wake Forest",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 13363,
+        "tournament_id": 76,
+        "leadin": "This nation's president Anote Tong has become an advocate for climate change awareness, since some of this nation's thirty-two atolls have already disappeared due to rising sea levels. For 10 points each:",
+        "created_at": "2017-08-28T03:50:18.511Z",
+        "updated_at": "2017-08-28T03:50:18.511Z",
+        "formatted_leadin": "This nation's president Anote Tong has become an advocate for climate change awareness, since some of this nation's thirty-two atolls have already disappeared due to rising sea levels. For 10 points each:",
+        "texts": [
+          "Identify this Pacific island nation, which has already purchased land on a nearby island in anticipation of eventually relocating the entire country.",
+          "Kiribati plans to relocate all of its citizens to this other country, comprised of the two large islands Viti Levu and Vauna Levu.",
+          "Roughly forty percent of Fiji's citizens belong to this non-native ethnicity. There was significantly backlash from nativists when a member of this ethnicity was elected Prime Minister."
+        ],
+        "answers": [
+          "Republic Kiribati [or Kiribas; or Ribaberiki Kiribati]",
+          "Republic of Fiji",
+          "Indians [or people from India]"
+        ],
+        "formatted_texts": [
+          "Identify this Pacific island nation, which has already purchased land on a nearby island in anticipation of eventually relocating the entire country.",
+          "Kiribati plans to relocate all of its citizens to this other country, comprised of the two large islands Viti Levu and Vauna Levu.",
+          "Roughly forty percent of Fiji's citizens belong to this non-native ethnicity. There was significantly backlash from nativists when a member of this ethnicity was elected Prime Minister."
+        ],
+        "formatted_answers": [
+          "Republic Kiribati [or Kiribas; or Ribaberiki Kiribati]",
+          "Republic of Fiji",
+          "Indians [or people from India]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13349",
+        "type": "bonus",
+        "tournament": {
+          "id": 76,
+          "year": 2013,
+          "name": "2013 VCU Closed",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:25.851Z",
+          "updated_at": "2017-08-27T18:44:25.851Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/76"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13243,
+        "number": 2,
+        "round": "Michigan B and Yale A",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 13257,
+        "tournament_id": 76,
+        "leadin": "This region was not colonized by the British or Americans due to the Clayton-Bulwer Treaty. For 10 points each:",
+        "created_at": "2017-08-28T03:50:17.708Z",
+        "updated_at": "2017-08-28T03:50:17.708Z",
+        "formatted_leadin": "This region was not colonized by the British or Americans due to the Clayton-Bulwer Treaty. For 10 points each:",
+        "texts": [
+          "Name this region of Central America bordering the Caribbean Sea, that includes the city of Bluefields. Although this region's name refers to a group of natives, it is often spelled after a certain insect.",
+          "The Mosquito Coast lies mostly in this country, whose large namesake lake would be a central part of a proposed waterway connecting the Atlantic to the Pacific.",
+          "Another part of the proposed canal would be this river that separates Nicaragua and Costa Rica. Another river of the same name is a tributary of the Colorado and forms the Goosenecks formation in Utah."
+        ],
+        "answers": [
+          "Mosquito Coast [or Miskito Coast]",
+          "Nicaragua",
+          "San Juan River [or Río de San Juan]"
+        ],
+        "formatted_texts": [
+          "Name this region of Central America bordering the Caribbean Sea, that includes the city of Bluefields. Although this region's name refers to a group of natives, it is often spelled after a certain insect.",
+          "The Mosquito Coast lies mostly in this country, whose large namesake lake would be a central part of a proposed waterway connecting the Atlantic to the Pacific.",
+          "Another part of the proposed canal would be this river that separates Nicaragua and Costa Rica. Another river of the same name is a tributary of the Colorado and forms the Goosenecks formation in Utah."
+        ],
+        "formatted_answers": [
+          "Mosquito Coast [or Miskito Coast]",
+          "Nicaragua",
+          "San Juan River [or Ri&#769;o de San Juan]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13243",
+        "type": "bonus",
+        "tournament": {
+          "id": 76,
+          "year": 2013,
+          "name": "2013 VCU Closed",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:25.851Z",
+          "updated_at": "2017-08-27T18:44:25.851Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/76"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13383,
+        "number": 16,
+        "round": "Rutgers and Virginia A",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 13397,
+        "tournament_id": 76,
+        "leadin": "Name some neighborhoods that are often identified with hipsters, for 10 points each:",
+        "created_at": "2017-08-28T03:50:18.772Z",
+        "updated_at": "2017-08-28T03:50:18.772Z",
+        "formatted_leadin": "Name some neighborhoods that are often identified with hipsters, for 10 points each:",
+        "texts": [
+          "This Brooklyn neighborhood is north of Bed-Stuy and south of Greenpoint. It shares its name with the colonial capital of Virginia.",
+          "San Francisco claims that this neighborhood has the highest concentration of street murals of any neighborhood in San Francisco. It is named for the oldest standing building in San Francisco.",
+          "Rilo Kiley and the Silversun Pickups originated from this Los Angeles neighborhood which is located between Echo Park and Los Feliz."
+        ],
+        "answers": [
+          "Williamsburg",
+          "the Mission district",
+          "Silver Lake"
+        ],
+        "formatted_texts": [
+          "This Brooklyn neighborhood is north of Bed-Stuy and south of Greenpoint. It shares its name with the colonial capital of Virginia.",
+          "San Francisco claims that this neighborhood has the highest concentration of street murals of any neighborhood in San Francisco. It is named for the oldest standing building in San Francisco.",
+          "Rilo Kiley and the Silversun Pickups originated from this Los Angeles neighborhood which is located between Echo Park and Los Feliz."
+        ],
+        "formatted_answers": [
+          "Williamsburg",
+          "the Mission district",
+          "Silver Lake"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13383",
+        "type": "bonus",
+        "tournament": {
+          "id": 76,
+          "year": 2013,
+          "name": "2013 VCU Closed",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:25.851Z",
+          "updated_at": "2017-08-27T18:44:25.851Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/76"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 13141,
+        "number": 7,
+        "round": "Maryland A and Ohio State A",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 13155,
+        "tournament_id": 76,
+        "leadin": "The truly adventurous traveler will always make a detour while in this country to visit El Mercado de las Brujas, its infamous Witches' Market, which boasts a healthy stock of llama fetuses. For 10 points each:",
+        "created_at": "2017-08-28T03:50:16.861Z",
+        "updated_at": "2017-09-02T02:19:40.474Z",
+        "formatted_leadin": "The truly adventurous traveler will always make a detour while in this country to visit El Mercado de las Brujas, its infamous Witches' Market, which boasts a healthy stock of llama fetuses. For 10 points each:",
+        "texts": [
+          "Identify this South American country, once home to an infamous silver mine where the patio process mercury-poisoned millions of colonial slaves.",
+          "The Witches' Market is staffed by many helpful yatiri, the ritual sorcerers of this Bolivian ethnic group. Its notable members include 18th-century rebel Tupac Katari and current Bolivian president Evo Morales.",
+          "The Witches' Market is located in the middle of this city, which serves as the seat of Bolivia's government even though the official national capital is Sucre."
+        ],
+        "answers": [
+          "Bolivia",
+          "Aymara",
+          "La Paz"
+        ],
+        "formatted_texts": [
+          "Identify this South American country, once home to an infamous silver mine where the patio process mercury-poisoned millions of colonial slaves.",
+          "The Witches' Market is staffed by many helpful yatiri, the ritual sorcerers of this Bolivian ethnic group. Its notable members include 18th-century rebel Tupac Katari and current Bolivian president Evo Morales.",
+          "The Witches' Market is located in the middle of this city, which serves as the seat of Bolivia's government even though the official national capital is Sucre."
+        ],
+        "formatted_answers": [
+          "Bolivia",
+          "Aymara",
+          "La Paz"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/13141",
+        "type": "bonus",
+        "tournament": {
+          "id": 76,
+          "year": 2013,
+          "name": "2013 VCU Closed",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:25.851Z",
+          "updated_at": "2017-08-27T18:44:25.851Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/76"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 8665,
+        "number": 5,
+        "round": "Dartmouth A + WUSTL",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 8679,
+        "tournament_id": 45,
+        "leadin": "This state contains an enormous uranium deposit at Olympic Dam near the Roxby Downs. For 10 points each:",
+        "created_at": "2017-08-28T03:49:37.828Z",
+        "updated_at": "2017-08-28T03:49:37.828Z",
+        "formatted_leadin": "This state contains an enormous uranium deposit at Olympic Dam near the Roxby Downs. For 10 points each:",
+        "texts": [
+          "The confluence of the Murray and Darling Rivers empties into the Indian Ocean at Lake Alexandrina in what state, near its largest city of Adelaide?",
+          "The Murray River rises in the Australian Alps, which contains the Snowy Mountains, the range in which this tallest mountain in Australia is located.",
+          "This river forms Lake Burrendong and drains via the Barwon River into the Darling. Its floodplain houses a large wetlands reserve in northern New South Wales, and it covers much of the Central Tablelands."
+        ],
+        "answers": [
+          "South Australia ",
+          "Mount Kosciuszko",
+          "Macquarie River "
+        ],
+        "formatted_texts": [
+          "The confluence of the Murray and Darling Rivers empties into the Indian Ocean at Lake Alexandrina in what state, near its largest city of Adelaide?",
+          "The Murray River rises in the Australian Alps, which contains the Snowy Mountains, the range in which this tallest mountain in Australia is located.",
+          "This river forms Lake Burrendong and drains via the Barwon River into the Darling. Its floodplain houses a large wetlands reserve in northern New South Wales, and it covers much of the Central Tablelands."
+        ],
+        "formatted_answers": [
+          "South Australia ",
+          "Mount Kosciuszko",
+          "Macquarie River "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/8665",
+        "type": "bonus",
+        "tournament": {
+          "id": 45,
+          "year": 2013,
+          "name": "2013 VCU Closed ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:21.203Z",
+          "updated_at": "2017-08-27T18:44:21.203Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/45"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 8800,
+        "number": 16,
+        "round": "Delaware + Michigan A ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 8814,
+        "tournament_id": 45,
+        "leadin": "Answer the following about Yosemite National Park, for 10 points each.",
+        "created_at": "2017-08-28T03:49:38.928Z",
+        "updated_at": "2017-08-28T03:49:38.928Z",
+        "formatted_leadin": "Answer the following about Yosemite National Park, for 10 points each.",
+        "texts": [
+          "Yosemite is located within this mountain range in Western California. This mountain range is home to Mount Whitney, this highest point in the contiguous 48 states.",
+          "This famous, oft-photographed granite formation in Yosemite is named for its distinctive shape. Hikers must now obtain a permit to hike up the cable route due to its popularity among hikers.",
+          "This waterfall on the Merced River is located downstream from Nevada Fall. A steep hiking trail next to this waterfall leads to Emerald Pool at the top."
+        ],
+        "answers": [
+          "Sierra Nevada ",
+          "Half Dome ",
+          "Vernal Fall"
+        ],
+        "formatted_texts": [
+          "Yosemite is located within this mountain range in Western California. This mountain range is home to Mount Whitney, this highest point in the contiguous 48 states.",
+          "This famous, oft-photographed granite formation in Yosemite is named for its distinctive shape. Hikers must now obtain a permit to hike up the cable route due to its popularity among hikers.",
+          "This waterfall on the Merced River is located downstream from Nevada Fall. A steep hiking trail next to this waterfall leads to Emerald Pool at the top."
+        ],
+        "formatted_answers": [
+          "Sierra Nevada ",
+          "Half Dome ",
+          "Vernal Fall"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/8800",
+        "type": "bonus",
+        "tournament": {
+          "id": 45,
+          "year": 2013,
+          "name": "2013 VCU Closed ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:21.203Z",
+          "updated_at": "2017-08-27T18:44:21.203Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/45"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 8474,
+        "number": 5,
+        "round": "Chicago B + Yale B",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 8488,
+        "tournament_id": 45,
+        "leadin": "Answer the following about the geography of the Overseas Highway, for 10 points each.",
+        "created_at": "2017-08-28T03:49:36.194Z",
+        "updated_at": "2017-08-28T03:49:36.194Z",
+        "formatted_leadin": "Answer the following about the geography of the Overseas Highway, for 10 points each.",
+        "texts": [
+          "The Overseas Highway ends at this Florida city, the farthest of an island chain that divides the Gulf of Mexico from the Atlantic Ocean. This southernmost town in the continental U.S. once declared itself the Conch Republic.",
+          "The Overseas Highway carries this federal road south from Miami and Key Largo to Key West. This highway, whose shield-shaped signs were once colored red in Florida, begins in Fort Kent, Maine.",
+          "This longest of the Overseas Highway's bridges crosses the Moser Channel between Knight's Key and Little Duck Key. Its newer span bypasses Pigeon Key and is slightly shorter than its name would imply."
+        ],
+        "answers": [
+          "City of Key West ",
+          "United States Route 1 ",
+          "Seven Mile Bridge "
+        ],
+        "formatted_texts": [
+          "The Overseas Highway ends at this Florida city, the farthest of an island chain that divides the Gulf of Mexico from the Atlantic Ocean. This southernmost town in the continental U.S. once declared itself the Conch Republic.",
+          "The Overseas Highway carries this federal road south from Miami and Key Largo to Key West. This highway, whose shield-shaped signs were once colored red in Florida, begins in Fort Kent, Maine.",
+          "This longest of the Overseas Highway's bridges crosses the Moser Channel between Knight's Key and Little Duck Key. Its newer span bypasses Pigeon Key and is slightly shorter than its name would imply."
+        ],
+        "formatted_answers": [
+          "City of Key West ",
+          "United States Route 1 ",
+          "Seven Mile Bridge "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/8474",
+        "type": "bonus",
+        "tournament": {
+          "id": 45,
+          "year": 2013,
+          "name": "2013 VCU Closed ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:21.203Z",
+          "updated_at": "2017-08-27T18:44:21.203Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/45"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4888,
+        "number": 21,
+        "round": "UCSD ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4902,
+        "tournament_id": 31,
+        "leadin": "Natural wonders in this state include the Black Canyon of the Gunnison. For 10 points each:",
+        "created_at": "2017-08-28T03:48:57.792Z",
+        "updated_at": "2017-08-28T03:48:57.792Z",
+        "formatted_leadin": "Natural wonders in this state include the Black Canyon of the Gunnison. For 10 points each:",
+        "texts": [
+          "Name this Mountain West state, home to 25 mountains that exceed 14,000 feet in height, the tallest of which is Mt. Elbert in the Sawatch Range",
+          "The most famous mountain in Colorado, Pike's Peak, is located above this Colorado City, located roughly 65 miles south of Denver. Wondrous rock formations can be found in this city's Garden of the Gods. ",
+          "This city, the largest in Western Colorado, is found where the Gunnison River flows into the Colorado River. "
+        ],
+        "answers": [
+          "Colorado",
+          "Colorado Springs",
+          "Grand Junction"
+        ],
+        "formatted_texts": [
+          "Name this Mountain West state, home to 25 mountains that exceed 14,000 feet in height, the tallest of which is Mt. Elbert in the Sawatch Range",
+          "The most famous mountain in Colorado, Pike's Peak, is located above this Colorado City, located roughly 65 miles south of Denver. Wondrous rock formations can be found in this city's Garden of the Gods. ",
+          "This city, the largest in Western Colorado, is found where the Gunnison River flows into the Colorado River. "
+        ],
+        "formatted_answers": [
+          "Colorado",
+          "Colorado Springs",
+          "Grand Junction"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4888",
+        "type": "bonus",
+        "tournament": {
+          "id": 31,
+          "year": 2012,
+          "name": "2012 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.299Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/31"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4129,
+        "number": 6,
+        "round": "Minnesota ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4143,
+        "tournament_id": 31,
+        "leadin": "This city is home to a street named for physician Oscar Freire, who developed the first morgue here. For 10 points each:",
+        "created_at": "2017-08-28T03:48:49.114Z",
+        "updated_at": "2017-08-28T03:48:49.114Z",
+        "formatted_leadin": "This city is home to a street named for physician Oscar Freire, who developed the first morgue here. For 10 points each:",
+        "texts": [
+          "Name this city, home to the largest Japanese community outside of Japan. It also happens to be the largest city in Brazil.",
+          "The three richest states in Brazil are Sao Paulo, Rio de Janeiro, and this state, the second most populous. It is also located in the southeast region and its capital is Belo Horizonte. The Caxambu spa is in this state.",
+          "This term, which is used in Brazil to designate \"hillbillies,\" also names a particular type of accent in the Sao Paulo state. It also names the unique folk music in Sao Paulo"
+        ],
+        "answers": [
+          "Sao Paulo [or Saint Paul]",
+          "Minas Gerais",
+          "Caipira"
+        ],
+        "formatted_texts": [
+          "Name this city, home to the largest Japanese community outside of Japan. It also happens to be the largest city in Brazil.",
+          "The three richest states in Brazil are Sao Paulo, Rio de Janeiro, and this state, the second most populous. It is also located in the southeast region and its capital is Belo Horizonte. The Caxambu spa is in this state.",
+          "This term, which is used in Brazil to designate \"hillbillies,\" also names a particular type of accent in the Sao Paulo state. It also names the unique folk music in Sao Paulo"
+        ],
+        "formatted_answers": [
+          "Sao Paulo [or Saint Paul]",
+          "Minas Gerais",
+          "Caipira"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4129",
+        "type": "bonus",
+        "tournament": {
+          "id": 31,
+          "year": 2012,
+          "name": "2012 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.299Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/31"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4415,
+        "number": 21,
+        "round": "Editors 6",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4429,
+        "tournament_id": 32,
+        "leadin": "The NKVD and Beria glaciers can be found on this mountain. For 10 points each:",
+        "created_at": "2017-08-28T03:48:52.418Z",
+        "updated_at": "2017-08-28T03:48:52.418Z",
+        "formatted_leadin": "The NKVD and Beria glaciers can be found on this mountain. For 10 points each:",
+        "texts": [
+          "Name this tallest mountain of Tajikistan, formerly called Stalin Peak.",
+          "Communism Peak is the foremost peak in this mountain range of Central Asia. They are found north of the Himalayans and run through Tajikistan, Kyrgyzstan, and China.",
+          "Kyrgyzstan is also home to the southern end of this mountain range, which is more notable for running through Mongolia and China. Jengish Chokshu, found on the Kyrgyz-Chinese border, is the tallest peak."
+        ],
+        "answers": [
+          "Communism Peak [or Ismoil Somoni Peak]",
+          "Pamir Mountains",
+          "Tian Shan [or Tien Shan mountains; prompt on \"Kakshaal-Too\"]"
+        ],
+        "formatted_texts": [
+          "Name this tallest mountain of Tajikistan, formerly called Stalin Peak.",
+          "Communism Peak is the foremost peak in this mountain range of Central Asia. They are found north of the Himalayans and run through Tajikistan, Kyrgyzstan, and China.",
+          "Kyrgyzstan is also home to the southern end of this mountain range, which is more notable for running through Mongolia and China. Jengish Chokshu, found on the Kyrgyz-Chinese border, is the tallest peak."
+        ],
+        "formatted_answers": [
+          "Communism Peak [or Ismoil Somoni Peak]",
+          "Pamir Mountains",
+          "Tian Shan [or Tien Shan mountains; prompt on \"Kakshaal-Too\"]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4415",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4433,
+        "number": 18,
+        "round": "Editors 7",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4447,
+        "tournament_id": 32,
+        "leadin": "This region's name means \"coast\" in Arabic, referring to its presence at the edge of a desert. For 10 points each:",
+        "created_at": "2017-08-28T03:48:52.618Z",
+        "updated_at": "2017-08-28T03:48:52.618Z",
+        "formatted_leadin": "This region's name means \"coast\" in Arabic, referring to its presence at the edge of a desert. For 10 points each:",
+        "texts": [
+          "Name this region of Africa found just south of the Sahara, composed of flat grassland.",
+          "By traveling north from the Sahel, you can get to Nouakchott, the capital of this African nation. This nation is notable for its substantial incidence of slavery and female genital mutilation",
+          "Those who venture north of Mauretania are at risk of running into this paramilitary organization, which fights for the independence of Western Sahara."
+        ],
+        "answers": [
+          "Sahel",
+          "Mauritania",
+          "Polisario Front "
+        ],
+        "formatted_texts": [
+          "Name this region of Africa found just south of the Sahara, composed of flat grassland.",
+          "By traveling north from the Sahel, you can get to Nouakchott, the capital of this African nation. This nation is notable for its substantial incidence of slavery and female genital mutilation",
+          "Those who venture north of Mauretania are at risk of running into this paramilitary organization, which fights for the independence of Western Sahara."
+        ],
+        "formatted_answers": [
+          "Sahel",
+          "Mauritania",
+          "Polisario Front "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4433",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4707,
+        "number": 1,
+        "round": "Harvard",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4721,
+        "tournament_id": 32,
+        "leadin": "Identify the following about Asian deserts, for 10 points each.",
+        "created_at": "2017-08-28T03:48:55.866Z",
+        "updated_at": "2017-08-28T03:48:55.866Z",
+        "formatted_leadin": "Identify the following about Asian deserts, for 10 points each.",
+        "texts": [
+          "This large desert in Northern China and Southern Mongolia is bordered by the Altai Mountains and contains the Alashan Plateau and the Dzungarian Basin.",
+          "This desert in Western China is bounded by the Kunlun, Pamirs, and Tian Shen Mountains, and the Silk Road passed through it.",
+          "This Western Chinese lake in Bayingolin is located at the Eastern edge of the Tarim Basin. It is better known as being the site of the first Chinese nuclear test in 1964 and many tests after that."
+        ],
+        "answers": [
+          "Gobi Desert ",
+          "Taklamakan Desert ",
+          "Lop Nur [accept Lop Lake]"
+        ],
+        "formatted_texts": [
+          "This large desert in Northern China and Southern Mongolia is bordered by the Altai Mountains and contains the Alashan Plateau and the Dzungarian Basin.",
+          "This desert in Western China is bounded by the Kunlun, Pamirs, and Tian Shen Mountains, and the Silk Road passed through it.",
+          "This Western Chinese lake in Bayingolin is located at the Eastern edge of the Tarim Basin. It is better known as being the site of the first Chinese nuclear test in 1964 and many tests after that."
+        ],
+        "formatted_answers": [
+          "Gobi Desert ",
+          "Taklamakan Desert ",
+          "Lop Nur [accept Lop Lake]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4707",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4799,
+        "number": 12,
+        "round": "Michigan + Carleton + Rice ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4813,
+        "tournament_id": 32,
+        "leadin": "This department's capital is Papeete and its Society Islands include Bora Bora and Tahiti. For 10 points each:",
+        "created_at": "2017-08-28T03:48:56.826Z",
+        "updated_at": "2017-08-28T03:48:56.826Z",
+        "formatted_leadin": "This department's capital is Papeete and its Society Islands include Bora Bora and Tahiti. For 10 points each:",
+        "texts": [
+          "Name this overseas department of France. ",
+          "French Polynesia also includes this island group, whose largest is Nuku Hiva. ",
+          "France also controls this island off the coast of Mexico, which it calls \"Passion Island\". Mexico tried to colonize this island in 1917, but colonists were wiped out by scurvy. Once the colony got down to 1 man and 15 women, the sole remaining man began raping and murdering the women, leading to colony collapse. "
+        ],
+        "answers": [
+          "French Polynesia",
+          "Marquesas Islands",
+          "Clipperton Island"
+        ],
+        "formatted_texts": [
+          "Name this overseas department of France. ",
+          "French Polynesia also includes this island group, whose largest is Nuku Hiva. ",
+          "France also controls this island off the coast of Mexico, which it calls \"Passion Island\". Mexico tried to colonize this island in 1917, but colonists were wiped out by scurvy. Once the colony got down to 1 man and 15 women, the sole remaining man began raping and murdering the women, leading to colony collapse. "
+        ],
+        "formatted_answers": [
+          "French Polynesia",
+          "Marquesas Islands",
+          "Clipperton Island"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4799",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4944,
+        "number": 12,
+        "round": "Virginia ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4958,
+        "tournament_id": 32,
+        "leadin": "This island lies north of St. Lucia, southeast of Dominica, and northwest of Barbados. For 10 points each:",
+        "created_at": "2017-08-28T03:48:58.417Z",
+        "updated_at": "2017-08-28T03:48:58.417Z",
+        "formatted_leadin": "This island lies north of St. Lucia, southeast of Dominica, and northwest of Barbados. For 10 points each:",
+        "texts": [
+          "Name this Caribbean island which, like Guadeloupe, is an overseas department of France.",
+          "In 1902, Martinique's then-capital Saint-Pierre was wiped out by the eruption of this volcano, forcing the capital to move to Fort-de-France.",
+          "Martinique is divided into four of these political units, which are a sub-unit of departments."
+        ],
+        "answers": [
+          "Martinique ",
+          "Mount Pelee",
+          "arrondissements "
+        ],
+        "formatted_texts": [
+          "Name this Caribbean island which, like Guadeloupe, is an overseas department of France.",
+          "In 1902, Martinique's then-capital Saint-Pierre was wiped out by the eruption of this volcano, forcing the capital to move to Fort-de-France.",
+          "Martinique is divided into four of these political units, which are a sub-unit of departments."
+        ],
+        "formatted_answers": [
+          "Martinique ",
+          "Mount Pelee",
+          "arrondissements "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4944",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 5291,
+        "number": 14,
+        "round": "Editors 3 ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 5305,
+        "tournament_id": 32,
+        "leadin": "You are a hydrological engineer working for the government of Uzbekistan. Answer the following about the geography that shapes your daily life for 10 points each.",
+        "created_at": "2017-08-28T03:49:02.287Z",
+        "updated_at": "2017-08-28T03:49:02.287Z",
+        "formatted_leadin": "You are a hydrological engineer working for the government of Uzbekistan. Answer the following about the geography that shapes your daily life for 10 points each.",
+        "texts": [
+          "You spend much of your time thinking about this major river, which forms part of Uzbekistan's southern border with Turkmenistan. The Uzbek government is aggressively promoting this river's basin as a destination for petroleum drilling.",
+          "The Amu Darya river flows into this inland sea. One of Uzbekistan's major hydrological problems is the fact that this sea is rapidly disappearing due to Soviet-era irrigation policies.",
+          "In Uzbek Hydrological Engineering School, you were warned to never set foot on this island in the Aral Sea, which the Soviet Union used to test weaponized anthrax. Unfortunately, due to the shrinking of the Aral Sea, it became first a peninsula and now part of the mainland."
+        ],
+        "answers": [
+          "Amu Darya [or Oxus River]",
+          "Aral Sea ",
+          "Rebirth Island [or Vozrozhdeniya Island]"
+        ],
+        "formatted_texts": [
+          "You spend much of your time thinking about this major river, which forms part of Uzbekistan's southern border with Turkmenistan. The Uzbek government is aggressively promoting this river's basin as a destination for petroleum drilling.",
+          "The Amu Darya river flows into this inland sea. One of Uzbekistan's major hydrological problems is the fact that this sea is rapidly disappearing due to Soviet-era irrigation policies.",
+          "In Uzbek Hydrological Engineering School, you were warned to never set foot on this island in the Aral Sea, which the Soviet Union used to test weaponized anthrax. Unfortunately, due to the shrinking of the Aral Sea, it became first a peninsula and now part of the mainland."
+        ],
+        "formatted_answers": [
+          "Amu Darya [or Oxus River]",
+          "Aral Sea ",
+          "Rebirth Island [or Vozrozhdeniya Island]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/5291",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4985,
+        "number": 8,
+        "round": "Yale ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4999,
+        "tournament_id": 32,
+        "leadin": "The pool-and-weir is one variant of these devices. For 10 points each:",
+        "created_at": "2017-08-28T03:48:58.883Z",
+        "updated_at": "2017-08-28T03:48:58.883Z",
+        "formatted_leadin": "The pool-and-weir is one variant of these devices. For 10 points each:",
+        "texts": [
+          "Name these engineering feats added to dams, in which many short waterfalls are created by water flow down series of corrugated steps. They are built to reduce ecological impact.",
+          "Though the Bonneville Dam on this river features two massive fish-ladders for Pacific salmon to migrate upstream, the Grand Coulee Dam further upstream lacks them altogether. This river creates a natural border between Washington State and Oregon.",
+          "This other Washington State river runs through a valley whose farms produce a majority of America's apples. It is separated from the Yakima river by a namesake subrange of the Cascades."
+        ],
+        "answers": [
+          "fish ladders [or fish steps; or fishways; prompt on \"fish passage;\" do not accept \"fish elevator\"]",
+          "Columbia River ",
+          "Wenatchee River "
+        ],
+        "formatted_texts": [
+          "Name these engineering feats added to dams, in which many short waterfalls are created by water flow down series of corrugated steps. They are built to reduce ecological impact.",
+          "Though the Bonneville Dam on this river features two massive fish-ladders for Pacific salmon to migrate upstream, the Grand Coulee Dam further upstream lacks them altogether. This river creates a natural border between Washington State and Oregon.",
+          "This other Washington State river runs through a valley whose farms produce a majority of America's apples. It is separated from the Yakima river by a namesake subrange of the Cascades."
+        ],
+        "formatted_answers": [
+          "fish ladders [or fish steps; or fishways; prompt on \"fish passage;\" do not accept \"fish elevator\"]",
+          "Columbia River ",
+          "Wenatchee River "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4985",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4702,
+        "number": 16,
+        "round": "Finals 2",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4716,
+        "tournament_id": 32,
+        "leadin": "The tallest mountains in this range are found in its northern section, called the Sentinel Range. For 10 points each:",
+        "created_at": "2017-08-28T03:48:55.813Z",
+        "updated_at": "2017-08-28T03:48:55.813Z",
+        "formatted_leadin": "The tallest mountains in this range are found in its northern section, called the Sentinel Range. For 10 points each:",
+        "texts": [
+          "Name this foremost mountain range of Antarctica, which contains Vinson Massif.",
+          "The Ellsworth Mountains are found near the Antarctic Peninsula along the coast of this sea. It is an extension of the South Atlantic found southeast of Tierra del Fuego and separated by Marie Byrd Land from the Amundsen and Ross Seas.",
+          "Between the Ellsworth Mountains and Weddell Sea can be found this major ice shelf, Antarctica's second largest. Its two parts, either of which you can name, are divided by Berkner Island."
+        ],
+        "answers": [
+          "Ellsworth Mountains ",
+          "Weddell Sea ",
+          "Ronne Ice Shelf [or Filcher Ice Shelf; or Filcher-Ronne Ice Shelf; or Ronne-Filcher Ice Shelf]"
+        ],
+        "formatted_texts": [
+          "Name this foremost mountain range of Antarctica, which contains Vinson Massif.",
+          "The Ellsworth Mountains are found near the Antarctic Peninsula along the coast of this sea. It is an extension of the South Atlantic found southeast of Tierra del Fuego and separated by Marie Byrd Land from the Amundsen and Ross Seas.",
+          "Between the Ellsworth Mountains and Weddell Sea can be found this major ice shelf, Antarctica's second largest. Its two parts, either of which you can name, are divided by Berkner Island."
+        ],
+        "formatted_answers": [
+          "Ellsworth Mountains ",
+          "Weddell Sea ",
+          "Ronne Ice Shelf [or Filcher Ice Shelf; or Filcher-Ronne Ice Shelf; or Ronne-Filcher Ice Shelf]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4702",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 4149,
+        "number": 6,
+        "round": "Columbia + Chicago",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 4163,
+        "tournament_id": 32,
+        "leadin": "Answer the following about the geography of the Democratic Republic of the Congo, for 10 points each:",
+        "created_at": "2017-08-28T03:48:49.347Z",
+        "updated_at": "2017-08-28T03:48:49.347Z",
+        "formatted_leadin": "Answer the following about the geography of the Democratic Republic of the Congo, for 10 points each:",
+        "texts": [
+          "The lower Luapula River feeds this lake, which is drained by the Luvua River to the north. It lies on the border between Zambia and the Democratic Republic of the Congo.",
+          "The Democratic Republic of the Congo claims 45% of this longest freshwater lake in the world that contains many species of cichlid fish. Its only outlet is the Lukuga River, which empties into the Congo River.",
+          "This western branch of the East African Rift includes the Rwenzori Mountains and runs from the northern end of its namesake lake and Lake Tanganyika."
+        ],
+        "answers": [
+          "Lake Mweru",
+          "Lake Tanganvika ",
+          "Albertine Rift "
+        ],
+        "formatted_texts": [
+          "The lower Luapula River feeds this lake, which is drained by the Luvua River to the north. It lies on the border between Zambia and the Democratic Republic of the Congo.",
+          "The Democratic Republic of the Congo claims 45% of this longest freshwater lake in the world that contains many species of cichlid fish. Its only outlet is the Lukuga River, which empties into the Congo River.",
+          "This western branch of the East African Rift includes the Rwenzori Mountains and runs from the northern end of its namesake lake and Lake Tanganyika."
+        ],
+        "formatted_answers": [
+          "Lake Mweru",
+          "Lake Tanganvika ",
+          "Albertine Rift "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/4149",
+        "type": "bonus",
+        "tournament": {
+          "id": 32,
+          "year": 2012,
+          "name": "2012 ACF Nationals ",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:17.313Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/32"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 12864,
+        "number": 24,
+        "round": "Brown.doc",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 12878,
+        "tournament_id": 101,
+        "leadin": "Answer the following about the geography of Ethiopia for 10 points each:",
+        "created_at": "2017-08-28T03:50:14.595Z",
+        "updated_at": "2017-08-28T03:50:14.595Z",
+        "formatted_leadin": "Answer the following about the geography of Ethiopia for 10 points each:",
+        "texts": [
+          "This peak in the Simien Mountains of northern Ethiopia is the country's highest at nearly 15,000 feet. It is, along with Mt Biuat, the remnant of a giant volcano, which has been split in two by erosion.",
+          "This lake fed by the Reb and Gumara rivers is the largest in Ethiopia and the source of the Blue Nile.",
+          "The Great Rift Valley separates this Ethiopian mountain range from the rest of the Ethiopian highlands. This range contains Tullu Demtu, the country's second highest peak."
+        ],
+        "answers": [
+          "Ras Dashan or Ras Dejen",
+          "Lake Tana",
+          "Bale Mountains"
+        ],
+        "formatted_texts": [
+          "This peak in the Simien Mountains of northern Ethiopia is the country's highest at nearly 15,000 feet. It is, along with Mt Biuat, the remnant of a giant volcano, which has been split in two by erosion.",
+          "This lake fed by the Reb and Gumara rivers is the largest in Ethiopia and the source of the Blue Nile.",
+          "The Great Rift Valley separates this Ethiopian mountain range from the rest of the Ethiopian highlands. This range contains Tullu Demtu, the country's second highest peak."
+        ],
+        "formatted_answers": [
+          "Ras Dashan or Ras Dejen",
+          "Lake Tana",
+          "Bale Mountains"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/12864",
+        "type": "bonus",
+        "tournament": {
+          "id": 101,
+          "year": 2011,
+          "name": "2011 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:47:58.963Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/101"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 15572,
+        "number": 17,
+        "round": "Chicago C, UVA, Maryland",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 15586,
+        "tournament_id": 101,
+        "leadin": "Answer these questions about maps, for 10 points each:",
+        "created_at": "2017-08-28T03:50:39.360Z",
+        "updated_at": "2017-08-28T03:50:39.360Z",
+        "formatted_leadin": "Answer these questions about maps, for 10 points each:",
+        "texts": [
+          "This Flemish dude created an eponymous 1569 cylindrical projection that remains popular despite the fact that the original version makes it seem like Canada is angrily phagocytosing the map legend.",
+          "John Snow created a notable 1854 map charting this phenomenon with respect to certain installations in the vicinity of Broad Street, dealing a major blow to Miasma theory.",
+          "The Sanborn maps, which contain a century's worth of detailed geographical plans for most American cities, are incessantly employed for historiography, urban engineering, and like ten million other things. The maps were originally commissioned for this non-cholera reason."
+        ],
+        "answers": [
+          "Gerardus Mercator",
+          "Cholera [prompt on more general answers like \"disease,\" \"epidemic,\" etc.]",
+          "Fire [Fire Insurance, really, but accept equivalents; prompt on just \"insurance\"]"
+        ],
+        "formatted_texts": [
+          "This Flemish dude created an eponymous 1569 cylindrical projection that remains popular despite the fact that the original version makes it seem like Canada is angrily phagocytosing the map legend.",
+          "John Snow created a notable 1854 map charting this phenomenon with respect to certain installations in the vicinity of Broad Street, dealing a major blow to Miasma theory.",
+          "The Sanborn maps, which contain a century's worth of detailed geographical plans for most American cities, are incessantly employed for historiography, urban engineering, and like ten million other things. The maps were originally commissioned for this non-cholera reason."
+        ],
+        "formatted_answers": [
+          "Gerardus Mercator",
+          "Cholera [prompt on more general answers like \"disease,\" \"epidemic,\" etc.]",
+          "Fire [Fire Insurance, really, but accept equivalents; prompt on just \"insurance\"]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/15572",
+        "type": "bonus",
+        "tournament": {
+          "id": 101,
+          "year": 2011,
+          "name": "2011 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:47:58.963Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/101"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 14481,
+        "number": 23,
+        "round": "Chicago A",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 14495,
+        "tournament_id": 101,
+        "leadin": "Identify three bays surrounding Long Island, for 10 points each.",
+        "created_at": "2017-08-28T03:50:28.807Z",
+        "updated_at": "2017-08-28T03:50:28.807Z",
+        "formatted_leadin": "Identify three bays surrounding Long Island, for 10 points each.",
+        "texts": [
+          "This lagoon is bounded on the south by Fire Island and on the north by Islip and Babylon. It was once a prolific source of oysters and clams.",
+          "This bay, divided into \"Great\" and \"Little\" sections, separates the north and south forks at the east end of Long Island. It is demarcated by Shelter Island to the east.",
+          "This bay, largely within New York City, is bounded on the south by the Rockaway Peninsula. It contains the island neighborhood of Broad Channel, Queens, and is bordered by Floyd Bennet Field and JFK Airport."
+        ],
+        "answers": [
+          "Great South Bay",
+          "Peconic Bay",
+          "Jamaica Bay"
+        ],
+        "formatted_texts": [
+          "This lagoon is bounded on the south by Fire Island and on the north by Islip and Babylon. It was once a prolific source of oysters and clams.",
+          "This bay, divided into \"Great\" and \"Little\" sections, separates the north and south forks at the east end of Long Island. It is demarcated by Shelter Island to the east.",
+          "This bay, largely within New York City, is bounded on the south by the Rockaway Peninsula. It contains the island neighborhood of Broad Channel, Queens, and is bordered by Floyd Bennet Field and JFK Airport."
+        ],
+        "formatted_answers": [
+          "Great South Bay",
+          "Peconic Bay",
+          "Jamaica Bay"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/14481",
+        "type": "bonus",
+        "tournament": {
+          "id": 101,
+          "year": 2011,
+          "name": "2011 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:47:58.963Z",
+          "updated_at": "2017-09-01T16:55:26.152Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/101"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6070,
+        "number": 8,
+        "round": "Round 5 ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 6084,
+        "tournament_id": 9,
+        "leadin": "Answer the following about slums, for 10 points each:",
+        "created_at": "2017-08-28T03:49:10.577Z",
+        "updated_at": "2017-08-28T03:49:10.577Z",
+        "formatted_leadin": "Answer the following about slums, for 10 points each:",
+        "texts": [
+          "DNC chairman Charles Michelson coined this term for the tent-cities that sprung up in Depression-era America.",
+          "Rocinha, which is on the outskirts of Rio de Janeiro, is an example of this type of Brazilian shantytown.",
+          "This massive slum outside Port-au-Prince was hit especially hard by the 2010 Haitian earthquake."
+        ],
+        "answers": [
+          "Hoovervilles ",
+          "favela ",
+          "Cite Soleil"
+        ],
+        "formatted_texts": [
+          "DNC chairman Charles Michelson coined this term for the tent-cities that sprung up in Depression-era America.",
+          "Rocinha, which is on the outskirts of Rio de Janeiro, is an example of this type of Brazilian shantytown.",
+          "This massive slum outside Port-au-Prince was hit especially hard by the 2010 Haitian earthquake."
+        ],
+        "formatted_answers": [
+          "Hoovervilles ",
+          "favela ",
+          "Cite Soleil"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6070",
+        "type": "bonus",
+        "tournament": {
+          "id": 9,
+          "year": 2011,
+          "name": "2011 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.622Z",
+          "updated_at": "2017-09-01T16:59:02.112Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/9"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 1173,
+        "number": 7,
+        "round": "2",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 1107,
+        "tournament_id": 9,
+        "leadin": "[missing]",
+        "created_at": "2017-08-28T03:48:19.246Z",
+        "updated_at": "2017-08-28T03:48:19.246Z",
+        "formatted_leadin": "[missing]",
+        "texts": [
+          "Name this southernmost point of the Tierra del Feugo archipelago in Chile.",
+          "This passage is located below Cape Horn and connects the Pacific and Atlantic Oceans. It is the dominant contributor to the topographic form drag that slows the Antarctic Circumpolar Current.",
+          "This large igneous province located in the southern Indian Ocean forces the southern Antarctic Circumpolar Current front south. With Zealandia, it is one of the two major submerged continents."
+        ],
+        "answers": [
+          "Cape Horn",
+          "Drake Passage",
+          "Kerguelen Plateau"
+        ],
+        "formatted_texts": [
+          "Name this southernmost point of the Tierra del Feugo archipelago in Chile.",
+          "This passage is located below Cape Horn and connects the Pacific and Atlantic Oceans. It is the dominant contributor to the topographic form drag that slows the Antarctic Circumpolar Current.",
+          "This large igneous province located in the southern Indian Ocean forces the southern Antarctic Circumpolar Current front south. With Zealandia, it is one of the two major submerged continents."
+        ],
+        "formatted_answers": [
+          "Cape Horn",
+          "Drake Passage",
+          "Kerguelen Plateau"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/1173",
+        "type": "bonus",
+        "tournament": {
+          "id": 9,
+          "year": 2011,
+          "name": "2011 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.622Z",
+          "updated_at": "2017-09-01T16:59:02.112Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/9"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6292,
+        "number": 8,
+        "round": "Round 15 ",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 6306,
+        "tournament_id": 9,
+        "leadin": "The Maranon, Rio Negro, and Manaus are tributaries of this river. For 10 points each:",
+        "created_at": "2017-08-28T03:49:13.025Z",
+        "updated_at": "2017-08-28T03:49:13.025Z",
+        "formatted_leadin": "The Maranon, Rio Negro, and Manaus are tributaries of this river. For 10 points each:",
+        "texts": [
+          "Name this river, the largest in the world in terms of water volume.",
+          "A so-called \"Jesuit Utopia\" was named for this tribe in the Amazon river delta. JosÃ© de Alencar wrote a novel titled for them, and a diluted version of their language is more widely spoken in Paraguay than Spanish.",
+          "With Guarani, this tribe names a large language group that donated the English words capoeira and jaguar. Like the Potiguara and CaetÃ©, the Guarani are considered a subgroup of this tribe that dominated the east coast of Brazil when the Portuguese landed."
+        ],
+        "answers": [
+          "Amazon River ",
+          "the Guarani",
+          "Tupinamba [or Tupian]"
+        ],
+        "formatted_texts": [
+          "Name this river, the largest in the world in terms of water volume.",
+          "A so-called \"Jesuit Utopia\" was named for this tribe in the Amazon river delta. JosÃ© de Alencar wrote a novel titled for them, and a diluted version of their language is more widely spoken in Paraguay than Spanish.",
+          "With Guarani, this tribe names a large language group that donated the English words capoeira and jaguar. Like the Potiguara and CaetÃ©, the Guarani are considered a subgroup of this tribe that dominated the east coast of Brazil when the Portuguese landed."
+        ],
+        "formatted_answers": [
+          "Amazon River ",
+          "the Guarani",
+          "Tupinamba [or Tupian]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6292",
+        "type": "bonus",
+        "tournament": {
+          "id": 9,
+          "year": 2011,
+          "name": "2011 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.622Z",
+          "updated_at": "2017-09-01T16:59:02.112Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/9"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6259,
+        "number": 15,
+        "round": "Round 13",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 6273,
+        "tournament_id": 9,
+        "leadin": "This state's third largest city is Bellevue, the site of the headquarters of the Strategic Air Command at Offut Air Force Base. For 10 points each:",
+        "created_at": "2017-08-28T03:49:12.640Z",
+        "updated_at": "2017-08-28T03:49:12.640Z",
+        "formatted_leadin": "This state's third largest city is Bellevue, the site of the headquarters of the Strategic Air Command at Offut Air Force Base. For 10 points each:",
+        "texts": [
+          "ame this state whose city of Omaha is the home of Berkshire Hathaway.",
+          "Omaha is about twenty miles north of the mouth of this tributary of the Missouri River, which breaks into north and south branches near the border with Colorado.",
+          "This city to the north of the Platte River was originally named Dobytown. It is named for a general who was helped by Kit Carson to win the Battle of San Pasqual."
+        ],
+        "answers": [
+          "Nebraska ",
+          "Platt River ",
+          "Kearney, Nebraska "
+        ],
+        "formatted_texts": [
+          "ame this state whose city of Omaha is the home of Berkshire Hathaway.",
+          "Omaha is about twenty miles north of the mouth of this tributary of the Missouri River, which breaks into north and south branches near the border with Colorado.",
+          "This city to the north of the Platte River was originally named Dobytown. It is named for a general who was helped by Kit Carson to win the Battle of San Pasqual."
+        ],
+        "formatted_answers": [
+          "Nebraska ",
+          "Platt River ",
+          "Kearney, Nebraska "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6259",
+        "type": "bonus",
+        "tournament": {
+          "id": 9,
+          "year": 2011,
+          "name": "2011 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.622Z",
+          "updated_at": "2017-09-01T16:59:02.112Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/9"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6212,
+        "number": 8,
+        "round": "Round 11",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 6226,
+        "tournament_id": 9,
+        "leadin": "This river flows through Turin and Piacenza. For 10 points each:",
+        "created_at": "2017-08-28T03:49:12.084Z",
+        "updated_at": "2017-08-28T03:49:12.084Z",
+        "formatted_leadin": "This river flows through Turin and Piacenza. For 10 points each:",
+        "texts": [
+          "Name this longest river in Italy.",
+          "The Po di Volano branch of the Po flows through this city, which is situated to the northeast of Bologna. It is the site of the Cathedral of San Giorgio and a castle named for its ruling Este family.",
+          "This city north of Ferrara is sometimes grouped with Treviso and Venice in a metropolitan area. It sits on the Bacchiglione and contains Scrovegni Chapel."
+        ],
+        "answers": [
+          "Po River",
+          "Ferrara ",
+          "Padua [or Padova]"
+        ],
+        "formatted_texts": [
+          "Name this longest river in Italy.",
+          "The Po di Volano branch of the Po flows through this city, which is situated to the northeast of Bologna. It is the site of the Cathedral of San Giorgio and a castle named for its ruling Este family.",
+          "This city north of Ferrara is sometimes grouped with Treviso and Venice in a metropolitan area. It sits on the Bacchiglione and contains Scrovegni Chapel."
+        ],
+        "formatted_answers": [
+          "Po River",
+          "Ferrara ",
+          "Padua [or Padova]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6212",
+        "type": "bonus",
+        "tournament": {
+          "id": 9,
+          "year": 2011,
+          "name": "2011 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.622Z",
+          "updated_at": "2017-09-01T16:59:02.112Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/9"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 6139,
+        "number": 14,
+        "round": "Round 8",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 6153,
+        "tournament_id": 9,
+        "leadin": "This tributary of the Mississippi River shares its name with a river that runs through Fargo and forms a the border between North Dakota and Minnesota . For 10 points each:",
+        "created_at": "2017-08-28T03:49:11.233Z",
+        "updated_at": "2017-08-28T03:49:11.233Z",
+        "formatted_leadin": "This tributary of the Mississippi River shares its name with a river that runs through Fargo and forms a the border between North Dakota and Minnesota . For 10 points each:",
+        "texts": [
+          "Name this river which forms much of the border between Oklahoma and Texas.",
+          "The Red River also flows into this Louisiana river, which flows into the gulf after running through Simmesport and Morgan City.",
+          "The Red River runs through this Louisiana city, which was named for an inventor who used his steamship Heliopolis to clear the Great Raft, a logjam which made parts of the Red and Atchafalaya impassable."
+        ],
+        "answers": [
+          "Red River of the South",
+          "Atchafalaya River ",
+          "Shreveport "
+        ],
+        "formatted_texts": [
+          "Name this river which forms much of the border between Oklahoma and Texas.",
+          "The Red River also flows into this Louisiana river, which flows into the gulf after running through Simmesport and Morgan City.",
+          "The Red River runs through this Louisiana city, which was named for an inventor who used his steamship Heliopolis to clear the Great Raft, a logjam which made parts of the Red and Atchafalaya impassable."
+        ],
+        "formatted_answers": [
+          "Red River of the South",
+          "Atchafalaya River ",
+          "Shreveport "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/6139",
+        "type": "bonus",
+        "tournament": {
+          "id": 9,
+          "year": 2011,
+          "name": "2011 VCU Open",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:13.622Z",
+          "updated_at": "2017-09-01T16:59:02.112Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/9"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 14434,
+        "number": 19,
+        "round": "Brown A - Final",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 14448,
+        "tournament_id": 85,
+        "leadin": "Name some cartographic projections",
+        "created_at": "2017-08-28T03:50:28.347Z",
+        "updated_at": "2017-08-28T03:50:28.347Z",
+        "formatted_leadin": "Name some cartographic projections",
+        "texts": [
+          "This ubiquitous projection, named after its 16th-century Flemish originator, stretches area near the poles to make Greenland seem larger than Brazil.",
+          "This projection was reformulated by its second namesake as a reaction against the \"colonialist\" Mercator projection. It privileges area accuracy over silly-looking shape distortion, stretching out Africa and South America and all but squashing the poles.",
+          "This map turns the globe into an icosahedron and unfolds it, leaving nothing properly facing upwards and, usually, the Arctic in the center. It was predictably named by its inventor, Buckminster Fuller."
+        ],
+        "answers": [
+          "Mercator projection",
+          "Gall-Peters projection (accept either)",
+          "Dymaxion map"
+        ],
+        "formatted_texts": [
+          "This ubiquitous projection, named after its 16th-century Flemish originator, stretches area near the poles to make Greenland seem larger than Brazil.",
+          "This projection was reformulated by its second namesake as a reaction against the \"colonialist\" Mercator projection. It privileges area accuracy over silly-looking shape distortion, stretching out Africa and South America and all but squashing the poles.",
+          "This map turns the globe into an icosahedron and unfolds it, leaving nothing properly facing upwards and, usually, the Arctic in the center. It was predictably named by its inventor, Buckminster Fuller."
+        ],
+        "formatted_answers": [
+          "Mercator projection",
+          "Gall-Peters projection (accept either)",
+          "Dymaxion map"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/14434",
+        "type": "bonus",
+        "tournament": {
+          "id": 85,
+          "year": 2010,
+          "name": "2010 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:28.715Z",
+          "updated_at": "2017-09-01T16:57:38.193Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/85"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 14436,
+        "number": 21,
+        "round": "Brown A - Final",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 14450,
+        "tournament_id": 85,
+        "leadin": " Answer the following about northwestern South America",
+        "created_at": "2017-08-28T03:50:28.363Z",
+        "updated_at": "2017-08-28T03:50:28.363Z",
+        "formatted_leadin": " Answer the following about northwestern South America",
+        "texts": [
+          "On the coast of Zulia in northwest Venezuela is this largest lake in South America. The duckweed infestation on its surface appears as a large green swirl from high altitudes. ",
+          "This second-largest Colombian city and capital of the State of Antioquia was the headquarters of noted drug lord Pablo Escobar, though its crime levels have declined in recent years. ",
+          "This major Colombian port city is located at the delta of the Magdalena River just northeast of Cartagena. It is also noted as Gabriel Garcia Marquez's home during his early years as a writer. "
+        ],
+        "answers": [
+          "Lake Maracaibo ",
+          "MedellÃ­n ",
+          "Barranquilla "
+        ],
+        "formatted_texts": [
+          "On the coast of Zulia in northwest Venezuela is this largest lake in South America. The duckweed infestation on its surface appears as a large green swirl from high altitudes. ",
+          "This second-largest Colombian city and capital of the State of Antioquia was the headquarters of noted drug lord Pablo Escobar, though its crime levels have declined in recent years. ",
+          "This major Colombian port city is located at the delta of the Magdalena River just northeast of Cartagena. It is also noted as Gabriel Garcia Marquez's home during his early years as a writer. "
+        ],
+        "formatted_answers": [
+          "Lake Maracaibo ",
+          "MedellÃ­n ",
+          "Barranquilla "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/14436",
+        "type": "bonus",
+        "tournament": {
+          "id": 85,
+          "year": 2010,
+          "name": "2010 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:28.715Z",
+          "updated_at": "2017-09-01T16:57:38.193Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/85"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 12658,
+        "number": 5,
+        "round": "3 Harvard Chicago B",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 12672,
+        "tournament_id": 61,
+        "leadin": "Identify the following islands in the Great Lakes, for 10 points each. ",
+        "created_at": "2017-08-28T03:50:12.884Z",
+        "updated_at": "2017-08-28T03:50:12.884Z",
+        "formatted_leadin": "Identify the following islands in the Great Lakes, for 10 points each. ",
+        "texts": [
+          "This island is the largest freshwater island in the world. It separates the North Channel from the rest of Lake Huron. ",
+          "Located in northern Lake Superior, copper artifacts on this island have been found dating back 5700 years. ",
+          "The largest island in Lake Michigan, this island was the site of the only monarchy to ever exist on United States soil. It was created by the followers of James J. Strang, a claimant to Joseph Smith's position as leader of the Mormon faith. "
+        ],
+        "answers": [
+          "Manitoulin Island ",
+          "Isle Royale",
+          "Beaver Island "
+        ],
+        "formatted_texts": [
+          "This island is the largest freshwater island in the world. It separates the North Channel from the rest of Lake Huron. ",
+          "Located in northern Lake Superior, copper artifacts on this island have been found dating back 5700 years. ",
+          "The largest island in Lake Michigan, this island was the site of the only monarchy to ever exist on United States soil. It was created by the followers of James J. Strang, a claimant to Joseph Smith's position as leader of the Mormon faith. "
+        ],
+        "formatted_answers": [
+          "Manitoulin Island ",
+          "Isle Royale",
+          "Beaver Island "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/12658",
+        "type": "bonus",
+        "tournament": {
+          "id": 61,
+          "year": 2009,
+          "name": "2009 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:22.924Z",
+          "updated_at": "2017-09-01T16:57:38.193Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/61"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 11147,
+        "number": 1,
+        "round": "2",
+        "category_id": 20,
+        "subcategory_id": 38,
+        "quinterest_id": 11161,
+        "tournament_id": 61,
+        "leadin": "Their namesake park includes Jackson Lake, for ten points each.",
+        "created_at": "2017-08-28T03:50:00.216Z",
+        "updated_at": "2017-10-09T22:43:43.771Z",
+        "formatted_leadin": "Their namesake park includes Jackson Lake, for ten points each.",
+        "texts": [
+          "Identify this mountain range whose second tallest peak is Mount Owen.",
+          "The Tetons are located in this state, whose cities include Cheyenne.",
+          "This seat of Albany County, Wyoming, which is adjacent to Fort Sanders, was incorporated in 1874 near the namesake river."
+        ],
+        "answers": [
+          "the Tetons",
+          "Wyoming",
+          "Laramie"
+        ],
+        "formatted_texts": [
+          "Identify this mountain range whose second tallest peak is Mount Owen.",
+          "The Tetons are located in this state, whose cities include Cheyenne.",
+          "This seat of Albany County, Wyoming, which is adjacent to Fort Sanders, was incorporated in 1874 near the namesake river."
+        ],
+        "formatted_answers": [
+          "the <strong><u>Tetons</u></strong>",
+          "<strong><u>Wyoming</u></strong>",
+          "<strong><u>Laramie﻿</u></strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/11147",
+        "type": "bonus",
+        "tournament": {
+          "id": 61,
+          "year": 2009,
+          "name": "2009 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:22.924Z",
+          "updated_at": "2017-09-01T16:57:38.193Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/61"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+          "id": 38,
+          "name": "Geography American",
+          "created_at": "2017-08-27T19:36:39.669Z",
+          "updated_at": "2017-08-27T19:36:39.669Z",
+          "url": "https://www.quizdb.org/api/subcategories/38"
+        }
+      },
+      {
+        "id": 14384,
+        "number": 13,
+        "round": "4 VCU",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 14398,
+        "tournament_id": 61,
+        "leadin": "It consists of three island groups that contain SÃ£o Miguel, Terceira, and Corvo. For 10 points each: ",
+        "created_at": "2017-08-28T03:50:27.857Z",
+        "updated_at": "2017-08-28T03:50:27.857Z",
+        "formatted_leadin": "It consists of three island groups that contain SÃ£o Miguel, Terceira, and Corvo. For 10 points each: ",
+        "texts": [
+          "Name this autonomous archipelago 875 miles west of Cape Roca, that is located on the Mid-Atlantic Ridge. ",
+          "This other archipelago consists of the Fox Islands, the Islands of the Four Mountains, and Commander Island. Its Unalaska Island was the site of a U.S. Coast Guard fleet in charge of patrolling the Pribilof Island sea grounds.",
+          "This island nation, located southwest of Sri Lanka consists of approximately 1,200 coral islands and atolls. "
+        ],
+        "answers": [
+          "Azores [or ArquipÃ©lago Dos AÃ§ores] ",
+          "Aleutian Islands ",
+          "Maldives "
+        ],
+        "formatted_texts": [
+          "Name this autonomous archipelago 875 miles west of Cape Roca, that is located on the Mid-Atlantic Ridge. ",
+          "This other archipelago consists of the Fox Islands, the Islands of the Four Mountains, and Commander Island. Its Unalaska Island was the site of a U.S. Coast Guard fleet in charge of patrolling the Pribilof Island sea grounds.",
+          "This island nation, located southwest of Sri Lanka consists of approximately 1,200 coral islands and atolls. "
+        ],
+        "formatted_answers": [
+          "Azores [or ArquipÃ©lago Dos AÃ§ores] ",
+          "Aleutian Islands ",
+          "Maldives "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/14384",
+        "type": "bonus",
+        "tournament": {
+          "id": 61,
+          "year": 2009,
+          "name": "2009 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:22.924Z",
+          "updated_at": "2017-09-01T16:57:38.193Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/61"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 16681,
+        "number": 15,
+        "round": "5 Illinois Maryland",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 16695,
+        "tournament_id": 61,
+        "leadin": "Identify these disputed territories, for 10 points each. ",
+        "created_at": "2017-08-28T03:50:49.938Z",
+        "updated_at": "2017-08-28T03:50:49.938Z",
+        "formatted_leadin": "Identify these disputed territories, for 10 points each. ",
+        "texts": [
+          "Conquered and occupied in 1962 by the Chinese from India, its name literally means \"White Brook Pass.\" This region is a high-altitude salt desert containing no permanent human settlements. ",
+          "Claimed by China, Malaysia, Vietnam, and the Philippines, this archipelago is believed to contain large reserves of oil and natural gas. ",
+          "Nine thousand Russian troops stranded after the fall of the Soviet Union keep this narrow strip of land outside of Moldovan control. "
+        ],
+        "answers": [
+          "Aksai Chin ",
+          "Spratley Islands ",
+          "Transnistria "
+        ],
+        "formatted_texts": [
+          "Conquered and occupied in 1962 by the Chinese from India, its name literally means \"White Brook Pass.\" This region is a high-altitude salt desert containing no permanent human settlements. ",
+          "Claimed by China, Malaysia, Vietnam, and the Philippines, this archipelago is believed to contain large reserves of oil and natural gas. ",
+          "Nine thousand Russian troops stranded after the fall of the Soviet Union keep this narrow strip of land outside of Moldovan control. "
+        ],
+        "formatted_answers": [
+          "Aksai Chin ",
+          "Spratley Islands ",
+          "Transnistria "
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/16681",
+        "type": "bonus",
+        "tournament": {
+          "id": 61,
+          "year": 2009,
+          "name": "2009 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:22.924Z",
+          "updated_at": "2017-09-01T16:57:38.193Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/61"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 9993,
+        "number": 15,
+        "round": "1",
+        "category_id": 20,
+        "subcategory_id": null,
+        "quinterest_id": 10007,
+        "tournament_id": 61,
+        "leadin": "Identify these states of Brazil, for 10 points each. ",
+        "created_at": "2017-08-28T03:49:49.548Z",
+        "updated_at": "2017-08-28T03:49:49.548Z",
+        "formatted_leadin": "Identify these states of Brazil, for 10 points each. ",
+        "texts": [
+          "This Brazilian region is governed by Jose Serra and is home to Campos do Jordao, an oft-visited municipality. This state bears the name of its capital, which happens to be the largest city in Brazil. ",
+          "The third largest Brazilian state, its capital is at Cuiaba and is home to the Pantanal, a tropical wetland. Meaning \"thick forest,\" it is also home to the Xingu National Park and the wildlife-filled Chapada dos Guimaraes. ",
+          "Boa Viagem is a neighborhood of the city Recife, which is the capital of this Northeastern region. Olinda was its capital prior to a burning by the Dutch, and the island of Fernando de Noronha is also part of this state. "
+        ],
+        "answers": [
+          "Sao Paulo ",
+          "Mato Grosso",
+          "Pernambuco"
+        ],
+        "formatted_texts": [
+          "This Brazilian region is governed by Jose Serra and is home to Campos do Jordao, an oft-visited municipality. This state bears the name of its capital, which happens to be the largest city in Brazil. ",
+          "The third largest Brazilian state, its capital is at Cuiaba and is home to the Pantanal, a tropical wetland. Meaning \"thick forest,\" it is also home to the Xingu National Park and the wildlife-filled Chapada dos Guimaraes. ",
+          "Boa Viagem is a neighborhood of the city Recife, which is the capital of this Northeastern region. Olinda was its capital prior to a burning by the Dutch, and the island of Fernando de Noronha is also part of this state. "
+        ],
+        "formatted_answers": [
+          "Sao Paulo ",
+          "Mato Grosso",
+          "Pernambuco"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/9993",
+        "type": "bonus",
+        "tournament": {
+          "id": 61,
+          "year": 2009,
+          "name": "2009 ACF Nationals",
+          "address": null,
+          "quality": null,
+          "type": null,
+          "link": null,
+          "created_at": "2017-08-27T18:44:22.924Z",
+          "updated_at": "2017-09-01T16:57:38.193Z",
+          "difficulty": "Hard College",
+          "difficulty_num": 8,
+          "url": "https://www.quizdb.org/api/tournaments/61"
+        },
+        "category": {
+          "id": 20,
+          "name": "Geography",
+          "created_at": "2017-08-27T19:30:45.889Z",
+          "updated_at": "2017-08-27T19:30:45.889Z",
+          "url": "https://www.quizdb.org/api/categories/20"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

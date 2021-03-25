@@ -1,0 +1,3000 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 44,
+    "num_bonuses_shown": 44,
+    "bonuses": [
+      {
+        "id": 31535,
+        "number": 4,
+        "round": "1",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In one work by this author, Tom Canty and Edward VI [“the sixth”] switch places, and both are accused of insanity. For 10 points each,",
+        "created_at": "2018-08-02T15:50:55.088Z",
+        "updated_at": "2018-08-02T15:50:55.088Z",
+        "formatted_leadin": "In one work by this author, Tom Canty and Edward VI [“the sixth”] switch places, and both are accused of insanity. For 10 points each,",
+        "texts": [
+          "Identify this author of The Prince and the Pauper. The title character of another of this man’s novels proposes to Becky Thatcher and witnesses his own funeral.",
+          "This Mark Twain character titles a novel in which he discovers hidden gold in a cave and proposes to Becky Thatcher by giving her a doorknob. He is the older brother of Sid, and is raised by Aunt Polly.",
+          "In this Twain short story, Simon Wheeler tells a story about the title animal, who is fed buckshot so it will lose a contest for Leonidas W. Smiley."
+        ],
+        "answers": [
+          "Mark Twain (accept Samuel Langhorne Clemens)",
+          "Thomas “Tom” Sawyer (accept either underlined name; accept The Adventures of Tom Sawyer)",
+          "The Celebrated Jumping Frog of Calaveras County (accept Jim Smiley and his Jumping Frog)"
+        ],
+        "formatted_texts": [
+          "Identify this author of <em>The Prince and the Pauper.</em> The title character of another of this man’s novels proposes to Becky Thatcher and witnesses his own funeral.",
+          "This Mark Twain character titles a novel in which he discovers hidden gold in a cave and proposes to Becky Thatcher by giving her a doorknob. He is the older brother of Sid, and is raised by Aunt Polly.",
+          "In this Twain short story, Simon Wheeler tells a story about the title animal, who is fed buckshot so it will lose a contest for Leonidas W. Smiley."
+        ],
+        "formatted_answers": [
+          "Mark <strong>Twain</strong> (accept Samuel Langhorne <strong>Clemens</strong>)",
+          "Thomas “<strong>Tom</strong>” <strong>Sawyer</strong> (accept either underlined name; accept The Adventures of <strong>Tom Sawyer</strong>)",
+          "The Celebrated <strong>Jumping Frog</strong> of Calaveras County (accept <strong>Jim Smiley and his Jumping Frog</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31535",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31540,
+        "number": 9,
+        "round": "1",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This author was a fighter pilot in World War II, and included the bomb-crazy Head of the Air Force in a novel about a Big Friendly Giant. For 10 points each,",
+        "created_at": "2018-08-02T15:50:55.244Z",
+        "updated_at": "2018-08-02T15:50:55.244Z",
+        "formatted_leadin": "This author was a fighter pilot in World War II, and included the bomb-crazy Head of the Air Force in a novel about a Big Friendly Giant. For 10 points each,",
+        "texts": [
+          "Name this author of the novel Matilda and James and the Giant Peach.",
+          "In this Roald Dahl novel, Augustus Gloop, Mike Teavee, and Violet Beauregarde are among the children who win a tour of the title, oompa-loompa-infested building.",
+          "This Dahl novel about a boy and his grandmother is named for people who “look very much like ordinary women,” but who “[hate] children with a red-hot sizzling hatred that is more sizzling and red-hot than any hatred you could possibly imagine.”"
+        ],
+        "answers": [
+          "Roald Dahl",
+          "Charlie and the Chocolate Factory (do not accept “Willie Wonka and the Chocolate Factory”)",
+          "The Witches"
+        ],
+        "formatted_texts": [
+          "Name this author of the novel <em>Matilda</em> and <em>James and the Giant Peach</em>.",
+          "In this Roald Dahl novel, Augustus Gloop, Mike Teavee, and Violet Beauregarde are among the children who win a tour of the title, oompa-loompa-infested building.",
+          "This Dahl novel about a boy and his grandmother is named for people who “look very much like ordinary women,” but who “[hate] children with a red-hot sizzling hatred that is more sizzling and red-hot than any hatred you could possibly imagine.”"
+        ],
+        "formatted_answers": [
+          "Roald <strong>Dahl</strong>",
+          "<strong>Charlie and the Chocolate Factory</strong> (do not accept “Willie Wonka and the Chocolate Factory”)",
+          "The <strong>Witches</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31540",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31544,
+        "number": 13,
+        "round": "1",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This novel’s protagonist is expelled from Pencey Prep and repeatedly expresses his hate for “phonies.” For 10 points each,",
+        "created_at": "2018-08-02T15:50:55.354Z",
+        "updated_at": "2018-08-02T15:50:55.354Z",
+        "formatted_leadin": "This novel’s protagonist is expelled from Pencey Prep and repeatedly expresses his hate for “phonies.” For 10 points each,",
+        "texts": [
+          "Name this novel by the author of Franny and Zooey, whose title refers to Holden Caulfield’s desire to protect his sister, Phoebe.",
+          "Franny and Zooey and The Catcher in the Rye are by this American author.",
+          "The title of Catcher in the Rye comes from the song “Comin’ Thro’ the Rye,” a poem that is often sung to the same tune as this New Year’s song that begins “should auld acquaintance be forgot.”"
+        ],
+        "answers": [
+          "The Catcher in the Rye",
+          "J(erome) D(avid) Salinger",
+          "Auld Lang Syne"
+        ],
+        "formatted_texts": [
+          "Name this novel by the author of <em>Franny and Zooey</em>, whose title refers to Holden Caulfield’s desire to protect his sister, Phoebe.",
+          "<em>Franny and Zooey</em> and <em>The Catcher in the Rye</em> are by this American author.",
+          "The title of <em>Catcher in the Rye</em> comes from the song “Comin’ Thro’ the Rye,” a poem that is often sung to the same tune as this New Year’s song that begins “should auld acquaintance be forgot.”"
+        ],
+        "formatted_answers": [
+          "The <strong>Catcher in the Rye</strong>",
+          "J(erome) D(avid) <strong>Salinger</strong>",
+          "<strong>Auld Lang Syne</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31544",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31553,
+        "number": 2,
+        "round": "2",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This Royal Navy Commander first appeared in the novel <em>Casino Royale</em>. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.126Z",
+        "updated_at": "2018-08-02T15:51:45.126Z",
+        "formatted_leadin": "This Royal Navy Commander first appeared in the novel <em>Casino Royale</em>. For 10 points each,",
+        "texts": [
+          "Name this British secret agent, also known as 007 [“double-oh-seven”], who appears in many Ian Fleming works.",
+          "Ian Fleming based James Bond on the experiences of a member of this British counter-intelligence agency that is often contrasted with the Secret Intelligence Service, or Section 6.",
+          "In this author’s novel The Secret Adversary, the detectives Tommy and Tuppence work with British intelligence agent Mr. Carter. This author also created the detectives Hercule Poirot [ayr-KYOOL pwah- ROH] and Miss Marple."
+        ],
+        "answers": [
+          "James Bond (absolutely accept “Bond, James Bond”)",
+          "Military Intelligence, Section 5 (accept Security Service)",
+          "Dame Agatha Mary Clarissa Christie"
+        ],
+        "formatted_texts": [
+          "Name this British secret agent, also known as 007 [“double-oh-seven”], who appears in many Ian Fleming works.",
+          "Ian Fleming based James Bond on the experiences of a member of this British counter-intelligence agency that is often contrasted with the Secret Intelligence Service, or Section 6.",
+          "In this author’s novel <em>The Secret Adversary</em>, the detectives Tommy and Tuppence work with British intelligence agent Mr. Carter. This author also created the detectives Hercule Poirot [ayr-KYOOL pwah- ROH] and Miss Marple."
+        ],
+        "formatted_answers": [
+          "James <strong>Bond</strong> (absolutely accept “<strong>Bond</strong>, James Bond”)",
+          "<strong>M</strong>ilitary <strong>I</strong>ntelligence, Section <strong>5</strong> (accept <strong>Security Service</strong>)",
+          "Dame Agatha Mary Clarissa <strong>Christie</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31553",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31557,
+        "number": 6,
+        "round": "2",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Dimmesdale is revealed to be Pearl’s father in this novel. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.222Z",
+        "updated_at": "2018-08-02T15:51:45.222Z",
+        "formatted_leadin": "Dimmesdale is revealed to be Pearl’s father in this novel. For 10 points each,",
+        "texts": [
+          "Name this novel, in which Hester Prynne is forced to wear the sew a capital “A” to her clothing as a sign of her adultery.",
+          "Name this American author of The Scarlet Letter, who also wrote The House of the Seven Gables and the short stories “Dr. Heidegger’s Experiment” and “The Minister’s Black Veil.”",
+          "“Dr. Heidegger’s Experiment” and “The Minister’s Black Veil” are stories from this Hawthorne short story collection, which was famously reviewed by Edgar Allan Poe."
+        ],
+        "answers": [
+          "The Scarlet Letter",
+          "Nathaniel Hawthorne (accept Nathaniel Hathorne)",
+          "Twice-Told Tales"
+        ],
+        "formatted_texts": [
+          "Name this novel, in which Hester Prynne is forced to wear the sew a capital “A” to her clothing as a sign of her adultery.",
+          "Name this American author of <em>The Scarlet Letter</em>, who also wrote <em>The House of the Seven Gables</em> and the short stories “Dr. Heidegger’s Experiment” and “The Minister’s Black Veil.”",
+          "“Dr. Heidegger’s Experiment” and “The Minister’s Black Veil” are stories from this Hawthorne short story collection, which was famously reviewed by Edgar Allan Poe."
+        ],
+        "formatted_answers": [
+          "The <strong>Scarlet Letter</strong>",
+          "Nathaniel <strong>Hawthorne</strong> (accept Nathaniel <strong>Hathorne</strong>)",
+          "<strong>Twice-Told Tales</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31557",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31563,
+        "number": 12,
+        "round": "2",
+        "category_id": 15,
+        "subcategory_id": 1,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Answer some questions about Nordic influences on English language and literature, for 10 points each.",
+        "created_at": "2018-08-02T15:51:45.365Z",
+        "updated_at": "2018-08-02T15:51:45.365Z",
+        "formatted_leadin": "Answer some questions about Nordic influences on English language and literature, for 10 points each.",
+        "texts": [
+          "This Old English epic poem romanticizes the story of the title Geat [“gate”], who aids Hrothgar, the King of the Danes, by defeating Grendel.",
+          "In the Middle Ages, Vikings settled in the “Danelaw” [DAYN-law] in what is now England, and gave the English language the third-person plural pronouns we use today. Name either of those pronouns.",
+          "Snorri Sturluson [“snore”-y STUR-luh-son] wrote the “Prose” work of this name which, with the “Poetic” one, provides a background to many Norse myths and a description of Old Norse poetic forms."
+        ],
+        "answers": [
+          "Beowulf",
+          "they or them (accept either or both underlined words)",
+          "Eddas [AY-dah] (accept Eddur; accept Prose Edda or Younger Edda or  Snorri’s Edda or Snorra Edda; accept Poetic Edda)"
+        ],
+        "formatted_texts": [
+          "This Old English epic poem romanticizes the story of the title Geat [“gate”], who aids Hrothgar, the King of the Danes, by defeating Grendel.",
+          "In the Middle Ages, Vikings settled in the “Danelaw” [DAYN-law] in what is now England, and gave the English language the third-person plural pronouns we use today. Name either of those pronouns.",
+          "Snorri Sturluson [“snore”-y STUR-luh-son] wrote the “Prose” work of this name which, with the “Poetic” one, provides a background to many Norse myths and a description of Old Norse poetic forms."
+        ],
+        "formatted_answers": [
+          "<strong>Beowulf</strong>",
+          "<strong>they</strong> or <strong>them</strong> (accept either or both underlined words)",
+          "<strong>Edda</strong>s [AY-dah] (accept <strong>Eddur</strong>; accept <strong>Prose Edda</strong> or <strong>Younger Edda</strong> or <strong> Snorri’s Edda</strong> or <strong>Snorra Edda</strong>; accept <strong>Poetic Edda</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31563",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 1,
+          "name": "Literature European",
+          "created_at": "2017-08-27T19:36:34.967Z",
+          "updated_at": "2017-08-27T19:36:34.967Z",
+          "url": "https://www.quizdb.org/api/subcategories/1"
+        }
+      },
+      {
+        "id": 31565,
+        "number": 14,
+        "round": "2",
+        "category_id": 15,
+        "subcategory_id": 30,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This Greek poet described five Ages of human existence, including the Heroic Age and the current Iron Age. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.418Z",
+        "updated_at": "2018-08-02T15:51:45.418Z",
+        "formatted_leadin": "This Greek poet described five Ages of human existence, including the Heroic Age and the current Iron Age. For 10 points each,",
+        "texts": [
+          "Name the poet of Theogony, who wrote about the Ages of man in his Works and Days.",
+          "In Works and Days, the Titan Cronus presided over this colorfully-named age that preceded the Silver and Bronze ages.",
+          "Cronus was overthrown by this god, who was the king of the Olympians from the Silver Age to the Iron Age."
+        ],
+        "answers": [
+          "Hesiod",
+          "Golden Age",
+          "Zeus"
+        ],
+        "formatted_texts": [
+          "Name the poet of <em>Theogony</em>, who wrote about the Ages of man in his <em>Works and Days</em>.",
+          "In <em>Works and Days</em>, the Titan Cronus presided over this colorfully-named age that preceded the Silver and Bronze ages.",
+          "Cronus was overthrown by this god, who was the king of the Olympians from the Silver Age to the Iron Age."
+        ],
+        "formatted_answers": [
+          "<strong>Hesiod</strong>",
+          "<strong>Gold</strong>en Age",
+          "<strong>Zeus</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31565",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 30,
+          "name": "Literature Classical",
+          "created_at": "2017-08-27T19:36:35.292Z",
+          "updated_at": "2017-08-27T19:36:35.292Z",
+          "url": "https://www.quizdb.org/api/subcategories/30"
+        }
+      },
+      {
+        "id": 31567,
+        "number": 16,
+        "round": "2",
+        "category_id": 15,
+        "subcategory_id": 1,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In this short story, Madame Loisel [lwah-ZELL] reveals that an expensive-looking item was actually worthless. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.462Z",
+        "updated_at": "2018-08-02T15:51:45.462Z",
+        "formatted_leadin": "In this short story, Madame Loisel [lwah-ZELL] reveals that an expensive-looking item was actually worthless. For 10 points each,",
+        "texts": [
+          "Name this short story, in which Madame Forestier [foh-reh-stee-AY] struggles to replace a diamond- studded piece of jewellery.",
+          "This French author of “Ball of Fat” wrote “The Necklace.”",
+          "Maupassant’s short story “The Horla” describes a creature with this quality that feeds on humans. Ralph Ellison wrote a novel about a “Man” of this type."
+        ],
+        "answers": [
+          "The Necklace (accept La Parure)",
+          "(Henri René Albert) Guy de Maupassant",
+          "invisibility (accept word forms such as “being invisible”)"
+        ],
+        "formatted_texts": [
+          "Name this short story, in which Madame Forestier [foh-reh-stee-AY] struggles to replace a diamond- studded piece of jewellery.",
+          "This French author of “Ball of Fat” wrote “The Necklace.”",
+          "Maupassant’s short story “The Horla” describes a creature with this quality that feeds on humans. Ralph Ellison wrote a novel about a “Man” of this type."
+        ],
+        "formatted_answers": [
+          "The <strong>Necklace</strong> (accept La <strong>Parure</strong>)",
+          "(Henri René Albert) Guy de <strong>Maupassant</strong>",
+          "<strong>invisibility</strong> (accept word forms such as “being <strong>invisible</strong>”)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31567",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 1,
+          "name": "Literature European",
+          "created_at": "2017-08-27T19:36:34.967Z",
+          "updated_at": "2017-08-27T19:36:34.967Z",
+          "url": "https://www.quizdb.org/api/subcategories/1"
+        }
+      },
+      {
+        "id": 31575,
+        "number": 4,
+        "round": "3",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Identify some authors who favored musical themes, for 10 points each.",
+        "created_at": "2018-08-02T15:51:45.776Z",
+        "updated_at": "2018-08-02T15:51:45.776Z",
+        "formatted_leadin": "Identify some authors who favored musical themes, for 10 points each.",
+        "texts": [
+          "This poet of the Harlem Renaissance described walking down Lenox Avenue and hearing a “drowsy syncopated tune” in the poem “Weary Blues.”",
+          "In novels like The Wind-Up Bird Chronicle and 1Q84 [one-Q-eighty-four], Haruki Murakami frequently refers to both classical music and this twentieth century musical style, which uses syncopated rhythms and virtuosic solos.",
+          "This Russian author wrote about Pozdnyshev [POZ-nuh-shev], who kills his wife after she cheats on him with a violinist in The Kreutzer Sonata [KROY-tser sonata]. This man also wrote War and Peace."
+        ],
+        "answers": [
+          "(James Mercer) Langston Hughes",
+          "jazz",
+          "Lev (or Leo) Nikolayevich Tolstoy"
+        ],
+        "formatted_texts": [
+          "This poet of the Harlem Renaissance described walking down Lenox Avenue and hearing a “drowsy syncopated tune” in the poem “Weary Blues.”",
+          "In novels like <em>The Wind-Up Bird Chronicle</em> and <em>1Q84</em> [one-Q-eighty-four], Haruki Murakami frequently refers to both classical music and this twentieth century musical style, which uses syncopated rhythms and virtuosic solos.",
+          "This Russian author wrote about Pozdnyshev [POZ-nuh-shev], who kills his wife after she cheats on him with a violinist in <em>The Kreutzer Sonata</em> [KROY-tser sonata]<em>.</em> This man also wrote <em>War and Peace. </em>"
+        ],
+        "formatted_answers": [
+          "(James Mercer) Langston <strong>Hughes</strong>",
+          "<strong>jazz</strong>",
+          "Lev (or Leo) Nikolayevich <strong>Tolstoy</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31575",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31578,
+        "number": 7,
+        "round": "3",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In one work by this author, Lord Henry Wotton gives the protagonist a yellow book. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.865Z",
+        "updated_at": "2018-08-02T15:51:45.865Z",
+        "formatted_leadin": "In one work by this author, Lord Henry Wotton gives the protagonist a yellow book. For 10 points each,",
+        "texts": [
+          "Name this author, who wrote of the artist Basil Hallward in The Picture of Dorian Gray.",
+          "Wilde also wrote this play, in which Algernon Moncrieff proposes to Cecily, Jack Worthing proposes to Gwendolen, and Lady Bracknell’s cucumber sandwiches are eaten.",
+          "After having an affair with Lord Douglas, Wilde wrote De Profundis from this location, Henry David Thoreau wrote “Civil Disobedience” after being sent to this kind of place for not paying taxes."
+        ],
+        "answers": [
+          "Oscar Fingal O’Flahertie Wills Wilde",
+          "The Importance of Being Earnest",
+          "jail (accept equivalents, such as prison)"
+        ],
+        "formatted_texts": [
+          "Name this author, who wrote of the artist Basil Hallward in <em>The Picture of Dorian Gray.</em>",
+          "Wilde also wrote this play, in which Algernon Moncrieff proposes to Cecily, Jack Worthing proposes to Gwendolen, and Lady Bracknell’s cucumber sandwiches are eaten.",
+          "After having an affair with Lord Douglas, Wilde wrote <em>De Profundis</em> from this location, Henry David Thoreau wrote “Civil Disobedience” after being sent to this kind of place for not paying taxes."
+        ],
+        "formatted_answers": [
+          "Oscar Fingal O’Flahertie Wills <strong>Wilde</strong>",
+          "The <strong>Importance of Being Earnest</strong>",
+          "<strong>jail</strong> (accept equivalents, such as <strong>prison</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31578",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31581,
+        "number": 10,
+        "round": "3",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In one short story, Elizabeth Spencer writes that “August in [this state] is different than July...July heat is furious, but in August the heat has killed even itself and lies dead over us.” For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.946Z",
+        "updated_at": "2018-08-02T15:51:45.946Z",
+        "formatted_leadin": "In one short story, Elizabeth Spencer writes that “August in [this state] is different than July...July heat is furious, but in August the heat has killed even itself and lies dead over us.” For 10 points each,",
+        "texts": [
+          "Name this U.S. state, the setting of Eudora Welty's \"A Worn Path.\" The novels Absalom, Absalom! and As I Lay Dying are set in this state’s fictional Yoknapatawpha [yawk-nah-pah-taw-fah] County.",
+          "This Mississippi author wrote Absalom, Absalom! and As I Lay Dying, as well as Light in August and several works about Quentin Compson.",
+          "The Compson family also appears in Faulkner’s The Sound and the Fury, in which Quentin, a student at this Massachusetts university, drowns himself in the Charles River."
+        ],
+        "answers": [
+          "Mississippi",
+          "William Cuthbert Faulkner (or William Cuthbert Falkner)",
+          "Harvard University"
+        ],
+        "formatted_texts": [
+          "Name this U.S. state, the setting of Eudora Welty's \"A Worn Path.\" The novels <em>Absalom, Absalom!</em> and <em>As I Lay Dying</em> are set in this state’s fictional Yoknapatawpha [yawk-nah-pah-taw-fah] County.",
+          "This Mississippi author wrote <em>Absalom, Absalom!</em> and <em>As I Lay Dying</em>, as well as <em>Light in August</em> and several works about Quentin Compson.",
+          "The Compson family also appears in Faulkner’s <em>The Sound and the Fury</em>, in which Quentin, a student at this Massachusetts university, drowns himself in the Charles River."
+        ],
+        "formatted_answers": [
+          "<strong>Mississippi</strong>",
+          "William Cuthbert <strong>Faulkner</strong> (or William Cuthbert <strong>Falkner</strong>)",
+          "<strong>Harvard</strong> University"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31581",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31590,
+        "number": 19,
+        "round": "3",
+        "category_id": 15,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "At the end of this play, the title character is lauded as “the noblest Roman of them all.” For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.149Z",
+        "updated_at": "2018-08-02T15:51:46.149Z",
+        "formatted_leadin": "At the end of this play, the title character is lauded as “the noblest Roman of them all.” For 10 points each,",
+        "texts": [
+          "Name this historical play by Shakespeare, in which the title Roman emperor is betrayed by senators led by Cassius and Brutus.",
+          "In the play, a soothsayer warns Caesar to “beware” this day, on which he is assassinated.",
+          "In the play, this wife of Caesar also foresees his death and tries to stop him from going to the Senate."
+        ],
+        "answers": [
+          "The Tragedy of Julius Caesar",
+          "the Ides of March (accept clear equivalents, like March 15)",
+          "Calpurnia"
+        ],
+        "formatted_texts": [
+          "Name this historical play by Shakespeare, in which the title Roman emperor is betrayed by senators led by Cassius and Brutus.",
+          "In the play, a soothsayer warns Caesar to “beware” this day, on which he is assassinated.",
+          "In the play, this wife of Caesar also foresees his death and tries to stop him from going to the Senate."
+        ],
+        "formatted_answers": [
+          "The Tragedy of <strong>Julius Caesar</strong>",
+          "the <strong>Ides of March</strong> (accept clear equivalents, like <strong>March 15</strong>)",
+          "<strong>Calpurnia</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31590",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 31594,
+        "number": 3,
+        "round": "4",
+        "category_id": 15,
+        "subcategory_id": 1,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Milady de Winter is the subject of D’Artagnan’s affections in this novel. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.317Z",
+        "updated_at": "2018-08-02T15:51:46.317Z",
+        "formatted_leadin": "Milady de Winter is the subject of D’Artagnan’s affections in this novel. For 10 points each,",
+        "texts": [
+          "Identify the novel in which Athos, Porthos, and Aramis first appear. Cardinal Richelieu is the antagonist of this novel.",
+          "The Three Musketeers was written by this French author, who also wrote The Count of Monte Cristo and The Vicomte of Bragelonne: Ten Years Later.",
+          "This mysterious character titles the third section of The Vicomte of Bragelonne, and is the twin brother of Louis the XIV [fourteenth] of France."
+        ],
+        "answers": [
+          "The Three Musketeers (accept Les Trois Mousquetaires)",
+          "Alexandre Dumas pere",
+          "The Man in the Iron Mask (accept; L’Homme au Masque de Fer or Philippe.. prompt; Eustache Dauger)"
+        ],
+        "formatted_texts": [
+          "Identify the novel in which Athos, Porthos, and Aramis first appear. Cardinal Richelieu is the antagonist of this novel.",
+          "<em>The Three Musketeers</em> was written by this French author, who also wrote <em>The Count of Monte Cristo</em> and <em>The Vicomte of Bragelonne: Ten Years Later</em>.",
+          "This mysterious character titles the third section of <em>The Vicomte of Bragelonne</em>, and is the twin brother of Louis the XIV [fourteenth] of France."
+        ],
+        "formatted_answers": [
+          "The <strong>Three Musketeers</strong> (accept Les <strong>Trois Mousquetaires</strong>)",
+          "Alexandre <strong>Dumas</strong> pere",
+          "The <strong>Man in the Iron Mask</strong> (accept; L’<strong>Homme au Masque de Fer</strong> or <strong>Philippe</strong>.<strong>.</strong> prompt; Eustache Dauger)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31594",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 1,
+          "name": "Literature European",
+          "created_at": "2017-08-27T19:36:34.967Z",
+          "updated_at": "2017-08-27T19:36:34.967Z",
+          "url": "https://www.quizdb.org/api/subcategories/1"
+        }
+      },
+      {
+        "id": 31599,
+        "number": 8,
+        "round": "4",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "A minor character in this work is Clarisse McClellan, a freethinking teenager who is hit by a car. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.438Z",
+        "updated_at": "2018-08-02T15:51:46.438Z",
+        "formatted_leadin": "A minor character in this work is Clarisse McClellan, a freethinking teenager who is hit by a car. For 10 points each,",
+        "texts": [
+          "Name this book with protagonist Guy Montag, named for what the author believed to be the temperature at which paper ignites.",
+          "Fahrenheit 451 was written by this science fiction author, who also wrote Something Wicked This Way Comes.",
+          "Bradbury also wrote this collection of short stories, which begins with a rocket turning an Ohio winter warm. The story “There Will Come Soft Rains,” an entry in this collection, depicts an automatic house after a nuclear holocaust."
+        ],
+        "answers": [
+          "Fahrenheit 451",
+          "Ray Douglas Bradbury",
+          "The Martian Chronicles"
+        ],
+        "formatted_texts": [
+          "Name this book with protagonist Guy Montag, named for what the author believed to be the temperature at which paper ignites.",
+          "<em>Fahrenheit 451</em> was written by this science fiction author, who also wrote <em>Something Wicked This Way Comes</em>.",
+          "Bradbury also wrote this collection of short stories, which begins with a rocket turning an Ohio winter warm. The story “There Will Come Soft Rains,” an entry in this collection, depicts an automatic house after a nuclear holocaust."
+        ],
+        "formatted_answers": [
+          "<strong>Fahrenheit 451</strong>",
+          "Ray Douglas <strong>Bradbury</strong>",
+          "The <strong>Martian Chronicles</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31599",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31606,
+        "number": 15,
+        "round": "4",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "James Weldon Johnson wrote one of these works “of an Ex-Colored Man.” For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.611Z",
+        "updated_at": "2018-08-02T15:51:46.611Z",
+        "formatted_leadin": "James Weldon Johnson wrote one of these works “of an Ex-Colored Man.” For 10 points each,",
+        "texts": [
+          "Name this type of literary work in which the author tells a story of his or her own life.",
+          "Marjane Satrapi wrote this autobiographical graphic novel about her life in Iran at the time of the Islamic Revolution. It takes its name from the ancient capital of the Persian empire.",
+          "This former Maryland slave wrote three autobiographies, including a “Narrative” of his life."
+        ],
+        "answers": [
+          "autobiography (prompt on “biography;” prompt on “memoirs” or similar)",
+          "Persepolis",
+          "Frederick Douglass"
+        ],
+        "formatted_texts": [
+          "Name this type of literary work in which the author tells a story of his or her own life.",
+          "Marjane Satrapi wrote this autobiographical graphic novel about her life in Iran at the time of the Islamic Revolution. It takes its name from the ancient capital of the Persian empire.",
+          "This former Maryland slave wrote three autobiographies, including a “Narrative” of his life."
+        ],
+        "formatted_answers": [
+          "<strong>autobiography</strong> (prompt on “biography;” prompt on “memoirs” or similar)",
+          "<strong>Persepolis</strong>",
+          "Frederick <strong>Douglass</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31606",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31608,
+        "number": 17,
+        "round": "4",
+        "category_id": 15,
+        "subcategory_id": 30,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In one work by this author, Polynices [pah-lee-nye-sees] raises an army against his brother Eteocles [eh-tay-oh-clees]. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.665Z",
+        "updated_at": "2018-08-02T15:51:46.665Z",
+        "formatted_leadin": "In one work by this author, Polynices [pah-lee-nye-sees] raises an army against his brother Eteocles [eh-tay-oh-clees]. For 10 points each,",
+        "texts": [
+          "Identify this ancient author of Seven Against Thebes whose Oresteia [oh-res-tye-ah] is the only fully- extant Greek trilogy.",
+          "In a play by Sophocles, after the deaths of Polynices and Eteocles, their sister Antigone [an-TIH-goh- nee] is sentenced to death for trying to do perform this rite to honor the dead Polynices.",
+          "Agamemnon fought for 10 years at a war in this city. He sacrificed his daughter Iphigenia [ih-fih-jen- ah-ya] so his ships could sail to this city, though its walls only fell with the creation of a namesake wooden horse."
+        ],
+        "answers": [
+          "Aeschylus [es-kill-us]",
+          "bury him (accept any logical answer that describes “covering his body with earth”)",
+          "Troy (accept Trojan)"
+        ],
+        "formatted_texts": [
+          "Identify this ancient author of <em>Seven Against Thebes</em> whose <em>Oresteia</em> [oh-res-tye-ah] is the only fully- extant Greek trilogy.",
+          "In a play by Sophocles, after the deaths of Polynices and Eteocles, their sister Antigone [an-TIH-goh- nee] is sentenced to death for trying to do perform this rite to honor the dead Polynices.",
+          "Agamemnon fought for 10 years at a war in this city. He sacrificed his daughter Iphigenia [ih-fih-jen- ah-ya] so his ships could sail to this city, though its walls only fell with the creation of a namesake wooden horse."
+        ],
+        "formatted_answers": [
+          "<strong>Aeschylus</strong> [es-kill-us]",
+          "<strong>bury</strong> him (accept any logical answer that describes “<strong>cover</strong>ing his body with <strong>earth</strong>”)",
+          "<strong>Troy</strong> (accept <strong>Trojan</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31608",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 30,
+          "name": "Literature Classical",
+          "created_at": "2017-08-27T19:36:35.292Z",
+          "updated_at": "2017-08-27T19:36:35.292Z",
+          "url": "https://www.quizdb.org/api/subcategories/30"
+        }
+      },
+      {
+        "id": 31612,
+        "number": 1,
+        "round": "5",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Saul Bellow set many of his novels in this city. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.855Z",
+        "updated_at": "2018-08-02T15:51:46.855Z",
+        "formatted_leadin": "Saul Bellow set many of his novels in this city. For 10 points each,",
+        "texts": [
+          "Name this city. Bellow’s novel The Adventures of Augie March begins “I am an American, [this city] born,” and Edna Ferber's So Big is set in a Dutch suburb of this large Illinois city on Lake Michigan.",
+          "This man wrote a poem named for Chicago that calls the city the “hog-butcher for the world.” This author also wrote a poem in which fog comes in “on little cat feet.”",
+          "Sandburg’s poem “Chicago” also calls the city the “Player with” these transit lines. Anna Karenina throws herself onto one of these passageways, and is run over at the end of her namesake novel."
+        ],
+        "answers": [
+          "Chicago, Illinois",
+          "Carl August Sandburg",
+          "railway (accept clear equivalents like railroad; prompt on “train”)"
+        ],
+        "formatted_texts": [
+          "Name this city. Bellow’s novel <em>The Adventures of Augie March</em> begins “I am an American, [this city] born,” and Edna Ferber's <em>So Big</em> is set in a Dutch suburb of this large Illinois city on Lake Michigan.",
+          "This man wrote a poem named for Chicago that calls the city the “hog-butcher for the world.” This author also wrote a poem in which fog comes in “on little cat feet.”",
+          "Sandburg’s poem “Chicago” also calls the city the “Player with” these transit lines. Anna Karenina throws herself onto one of these passageways, and is run over at the end of her namesake novel."
+        ],
+        "formatted_answers": [
+          "<strong>Chicago</strong>, Illinois",
+          "Carl August <strong>Sandburg</strong>",
+          "<strong>railway</strong> (accept clear equivalents like <strong>railroad</strong>; prompt on “train”)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31612",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31614,
+        "number": 3,
+        "round": "5",
+        "category_id": 15,
+        "subcategory_id": 1,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Most of the poems contained in <em>Il Canzoniere</em> [kan-zoh-nee-ayr-ay] are written in this poetic form. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.916Z",
+        "updated_at": "2018-08-02T15:51:46.916Z",
+        "formatted_leadin": "Most of the poems contained in <em>Il Canzoniere</em> [kan-zoh-nee-ayr-ay] are written in this poetic form. For 10 points each,",
+        "texts": [
+          "Identify this poetic form that consists of fourteen lines. The Elizabethan version of this poetic form consists of three quatrains and a couplet.",
+          "This Italian author of Il Canzoniere names a type of sonnet. Many of his poems are addressed to the beautiful Laura.",
+          "This author wrote the sonnet “life is more true than reason will deceive.” He used unconventional grammar in poems like “anyone lived in a pretty how town” and wrote of the title “conscientious object- or” in “i sing of Olaf glad and big.”"
+        ],
+        "answers": [
+          "sonnet",
+          "Petrarch (accept Francesco Petrarca; accept Petrarchan Sonnet)",
+          "E(dward) E(stlin) Cummings"
+        ],
+        "formatted_texts": [
+          "Identify this poetic form that consists of fourteen lines. The Elizabethan version of this poetic form consists of three quatrains and a couplet.",
+          "This Italian author of <em>Il Canzoniere</em> names a type of sonnet. Many of his poems are addressed to the beautiful Laura.",
+          "This author wrote the sonnet “life is more true than reason will deceive.” He used unconventional grammar in poems like “anyone lived in a pretty how town” and wrote of the title “conscientious object- or” in “i sing of Olaf glad and big.”"
+        ],
+        "formatted_answers": [
+          "<strong>sonnet</strong>",
+          "<strong>Petrarch</strong> (accept Francesco <strong>Petrarca</strong>; accept <strong>Petrarchan Sonnet</strong>)",
+          "E(dward) E(stlin) <strong>Cummings</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31614",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 1,
+          "name": "Literature European",
+          "created_at": "2017-08-27T19:36:34.967Z",
+          "updated_at": "2017-08-27T19:36:34.967Z",
+          "url": "https://www.quizdb.org/api/subcategories/1"
+        }
+      },
+      {
+        "id": 31625,
+        "number": 14,
+        "round": "5",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Answer the following about the Romantic literary movement, for 10 points each.",
+        "created_at": "2018-08-02T15:51:47.193Z",
+        "updated_at": "2018-08-02T15:51:47.193Z",
+        "formatted_leadin": "Answer the following about the Romantic literary movement, for 10 points each.",
+        "texts": [
+          "This Romantic author of “She Walks in Beauty” and Childe Harold’s Pilgrimage also wrote the long poem Don Juan [don JOO-an].",
+          "This offshoot of Romanticism shares its name with an elaborate architectural style. Horace Walpole’s Castle of Otranto and Ann Radcliffe’s Mysteries of Udolpho are examples of this genre, which frequently includes elements of horror.",
+          "Edgar Allan Poe drew on gothic themes to write this short story, whose narrator is driven mad by what he believes is the beating of a title organ belonging to his dead landlord."
+        ],
+        "answers": [
+          "George Gordon, Lord Byron",
+          "gothic fiction (accept gothic horror)",
+          "The Tell-Tale Heart"
+        ],
+        "formatted_texts": [
+          "This Romantic author of “She Walks in Beauty” and <em>Childe Harold’s Pilgrimage</em> also wrote the long poem <em>Don Juan</em> [don JOO-an]<em>.</em>",
+          "This offshoot of Romanticism shares its name with an elaborate architectural style. Horace Walpole’s <em>Castle of Otranto</em> and Ann Radcliffe’s <em>Mysteries of Udolpho</em> are examples of this genre, which frequently includes elements of horror.",
+          "Edgar Allan Poe drew on gothic themes to write this short story, whose narrator is driven mad by what he believes is the beating of a title organ belonging to his dead landlord."
+        ],
+        "formatted_answers": [
+          "George Gordon, Lord <strong>Byron</strong>",
+          "<strong>gothic</strong> fiction (accept <strong>gothic</strong> horror)",
+          "The <strong>Tell-Tale Heart</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31625",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31628,
+        "number": 17,
+        "round": "5",
+        "category_id": 15,
+        "subcategory_id": 1,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Firs [feers] is abandoned by Ranevskaya when she loses her property at the end of this play. For 10 points each,",
+        "created_at": "2018-08-02T15:51:47.272Z",
+        "updated_at": "2018-08-02T15:51:47.272Z",
+        "formatted_leadin": "Firs [feers] is abandoned by Ranevskaya when she loses her property at the end of this play. For 10 points each,",
+        "texts": [
+          "Name this Russian play, in which Lopakhin [loh-pah-keen] oversees the chopping down of the title fruit grove.",
+          "Name this Russian playwright of The Cherry Orchard and Three Sisters, who wrote about Treplev’s death in The Seagull.",
+          "In The Seagull, Treplev kills himself with one of these weapons. A literary trope named for Chekhov states that if one of these weapons is seen on stage, it must eventually be fired."
+        ],
+        "answers": [
+          "The Cherry Orchard (accept Vishneviy sad)",
+          "Anton Pavlovich Chekhov",
+          "Chekhov’s gun (accept Chekhov’s rifle)"
+        ],
+        "formatted_texts": [
+          "Name this Russian play, in which Lopakhin [loh-pah-keen] oversees the chopping down of the title fruit grove.",
+          "Name this Russian playwright of <em>The Cherry Orchard</em> and <em>Three Sisters</em>, who wrote about Treplev’s death in <em>The Seagull</em>.",
+          "In <em>The Seagull</em>, Treplev kills himself with one of these weapons. A literary trope named for Chekhov states that if one of these weapons is seen on stage, it must eventually be fired."
+        ],
+        "formatted_answers": [
+          "The <strong>Cherry Orchard</strong> (accept <strong>Vishneviy sad</strong>)",
+          "Anton Pavlovich <strong>Chekhov</strong>",
+          "Chekhov’s <strong>gun</strong> (accept Chekhov’s <strong>rifle</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31628",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 1,
+          "name": "Literature European",
+          "created_at": "2017-08-27T19:36:34.967Z",
+          "updated_at": "2017-08-27T19:36:34.967Z",
+          "url": "https://www.quizdb.org/api/subcategories/1"
+        }
+      },
+      {
+        "id": 31633,
+        "number": 2,
+        "round": "6",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This woman met her teacher and lifelong friend after a meeting with Alexander Graham Bell when she was six years old. For ten points each:",
+        "created_at": "2018-08-02T15:51:47.479Z",
+        "updated_at": "2018-08-02T15:51:47.479Z",
+        "formatted_leadin": "This woman met her teacher and lifelong friend after a meeting with Alexander Graham Bell when she was six years old. For ten points each:",
+        "texts": [
+          "Name this deaf and blind girl who was taught language and speech by Anne Sullivan.",
+          "In her autobiography The Story of My Life, Keller wrote that learning this word opened up language for her. Her learning of this word was the focus of a memorable scene in the movie The Miracle Worker.",
+          "Keller became the first deaf and blind person to earn a Bachelor degree when she graduated from this college for women. This member of the Seven Sisters merged with Harvard in 1999."
+        ],
+        "answers": [
+          "Helen Adams Keller",
+          "water",
+          "Radcliffe College"
+        ],
+        "formatted_texts": [
+          "Name this deaf and blind girl who was taught language and speech by Anne Sullivan.",
+          "In her autobiography <em>The Story of My Life</em>, Keller wrote that learning this word opened up language for her. Her learning of this word was the focus of a memorable scene in the movie <em>The Miracle Worker</em>.",
+          "Keller became the first deaf and blind person to earn a Bachelor degree when she graduated from this college for women. This member of the Seven Sisters merged with Harvard in 1999."
+        ],
+        "formatted_answers": [
+          "Helen Adams <strong>Keller</strong>",
+          "<strong>water</strong>",
+          "<strong>Radcliffe</strong> College"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31633",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31635,
+        "number": 4,
+        "round": "6",
+        "category_id": 15,
+        "subcategory_id": 1,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Enjolras [on-johl-RAH] leads the Friends of the ABC in this novel. For 10 points each,",
+        "created_at": "2018-08-02T15:51:47.520Z",
+        "updated_at": "2018-08-02T15:51:47.520Z",
+        "formatted_leadin": "Enjolras [on-johl-RAH] leads the Friends of the ABC in this novel. For 10 points each,",
+        "texts": [
+          "Identify this novel, in which Jean Valjean [jahn val-JAHN] is pursued by Inspector Javert [zhah-VAYR]. Valjean raises Fantine’s daughter Cosette after Fantine dies in this novel.",
+          "This French author wrote Les Misérables [lay mis-ay-RAHB]. He wrote about the bell-ringer Quasimodo and the gypsy Esmeralda in The Hunchback of Notre Dame.",
+          "In Les Misérables, this plucky young boy leaves the barricade to collect rifle cartridges and is shot by the French National Guard."
+        ],
+        "answers": [
+          "Les Misérables",
+          "Victor Marie Hugo",
+          "Gavroche Thénardier (prompt on Thénardier)"
+        ],
+        "formatted_texts": [
+          "Identify this novel, in which Jean Valjean [jahn val-JAHN] is pursued by Inspector Javert [zhah-VAYR]. Valjean raises Fantine’s daughter Cosette after Fantine dies in this novel.",
+          "This French author wrote <em>Les Misérables</em> [lay mis-ay-RAHB]. He wrote about the bell-ringer Quasimodo and the gypsy Esmeralda in <em>The Hunchback of Notre Dame</em>.",
+          "In <em>Les Misérables</em>, this plucky young boy leaves the barricade to collect rifle cartridges and is shot by the French National Guard."
+        ],
+        "formatted_answers": [
+          "<strong>Les Misérables</strong>",
+          "Victor Marie <strong>Hugo</strong>",
+          "<strong>Gavroche</strong> Thénardier (prompt on Thénardier)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31635",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 1,
+          "name": "Literature European",
+          "created_at": "2017-08-27T19:36:34.967Z",
+          "updated_at": "2017-08-27T19:36:34.967Z",
+          "url": "https://www.quizdb.org/api/subcategories/1"
+        }
+      },
+      {
+        "id": 31640,
+        "number": 9,
+        "round": "6",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, answer the following about the work of an American playwright.",
+        "created_at": "2018-08-02T15:51:47.651Z",
+        "updated_at": "2018-08-02T15:51:47.651Z",
+        "formatted_leadin": "For 10 points each, answer the following about the work of an American playwright.",
+        "texts": [
+          "Willy Loman believes himself to be \"worth more dead than alive\" and commits suicide for insurance money at the end of this 1949 play.",
+          "This author of All My Sons wrote Death of a Salesman.",
+          "Arthur Miller’s play The Crucible is based on accounts of this historical Massachusetts event, in which Abigail Williams accused Tituba and Sarah Good of performing supernatural acts."
+        ],
+        "answers": [
+          "Death of a Salesman",
+          "Arthur Asher Miller",
+          "Salem Witch Trials"
+        ],
+        "formatted_texts": [
+          "Willy Loman believes himself to be \"worth more dead than alive\" and commits suicide for insurance money at the end of this 1949 play.",
+          "This author of <em>All My Sons</em> wrote <em>Death of a Salesman</em>.",
+          "Arthur Miller’s play <em>The Crucible</em> is based on accounts of this historical Massachusetts event, in which Abigail Williams accused Tituba and Sarah Good of performing supernatural acts."
+        ],
+        "formatted_answers": [
+          "<strong>Death of a Salesman</strong>",
+          "Arthur Asher <strong>Miller</strong>",
+          "<strong>Salem Witch Trials</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31640",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31644,
+        "number": 13,
+        "round": "6",
+        "category_id": 15,
+        "subcategory_id": 30,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This play’s title character discovers that he is the half-brother of Antigone [an-tih-goh-nee], Ismene [is-may-nay], and their two brothers. For 10 points each,",
+        "created_at": "2018-08-02T15:51:47.777Z",
+        "updated_at": "2018-08-02T15:51:47.777Z",
+        "formatted_leadin": "This play’s title character discovers that he is the half-brother of Antigone [an-tih-goh-nee], Ismene [is-may-nay], and their two brothers. For 10 points each,",
+        "texts": [
+          "Name this play, in which the title king solves the riddle of the sphinx and fulfills a prophecy by killing his father and marrying his mother.",
+          "Oedipus Rex is by this Greek playwright of Antigone, who also wrote about Oedipus’s death in Oedipus at Colonus.",
+          "In Oedipus at Colonus, the elderly Oedipus promises Theseus that his death will bestow a blessing on this city-state, the home of Sophocles [sah-fah-cleez]."
+        ],
+        "answers": [
+          "Oedipus Rex (accept Oedipus the King)",
+          "Sophocles",
+          "Athens"
+        ],
+        "formatted_texts": [
+          "Name this play, in which the title king solves the riddle of the sphinx and fulfills a prophecy by killing his father and marrying his mother.",
+          "<em>Oedipus Rex</em> is by this Greek playwright of <em>Antigone</em>, who also wrote about Oedipus’s death in <em>Oedipus at Colonus.</em>",
+          "In <em>Oedipus at Colonus</em>, the elderly Oedipus promises Theseus that his death will bestow a blessing on this city-state, the home of Sophocles [sah-fah-cleez]."
+        ],
+        "formatted_answers": [
+          "<strong>Oedipus</strong> Rex (accept <strong>Oedipus</strong> the King)",
+          "<strong>Sophocles</strong>",
+          "<strong>Athens</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31644",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 30,
+          "name": "Literature Classical",
+          "created_at": "2017-08-27T19:36:35.292Z",
+          "updated_at": "2017-08-27T19:36:35.292Z",
+          "url": "https://www.quizdb.org/api/subcategories/30"
+        }
+      },
+      {
+        "id": 31650,
+        "number": 19,
+        "round": "6",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Identify the following people related to the writing of <em>Frankenstein,</em> for 10 points each.",
+        "created_at": "2018-08-02T15:51:47.963Z",
+        "updated_at": "2018-08-02T15:51:47.963Z",
+        "formatted_leadin": "Identify the following people related to the writing of <em>Frankenstein,</em> for 10 points each.",
+        "texts": [
+          "This author of Frankenstein reportedly formulated the novel’s plot for a friendly competition with her husband and friends.",
+          "This early feminist and author of The Vindication of the Rights of Woman was the mother of Mary Shelley.",
+          "Mary Shelley’s husband, Percy, wrote the poem “Ozymandias” about this Egyptian pharaoh, also known as “The Great.”"
+        ],
+        "answers": [
+          "Mary Wollstonecraft Godwin Shelley",
+          "Mary Wollstonecraft",
+          "Ramses II (accept Ramses the Great; prompt on “Ramses”)"
+        ],
+        "formatted_texts": [
+          "This author of <em>Frankenstein</em> reportedly formulated the novel’s plot for a friendly competition with her husband and friends.",
+          "This early feminist and author of <em>The Vindication of the Rights of Woman</em> was the mother of Mary Shelley.",
+          "Mary Shelley’s husband, Percy, wrote the poem “Ozymandias” about this Egyptian pharaoh, also known as “The Great.”"
+        ],
+        "formatted_answers": [
+          "Mary Wollstonecraft Godwin <strong>Shelley</strong>",
+          "Mary <strong>Wollstonecraft</strong>",
+          "<strong>Ramses II</strong> (accept <strong>Ramses the Great</strong>; prompt on “Ramses”)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31650",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31655,
+        "number": 4,
+        "round": "7",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In one of this woman's novels, the schoolteacher from Sweet Home comes to retrieve a slave woman and her children. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.250Z",
+        "updated_at": "2018-08-02T15:51:48.250Z",
+        "formatted_leadin": "In one of this woman's novels, the schoolteacher from Sweet Home comes to retrieve a slave woman and her children. For 10 points each,",
+        "texts": [
+          "Name this author of Song of Solomon who was the last American to win the Nobel Prize in Literature. She wrote about the escaped slave Sethe in Beloved.",
+          "In this Harriet Beecher Stowe novel, the title character is almost set free by Augustine St. Clare before he falls into the hands of Sambo and Quimbo on Simon Legree's plantation.",
+          "Jim escapes from the Widow Douglas and Miss Watson and sails on a raft with the mischievous title character in this Mark Twain novel."
+        ],
+        "answers": [
+          "Toni Morrison (or Chloe Wofford)",
+          "Uncle Tom's Cabin",
+          "The Adventures of Huckleberry Finn"
+        ],
+        "formatted_texts": [
+          "Name this author of <em>Song of Solomon</em> who was the last American to win the Nobel Prize in Literature. She wrote about the escaped slave Sethe in <em>Beloved</em>.",
+          "In this Harriet Beecher Stowe novel, the title character is almost set free by Augustine St. Clare before he falls into the hands of Sambo and Quimbo on Simon Legree's plantation.",
+          "Jim escapes from the Widow Douglas and Miss Watson and sails on a raft with the mischievous title character in this Mark Twain novel."
+        ],
+        "formatted_answers": [
+          "Toni <strong>Morrison</strong> (or Chloe <strong>Wofford</strong>)",
+          "<strong>Uncle Tom's Cabin</strong>",
+          "The Adventures of <strong>Huck</strong>leberry <strong>Finn</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31655",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31658,
+        "number": 7,
+        "round": "7",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Identify the following British women writers for 10 points each.",
+        "created_at": "2018-08-02T15:51:48.322Z",
+        "updated_at": "2018-08-02T15:51:48.322Z",
+        "formatted_leadin": "Identify the following British women writers for 10 points each.",
+        "texts": [
+          "This author wrote “How do I love thee? Let me count the ways” in her collection Sonnets from the Portuguese. She was married to the author of “My Last Duchess,” Robert.",
+          "This author wrote about Elizabeth Browning’s dog in Flush, but is better known for writing Mrs. Dalloway and A Room of One’s Own.",
+          "Virginia Woolf is perhaps best known for a novel in which the Ramsay family plans for a sailing trip to the title building. This type of building is often used in poetry as a metaphor for a beacon for those lost, not always at sea."
+        ],
+        "answers": [
+          "Elizabeth Barrett Browning",
+          "(Adeline) Virginia Woolf",
+          "lighthouse (accept To the Lighthouse)"
+        ],
+        "formatted_texts": [
+          "This author wrote “How do I love thee? Let me count the ways” in her collection <em>Sonnets from the Portuguese.</em> She was married to the author of “My Last Duchess,” Robert.",
+          "This author wrote about Elizabeth Browning’s dog in <em>Flush,</em> but is better known for writing <em>Mrs. Dalloway</em> and <em>A Room of One’s Own.</em>",
+          "Virginia Woolf is perhaps best known for a novel in which the Ramsay family plans for a sailing trip to the title building. This type of building is often used in poetry as a metaphor for a beacon for those lost, not always at sea."
+        ],
+        "formatted_answers": [
+          "Elizabeth Barrett <strong>Browning</strong>",
+          "(Adeline) Virginia <strong>Woolf</strong>",
+          "<strong>lighthouse</strong> (accept <strong>To the Lighthouse</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31658",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31662,
+        "number": 11,
+        "round": "7",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In one scene of this novel, Lucas de Beaumanoir [boh-man-WAHR] accuses Rebecca of witchcraft. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.428Z",
+        "updated_at": "2018-08-02T15:51:48.428Z",
+        "formatted_leadin": "In one scene of this novel, Lucas de Beaumanoir [boh-man-WAHR] accuses Rebecca of witchcraft. For 10 points each,",
+        "texts": [
+          "Identify this novel by Sir Walter Scott, which sees Cedric of Rotherwood banish the title knight when he falls in love with Rowena.",
+          "Ivanhoe disguises himself and goes by the name “Desdichado” to compete in a tournament that ends with impressive archery by Locksley and opens with one of these contests of horseback combat, which Ivanhoe wins.",
+          "In Ivanhoe, Locksley is revealed to be this legendary Englishman who, accompanied by Friar Tuck and Little John, robs from the rich to feed the poor."
+        ],
+        "answers": [
+          "Ivanhoe",
+          "jousting",
+          "Robin Hood"
+        ],
+        "formatted_texts": [
+          "Identify this novel by Sir Walter Scott, which sees Cedric of Rotherwood banish the title knight when he falls in love with Rowena.",
+          "Ivanhoe disguises himself and goes by the name “Desdichado” to compete in a tournament that ends with impressive archery by Locksley and opens with one of these contests of horseback combat, which Ivanhoe wins.",
+          "In <em>Ivanhoe</em>, Locksley is revealed to be this legendary Englishman who, accompanied by Friar Tuck and Little John, robs from the rich to feed the poor."
+        ],
+        "formatted_answers": [
+          "<strong>Ivanhoe</strong>",
+          "<strong>joust</strong>ing",
+          "<strong>Robin Hood</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31662",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31664,
+        "number": 13,
+        "round": "7",
+        "category_id": 15,
+        "subcategory_id": 12,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Identify the following about East Asian literature, for 10 points each.",
+        "created_at": "2018-08-02T15:51:48.478Z",
+        "updated_at": "2018-08-02T15:51:48.478Z",
+        "formatted_leadin": "Identify the following about East Asian literature, for 10 points each.",
+        "texts": [
+          "The Japanese poet Basho was the master of this kind of poem. The Seashell Game included sixty examples of this seventeen-syllable, three-line type of Japanese poem.",
+          "This Tang-dynasty Chinese poet of “The River Merchant’s Wife,” was named an \"Immortal of the Wine Cup\" by his contemporary poet and friend, Du Fu.",
+          "According to legend, Li Bai drowned when he leaned from his boat to meet the reflection of this celestial object. One of Li Bai's most famous poems describes drinking alone by the light of this object."
+        ],
+        "answers": [
+          "haiku",
+          "Li Bai (accept Li Po or Li Bo)",
+          "the Moon"
+        ],
+        "formatted_texts": [
+          "The Japanese poet Basho was the master of this kind of poem. The Seashell Game included sixty examples of this seventeen-syllable, three-line type of Japanese poem.",
+          "This Tang-dynasty Chinese poet of “The River Merchant’s Wife,” was named an \"Immortal of the Wine Cup\" by his contemporary poet and friend, Du Fu.",
+          "According to legend, Li Bai drowned when he leaned from his boat to meet the reflection of this celestial object. One of Li Bai's most famous poems describes drinking alone by the light of this object."
+        ],
+        "formatted_answers": [
+          "<strong>haiku</strong>",
+          "<strong>Li</strong> Bai (accept <strong>Li</strong> Po or <strong>Li</strong> Bo)",
+          "the <strong>Moon</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31664",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 12,
+          "name": "Literature World",
+          "created_at": "2017-08-27T19:36:35.033Z",
+          "updated_at": "2017-09-04T21:43:40.949Z",
+          "url": "https://www.quizdb.org/api/subcategories/12"
+        }
+      },
+      {
+        "id": 31673,
+        "number": 2,
+        "round": "8",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The title event of this poem happens because “Someone had blundered.” For ten points each:",
+        "created_at": "2018-08-02T15:51:48.826Z",
+        "updated_at": "2018-08-02T15:51:48.826Z",
+        "formatted_leadin": "The title event of this poem happens because “Someone had blundered.” For ten points each:",
+        "texts": [
+          "Name this poem commemorating the Battle of Balaclava, in which six hundred soldiers rode “Half a league, half a league/ Half a league onward” “Charging an army/ While all the world wondered.”",
+          "This British poet wrote The Charge of the Light Brigade. He wrote \"'Tis better to have loved and lost / Than never to have loved at all” in his poem In Memoriam.",
+          "This author condemned poor treatment of British veterans in his poem The Last of the Light Brigade. He won a Nobel Prize in Literature for works like The Jungle Book and the novel Kim."
+        ],
+        "answers": [
+          "The Charge of the Light Brigade",
+          "Alfred, Lord Tennyson",
+          "Rudyard Kipling"
+        ],
+        "formatted_texts": [
+          "Name this poem commemorating the Battle of Balaclava, in which six hundred soldiers rode “Half a league, half a league/ Half a league onward” “Charging an army/ While all the world wondered.”",
+          "This British poet wrote <em>The Charge of the Light Brigade</em>. He wrote \"'Tis better to have loved and lost / Than never to have loved at all” in his poem <em>In Memoriam</em>.",
+          "This author condemned poor treatment of British veterans in his poem <em>The Last of the Light Brigade</em>. He won a Nobel Prize in Literature for works like <em>The Jungle Book</em> and the novel <em>Kim</em>."
+        ],
+        "formatted_answers": [
+          "The <strong>Charge of the Light Brigade</strong>",
+          "Alfred, Lord <strong>Tennyson</strong>",
+          "Rudyard <strong>Kipling</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31673",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31674,
+        "number": 3,
+        "round": "8",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In a classic episode of Monsterpiece Theatre, the play \"Waiting for Elmo\" is performed, in which Grover and Telly Monster represent these two characters standing near a tree. Elmo doesn't arrive, so the tree complains that the play doesn't make any sense and walks away. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.852Z",
+        "updated_at": "2018-08-02T15:51:48.852Z",
+        "formatted_leadin": "In a classic episode of Monsterpiece Theatre, the play \"Waiting for Elmo\" is performed, in which Grover and Telly Monster represent these two characters standing near a tree. Elmo doesn't arrive, so the tree complains that the play doesn't make any sense and walks away. For 10 points each,",
+        "texts": [
+          "Name these two main characters from Samuel Beckett's play Waiting for Godot.",
+          "This children's TV show has featured Muppets in pop culture parodies like Upside Downton Abbey, Preschool Musical, and the aforementioned Monsterpiece Theatre, which is introduced by Cookie Monster.",
+          "On a different TV show, Vladimir and Estragon are fish owned by Mr. Ratburn, the 3rd grade teacher of Francine, Buster, and this title aardvark."
+        ],
+        "answers": [
+          "Vladimir and Estragon (accept in either order; accept Didi and Gogo in either order)",
+          "Sesame Street",
+          "Arthur Read (prompt on “Read”)"
+        ],
+        "formatted_texts": [
+          "Name these two main characters from Samuel Beckett's play <em>Waiting for Godot</em>.",
+          "This children's TV show has featured Muppets in pop culture parodies like <em>Upside Downton Abbey</em>, <em>Preschool Musical</em>, and the aforementioned <em>Monsterpiece Theatre</em>, which is introduced by Cookie Monster.",
+          "On a different TV show, Vladimir and Estragon are fish owned by Mr. Ratburn, the 3rd grade teacher of Francine, Buster, and this title aardvark."
+        ],
+        "formatted_answers": [
+          "<strong>Vladimir</strong> and <strong>Estragon</strong> (accept in either order; accept <strong>Didi</strong> and <strong>Gogo</strong> in either order)",
+          "<strong>Sesame Street</strong>",
+          "<strong>Arthur</strong> Read (prompt on “Read”)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31674",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31680,
+        "number": 9,
+        "round": "8",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "He wrote “All animals are equal, but some are more equal than others” in one work. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.033Z",
+        "updated_at": "2018-08-02T15:51:49.033Z",
+        "formatted_leadin": "He wrote “All animals are equal, but some are more equal than others” in one work. For 10 points each,",
+        "texts": [
+          "Identify this author of Animal Farm who wrote about Winston Smith, O’Brien, and Big Brother in 1984.",
+          "Orwell wrote about shooting this animal in Burma. Rudyard Kipling created Hathi, one of these animals, in The Jungle Book; in Kipling’s Just So Stories, one of these animals elongates its trunk to escape a crocodile.",
+          "Orwell called this author’s A Passage to India “the best [novel about India] we are likely to get.” This author also wrote A Room with a View and Howard’s End."
+        ],
+        "answers": [
+          "George Orwell or Eric Arthur Blair",
+          "elephant",
+          "E(dward) M(organ) Forster"
+        ],
+        "formatted_texts": [
+          "Identify this author of Animal Farm who wrote about Winston Smith, O’Brien, and Big Brother in 1984.",
+          "Orwell wrote about shooting this animal in Burma. Rudyard Kipling created Hathi, one of these animals, in <em>The Jungle Book</em>; in Kipling’s <em>Just So Stories</em>, one of these animals elongates its trunk to escape a crocodile.",
+          "Orwell called this author’s A Passage to India “the best [novel about India] we are likely to get.” This author also wrote A Room with a View and Howard’s End."
+        ],
+        "formatted_answers": [
+          "George <strong>Orwell</strong> or Eric Arthur <strong>Blair</strong>",
+          "<strong>elephant</strong>",
+          "E(dward) M(organ) <strong>Forster</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31680",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31683,
+        "number": 12,
+        "round": "8",
+        "category_id": 15,
+        "subcategory_id": 12,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "One re-telling of this novel, <em>The House on Eccles Street</em>, was \"written\" by the fictional author Elizabeth Costello. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.120Z",
+        "updated_at": "2018-08-02T15:51:49.120Z",
+        "formatted_leadin": "One re-telling of this novel, <em>The House on Eccles Street</em>, was \"written\" by the fictional author Elizabeth Costello. For 10 points each,",
+        "texts": [
+          "Name this James Joyce novel, which follows Leopold Bloom on June 16, 1904, as his life parallels the events of Homer's Odyssey. Its title is the Latin version of the name Odysseus.",
+          "Elizabeth Costello is the title character of a novel by this South African author of Disgrace and Life &amp; Times of Michael K. This man, who lives in Australia, has won two Booker Prizes and the 2003 Nobel in Literature.",
+          "Another retelling of the Odyssey, this time from Penelope's view, was written by Margaret Atwood, an author from this nation. Atwood's novel The Blind Assassin is set in Port Ticonderoga, a fictional city in Ontario."
+        ],
+        "answers": [
+          "Ulysses",
+          "J(ohn) M(axwell) Coetzee",
+          "Canada"
+        ],
+        "formatted_texts": [
+          "Name this James Joyce novel, which follows Leopold Bloom on June 16, 1904, as his life parallels the events of Homer's <em>Odyssey</em>. Its title is the Latin version of the name Odysseus.",
+          "Elizabeth Costello is the title character of a novel by this South African author of <em>Disgrace</em> and <em>Life &amp; Times of Michael K</em>. This man, who lives in Australia, has won two Booker Prizes and the 2003 Nobel in Literature.",
+          "Another retelling of the <em>Odyssey</em>, this time from Penelope's view, was written by Margaret Atwood, an author from this nation. Atwood's novel <em>The Blind Assassin</em> is set in Port Ticonderoga, a fictional city in Ontario."
+        ],
+        "formatted_answers": [
+          "<strong>Ulysses</strong>",
+          "J(ohn) M(axwell) <strong>Coetzee</strong>",
+          "<strong>Canada</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31683",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 12,
+          "name": "Literature World",
+          "created_at": "2017-08-27T19:36:35.033Z",
+          "updated_at": "2017-09-04T21:43:40.949Z",
+          "url": "https://www.quizdb.org/api/subcategories/12"
+        }
+      },
+      {
+        "id": 31687,
+        "number": 16,
+        "round": "8",
+        "category_id": 15,
+        "subcategory_id": 1,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The protagonist of this work has dreams of sending his sister, Grete, to conservatory to study violin. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.257Z",
+        "updated_at": "2018-08-02T15:51:49.257Z",
+        "formatted_leadin": "The protagonist of this work has dreams of sending his sister, Grete, to conservatory to study violin. For 10 points each,",
+        "texts": [
+          "Identify this novella about Gregor Samsa, who awakes to find himself transformed into a monstrous vermin.",
+          "The Metamorphosis was written by this Czech author of Amerika, The Castle, and In the Penal Colony.",
+          "In this Franz Kafka work, Titorelli sells the protagonist identical copies of the same landscape, and the bank clerk Joseph K. dies \"like a dog!\""
+        ],
+        "answers": [
+          "The Metamorphosis (accept Die Verwandlung)",
+          "Franz Kafka",
+          "The Trial (accept Der Process)"
+        ],
+        "formatted_texts": [
+          "Identify this novella about Gregor Samsa, who awakes to find himself transformed into a monstrous vermin.",
+          "<em>The Metamorphosis</em> was written by this Czech author of <em>Amerika</em>, <em>The Castle</em>, and <em>In the Penal Colony</em>.",
+          "In this Franz Kafka work, Titorelli sells the protagonist identical copies of the same landscape, and the bank clerk Joseph K. dies \"like a dog!\""
+        ],
+        "formatted_answers": [
+          "The <strong>Metamorphosis</strong> (accept Die <strong>Verwandlung</strong>)",
+          "Franz <strong>Kafka</strong>",
+          "The <strong>Trial</strong> (accept Der <strong>Process</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31687",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 1,
+          "name": "Literature European",
+          "created_at": "2017-08-27T19:36:34.967Z",
+          "updated_at": "2017-08-27T19:36:34.967Z",
+          "url": "https://www.quizdb.org/api/subcategories/1"
+        }
+      },
+      {
+        "id": 31695,
+        "number": 4,
+        "round": "9",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Animals play some strange roles in literature. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.573Z",
+        "updated_at": "2018-08-02T15:51:49.573Z",
+        "formatted_leadin": "Animals play some strange roles in literature. For 10 points each,",
+        "texts": [
+          "In Steinbeck’s Of Mice and Men, Lennie dreams of owning these soft animals, which are also the main characters in the Richard Adams novel Watership Down.",
+          "After a storm, Janie is pulled to safety by a cow while Tea Cake is bitten by a rabid dog in this novel by Zora Neale Hurston.",
+          "Lithuanian immigrant Jurgis [YUR-gus] Rudkus participates in the unsafe butchering of cows in a Chicago slaughterhouse in this muckraking novel by Upton Sinclair."
+        ],
+        "answers": [
+          "rabbits (accept bunnies, accept leporidae or leporids; do not accept “hares”)",
+          "Their Eyes Were Watching God",
+          "The Jungle"
+        ],
+        "formatted_texts": [
+          "In Steinbeck’s <em>Of Mice and Men</em>, Lennie dreams of owning these soft animals, which are also the main characters in the Richard Adams novel <em>Watership Down</em>.",
+          "After a storm, Janie is pulled to safety by a cow while Tea Cake is bitten by a rabid dog in this novel by Zora Neale Hurston.",
+          "Lithuanian immigrant Jurgis [YUR-gus] Rudkus participates in the unsafe butchering of cows in a Chicago slaughterhouse in this muckraking novel by Upton Sinclair."
+        ],
+        "formatted_answers": [
+          "<strong>rabbit</strong>s (accept <strong>bunnie</strong>s, accept <strong>leporidae</strong> or <strong>leporid</strong>s; do not accept “hares”)",
+          "<strong>Their Eyes Were Watching God</strong>",
+          "The <strong>Jungle</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31695",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31700,
+        "number": 9,
+        "round": "9",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This novel is framed by Nelly Dean explaining the recent history of the title location to Mr. Lockwood, a resident of Thrushcross Grange. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.705Z",
+        "updated_at": "2018-08-02T15:51:49.705Z",
+        "formatted_leadin": "This novel is framed by Nelly Dean explaining the recent history of the title location to Mr. Lockwood, a resident of Thrushcross Grange. For 10 points each,",
+        "texts": [
+          "Name this novel, in which the deaths of Hindley, Edgar, Isabella, and Linton give Heathcliff control of Thrushcross Grange and the title house.",
+          "In Wuthering Heights, Heathcliff is driven by his frustrated love for this woman, his adopted sister and the eventual wife of Edgar Linton.",
+          "Wuthering Heights is by this author, the sister of Charlotte and Anne, who published the book under the pen name Ellis Bell."
+        ],
+        "answers": [
+          "Wuthering Heights",
+          "Catherine Earnshaw Linton (accept either surname; do not accept “Cathy\")",
+          "Emily (Jane) Brontë (full first name required; prompt on partial answer)"
+        ],
+        "formatted_texts": [
+          "Name this novel, in which the deaths of Hindley, Edgar, Isabella, and Linton give Heathcliff control of Thrushcross Grange and the title house.",
+          "In <em>Wuthering Heights</em>, Heathcliff is driven by his frustrated love for this woman, his adopted sister and the eventual wife of Edgar Linton.",
+          "<em>Wuthering Heights</em> is by this author, the sister of Charlotte and Anne, who published the book under the pen name Ellis Bell."
+        ],
+        "formatted_answers": [
+          "<strong>Wuthering Heights</strong>",
+          "<strong>Catherine</strong> Earnshaw Linton (accept either surname; do not accept “Cathy\")",
+          "<strong>Emily</strong> (Jane) <strong>Brontë</strong> (full first name required; prompt on partial answer)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31700",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31703,
+        "number": 12,
+        "round": "9",
+        "category_id": 15,
+        "subcategory_id": 1,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In one story about this character, he summons the spirit of Helen of Troy. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.781Z",
+        "updated_at": "2018-08-02T15:51:49.781Z",
+        "formatted_leadin": "In one story about this character, he summons the spirit of Helen of Troy. For 10 points each,",
+        "texts": [
+          "Name this scholar who made a deal with the devil. Mephistopheles later collects this character's soul.",
+          "This author adapted the Faust legend into a two part play, Faust. In this author's novel The Sorrows of Young Werther, Werther is in love with Lotte, despite Lotte being engaged to Albert.",
+          "In Goethe's version of the Faust legend, this character’s mother is given a sleeping potion. This character has a child with Faust, and is arrested for killing that child."
+        ],
+        "answers": [
+          "Doctor Heinrich Faustus",
+          "Johann Wolfgang von Goethe",
+          "Gretchen (accept Margaret)"
+        ],
+        "formatted_texts": [
+          "Name this scholar who made a deal with the devil. Mephistopheles later collects this character's soul.",
+          "This author adapted the Faust legend into a two part play, <em>Faust</em>. In this author's novel <em>The Sorrows of Young Werther</em>, Werther is in love with Lotte, despite Lotte being engaged to Albert.",
+          "In Goethe's version of the Faust legend, this character’s mother is given a sleeping potion. This character has a child with Faust, and is arrested for killing that child."
+        ],
+        "formatted_answers": [
+          "Doctor Heinrich <strong>Faust</strong>us",
+          "Johann Wolfgang von <strong>Goethe</strong>",
+          "<strong>Gretchen</strong> (accept <strong>Margaret</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31703",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 1,
+          "name": "Literature European",
+          "created_at": "2017-08-27T19:36:34.967Z",
+          "updated_at": "2017-08-27T19:36:34.967Z",
+          "url": "https://www.quizdb.org/api/subcategories/1"
+        }
+      },
+      {
+        "id": 31710,
+        "number": 19,
+        "round": "9",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Answer some questions about English poetry across time, for 10 points each:",
+        "created_at": "2018-08-02T15:51:49.966Z",
+        "updated_at": "2018-08-02T15:51:49.966Z",
+        "formatted_leadin": "Answer some questions about English poetry across time, for 10 points each:",
+        "texts": [
+          "The unknown “Pearl Poet” is generally considered to be the author of “Sir Gawain of the Green Knight.” Sir Gawain is one of the many Knights of this specific furniture item.",
+          "John Keats’ poem “Ode on a Grecian Urn” ends by comparing two abstract concepts. Name either.",
+          "This later English poet wrote “You’ll be a man, my son.” in his poem “If-.” His other poems include the incredibly racist “The White Man’s Burden.”"
+        ],
+        "answers": [
+          "the Round Table",
+          "beauty or truth",
+          "Rudyard Kipling"
+        ],
+        "formatted_texts": [
+          "The unknown “Pearl Poet” is generally considered to be the author of “Sir Gawain of the Green Knight.” Sir Gawain is one of the many Knights of this specific furniture item.",
+          "John Keats’ poem “Ode on a Grecian Urn” ends by comparing two abstract concepts. Name either.",
+          "This later English poet wrote “You’ll be a man, my son.” in his poem “If-.” His other poems include the incredibly racist “The White Man’s Burden.”"
+        ],
+        "formatted_answers": [
+          "the <strong>Round Table</strong>",
+          "<strong>beauty</strong> or <strong>truth</strong>",
+          "Rudyard <strong>Kipling</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31710",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31716,
+        "number": 5,
+        "round": "10",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In “To a Mouse,” this author wrote “The best-laid schemes o' mice an' men/Gang aft agley,” which inspired the name of Steinbeck’s novel. For 10 points each:",
+        "created_at": "2018-08-02T15:51:50.253Z",
+        "updated_at": "2018-08-02T15:51:50.253Z",
+        "formatted_leadin": "In “To a Mouse,” this author wrote “The best-laid schemes o' mice an' men/Gang aft agley,” which inspired the name of Steinbeck’s novel. For 10 points each:",
+        "texts": [
+          "Name this Scottish poet who also wrote the epic poem Tam O’ Shanter.",
+          "Robert Burns wrote that his love was like a “red, red” one of these flowers “newly sprung in June”. Robert Herrick advised to gather the buds of this flower “while ye may” in To the Virgins, to Make Much of Time.",
+          "Robert Burns asks \"Should auld acquaintance be forgot/and never brought to mind?\" in the opening to “Auld Lang Syne,” a poem now traditionally sung on this holiday."
+        ],
+        "answers": [
+          "Robert Burns",
+          "rose",
+          "New Year’s Eve (or  New Year’s Day)"
+        ],
+        "formatted_texts": [
+          "Name this Scottish poet who also wrote the epic poem <em>Tam O’ Shanter</em>.",
+          "Robert Burns wrote that his love was like a “red, red” one of these flowers “newly sprung in June”. Robert Herrick advised to gather the buds of this flower “while ye may” in <em>To the Virgins, to Make Much of Time.</em>",
+          "Robert Burns asks \"Should auld acquaintance be forgot/and never brought to mind?\" in the opening to “Auld Lang Syne,” a poem now traditionally sung on this holiday."
+        ],
+        "formatted_answers": [
+          "Robert <strong>Burns</strong>",
+          "<strong>rose</strong>",
+          "<strong> New Year’s Eve</strong> (or <strong> New Year’s Day</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31716",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      },
+      {
+        "id": 31717,
+        "number": 6,
+        "round": "10",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "In one of this man’s novels, the title character is adopted by Weedon Scott after being owned by Beauty Smith. For 10 points each,",
+        "created_at": "2018-08-02T15:51:50.286Z",
+        "updated_at": "2018-08-02T15:51:50.286Z",
+        "formatted_leadin": "In one of this man’s novels, the title character is adopted by Weedon Scott after being owned by Beauty Smith. For 10 points each,",
+        "texts": [
+          "Name this American author, who wrote about the wild White Fang becoming a domestic dog. His short stories include “To Build a Fire.”",
+          "In this London novel, contrasted with White Fang, Buck becomes wolflike after Manuel steals him from Judge Miller.",
+          "Much of The Call of the Wild is set in this region of western Canada during a late 19th century gold rush."
+        ],
+        "answers": [
+          "John Griffith “Jack” (Chaney) London",
+          "The Call of the Wild",
+          "Klondike (accept Yukon Territory)"
+        ],
+        "formatted_texts": [
+          "Name this American author, who wrote about the wild White Fang becoming a domestic dog. His short stories include “To Build a Fire.”",
+          "In this London novel, contrasted with <em>White Fang</em>, Buck becomes wolflike after Manuel steals him from Judge Miller.",
+          "Much of <em>The Call of the Wild</em> is set in this region of western Canada during a late 19th century gold rush."
+        ],
+        "formatted_answers": [
+          "John Griffith “Jack” (Chaney) <strong>London</strong>",
+          "The <strong>Call of the Wild</strong>",
+          "<strong>Klondike</strong> (accept <strong>Yukon</strong> Territory)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31717",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31722,
+        "number": 11,
+        "round": "10",
+        "category_id": 15,
+        "subcategory_id": 12,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This novel was released just months before its home country adopted apartheid. For ten points each,",
+        "created_at": "2018-08-02T15:51:50.435Z",
+        "updated_at": "2018-08-02T15:51:50.435Z",
+        "formatted_leadin": "This novel was released just months before its home country adopted apartheid. For ten points each,",
+        "texts": [
+          "Identify this South African novel by Alan Paton, in which Stephen Kumalo’s son is executed for the murder of Arthur Jarvis.",
+          "Stephen Kumalo’s son is named for this Biblical son of David, whose name titles a novel by William Faulkner.",
+          "The murder of Arthur Jarvis takes place in this largest South African city. Later, Stephen travels to this city searching for his sister Gertrude."
+        ],
+        "answers": [
+          "Cry, the Beloved Country",
+          "Absalom",
+          "Johannesburg"
+        ],
+        "formatted_texts": [
+          "Identify this South African novel by Alan Paton, in which Stephen Kumalo’s son is executed for the murder of Arthur Jarvis.",
+          "Stephen Kumalo’s son is named for this Biblical son of David, whose name titles a novel by William Faulkner.",
+          "The murder of Arthur Jarvis takes place in this largest South African city. Later, Stephen travels to this city searching for his sister Gertrude."
+        ],
+        "formatted_answers": [
+          "<strong>Cry, the Beloved Country</strong>",
+          "<strong>Absalom</strong>",
+          "<strong>Johannesburg</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31722",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 12,
+          "name": "Literature World",
+          "created_at": "2017-08-27T19:36:35.033Z",
+          "updated_at": "2017-09-04T21:43:40.949Z",
+          "url": "https://www.quizdb.org/api/subcategories/12"
+        }
+      },
+      {
+        "id": 31730,
+        "number": 19,
+        "round": "10",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This novel opens with a Blodgett College student aspiring to beautify a prairie town with architecture and gardens. For 10 points each,",
+        "created_at": "2018-08-02T15:51:50.704Z",
+        "updated_at": "2018-08-02T15:51:50.704Z",
+        "formatted_leadin": "This novel opens with a Blodgett College student aspiring to beautify a prairie town with architecture and gardens. For 10 points each,",
+        "texts": [
+          "Name this 1920 novel about Carol Kennicott's dismal, frustrating life in Gopher Prairie, Minnesota, named for the central road of the American rural downtown.",
+          "This winner of the 1930 Nobel Prize in Literature -- the first American to be so honored -- wrote Main Street. He set works like Arrowsmith and Elmer Gantry in the fictional Midwestern state of Winnemac.",
+          "Winnemac's portrayal of typical, conforming Midwestern life is particularly critical in this 1922 Lewis novel, about the title middle-aged realtor."
+        ],
+        "answers": [
+          "Main Street",
+          "Sinclair Lewis",
+          "Babbitt"
+        ],
+        "formatted_texts": [
+          "Name this 1920 novel about Carol Kennicott's dismal, frustrating life in Gopher Prairie, Minnesota, named for the central road of the American rural downtown.",
+          "This winner of the 1930 Nobel Prize in Literature -- the first American to be so honored -- wrote <em>Main Street</em>. He set works like <em>Arrowsmith</em> and <em>Elmer Gantry</em> in the fictional Midwestern state of Winnemac.",
+          "Winnemac's portrayal of typical, conforming Midwestern life is particularly critical in this 1922 Lewis novel, about the title middle-aged realtor."
+        ],
+        "formatted_answers": [
+          "<strong>Main Street</strong>",
+          "Sinclair <strong>Lewis</strong>",
+          "<strong>Babbitt</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31730",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31732,
+        "number": 1,
+        "round": "Replacements",
+        "category_id": 15,
+        "subcategory_id": 4,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The title objects of this story are combs and a fob. For ten points each:",
+        "created_at": "2018-08-02T15:51:50.860Z",
+        "updated_at": "2018-08-02T15:51:50.860Z",
+        "formatted_leadin": "The title objects of this story are combs and a fob. For ten points each:",
+        "texts": [
+          "Name this story story in which Della sells her hair and Jim sells his watch in order to buy each other Christmas presents.",
+          "\"The Gift of the Magi” is a story by this author, who included it with “The Cop and the Anthem” in his collection The Four Million.",
+          "O. Henry also wrote this short story, in which the title child terrorizes his would-be kidnappers until they pay for him to go home."
+        ],
+        "answers": [
+          "The Gift of the Magi",
+          "O. Henry (accept William Sidney Porter)",
+          "The Ransom of Red Chief"
+        ],
+        "formatted_texts": [
+          "Name this story story in which Della sells her hair and Jim sells his watch in order to buy each other Christmas presents.",
+          "\"The Gift of the Magi” is a story by this author, who included it with “The Cop and the Anthem” in his collection <em>The Four Million</em>.",
+          "O. Henry also wrote this short story, in which the title child terrorizes his would-be kidnappers until they pay for him to go home."
+        ],
+        "formatted_answers": [
+          "The <strong>Gift of the Magi</strong>",
+          "<strong>O. Henry</strong> (accept William Sidney <strong>Porter</strong>)",
+          "The <strong>Ransom of Red Chief</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31732",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 4,
+          "name": "Literature American",
+          "created_at": "2017-08-27T19:36:34.989Z",
+          "updated_at": "2017-08-27T19:36:34.989Z",
+          "url": "https://www.quizdb.org/api/subcategories/4"
+        }
+      },
+      {
+        "id": 31733,
+        "number": 2,
+        "round": "Replacements",
+        "category_id": 15,
+        "subcategory_id": 22,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This author attacked censorship in his pamphlet <em>Areopagitica</em>. For 10 points each,",
+        "created_at": "2018-08-02T15:51:50.927Z",
+        "updated_at": "2018-08-02T15:51:50.927Z",
+        "formatted_leadin": "This author attacked censorship in his pamphlet <em>Areopagitica</em>. For 10 points each,",
+        "texts": [
+          "Identify this author who wrote about Samson losing his hair and eyes in his play Samson Agonistes.",
+          "In this epic poem by Milton, Adam and Eve are expelled from the Garden of Eden. In this epic poem, Satan claims that it is “better to reign in Hell than serve in Heaven.”",
+          "Milton had this quality later in his life, and wrote a sonnet, “On his (this quality)” that begins with the poet considering “how [his] light is spent.”"
+        ],
+        "answers": [
+          "John Milton",
+          "Paradise Lost",
+          "blindness"
+        ],
+        "formatted_texts": [
+          "Identify this author who wrote about Samson losing his hair and eyes in his play <em>Samson Agonistes</em>.",
+          "In this epic poem by Milton, Adam and Eve are expelled from the Garden of Eden. In this epic poem, Satan claims that it is “better to reign in Hell than serve in Heaven.”",
+          "Milton had this quality later in his life, and wrote a sonnet, “On his (this quality)” that begins with the poet considering “how [his] light is spent.”"
+        ],
+        "formatted_answers": [
+          "John <strong>Milton</strong>",
+          "<strong>Paradise Lost</strong>",
+          "<strong>blind</strong>ness"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31733",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 15,
+          "name": "Literature",
+          "created_at": "2017-08-27T19:30:45.876Z",
+          "updated_at": "2017-08-27T19:30:45.876Z",
+          "url": "https://www.quizdb.org/api/categories/15"
+        },
+        "subcategory": {
+          "id": 22,
+          "name": "Literature British",
+          "created_at": "2017-08-27T19:36:35.094Z",
+          "updated_at": "2017-08-27T19:36:35.094Z",
+          "url": "https://www.quizdb.org/api/subcategories/22"
+        }
+      }
+    ]
+  }
+}

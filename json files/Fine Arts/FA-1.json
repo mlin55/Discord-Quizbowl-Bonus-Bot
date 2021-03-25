@@ -1,0 +1,1373 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 20,
+    "num_bonuses_shown": 20,
+    "bonuses": [
+      {
+        "id": 31533,
+        "number": 2,
+        "round": "1",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This composer commemorated the 300th anniversary of the Augsburg Confession by composing the <em>Reformation</em> Symphony, though he didn't publish it during his lifetime. For 10 points each,",
+        "created_at": "2018-08-02T15:50:55.021Z",
+        "updated_at": "2018-08-02T15:50:55.021Z",
+        "formatted_leadin": "This composer commemorated the 300th anniversary of the Augsburg Confession by composing the <em>Reformation</em> Symphony, though he didn't publish it during his lifetime. For 10 points each,",
+        "texts": [
+          "Name this German composer, whose other works include the Italian and Scottish symphonies.",
+          "Mendelssohn was a prolific player of this keyboard instrument, which blows air through pipes to create sound.",
+          "Mendelssohn may be best known today for a set of incidental music for this Shakespeare play, including a Wedding March, indicating that Theseus and Hippolyta, Lysander and Hermia, and Demetrius and Helena have all been married."
+        ],
+        "answers": [
+          "Felix Mendelssohn-Bartholdy",
+          "pipe organ",
+          "A Midsummer Night's Dream"
+        ],
+        "formatted_texts": [
+          "Name this German composer, whose other works include the <em>Italian</em> and <em>Scottish</em> symphonies.",
+          "Mendelssohn was a prolific player of this keyboard instrument, which blows air through pipes to create sound.",
+          "Mendelssohn may be best known today for a set of incidental music for this Shakespeare play, including a Wedding March, indicating that Theseus and Hippolyta, Lysander and Hermia, and Demetrius and Helena have all been married."
+        ],
+        "formatted_answers": [
+          "Felix <strong>Mendelssohn</strong>-Bartholdy",
+          "pipe <strong>organ</strong>",
+          "A <strong>Midsummer Night's Dream</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31533",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 31547,
+        "number": 16,
+        "round": "1",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, answer the following about a painter of landscapes.",
+        "created_at": "2018-08-02T15:50:55.470Z",
+        "updated_at": "2018-08-02T15:50:55.470Z",
+        "formatted_leadin": "For 10 points each, answer the following about a painter of landscapes.",
+        "texts": [
+          "This French artist accidentally named the Impressionist movement with his landscape of a harbor named Impression: Sunrise.",
+          "Monet’s Impressionist paintings include several studies of the effect of light and seasons on these grain-based objects in farmers’ fields.",
+          "Monet created a series of paintings depicting these floating flowers in the ponds near his home at Giverny [jee-vayr-NEE]."
+        ],
+        "answers": [
+          "Claude(-Oscar) Monet",
+          "haystacks (accept wheatstacks; accept grainstacks)",
+          "waterlilies (accept Nymphéas)"
+        ],
+        "formatted_texts": [
+          "This French artist accidentally named the Impressionist movement with his landscape of a harbor named <em>Impression: Sunrise</em>.",
+          "Monet’s Impressionist paintings include several studies of the effect of light and seasons on these grain-based objects in farmers’ fields.",
+          "Monet created a series of paintings depicting these floating flowers in the ponds near his home at Giverny [jee-vayr-NEE]."
+        ],
+        "formatted_answers": [
+          "Claude(-Oscar) <strong>Monet</strong>",
+          "<strong>haystack</strong>s (accept <strong>wheatstack</strong>s; accept <strong>grainstack</strong>s)",
+          "<strong>waterlilies</strong> (accept <strong>Nymphéas</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31547",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 31551,
+        "number": 20,
+        "round": "1",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This technique was used to decorate the <em>Book of Hours</em>. For 10 points each,",
+        "created_at": "2018-08-02T15:50:55.667Z",
+        "updated_at": "2018-08-02T15:50:55.667Z",
+        "formatted_leadin": "This technique was used to decorate the <em>Book of Hours</em>. For 10 points each,",
+        "texts": [
+          "Name this technique, in which the images, borders, or letters of a book are decorated with bright paint or gold and silver leaf. It creates namesake “manuscripts” and can also mean “to light up.”",
+          "Medieval monks frequently illuminated this holy book of Christianity, which is composed of Old and New Testaments.",
+          "Illuminated Bibles largely stopped being produced with the invention of moveable type, which was first used by this German printer."
+        ],
+        "answers": [
+          "illumination (accept word forms such as illuminate; accept illuminated manuscripts)",
+          "Holy Bible",
+          "Johannes (Gensfleisch zur Laden zum) Gutenberg"
+        ],
+        "formatted_texts": [
+          "Name this technique, in which the images, borders, or letters of a book are decorated with bright paint or gold and silver leaf. It creates namesake “manuscripts” and can also mean “to light up.”",
+          "Medieval monks frequently illuminated this holy book of Christianity, which is composed of Old and New Testaments.",
+          "Illuminated Bibles largely stopped being produced with the invention of moveable type, which was first used by this German printer."
+        ],
+        "formatted_answers": [
+          "<strong>illumination</strong> (accept word forms such as <strong>illuminate</strong>; accept <strong>illuminated manuscripts</strong>)",
+          "Holy <strong>Bible</strong>",
+          "Johannes (Gensfleisch zur Laden zum) <strong>Gutenberg</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31551",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 31552,
+        "number": 1,
+        "round": "2",
+        "category_id": 21,
+        "subcategory_id": 25,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This man promoted Usonian architecture, and was a strong proponent of the Prairie School style. For 10 points each,",
+        "created_at": "2018-08-02T15:51:45.097Z",
+        "updated_at": "2018-08-02T15:51:45.097Z",
+        "formatted_leadin": "This man promoted Usonian architecture, and was a strong proponent of the Prairie School style. For 10 points each,",
+        "texts": [
+          "Name this American architect, who created the Tokyo Imperial Hotel and Robie House.",
+          "Wright cantilevered portions of this Prairie School house over a river in Pennsylvania for Edgar Kaufmann’s family.",
+          "Wright planned many of his designs from this Wisconsin studio named for a Welsh bard. He later designed a “West” studio with this name in Arizona."
+        ],
+        "answers": [
+          "Frank Lloyd Wright (accept Frank Lincoln Wright)",
+          "Fallingwater",
+          "Taliesin East (accept Taliesin I)"
+        ],
+        "formatted_texts": [
+          "Name this American architect, who created the Tokyo Imperial Hotel and Robie House.",
+          "Wright cantilevered portions of this Prairie School house over a river in Pennsylvania for Edgar Kaufmann’s family.",
+          "Wright planned many of his designs from this Wisconsin studio named for a Welsh bard. He later designed a “West” studio with this name in Arizona."
+        ],
+        "formatted_answers": [
+          "Frank Lloyd <strong>Wright</strong> (accept Frank Lincoln <strong>Wright</strong>)",
+          "<strong>Fallingwater</strong>",
+          "<strong>Taliesin</strong> East (accept <strong>Taliesin</strong> I)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31552",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 25,
+          "name": "Fine Arts Other",
+          "created_at": "2017-08-27T19:36:35.119Z",
+          "updated_at": "2017-08-27T19:36:35.119Z",
+          "url": "https://www.quizdb.org/api/subcategories/25"
+        }
+      },
+      {
+        "id": 31569,
+        "number": 18,
+        "round": "2",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, give the following about Nikolai Rimsky-Korsakov.",
+        "created_at": "2018-08-02T15:51:45.507Z",
+        "updated_at": "2018-08-02T15:51:45.507Z",
+        "formatted_leadin": "For 10 points each, give the following about Nikolai Rimsky-Korsakov.",
+        "texts": [
+          "A short piece by Rimsky-Korsakov features runs of sixteenth notes on violin or flute to depict the \"Flight of\" this stinging insect.",
+          "Rimsky-Korsakov depicted the legendary Russian musician Sadko in an 1867 work in this genre of one-movement compositions that illustrate a story. Richard Strauss' Also Sprach Zarathustra is another of these works.",
+          "Another Rimsky-Korsakov symphonic poem, Scheherazade [shah-hare-ah-zahd], depicts stories from this work, in which Shahryar is told a series of stories about Sinbad, Ali Baba, and Aladdin."
+        ],
+        "answers": [
+          "Flight of the Bumblebee",
+          "symphonic poem or tone poem (prompt on \"program music\")",
+          "The (1,001) Arabian Nights (or The 1,001 Nights)"
+        ],
+        "formatted_texts": [
+          "A short piece by Rimsky-Korsakov features runs of sixteenth notes on violin or flute to depict the \"Flight of\" this stinging insect.",
+          "Rimsky-Korsakov depicted the legendary Russian musician Sadko in an 1867 work in this genre of one-movement compositions that illustrate a story. Richard Strauss' <em>Also Sprach Zarathustra</em> is another of these works.",
+          "Another Rimsky-Korsakov symphonic poem, <em>Scheherazade</em> [shah-hare-ah-zahd], depicts stories from this work, in which Shahryar is told a series of stories about Sinbad, Ali Baba, and Aladdin."
+        ],
+        "formatted_answers": [
+          "Flight of the <strong>Bumblebee</strong>",
+          "<strong>symphonic poem</strong> or <strong>tone poem</strong> (prompt on \"program music\")",
+          "The (1,001) <strong>Arabian Nights</strong> (or The <strong>1,001 Nights</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31569",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 31579,
+        "number": 8,
+        "round": "3",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, give the following about attempts to make children listen to classical music.",
+        "created_at": "2018-08-02T15:51:45.890Z",
+        "updated_at": "2018-08-02T15:51:45.890Z",
+        "formatted_leadin": "For 10 points each, give the following about attempts to make children listen to classical music.",
+        "texts": [
+          "The title boy of this Sergei Prokofiev work is warned by his grandfather to be careful in the meadow, lest he be eaten by the other title character, an animal represented orchestrally by French horns.",
+          "In one movement of this 1940 Walt Disney film, Leopold Stokowski's Philadelphia Orchestra plays Paul Dukas' [doo-KAH's] The Sorcerer's Apprentice as Mickey Mouse fails to control his magic spells.",
+          "This English composer's The Young Person's Guide to the Orchestra opens with a theme, then has each section of the orchestra play a variation on that theme."
+        ],
+        "answers": [
+          "Peter and the Wolf",
+          "Fantasia",
+          "Benjamin Britten"
+        ],
+        "formatted_texts": [
+          "The title boy of this Sergei Prokofiev work is warned by his grandfather to be careful in the meadow, lest he be eaten by the other title character, an animal represented orchestrally by French horns.",
+          "In one movement of this 1940 Walt Disney film, Leopold Stokowski's Philadelphia Orchestra plays Paul Dukas' [doo-KAH's] <em>The Sorcerer's Apprentice</em> as Mickey Mouse fails to control his magic spells.",
+          "This English composer's <em>The Young Person's Guide to the Orchestra</em> opens with a theme, then has each section of the orchestra play a variation on that theme."
+        ],
+        "formatted_answers": [
+          "<strong>Peter and the Wolf</strong>",
+          "<strong>Fantasia</strong>",
+          "Benjamin <strong>Britten</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31579",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 31587,
+        "number": 16,
+        "round": "3",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "El Greco painted a city from this country in his <em>View of Toledo</em>. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.085Z",
+        "updated_at": "2018-08-02T15:51:46.085Z",
+        "formatted_leadin": "El Greco painted a city from this country in his <em>View of Toledo</em>. For 10 points each,",
+        "texts": [
+          "Name this European country, home to artists Salvador Dalí and Pablo Picasso.",
+          "The Infanta Margarita poses in the center of Las Meninas, a painting by this Spanish court painter.",
+          "This artist depicted Spanish citizens under attack from Napoleonic soldiers in his painting The Third of May, 1808. His “Black Paintings” include a depiction of Saturn Devouring His Son."
+        ],
+        "answers": [
+          "Spain",
+          "Diego (Rodríguez de Silva y) Velázquez",
+          "Francisco (José de) Goya (y Lucientes)"
+        ],
+        "formatted_texts": [
+          "Name this European country, home to artists Salvador Dalí and Pablo Picasso.",
+          "The Infanta Margarita poses in the center of <em>Las Meninas</em>, a painting by this Spanish court painter.",
+          "This artist depicted Spanish citizens under attack from Napoleonic soldiers in his painting <em>The Third of May, 1808</em>. His “Black Paintings” include a depiction of <em>Saturn Devouring His Son</em>."
+        ],
+        "formatted_answers": [
+          "<strong>Spain</strong>",
+          "Diego (Rodríguez de Silva y) <strong>Velázquez</strong>",
+          "Francisco (José de) <strong>Goya</strong> (y Lucientes)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31587",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 31593,
+        "number": 2,
+        "round": "4",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "A twentieth-century American artist depicted himself looking in a mirror and sketching a much younger version of his face. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.291Z",
+        "updated_at": "2018-08-02T15:51:46.291Z",
+        "formatted_leadin": "A twentieth-century American artist depicted himself looking in a mirror and sketching a much younger version of his face. For 10 points each,",
+        "texts": [
+          "Name this art genre, in which an artist creates a depiction of him- or herself.",
+          "This artist of the Four Freedoms series created Triple Self-Portrait and painted a young girl being escorted to a newly desegregated school in The Problem We All Live With.",
+          "Rockwell painted most of his works, like the Four Freedoms and Triple Self-Portrait, for this newspaper, which, despite its name, now publishes twice monthly."
+        ],
+        "answers": [
+          "self-portrait (prompt on “portrait” alone)",
+          "Norman Perceval Rockwell",
+          "Saturday Evening Post (prompt on “Post” alone)"
+        ],
+        "formatted_texts": [
+          "Name this art genre, in which an artist creates a depiction of him- or herself.",
+          "This artist of the <em>Four Freedoms</em> series created <em>Triple Self-Portrait</em> and painted a young girl being escorted to a newly desegregated school in <em>The Problem We All Live With</em>.",
+          "Rockwell painted most of his works, like the <em>Four Freedoms</em> and <em>Triple Self-Portrait</em>, for this newspaper, which, despite its name, now publishes twice monthly."
+        ],
+        "formatted_answers": [
+          "<strong>self-portrait</strong> (prompt on “portrait” alone)",
+          "Norman Perceval <strong>Rockwell</strong>",
+          "<strong>Saturday Evening Post</strong> (prompt on “Post” alone)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31593",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 31603,
+        "number": 12,
+        "round": "4",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The subject of this Franz Schubert lieder is addressed as \"Maiden mild;\" unusually, this song is not a setting of the prayer of the same name. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.530Z",
+        "updated_at": "2018-08-02T15:51:46.530Z",
+        "formatted_leadin": "The subject of this Franz Schubert lieder is addressed as \"Maiden mild;\" unusually, this song is not a setting of the prayer of the same name. For 10 points each,",
+        "texts": [
+          "Name this song, whose Latin name translates to \"Hail Mary.\"",
+          "Charles Gounod set the Ave Maria to music from this German composer's Well Tempered Clavier. This Baroque composer's other religiously inspired works include a Mass in B Minor.",
+          "Bach was well known as a player of this instrument, for which he wrote a famous Toccata and Fugue in D Minor."
+        ],
+        "answers": [
+          "Ave Maria",
+          "Johann Sebastian Bach (prompt on \"Bach\")",
+          "(pipe) organ"
+        ],
+        "formatted_texts": [
+          "Name this song, whose Latin name translates to \"Hail Mary.\"",
+          "Charles Gounod set the Ave Maria to music from this German composer's <em>Well Tempered Clavier</em>. This Baroque composer's other religiously inspired works include a <em>Mass in B Minor</em>.",
+          "Bach was well known as a player of this instrument, for which he wrote a famous <em>Toccata and Fugue in D Minor</em>."
+        ],
+        "formatted_answers": [
+          "<strong>Ave Maria</strong>",
+          "<strong>J</strong>ohann <strong>S</strong>ebastian <strong>Bach</strong> (prompt on \"Bach\")",
+          "(pipe) <strong>organ</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31603",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 31623,
+        "number": 12,
+        "round": "5",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, give the following about <em>The Carnival of the Animal</em>s, a 14-movement suite for pianos and various other instruments.",
+        "created_at": "2018-08-02T15:51:47.150Z",
+        "updated_at": "2018-08-02T15:51:47.150Z",
+        "formatted_leadin": "For 10 points each, give the following about <em>The Carnival of the Animal</em>s, a 14-movement suite for pianos and various other instruments.",
+        "texts": [
+          "This Frenchman used his Danse Macabre as a theme in the “Fossils” movement of The Carnival of the Animals. This composer thought that Carnival was too frivolous and didn’t allow it to be published during his lifetime.",
+          "Saint-Saens did allow public performances of Carnival's second-to-last movement, \"The Swan,\" a solo for this large string instrument.",
+          "The movement \"Tortoises\" includes an unusually slow take on Offenbach's “Galop Infernal,” famously known as the music for this high-energy dance performed by kicklines at the Moulin Rouge and by the Rockettes."
+        ],
+        "answers": [
+          "Camille Saint-Saens",
+          "cello",
+          "can-can"
+        ],
+        "formatted_texts": [
+          "This Frenchman used his <em>Danse Macabre</em> as a theme in the “Fossils” movement of <em>The Carnival of the Animals</em>. This composer thought that <em>Carnival</em> was too frivolous and didn’t allow it to be published during his lifetime.",
+          "Saint-Saens did allow public performances of <em>Carnival</em>'s second-to-last movement, \"The Swan,\" a solo for this large string instrument.",
+          "The movement \"Tortoises\" includes an unusually slow take on Offenbach's “Galop Infernal,” famously known as the music for this high-energy dance performed by kicklines at the Moulin Rouge and by the Rockettes."
+        ],
+        "formatted_answers": [
+          "Camille <strong>Saint-Saens</strong>",
+          "<strong>cello</strong>",
+          "<strong>can-can</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31623",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 31624,
+        "number": 13,
+        "round": "5",
+        "category_id": 21,
+        "subcategory_id": 25,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, name these materials used in art.",
+        "created_at": "2018-08-02T15:51:47.170Z",
+        "updated_at": "2018-08-02T15:51:47.170Z",
+        "formatted_leadin": "For 10 points each, name these materials used in art.",
+        "texts": [
+          "Architect Philip Johnson built a transparent house of this material. Dale Chihuly creates sculptures out of the \"blown\" kind of this material.",
+          "Benvenuto Cellini [cheh-lee-nee] made a salt cellar covered in this metal, which Gustav Klimt used to produce a shimmery effect in paintings like The Kiss and Danae.",
+          "Christo and Jeanne-Claude produced works like Central Park's The Gates, Surrounded Islands, and Wrapped Reichstag with this material."
+        ],
+        "answers": [
+          "glass",
+          "gold leaf",
+          "cloth (accept clear equivalents like fabric; accept plastic sheeting)"
+        ],
+        "formatted_texts": [
+          "Architect Philip Johnson built a transparent house of this material. Dale Chihuly creates sculptures out of the \"blown\" kind of this material.",
+          "Benvenuto Cellini [cheh-lee-nee] made a salt cellar covered in this metal, which Gustav Klimt used to produce a shimmery effect in paintings like <em>The Kiss</em> and <em>Danae</em>.",
+          "Christo and Jeanne-Claude produced works like Central Park's <em>The Gates, Surrounded Islands,</em> and <em>Wrapped Reichstag</em> with this material."
+        ],
+        "formatted_answers": [
+          "<strong>glass</strong>",
+          "<strong>gold</strong> leaf",
+          "<strong>cloth</strong> (accept clear equivalents like <strong>fabric</strong>; accept <strong>plastic</strong> sheeting)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31624",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 25,
+          "name": "Fine Arts Other",
+          "created_at": "2017-08-27T19:36:35.119Z",
+          "updated_at": "2017-08-27T19:36:35.119Z",
+          "url": "https://www.quizdb.org/api/subcategories/25"
+        }
+      },
+      {
+        "id": 31637,
+        "number": 6,
+        "round": "6",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This kind of artwork includes the <em>Mona Lisa, Blue Boy</em>, and one \"of Madame X.\" For 10 points each,",
+        "created_at": "2018-08-02T15:51:47.572Z",
+        "updated_at": "2018-08-02T15:51:47.572Z",
+        "formatted_leadin": "This kind of artwork includes the <em>Mona Lisa, Blue Boy</em>, and one \"of Madame X.\" For 10 points each,",
+        "texts": [
+          "Name this type of painting that depicts a likeness of a person. A \"self\" kind of these paintings is the artist’s depiction of himself or herself.",
+          "This man painted portraits of many American leaders including George Washington. His portrait of Washington appears on the American one-dollar bill.",
+          "This man created many paintings featuring Napoleon, including The Coronation of Napoleon, Napoleon Crossing the Alps, and Napoleon in His Study. This man also painted an idealized Death of Marat."
+        ],
+        "answers": [
+          "self-portrait",
+          "Gilbert Stuart",
+          "Jacques-Louis David [zhak loo-EE dah-VEED]"
+        ],
+        "formatted_texts": [
+          "Name this type of painting that depicts a likeness of a person. A \"self\" kind of these paintings is the artist’s depiction of himself or herself.",
+          "This man painted portraits of many American leaders including George Washington. His portrait of Washington appears on the American one-dollar bill.",
+          "This man created many paintings featuring Napoleon, including <em>The Coronation of Napoleon, Napoleon Crossing the Alps,</em> and <em>Napoleon in His Study</em>. This man also painted an idealized <em>Death of Marat.</em>"
+        ],
+        "formatted_answers": [
+          "self-<strong>portrait</strong>",
+          "Gilbert <strong>Stuart</strong>",
+          "Jacques-Louis <strong>David</strong> [zhak loo-EE dah-VEED]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31637",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 31639,
+        "number": 8,
+        "round": "6",
+        "category_id": 21,
+        "subcategory_id": 27,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, give the following about Sergei Diaghilev’s Ballets Russes [“ballet” ROOS].",
+        "created_at": "2018-08-02T15:51:47.621Z",
+        "updated_at": "2018-08-02T15:51:47.621Z",
+        "formatted_leadin": "For 10 points each, give the following about Sergei Diaghilev’s Ballets Russes [“ballet” ROOS].",
+        "texts": [
+          "The Ballets Russes performed numerous works by this Russian composer, including Pulcinella, Petrushka, Firebird, and the controversial Rite of Spring.",
+          "The Ballets Russes’ production of Stravinsky’s Pulcinella featured sets and costumes designed by this Spanish cubist artist of Boy With a Pipe.",
+          "One of the Ballets Russes’ most prolific choreographers, Vaslav Nijinsky, was one of few men known for using this ballet technique. This technique requires special shoes, as all of the body’s weight is supported on the tips of the dancer’s toes."
+        ],
+        "answers": [
+          "Igor Stravinsky",
+          "Pablo (Ruiz y) Picasso",
+          "(en) pointe (accept elaborations, such as pointe work)"
+        ],
+        "formatted_texts": [
+          "The Ballets Russes performed numerous works by this Russian composer, including <em>Pulcinella</em>, <em>Petrushka</em>, <em>Firebird</em>, and the controversial <em>Rite of Spring</em>.",
+          "The Ballets Russes’ production of Stravinsky’s <em>Pulcinella</em> featured sets and costumes designed by this Spanish cubist artist of <em>Boy With a Pipe</em>.",
+          "One of the Ballets Russes’ most prolific choreographers, Vaslav Nijinsky, was one of few men known for using this ballet technique. This technique requires special shoes, as all of the body’s weight is supported on the tips of the dancer’s toes."
+        ],
+        "formatted_answers": [
+          "Igor <strong>Stravinsky</strong>",
+          "Pablo (Ruiz y) <strong>Picasso</strong>",
+          "(en) <strong>pointe</strong> (accept elaborations, such as <strong>pointe</strong> work)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31639",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 27,
+          "name": "Fine Arts Audiovisual",
+          "created_at": "2017-08-27T19:36:35.159Z",
+          "updated_at": "2017-08-27T19:36:35.159Z",
+          "url": "https://www.quizdb.org/api/subcategories/27"
+        }
+      },
+      {
+        "id": 31660,
+        "number": 9,
+        "round": "7",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Douglas Adams compared this Johann Sebastian Bach musical suite's beauty to that of fractals, noting that these are \"what he wrote when he was happy.\" For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.370Z",
+        "updated_at": "2018-08-02T15:51:48.370Z",
+        "formatted_leadin": "Douglas Adams compared this Johann Sebastian Bach musical suite's beauty to that of fractals, noting that these are \"what he wrote when he was happy.\" For 10 points each,",
+        "texts": [
+          "Name this collection of six orchestral works that Bach wrote for Christian Ludwig, who was Margrave of the principality for which these works are named.",
+          "It is believed that Bach himself played this instrument at the premiere of the fifth Brandenburg Concerto, which features a lengthy, challenging cadenza for it. This keyboard instrument plucks the internal strings, rather than striking them as a piano does.",
+          "The first and third movements of Brandenburg No. 5 are both marked for this tempo, a fast, lively speed of roughly 120 beats per minute, slower than vivace."
+        ],
+        "answers": [
+          "Brandenburg concertos (or BWV 1049-1056)",
+          "harpsichord (prompt on clavier; do not accept clavichord or piano)",
+          "allegro"
+        ],
+        "formatted_texts": [
+          "Name this collection of six orchestral works that Bach wrote for Christian Ludwig, who was Margrave of the principality for which these works are named.",
+          "It is believed that Bach himself played this instrument at the premiere of the fifth <em>Brandenburg Concerto</em>, which features a lengthy, challenging cadenza for it. This keyboard instrument plucks the internal strings, rather than striking them as a piano does.",
+          "The first and third movements of <em>Brandenburg No. 5</em> are both marked for this tempo, a fast, lively speed of roughly 120 beats per minute, slower than vivace."
+        ],
+        "formatted_answers": [
+          "<strong>Brandenburg</strong> concertos (or <strong>BWV 1049-1056</strong>)",
+          "<strong>harpsichord</strong> (prompt on clavier; do not accept clavichord or piano)",
+          "<strong>allegro</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31660",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 31665,
+        "number": 14,
+        "round": "7",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "James Whistler depicted this kind of woman in his painting <em>Arrangement in Grey and Black No.1</em>. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.504Z",
+        "updated_at": "2018-08-02T15:51:48.504Z",
+        "formatted_leadin": "James Whistler depicted this kind of woman in his painting <em>Arrangement in Grey and Black No.1</em>. For 10 points each,",
+        "texts": [
+          "Name this member of a family, a woman who has children. One of these women washes a little girl's foot in a painting titled The Child's Bath.",
+          "This American Impressionist painted many mothers and children in works like Maternité, The Boating Party, and The Child's Bath.",
+          "An iconic photo depicting farm worker Florence Owens Thompson with two of her children, titled Migrant Mother, was taken by Dorothea Lange to capture the agricultural suffering of this Great Depression-era event."
+        ],
+        "answers": [
+          "mother",
+          "Mary Stevenson Cassatt",
+          "Dust Bowl"
+        ],
+        "formatted_texts": [
+          "Name this member of a family, a woman who has children. One of these women washes a little girl's foot in a painting titled <em>The Child's Bath</em>.",
+          "This American Impressionist painted many mothers and children in works like <em>Maternité</em>, <em>The Boating Party</em>, and <em>The Child's Bath</em>.",
+          "An iconic photo depicting farm worker Florence Owens Thompson with two of her children, titled <em>Migrant Mother</em>, was taken by Dorothea Lange to capture the agricultural suffering of this Great Depression-era event."
+        ],
+        "formatted_answers": [
+          "<strong>mother</strong>",
+          "Mary Stevenson <strong>Cassatt</strong>",
+          "<strong>Dust Bowl</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31665",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 31688,
+        "number": 17,
+        "round": "8",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, name the following popular American composers.",
+        "created_at": "2018-08-02T15:51:49.290Z",
+        "updated_at": "2018-08-02T15:51:49.290Z",
+        "formatted_leadin": "For 10 points each, name the following popular American composers.",
+        "texts": [
+          "This longtime conductor of the U.S. Marine Band earned the title \"The March King\" for works like \"The Liberty Bell\" and \"The Stars and Stripes Forever.\" He also invented a marching tuba that is now named for him.",
+          "This composer's \"Hoe-down\" from his ballet Rodeo was used in commercials for beef; he also wrote the Fanfare for the Common Man and the music for the ballet Appalachian Spring.",
+          "This king of Ragtime music wrote classic piano rags like The Entertainer and the Maple Leaf Rag."
+        ],
+        "answers": [
+          "John Philip Sousa (accept Sousaphone)",
+          "Aaron Copland",
+          "Scott Joplin"
+        ],
+        "formatted_texts": [
+          "This longtime conductor of the U.S. Marine Band earned the title \"The March King\" for works like \"The Liberty Bell\" and \"The Stars and Stripes Forever.\" He also invented a marching tuba that is now named for him.",
+          "This composer's \"Hoe-down\" from his ballet <em>Rodeo</em> was used in commercials for beef; he also wrote the <em>Fanfare for the Common Man</em> and the music for the ballet <em>Appalachian Spring</em>.",
+          "This king of Ragtime music wrote classic piano rags like <em>The Entertainer</em> and the <em>Maple Leaf Rag</em>."
+        ],
+        "formatted_answers": [
+          "John Philip <strong>Sousa</strong> (accept <strong>Sousaphone</strong>)",
+          "Aaron <strong>Copland</strong>",
+          "Scott <strong>Joplin</strong>"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31688",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 31701,
+        "number": 10,
+        "round": "9",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This work's most famous selection notes that \"he shall reign for ever and ever.\" For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.727Z",
+        "updated_at": "2018-08-02T15:51:49.727Z",
+        "formatted_leadin": "This work's most famous selection notes that \"he shall reign for ever and ever.\" For 10 points each,",
+        "texts": [
+          "Name this three-part oratorio, written in 1741, whose Hallelujah Chorus ends its second part.",
+          "This composer of Water Music and Music for the Royal Fireworks composed the oratorios Israel in Egypt, Samson, and the aforementioned Messiah.",
+          "The Hallelujah Chorus is written in this triumphant major key, also used for the final movement of Mahler's Titan symphony. This major key has two sharps in its signature."
+        ],
+        "answers": [
+          "Messiah",
+          "George Frideric Handel",
+          "D Major"
+        ],
+        "formatted_texts": [
+          "Name this three-part oratorio, written in 1741, whose Hallelujah Chorus ends its second part.",
+          "This composer of <em>Water Music</em> and <em>Music for the Royal Fireworks</em> composed the oratorios <em>Israel in Egypt</em>, <em>Samson</em>, and the aforementioned <em>Messiah</em>.",
+          "The Hallelujah Chorus is written in this triumphant major key, also used for the final movement of Mahler's <em>Titan</em> symphony. This major key has two sharps in its signature."
+        ],
+        "formatted_answers": [
+          "<strong>Messiah</strong>",
+          "George Frideric <strong>Handel</strong>",
+          "<strong>D</strong> Major"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31701",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      },
+      {
+        "id": 31704,
+        "number": 13,
+        "round": "9",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Pablo Picasso painted many works of his native Spain. For 10 points each,",
+        "created_at": "2018-08-02T15:51:49.810Z",
+        "updated_at": "2018-08-02T15:51:49.810Z",
+        "formatted_leadin": "Pablo Picasso painted many works of his native Spain. For 10 points each,",
+        "texts": [
+          "A tired-looking man plays the title instrument on the streets of Barcelona in this Picasso work.",
+          "The Old Guitarist was painted during this sad, colorfully-named period of PIcasso’s work.",
+          "This painting depicts the aftermath of a bombing on a Spanish city, and shows a dead man holding a broken sword and a woman cradling her dead child."
+        ],
+        "answers": [
+          "The Old Guitarist",
+          "Blue Period",
+          "Guernica [gayr-NEE-kah]"
+        ],
+        "formatted_texts": [
+          "A tired-looking man plays the title instrument on the streets of Barcelona in this Picasso work.",
+          "<em>The Old Guitarist</em> was painted during this sad, colorfully-named period of PIcasso’s work.",
+          "This painting depicts the aftermath of a bombing on a Spanish city, and shows a dead man holding a broken sword and a woman cradling her dead child."
+        ],
+        "formatted_answers": [
+          "The <strong>Old Guitarist</strong>",
+          "<strong>Blue</strong> Period",
+          "<strong>Guernica</strong> [gayr-NEE-kah]"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31704",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 31713,
+        "number": 2,
+        "round": "10",
+        "category_id": 21,
+        "subcategory_id": 2,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Not all art is paint on canvas! For 10 points each,",
+        "created_at": "2018-08-02T15:51:50.153Z",
+        "updated_at": "2018-08-02T15:51:50.153Z",
+        "formatted_leadin": "Not all art is paint on canvas! For 10 points each,",
+        "texts": [
+          "The Japanese artist Hokusai created The Great Wave of Kanagawa and thirty-five other views of Mount Fuji; those works are ukiyo-e, which are prints made using carefully crafted, interlocking blocks of this material.",
+          "This German artist created a series of woodcuts called Apocalypse, but is best known for his engravings like Melancholia I and Saint Jerome in his Study.",
+          "Scrimshaw is the art of carving and engraving of this material. The artform began among whalers, who had plenty of time while on their ship and plenty of this material from their harvested whales."
+        ],
+        "answers": [
+          "wood",
+          "Albrecht Dürer",
+          "ivory or bone or teeth or tusks"
+        ],
+        "formatted_texts": [
+          "The Japanese artist Hokusai created <em>The Great Wave of Kanagawa</em> and thirty-five other views of Mount Fuji; those works are ukiyo-e, which are prints made using carefully crafted, interlocking blocks of this material.",
+          "This German artist created a series of woodcuts called <em>Apocalypse</em>, but is best known for his engravings like <em>Melancholia I</em> and <em>Saint Jerome in his Study</em>.",
+          "Scrimshaw is the art of carving and engraving of this material. The artform began among whalers, who had plenty of time while on their ship and plenty of this material from their harvested whales."
+        ],
+        "formatted_answers": [
+          "<strong>wood</strong>",
+          "Albrecht <strong>Dürer</strong>",
+          "<strong>ivory</strong> or <strong>bone</strong> or <strong>teeth</strong> or <strong>tusk</strong>s"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31713",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 2,
+          "name": "Fine Arts Visual",
+          "created_at": "2017-08-27T19:36:34.979Z",
+          "updated_at": "2017-08-27T19:36:34.979Z",
+          "url": "https://www.quizdb.org/api/subcategories/2"
+        }
+      },
+      {
+        "id": 31723,
+        "number": 12,
+        "round": "10",
+        "category_id": 21,
+        "subcategory_id": 8,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This composer of the <em>Aeneid</em>-inspired opera <em>Les Troyens</em> was commissioned by Niccolo Paganini to compose <em>Harold in Italy</em>. For 10 points each,",
+        "created_at": "2018-08-02T15:51:50.463Z",
+        "updated_at": "2018-08-02T15:51:50.463Z",
+        "formatted_leadin": "This composer of the <em>Aeneid</em>-inspired opera <em>Les Troyens</em> was commissioned by Niccolo Paganini to compose <em>Harold in Italy</em>. For 10 points each,",
+        "texts": [
+          "Name this French Romantic composer of Symphonie Fantastique.",
+          "Paganini was known primarily as a violin virtuoso, but he commissioned Harold in Italy from Berlioz to feature this other string instrument, slightly larger than a violin.",
+          "Paganini's commission came after he acquired a viola made by this Italian family. String instruments made by this family have a reputation for superior quality; in 2014, one of their violins, worth $5 million, was stolen in Milwaukee."
+        ],
+        "answers": [
+          "Hector Berlioz",
+          "viola",
+          "Stradivarius (or Stradivari)"
+        ],
+        "formatted_texts": [
+          "Name this French Romantic composer of <em>Symphonie Fantastique</em>.",
+          "Paganini was known primarily as a violin virtuoso, but he commissioned <em>Harold in Italy</em> from Berlioz to feature this other string instrument, slightly larger than a violin.",
+          "Paganini's commission came after he acquired a viola made by this Italian family. String instruments made by this family have a reputation for superior quality; in 2014, one of their violins, worth $5 million, was stolen in Milwaukee."
+        ],
+        "formatted_answers": [
+          "Hector <strong>Berlioz</strong>",
+          "<strong>viola</strong>",
+          "<strong>Stradivarius</strong> (or <strong>Stradivari</strong>)"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31723",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 21,
+          "name": "Fine Arts",
+          "created_at": "2017-08-27T19:30:45.891Z",
+          "updated_at": "2017-08-27T19:30:45.891Z",
+          "url": "https://www.quizdb.org/api/categories/21"
+        },
+        "subcategory": {
+          "id": 8,
+          "name": "Fine Arts Auditory",
+          "created_at": "2017-08-27T19:36:35.012Z",
+          "updated_at": "2017-08-27T19:36:35.012Z",
+          "url": "https://www.quizdb.org/api/subcategories/8"
+        }
+      }
+    ]
+  }
+}

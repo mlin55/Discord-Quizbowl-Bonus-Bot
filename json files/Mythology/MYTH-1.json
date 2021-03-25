@@ -1,0 +1,693 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 10,
+    "num_bonuses_shown": 10,
+    "bonuses": [
+      {
+        "id": 31532,
+        "number": 1,
+        "round": "1",
+        "category_id": 14,
+        "subcategory_id": 63,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This god was the father of Thor and the head of the Norse Pantheon. For 10 points each,",
+        "created_at": "2018-08-02T15:50:54.943Z",
+        "updated_at": "2020-10-17T04:47:46.688Z",
+        "formatted_leadin": "This god was the father of Thor and the head of the Norse Pantheon. For 10 points each,",
+        "texts": [
+          "Name this chief god of the Norse pantheon and wielder of Gungnir, who hung himself for nine days from Yggdrasil to gain knowledge.",
+          "Odin’s steed was this eight-legged horse, who was born after Loki turned himself into a mare to distract Svadilfari [svahd-eel-fah-ree] from constructing Asgard’s walls.",
+          "Odin was also served by two of these dark birds, Huginn [HOO-gihn] and Muninn [MOO-nihn], who flew around the world and gathered information."
+        ],
+        "answers": [
+          "Odin (accept Wotan)",
+          "Sleipnir [SLIPE-neer]",
+          "ravens"
+        ],
+        "formatted_texts": [
+          "Name this chief god of the Norse pantheon and wielder of Gungnir, who hung himself for nine days from Yggdrasil to gain knowledge.",
+          "Odin’s steed was this eight-legged horse, who was born after Loki turned himself into a mare to distract Svadilfari [svahd-eel-fah-ree] from constructing Asgard’s walls.",
+          "Odin was also served by two of these dark birds, Huginn [HOO-gihn] and Muninn [MOO-nihn], who flew around the world and gathered information."
+        ],
+        "formatted_answers": [
+          "<strong>Odin</strong> (accept <strong>Wotan</strong>)",
+          "<strong>Sleipnir</strong> [SLIPE-neer]",
+          "<strong>raven</strong>s"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31532",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 63,
+          "name": "Mythology Norse",
+          "created_at": "2017-09-04T23:48:20.643Z",
+          "updated_at": "2017-09-04T23:48:20.643Z",
+          "url": "https://www.quizdb.org/api/subcategories/63"
+        }
+      },
+      {
+        "id": 31591,
+        "number": 20,
+        "round": "3",
+        "category_id": 14,
+        "subcategory_id": 33,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This god’s heart became the morning star after he threw himself on a funeral pyre. For 10 points each,",
+        "created_at": "2018-08-02T15:51:46.172Z",
+        "updated_at": "2020-10-17T04:48:05.242Z",
+        "formatted_leadin": "This god’s heart became the morning star after he threw himself on a funeral pyre. For 10 points each,",
+        "texts": [
+          "Identify this Mesoamerican god, a feathered serpent who was the rival of Tezcatlipoca [tets-kaht-lee- poh-kah].",
+          "Quetzalcoatl [keht-sahl-koh-ah-tul] was a god of these people, who may have confused the arrival of Hernan Cortes with the god’s return.",
+          "The Aztecs performed this religious practice in tribute to Huitzilopochtli [hoo-eets-ee-loh-pahk-tee]. When this practice was performed for Tlaloc, it required the death of crying children."
+        ],
+        "answers": [
+          "Quetzalcoatl",
+          "Aztec",
+          "human sacrifice (accept clear equivalents, such as child sacrifice; prompt on “sacrifice”)"
+        ],
+        "formatted_texts": [
+          "Identify this Mesoamerican god, a feathered serpent who was the rival of Tezcatlipoca [tets-kaht-lee- poh-kah].",
+          "Quetzalcoatl [keht-sahl-koh-ah-tul] was a god of these people, who may have confused the arrival of Hernan Cortes with the god’s return.",
+          "The Aztecs performed this religious practice in tribute to Huitzilopochtli [hoo-eets-ee-loh-pahk-tee]. When this practice was performed for Tlaloc, it required the death of crying children."
+        ],
+        "formatted_answers": [
+          "<strong>Quetzalcoatl</strong>",
+          "<strong>Aztec</strong>",
+          "<strong>human sacrifice</strong> (accept clear equivalents, such as <strong>child sacrifice</strong>; prompt on “sacrifice”)"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31591",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 33,
+          "name": "Mythology American",
+          "created_at": "2017-08-27T19:36:36.662Z",
+          "updated_at": "2017-08-27T19:36:36.662Z",
+          "url": "https://www.quizdb.org/api/subcategories/33"
+        }
+      },
+      {
+        "id": 31596,
+        "number": 5,
+        "round": "4",
+        "category_id": 14,
+        "subcategory_id": 58,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Answer some questions about motherly goddesses, for 10 points each.",
+        "created_at": "2018-08-02T15:51:46.362Z",
+        "updated_at": "2020-10-17T04:50:45.106Z",
+        "formatted_leadin": "Answer some questions about motherly goddesses, for 10 points each.",
+        "texts": [
+          "This Greek equivalent of Vesta is actually a virgin, but was the goddess of family as well as the home and hearth.",
+          "Hathor, an Egyptian goddess sometimes known as the mother of Ra, represented motherhood and was symbolized by this hooved animal.",
+          "The female member of the Egyptian creator pair, Nut [noot], was the mother of many gods of Egyptian religion, and represented this celestial location. Nut was often painted as a blue woman arched over her husband, Geb, who represents the Earth."
+        ],
+        "answers": [
+          "Hestia",
+          "cow (accept cattle)",
+          "sky (accept the stars, the heavens, or other equivalents)"
+        ],
+        "formatted_texts": [
+          "This Greek equivalent of Vesta is actually a virgin, but was the goddess of family as well as the home and hearth.",
+          "Hathor, an Egyptian goddess sometimes known as the mother of Ra, represented motherhood and was symbolized by this hooved animal.",
+          "The female member of the Egyptian creator pair, Nut [noot], was the mother of many gods of Egyptian religion, and represented this celestial location. Nut was often painted as a blue woman arched over her husband, Geb, who represents the Earth."
+        ],
+        "formatted_answers": [
+          "<strong>Hestia</strong>",
+          "<strong>cow</strong> (accept <strong>cattle</strong>)",
+          "<strong>sky</strong> (accept the <strong>stars</strong>, the <strong>heavens</strong>, or other equivalents)"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31596",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 58,
+          "name": "Mythology Greco-Roman",
+          "created_at": "2017-09-03T05:00:21.957Z",
+          "updated_at": "2017-09-03T05:00:21.957Z",
+          "url": "https://www.quizdb.org/api/subcategories/58"
+        }
+      },
+      {
+        "id": 31630,
+        "number": 19,
+        "round": "5",
+        "category_id": 14,
+        "subcategory_id": 54,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Answer the following about mythological storytellers, for 10 points each.",
+        "created_at": "2018-08-02T15:51:47.328Z",
+        "updated_at": "2020-10-17T04:51:04.627Z",
+        "formatted_leadin": "Answer the following about mythological storytellers, for 10 points each.",
+        "texts": [
+          "In West African myth, the trickster Anansi, who bought all the stories of the world from Nyame, had the form of this creature. Arachne was turned into this animal when she wove a tapestry showing gods abusing mortals.",
+          "These children of Zeus and Mnemosyne were responsible for literary inspiration and oral knowledge. These nine goddesses, representing various arts, included Clio and Calliope.",
+          "This legendary Persian queen avoided her execution by telling her sister, Dunyazad, and husband, Shahryar, stories, such as those about Sinbad the Sailor and Ali Baba."
+        ],
+        "answers": [
+          "spider (prompt on “arachnid(s)”)",
+          "Muses",
+          "Scheherazade"
+        ],
+        "formatted_texts": [
+          "In West African myth, the trickster Anansi, who bought all the stories of the world from Nyame, had the form of this creature. Arachne was turned into this animal when she wove a tapestry showing gods abusing mortals.",
+          "These children of Zeus and Mnemosyne were responsible for literary inspiration and oral knowledge. These nine goddesses, representing various arts, included Clio and Calliope.",
+          "This legendary Persian queen avoided her execution by telling her sister, Dunyazad, and husband, Shahryar, stories, such as those about Sinbad the Sailor and Ali Baba."
+        ],
+        "formatted_answers": [
+          "<strong>spider</strong> (prompt on “arachnid(s)”)",
+          "<strong>Muses</strong>",
+          "<strong>Scheherazade</strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31630",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 54,
+          "name": "Mythology Other",
+          "created_at": "2017-09-03T00:09:25.584Z",
+          "updated_at": "2017-09-03T00:09:25.584Z",
+          "url": "https://www.quizdb.org/api/subcategories/54"
+        }
+      },
+      {
+        "id": 31632,
+        "number": 1,
+        "round": "6",
+        "category_id": 14,
+        "subcategory_id": 58,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "For 10 points each, answer the following about a mythical singer from Thrace.",
+        "created_at": "2018-08-02T15:51:47.458Z",
+        "updated_at": "2020-10-17T04:51:28.940Z",
+        "formatted_leadin": "For 10 points each, answer the following about a mythical singer from Thrace.",
+        "texts": [
+          "This man descended into the Greek underworld to retrieve his dead wife, Eurydice [yoo-rih-dih-see], but lost her when he looked behind him to see if she was following.",
+          "After losing Eurydice a second time, Orpheus unsuccessfully begged this underworld ferryman to allow him to cross back over the river Styx to see his wife again.",
+          "In order to board the ferry to the underworld, Charon had to be given one of these. These items were placed in the mouth of the dead to pay their fare"
+        ],
+        "answers": [
+          "Orpheus",
+          "Charon",
+          "coins (Accept obolus, danake, or drachma)"
+        ],
+        "formatted_texts": [
+          "This man descended into the Greek underworld to retrieve his dead wife, Eurydice [yoo-rih-dih-see], but lost her when he looked behind him to see if she was following.",
+          "After losing Eurydice a second time, Orpheus unsuccessfully begged this underworld ferryman to allow him to cross back over the river Styx to see his wife again.",
+          "In order to board the ferry to the underworld, Charon had to be given one of these. These items were placed in the mouth of the dead to pay their fare"
+        ],
+        "formatted_answers": [
+          "<strong>Orpheus</strong>",
+          "<strong>Charon</strong>",
+          "<strong>coin</strong>s (Accept <strong>obolus</strong>, <strong>danake</strong>, or <strong>drachma</strong>)"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31632",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 58,
+          "name": "Mythology Greco-Roman",
+          "created_at": "2017-09-03T05:00:21.957Z",
+          "updated_at": "2017-09-03T05:00:21.957Z",
+          "url": "https://www.quizdb.org/api/subcategories/58"
+        }
+      },
+      {
+        "id": 31659,
+        "number": 8,
+        "round": "7",
+        "category_id": 14,
+        "subcategory_id": 54,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Answer some questions about the mythology of a particular island nation, for 10 points each.",
+        "created_at": "2018-08-02T15:51:48.346Z",
+        "updated_at": "2020-10-17T04:54:49.953Z",
+        "formatted_leadin": "Answer some questions about the mythology of a particular island nation, for 10 points each.",
+        "texts": [
+          "Saint Patrick legendarily drove the snakes out of this island, which serves as the setting of the book of legends known as the Ulster Cycle.",
+          "In another Irish cycle, the Salmon of Knowledge is cooked by this fair-haired hunter, who accidentally attains enlightenment when the fish’s oil dripped onto his thumb.",
+          "Fionn mac Cumhaill married Sadhbh [“Saba”], who had been transformed into this animal. In Greek myth, these animals are sacred to Artemis."
+        ],
+        "answers": [
+          "Ireland (accept Éire; accept Airlann)",
+          "Fionn mac Cumhaill [“Finn McCool”] (accept Deimne)",
+          "doe (or deer)"
+        ],
+        "formatted_texts": [
+          "Saint Patrick legendarily drove the snakes out of this island, which serves as the setting of the book of legends known as the <em>Ulster Cycle</em>.",
+          "In another Irish cycle, the Salmon of Knowledge is cooked by this fair-haired hunter, who accidentally attains enlightenment when the fish’s oil dripped onto his thumb.",
+          "Fionn mac Cumhaill married Sadhbh [“Saba”], who had been transformed into this animal. In Greek myth, these animals are sacred to Artemis."
+        ],
+        "formatted_answers": [
+          "<strong>Ireland</strong> (accept <strong>Éire</strong>; accept <strong>Airlann</strong>)",
+          "<strong>Fionn mac Cumhaill</strong> [“Finn McCool”] (accept <strong>Deimne</strong>)",
+          "<strong>doe</strong> (or <strong>deer</strong>)"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31659",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 54,
+          "name": "Mythology Other",
+          "created_at": "2017-09-03T00:09:25.584Z",
+          "updated_at": "2017-09-03T00:09:25.584Z",
+          "url": "https://www.quizdb.org/api/subcategories/54"
+        }
+      },
+      {
+        "id": 31672,
+        "number": 1,
+        "round": "8",
+        "category_id": 14,
+        "subcategory_id": 58,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Aphrodite helped start the Trojan War when she offered Helen of Troy to the judge of a divine beauty contest. For 10 points each,",
+        "created_at": "2018-08-02T15:51:48.804Z",
+        "updated_at": "2020-10-17T04:55:06.748Z",
+        "formatted_leadin": "Aphrodite helped start the Trojan War when she offered Helen of Troy to the judge of a divine beauty contest. For 10 points each,",
+        "texts": [
+          "The beauty contest was lost by Hera and this Greek goddess of wisdom.",
+          "Helen's husband started the Trojan War in an attempt to save Helen from this Trojan prince, who judged the goddesses' beauty contest.",
+          "Angry about the death of his son the cyclops Polyphemus [pah-lih-feh-muss], this god made Odysseus's sail home from the Trojan War much more difficult."
+        ],
+        "answers": [
+          "Athena (accept Athene; do not accept or prompt on \"Minerva\")",
+          "Paris",
+          "Poseidon (do not accept \"Neptune\")"
+        ],
+        "formatted_texts": [
+          "The beauty contest was lost by Hera and this Greek goddess of wisdom.",
+          "Helen's husband started the Trojan War in an attempt to save Helen from this Trojan prince, who judged the goddesses' beauty contest.",
+          "Angry about the death of his son the cyclops Polyphemus [pah-lih-feh-muss], this god made Odysseus's sail home from the Trojan War much more difficult."
+        ],
+        "formatted_answers": [
+          "<strong>Athena</strong> (accept <strong>Athene</strong>; do not accept or prompt on \"Minerva\")",
+          "<strong>Paris</strong>",
+          "<strong>Poseidon</strong> (do not accept \"Neptune\")"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31672",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 58,
+          "name": "Mythology Greco-Roman",
+          "created_at": "2017-09-03T05:00:21.957Z",
+          "updated_at": "2017-09-03T05:00:21.957Z",
+          "url": "https://www.quizdb.org/api/subcategories/58"
+        }
+      },
+      {
+        "id": 31690,
+        "number": 19,
+        "round": "8",
+        "category_id": 14,
+        "subcategory_id": 46,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "This term is most often associated with Vishnu, who has had ten of them. For 10 points each:",
+        "created_at": "2018-08-02T15:51:49.350Z",
+        "updated_at": "2020-10-17T04:55:25.743Z",
+        "formatted_leadin": "This term is most often associated with Vishnu, who has had ten of them. For 10 points each:",
+        "texts": [
+          "Name this Hindu term for a deity's descent to Earth, as well as the form they take for that descent.",
+          "The first avatar of Vishnu is Matsya, a giant one of these animals. In this form, he saves Manu, the first man, from the great flood.",
+          "Vishnu’s eighth avatar is this blue-skinned hero of the Bhagavad Gita, the charioteer of Arjuna who is venerated by a certain “Hare” [hah-ray] movement in the US."
+        ],
+        "answers": [
+          "avatar",
+          "fish",
+          "Krishna"
+        ],
+        "formatted_texts": [
+          "Name this Hindu term for a deity's descent to Earth, as well as the form they take for that descent.",
+          "The first avatar of Vishnu is Matsya, a giant one of these animals. In this form, he saves Manu, the first man, from the great flood.",
+          "Vishnu’s eighth avatar is this blue-skinned hero of the <em>Bhagavad Gita</em>, the charioteer of Arjuna who is venerated by a certain “Hare” [hah-ray] movement in the US."
+        ],
+        "formatted_answers": [
+          "<strong>avatar</strong>",
+          "<strong>fish</strong>",
+          "<strong>Krishna</strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31690",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 46,
+          "name": "Mythology Indian",
+          "created_at": "2017-08-29T03:51:33.756Z",
+          "updated_at": "2017-08-29T03:51:33.756Z",
+          "url": "https://www.quizdb.org/api/subcategories/46"
+        }
+      },
+      {
+        "id": 31693,
+        "number": 2,
+        "round": "9",
+        "category_id": 14,
+        "subcategory_id": 63,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "Identify the following important locations in Norse myth, for 10 points each,",
+        "created_at": "2018-08-02T15:51:49.518Z",
+        "updated_at": "2020-10-17T04:55:41.908Z",
+        "formatted_leadin": "Identify the following important locations in Norse myth, for 10 points each,",
+        "texts": [
+          "This “middle land,” the realm of men, was formed by Ymir’s [ee-meer’s] eyebrow. It is encircled by a namesake “Serpent,” and during Ragnarök, it will sink into the sea.",
+          "Midgard is connected to Asgard by this rainbow bridge, which is guarded by Heimdall.",
+          "This realm, separated from Asgard by the river Ifing, contains frost giants that pester both gods and men in Norse mythology."
+        ],
+        "answers": [
+          "Midgard",
+          "Bïfrost",
+          "Jotunheim [yoh-tund-hime]"
+        ],
+        "formatted_texts": [
+          "This “middle land,” the realm of men, was formed by Ymir’s [ee-meer’s] eyebrow. It is encircled by a namesake “Serpent,” and during Ragnarök, it will sink into the sea.",
+          "Midgard is connected to Asgard by this rainbow bridge, which is guarded by Heimdall.",
+          "This realm, separated from Asgard by the river Ifing, contains frost giants that pester both gods and men in Norse mythology."
+        ],
+        "formatted_answers": [
+          "<strong>Midgard</strong>",
+          "<strong>Bïfrost</strong>",
+          "<strong>Jotunheim</strong> [yoh-tund-hime]"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31693",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 63,
+          "name": "Mythology Norse",
+          "created_at": "2017-09-04T23:48:20.643Z",
+          "updated_at": "2017-09-04T23:48:20.643Z",
+          "url": "https://www.quizdb.org/api/subcategories/63"
+        }
+      },
+      {
+        "id": 31726,
+        "number": 15,
+        "round": "10",
+        "category_id": 14,
+        "subcategory_id": 65,
+        "quinterest_id": null,
+        "tournament_id": 268,
+        "leadin": "The <em>Pyramid</em> and <em>Coffin</em> texts are subsections of this larger work. For 10 points each:",
+        "created_at": "2018-08-02T15:51:50.575Z",
+        "updated_at": "2020-10-17T04:56:00.986Z",
+        "formatted_leadin": "The <em>Pyramid</em> and <em>Coffin</em> texts are subsections of this larger work. For 10 points each:",
+        "texts": [
+          "Name this Egyptian text, containing many spells, that details the processes of mummification and burial.",
+          "The Egyptians represented many sacred animals in their burial rites, including cats and this small dung beetle. It was frequently used to represent Ra.",
+          "Egyptian gods are often depicted giving life to mummified bodies using this sacred object, a cross with a looped handle that resembles a key."
+        ],
+        "answers": [
+          "Egyptian Book of the Dead (accept Book of Coming Forth By Day)",
+          "scarab beetle",
+          "ankh"
+        ],
+        "formatted_texts": [
+          "Name this Egyptian text, containing many spells, that details the processes of mummification and burial.",
+          "The Egyptians represented many sacred animals in their burial rites, including cats and this small dung beetle. It was frequently used to represent Ra.",
+          "Egyptian gods are often depicted giving life to mummified bodies using this sacred object, a cross with a looped handle that resembles a key."
+        ],
+        "formatted_answers": [
+          "Egyptian <strong>Book of the Dead</strong> (accept <strong>Book of Coming Forth By Day</strong>)",
+          "<strong>scarab</strong> beetle",
+          "<strong>ankh</strong>"
+        ],
+        "wikipedia_urls": [
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.quizdb.org/api/bonus/31726",
+        "type": "bonus",
+        "tournament": {
+          "id": 268,
+          "year": 2015,
+          "name": "2015 SCOP MS 5",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-08-27T18:48:33.254Z",
+          "updated_at": "2018-08-02T15:56:06.385Z",
+          "difficulty": "Middle School",
+          "difficulty_num": 1,
+          "url": "https://www.quizdb.org/api/tournaments/268"
+        },
+        "category": {
+          "id": 14,
+          "name": "Mythology",
+          "created_at": "2017-08-27T19:30:45.873Z",
+          "updated_at": "2017-08-27T19:30:45.873Z",
+          "url": "https://www.quizdb.org/api/categories/14"
+        },
+        "subcategory": {
+          "id": 65,
+          "name": "Mythology Egyptian",
+          "created_at": "2017-09-05T00:39:32.297Z",
+          "updated_at": "2017-09-05T00:39:32.297Z",
+          "url": "https://www.quizdb.org/api/subcategories/65"
+        }
+      }
+    ]
+  }
+}

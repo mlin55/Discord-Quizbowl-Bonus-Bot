@@ -1,0 +1,832 @@
+{
+  "data": {
+    "num_tossups_found": 0,
+    "num_tossups_shown": 0,
+    "tossups": [
+
+    ],
+    "num_bonuses_found": 13,
+    "num_bonuses_shown": 13,
+    "bonuses": [
+      {
+        "id": 34563,
+        "number": 20,
+        "round": "01",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "The Hebrew Bible’s wisdom literature tradition includes the books of Psalms, Proverbs, Ecclesiastes, Song of Songs and this book. For 10 points each:",
+        "created_at": "2018-09-09T18:54:15.266Z",
+        "updated_at": "2018-09-09T18:54:15.266Z",
+        "formatted_leadin": "The Hebrew Bible’s wisdom literature tradition includes the books of Psalms, Proverbs, Ecclesiastes, Song of Songs and this book. For 10 points each:",
+        "texts": [
+          "Name this Biblical book, whose title pious man nearly loses his faith in agony as a result of a bet between God and Satan.",
+          "In the book, God asks Job if he can “pull in” this creature “with a fishhook.” God is also credited with crushing the heads of this sea monster in Psalm 74.",
+          "This character provides a multi-chapter monologue criticizing Job for “empty talk” and praising God for his power and justice. He is the only one of Job’s friends to not be rebuked by God."
+        ],
+        "answers": [
+          "Book of Job",
+          "Leviathan [or Leviathan of the Seven Heads; or Livyatan; or Lotan; or Rahab]",
+          "Elihu &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Biblical book, whose title pious man nearly loses his faith in agony as a result of a bet between God and Satan.",
+          "In the book, God asks Job if he can “pull in” this creature “with a fishhook.” God is also credited with crushing the heads of this sea monster in Psalm 74.",
+          "This character provides a multi-chapter monologue criticizing Job for “empty talk” and praising God for his power and justice. He is the only one of Job’s friends to not be rebuked by God."
+        ],
+        "formatted_answers": [
+          "Book of <strong>Job</strong>",
+          "<strong>Leviathan</strong> [or <strong>Leviathan</strong> of the Seven Heads; or <strong>Livyatan</strong>; or <strong>Lotan</strong>; or <strong>Rahab</strong>]",
+          "<strong>Elihu</strong> &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34563",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34594,
+        "number": 9,
+        "round": "03",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Answer the following about a particular branch of Christianity. For 10 points each:",
+        "created_at": "2018-09-09T18:54:51.710Z",
+        "updated_at": "2018-09-09T18:54:51.710Z",
+        "formatted_leadin": "Answer the following about a particular branch of Christianity. For 10 points each:",
+        "texts": [
+          "The largest communion of this Christian sect holds the Lambeth Conference every ten years. This sect was created by King Henry VIII following Clement VII’s refusal to annul his marriage.",
+          "This Anglican text introduced the phrases “peace in our time” and “ashes to ashes, dust to dust.” It’s first two editions were compiled by Thomas Cranmer.",
+          "This contributor to Tracts For the Times founded the Oxford Movement and left the Church of England, eventually becoming a Cardinal in the Roman Catholic Church."
+        ],
+        "answers": [
+          "Anglicanism [or the Church of England]",
+          "The Book of Common Prayer [or The Book of Common Prayer and Administration of the Sacraments and other Rites and Ceremonies of the Church according to the use of the Church of England together with the Psalter or Psalms of David pointed as they are to be sung or said in churches; and the form and manner of making, ordaining, and consecrating of bishops, priests, and deacons]",
+          "John Henry Newman [or Cardinal John Henry Newman; or Blessed John Henry Newman] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "The largest communion of this Christian sect holds the Lambeth Conference every ten years. This sect was created by King Henry VIII following Clement VII’s refusal to annul his marriage.",
+          "This Anglican text introduced the phrases “peace in our time” and “ashes to ashes, dust to dust.” It’s first two editions were compiled by Thomas Cranmer.",
+          "This contributor to <em>Tracts For the Times</em> founded the Oxford Movement and left the Church of England, eventually becoming a Cardinal in the Roman Catholic Church."
+        ],
+        "formatted_answers": [
+          "<strong>Anglican</strong>ism [or the Church of <strong>England</strong>]",
+          "<em>The <strong>Book of Common Prayer</strong></em> [or <em>The <strong>Book of Common Prayer</strong> and Administration of the Sacraments and other Rites and Ceremonies of the Church according to the use of the Church of England together with the Psalter or Psalms of David pointed as they are to be sung or said in churches; and the form and manner of making, ordaining, and consecrating of bishops, priests, and deacons</em>]",
+          "John Henry <strong>Newman</strong> [or Cardinal John Henry <strong>Newman</strong>; or Blessed John Henry <strong>Newman</strong>] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34594",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34620,
+        "number": 14,
+        "round": "04",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "For 10 points each, answer these questions about the end times in various religions.",
+        "created_at": "2018-09-09T18:54:52.665Z",
+        "updated_at": "2018-09-09T18:54:52.665Z",
+        "formatted_leadin": "For 10 points each, answer these questions about the end times in various religions.",
+        "texts": [
+          "Martin Luther moved this Biblical book, along with Hebrews, James and Jude, to the end of the Luther Bible. In this book, the seven seals are opened and the four horsemen descend.",
+          "This figure is in Occultation, according to a namesake branch of Islam. He will reappear during Jesus’ Second Coming and rid the world of the Antichrist before the Day of Judgment.",
+          "In this religion’s eschatology, the actions of the Saoshyant resurrect the dead before the chief deity eliminates evil in its apocalypse, which is called Frashokereti."
+        ],
+        "answers": [
+          "ANSWER: Book of Revelation [Do not accept “Revelations”]",
+          "ANSWER: Twelfth Imam [or the Mahdi]",
+          "Zoroastrianism [or Zarathustrism; or Parsiism; or Mazdayasna; or Magianism] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Martin Luther moved this Biblical book, along with Hebrews, James and Jude, to the end of the Luther Bible. In this book, the seven seals are opened and the four horsemen descend.",
+          "This figure is in Occultation, according to a namesake branch of Islam. He will reappear during Jesus’ Second Coming and rid the world of the Antichrist before the Day of Judgment.",
+          "In this religion’s eschatology, the actions of the Saoshyant resurrect the dead before the chief deity eliminates evil in its apocalypse, which is called Frashokereti."
+        ],
+        "formatted_answers": [
+          "ANSWER: Book of <strong>Revelation</strong> [Do not accept “Revelations”]",
+          "ANSWER: <strong>Twelfth Imam</strong> [or the <strong>Mahdi</strong>]",
+          "<strong>Zoroastrianism</strong> [or <strong>Zarathustrism</strong>; or <strong>Parsiism</strong>; or <strong>Mazdayasna</strong>; or <strong>Magianism</strong>] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34620",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34633,
+        "number": 6,
+        "round": "05",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This Christian council attempted to standardize the date for Easter. For 10 points each:",
+        "created_at": "2018-09-09T18:55:39.408Z",
+        "updated_at": "2018-09-09T18:55:39.408Z",
+        "formatted_leadin": "This Christian council attempted to standardize the date for Easter. For 10 points each:",
+        "texts": [
+          "Name this council called by Constantine in AD 325. This first ecumenical council created a namesake creed that was later amended in the First Council of Constantinople.",
+          "This Christological heresy, which posited that Jesus was a created being subordinate to God the Father, was condemned at the First Council of Nicea.",
+          "Jesus and Mary allegedly visited this bishop of Myra after he slapped Arius during the council."
+        ],
+        "answers": [
+          "First Council of Nicea",
+          "Arianism",
+          "Saint Nicholas [or Nicholas of Myra] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this council called by Constantine in AD 325. This first ecumenical council created a namesake creed that was later amended in the First Council of Constantinople.",
+          "This Christological heresy, which posited that Jesus was a created being subordinate to God the Father, was condemned at the First Council of Nicea.",
+          "Jesus and Mary allegedly visited this bishop of Myra after he slapped Arius during the council."
+        ],
+        "formatted_answers": [
+          "First Council of <strong>Nicea</strong>",
+          "<strong>Arian</strong>ism",
+          "Saint <strong>Nicholas</strong> [or <strong>Nicholas</strong> of Myra] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34633",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34655,
+        "number": 7,
+        "round": "06",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This concept names a type of yoga that involves disciplining one’s actions as a path to God. For 10 points each:",
+        "created_at": "2018-09-09T18:55:40.003Z",
+        "updated_at": "2018-09-09T18:55:40.003Z",
+        "formatted_leadin": "This concept names a type of yoga that involves disciplining one’s actions as a path to God. For 10 points each:",
+        "texts": [
+          "Name this concept, which is the universal law of cause and effect in Hinduism. This concept can be accumulated in either “good” or “bad” forms.",
+          "Practitioners of yoga aim to achieve moksha, which is liberation from this cycle of rebirth perpetuated by karma.",
+          "Buddhism rejects this term for a permanent soul. In Advaita Vedanta, this term for the “true self” is considered identical with Brahman."
+        ],
+        "answers": [
+          "Karma [or Karman; or Kamma]",
+          "Samsara",
+          "Atman &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this concept, which is the universal law of cause and effect in Hinduism. This concept can be accumulated in either “good” or “bad” forms.",
+          "Practitioners of yoga aim to achieve moksha, which is liberation from this cycle of rebirth perpetuated by karma.",
+          "Buddhism rejects this term for a permanent soul. In Advaita Vedanta, this term for the “true self” is considered identical with Brahman."
+        ],
+        "formatted_answers": [
+          "<strong>Karma</strong> [or <strong>Karman</strong>; or <strong>Kamma</strong>]",
+          "<strong>Samsara</strong>",
+          "<strong>Atman</strong> &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34655",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34693,
+        "number": 3,
+        "round": "08",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "This religion is focused on a namesake sky god and was the religion of the Mongols. For 10 points each:",
+        "created_at": "2018-09-09T18:55:41.195Z",
+        "updated_at": "2018-09-09T18:55:41.195Z",
+        "formatted_leadin": "This religion is focused on a namesake sky god and was the religion of the Mongols. For 10 points each:",
+        "texts": [
+          "Name this Central Asian religion, whose namesake chief god is the namesake of a mountain in Kazakhstan.",
+          "The mystics of the Buryats, the largest indigenous group of this region, worship Tengri. This region east of the Urals is the Asian part of Russia.",
+          "The Buryat mystics are often considered to be these people, who enter into altered states of conscience and communicate with a spirit world."
+        ],
+        "answers": [
+          "Tengrism [or Tengri; or Tengriism; or Tengrianism]",
+          "Siberia [or Sibir]",
+          "Shamans [or Shamanism; prompt on medicine men, medicine women or witch doctors] &lt;Alex Harmata&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Central Asian religion, whose namesake chief god is the namesake of a mountain in Kazakhstan.",
+          "The mystics of the Buryats, the largest indigenous group of this region, worship Tengri. This region east of the Urals is the Asian part of Russia.",
+          "The Buryat mystics are often considered to be these people, who enter into altered states of conscience and communicate with a spirit world."
+        ],
+        "formatted_answers": [
+          "<strong>Tengri</strong>sm [or <strong>Tengri</strong>; or <strong>Tengri</strong>ism; or <strong>Tengri</strong>anism]",
+          "<strong>Siberia</strong> [or <strong>Sibir</strong>]",
+          "<strong>Shaman</strong>s [or <strong>Shaman</strong>ism; prompt on medicine men, medicine women or witch doctors] &lt;Alex Harmata&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34693",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34712,
+        "number": 1,
+        "round": "09",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "For 10 points each, answer these questions about the Five Pillars of Islam.",
+        "created_at": "2018-09-09T18:56:18.181Z",
+        "updated_at": "2018-09-09T18:56:18.181Z",
+        "formatted_leadin": "For 10 points each, answer these questions about the Five Pillars of Islam.",
+        "texts": [
+          "Muslims must be in a state of Ihram in order to perform this pillar. During this pillar, which is the pilgrimage to Mecca each able-bodied Muslim makes, people circle the Ka'baa seven times.",
+          "Abu Bakr, the first of the Rightly Guided Caliphs, waged the Ridda Wars against Arabian tribes who refused to observe this pillar, a mandatory tax of 2.5% of a Muslim’s wealth.",
+          "Salat, the pillar associated with this action, is split up into units called rakats. Shia Muslims do this three times a day rather than the Sunni custom of five."
+        ],
+        "answers": [
+          "Hajj [or Hadj; or Hadjdj]",
+          "ANSWER: Zakat [prompt on almsgiving or giving to charity]",
+          "Prayer [or word forms, like praying; or praying towards Mecca] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Muslims must be in a state of Ihram in order to perform this pillar. During this pillar, which is the pilgrimage to Mecca each able-bodied Muslim makes, people circle the Ka'baa seven times.",
+          "Abu Bakr, the first of the Rightly Guided Caliphs, waged the Ridda Wars against Arabian tribes who refused to observe this pillar, a mandatory tax of 2.5% of a Muslim’s wealth.",
+          "Salat, the pillar associated with this action, is split up into units called rakats. Shia Muslims do this three times a day rather than the Sunni custom of five."
+        ],
+        "formatted_answers": [
+          "<strong>Hajj</strong> [or <strong>Hadj</strong>; or <strong>Hadjdj</strong>]",
+          "ANSWER: <strong>Zakat</strong> [prompt on almsgiving or giving to charity]",
+          "<strong>Prayer</strong> [or word forms, like <strong>pray</strong>ing; or <strong>prayi</strong>ng towards Mecca] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34712",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34752,
+        "number": 20,
+        "round": "10",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "In this religion, those who achieve the OT III level are taught that Lord Xenu ruled a “galactic confederacy” and killed millions of people by setting off hydrogen bombs. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.078Z",
+        "updated_at": "2018-09-09T18:56:19.078Z",
+        "formatted_leadin": "In this religion, those who achieve the OT III level are taught that Lord Xenu ruled a “galactic confederacy” and killed millions of people by setting off hydrogen bombs. For 10 points each:",
+        "texts": [
+          "Name this body of beliefs that practices a form of spiritual cleansing known as auditing. It is practiced by people like Tom Cruise.",
+          "This founder of the Church of Scientology wrote Dianetics: The Modern Science of Mental Health.",
+          "This term in Scientology refers to immortal beings that inhabit human bodies and willed the universe into existence."
+        ],
+        "answers": [
+          "Scientology [Church of Scientology]",
+          "L. Ron Hubbard [Lafayette Ronald Hubbard]",
+          "Thetans &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this body of beliefs that practices a form of spiritual cleansing known as auditing. It is practiced by people like Tom Cruise.",
+          "This founder of the Church of Scientology wrote <em>Dianetics: The Modern Science of Mental Health</em>.",
+          "This term in Scientology refers to immortal beings that inhabit human bodies and willed the universe into existence."
+        ],
+        "formatted_answers": [
+          "<strong>Scientology</strong> [Church of <strong>Scientology</strong>]",
+          "L. Ron <strong>Hubbard</strong> [Lafayette Ronald <strong>Hubbard</strong>]",
+          "<strong>Thetan</strong>s &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34752",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34762,
+        "number": 9,
+        "round": "11",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "The question, “Who is my neighbor?” prompted Jesus’s telling of this parable in the Gospel of Luke. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.410Z",
+        "updated_at": "2018-09-09T18:56:19.410Z",
+        "formatted_leadin": "The question, “Who is my neighbor?” prompted Jesus’s telling of this parable in the Gospel of Luke. For 10 points each:",
+        "texts": [
+          "Name this story in which a robbery victim is ignored by a Levite and a Priest but is aided by a member of a namesake ethnoreligious group.",
+          "This parable is followed by the similarly themed Parable of the Yeast in Matthew and Luke. It compares the Kingdom of God’s growth to that of a certain plant.",
+          "Jesus tells this story about a forgiving moneylender to Simon the Pharisee after a woman who is described as “a sinner” washes and kisses his feet."
+        ],
+        "answers": [
+          "Parable of the Good Samaritan",
+          "Parable of the Mustard Seed",
+          "Parable of the Two Debtors &lt;David Dennis&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this story in which a robbery victim is ignored by a Levite and a Priest but is aided by a member of a namesake ethnoreligious group.",
+          "This parable is followed by the similarly themed Parable of the Yeast in Matthew and Luke. It compares the Kingdom of God’s growth to that of a certain plant.",
+          "Jesus tells this story about a forgiving moneylender to Simon the Pharisee after a woman who is described as “a sinner” washes and kisses his feet."
+        ],
+        "formatted_answers": [
+          "Parable of the <strong>Good Samaritan</strong>",
+          "Parable of the <strong>Mustard Seed</strong>",
+          "Parable of the <strong>Two Debtors</strong> &lt;David Dennis&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34762",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34774,
+        "number": 21,
+        "round": "11",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "The phrase “I and I” represents the oneness of humanity with Jah in this religion. For 10 points each:",
+        "created_at": "2018-09-09T18:56:19.667Z",
+        "updated_at": "2018-09-09T18:56:19.667Z",
+        "formatted_leadin": "The phrase “I and I” represents the oneness of humanity with Jah in this religion. For 10 points each:",
+        "texts": [
+          "Name this Abrahamic religion that began in Jamaica and considers ganja to be a sacrament.",
+          "Sects in Rastafari are referred to by this term. Bob Marley was a notable member of the Twelve Tribes of Israel one.",
+          "Along with the Bible, this text authored by Robert Athyli Rogers was highly influential on Rastafari belief."
+        ],
+        "answers": [
+          "ANSWER: Rastafarianism [or Rastafari]",
+          "a mansion",
+          "Holy Pib &lt;Spencer Johnson&gt;"
+        ],
+        "formatted_texts": [
+          "Name this Abrahamic religion that began in Jamaica and considers ganja to be a sacrament.",
+          "Sects in Rastafari are referred to by this term. Bob Marley was a notable member of the Twelve Tribes of Israel one.",
+          "Along with the Bible, this text authored by Robert Athyli Rogers was highly influential on Rastafari belief."
+        ],
+        "formatted_answers": [
+          "ANSWER: <strong>Rasta</strong>farianism [or <strong>Rastafari</strong>]",
+          "a <strong>mansion</strong>",
+          "<strong>Holy Pib</strong> &lt;Spencer Johnson&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34774",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34786,
+        "number": 12,
+        "round": "12",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "For 10 points each, answer these questions about the founders of various religions.",
+        "created_at": "2018-09-09T18:56:20.060Z",
+        "updated_at": "2018-09-09T18:56:20.060Z",
+        "formatted_leadin": "For 10 points each, answer these questions about the founders of various religions.",
+        "texts": [
+          "The Hadith record the words and deeds of this man, a founder of an Abrahamic religion who first received revelations through the archangel Gabriel in the Cave of Hira.",
+          "This author of Kitáb-i-Aqdas and the Hidden Words claimed to be the prophetic fulfilment of Bábism. The religion he founded is governed by the Universal House of Justice.",
+          "This occultist claimed he wrote The Book of the Law after being contacted by the being Aiwass. His founded the religion of Thelema, which advises followers to “do what thou wilt.”"
+        ],
+        "answers": [
+          "Mohammed [the Prophet Muhammad; or Abu al-Qasim Muhammad ibn Abd Allah ibn Abd al-Muttalib ibn Hashim]",
+          "Bahá'u'lláh [Bahaallah; or Mirza Husayn Ali Nuri]",
+          "ANSWER: Aleister Crowley &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "The Hadith record the words and deeds of this man, a founder of an Abrahamic religion who first received revelations through the archangel Gabriel in the Cave of Hira.",
+          "This author of <em>Kitáb-i-Aqdas</em> and the <em>Hidden Words</em> claimed to be the prophetic fulfilment of Bábism. The religion he founded is governed by the Universal House of Justice.",
+          "This occultist claimed he wrote <em>The Book of the Law</em> after being contacted by the being Aiwass. His founded the religion of Thelema, which advises followers to “do what thou wilt.”"
+        ],
+        "formatted_answers": [
+          "<strong>Mohammed</strong> [the Prophet <strong>Muhammad</strong>; or Abu al-Qasim <strong>Muhammad</strong> ibn Abd Allah ibn Abd al-Muttalib ibn Hashim]",
+          "<strong>Bahá'u'lláh</strong> [<strong>Bahaallah</strong>; or <strong>Mirza</strong> Husayn Ali Nuri]",
+          "ANSWER: Aleister <strong>Crowley</strong> &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34786",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34802,
+        "number": 7,
+        "round": "13",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Followers of this religion celebrate eight sabbats and sometimes organize into covens of 3 to 13 people. For 10 points each:",
+        "created_at": "2018-09-09T18:57:58.918Z",
+        "updated_at": "2018-09-09T18:57:58.918Z",
+        "formatted_leadin": "Followers of this religion celebrate eight sabbats and sometimes organize into covens of 3 to 13 people. For 10 points each:",
+        "texts": [
+          "Name this neopagan religion that usually espouses a “Rede” and involves the practice of witchcraft.",
+          "This man claimed to have joined the New Forest coven in 1939 and popularized Wicca in 1954. He later founded the Bricket Wood coven and a namesake Wiccan tradition.",
+          "The Bricket Wood Coven referred to this deity as Cernunnos, according to one of its former high priestesses. This male Wiccan deity is often depicted as being part animal and part human."
+        ],
+        "answers": [
+          "Wicca [or word forms, such as Wiccanism or Wiccan; prompt on witches or witchcraft; prompt on pagans or paganism; prompt on neopaganism or neopagans]",
+          "Gerald Gardner [Gerald Brosseau Gardner; or Scire]",
+          "ANSWER: the Horned God &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "formatted_texts": [
+          "Name this neopagan religion that usually espouses a “Rede” and involves the practice of witchcraft.",
+          "This man claimed to have joined the New Forest coven in 1939 and popularized Wicca in 1954. He later founded the Bricket Wood coven and a namesake Wiccan tradition.",
+          "The Bricket Wood Coven referred to this deity as Cernunnos, according to one of its former high priestesses. This male Wiccan deity is often depicted as being part animal and part human."
+        ],
+        "formatted_answers": [
+          "<strong>Wicca</strong> [or word forms, such as <strong>Wiccan</strong>ism or <strong>Wiccan</strong>; prompt on witches or witchcraft; prompt on pagans or paganism; prompt on neopaganism or neopagans]",
+          "Gerald <strong>Gardner</strong> [Gerald Brosseau <strong>Gardner</strong>; or <strong>Scire</strong>]",
+          "ANSWER: the <strong>Horned God</strong> &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34802",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      },
+      {
+        "id": 34831,
+        "number": 15,
+        "round": "14",
+        "category_id": 19,
+        "subcategory_id": null,
+        "quinterest_id": null,
+        "tournament_id": 343,
+        "leadin": "Your bubbe (<strong>“BUB-bee”</strong>) has forgotten what she’s supposed to do on which Jewish holiday. Oy! Help her remember, for 10 points each:",
+        "created_at": "2018-09-09T18:57:59.748Z",
+        "updated_at": "2018-09-09T18:57:59.748Z",
+        "formatted_leadin": "Your bubbe (<strong>“BUB-bee”</strong>) has forgotten what she’s supposed to do on which Jewish holiday. Oy! Help her remember, for 10 points each:",
+        "texts": [
+          "Bubbe plays dreidel on this holiday, whose eight nights correspond to the amount of time that the Maccabees’ oil lasted. If you’re good, she’ll let you light the candles on this holiday’s namesake type of menorah.",
+          "Don’t let Bubbe forget her grogger, or noisemaker, to drown out the name of Haman as the rabbi reads out the Book of Esther during this holiday. Maybe she’ll dress up like a hamantaschen for this year’s costume competition.",
+          "This festival of tabernacles begins on the 15th day of Tishrei, five days after Yom Kippur. Keep an eye on Bubbe as she builds and lives in a wooden booth, and perhaps she’ll shake the lulav (“LOO-lahv”) and etrog (“EH-trohg”) too."
+        ],
+        "answers": [
+          "Hanukkah [or Chanukah; or Hanukah; or Feast of Lights; or Feast of Dedication; or Feast of the Maccabees]",
+          "Purim [or Feast of Lots]",
+          "Sukkot [or Sukkoth; or Succoth; or Sukkos; or Succot; or Succos; or Sukka] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "formatted_texts": [
+          "Bubbe plays dreidel on this holiday, whose eight nights correspond to the amount of time that the Maccabees’ oil lasted. If you’re good, she’ll let you light the candles on this holiday’s namesake type of menorah.",
+          "Don’t let Bubbe forget her grogger, or noisemaker, to drown out the name of Haman as the rabbi reads out the Book of Esther during this holiday. Maybe she’ll dress up like a hamantaschen for this year’s costume competition.",
+          "This festival of tabernacles begins on the 15th day of Tishrei, five days after Yom Kippur. Keep an eye on Bubbe as she builds and lives in a wooden booth, and perhaps she’ll shake the lulav (<strong>“LOO-lahv”</strong>) and etrog (<strong>“EH-trohg”</strong>) too."
+        ],
+        "formatted_answers": [
+          "<strong>Hanukkah</strong> [or <strong>Chanukah</strong>; or <strong>Hanukah</strong>; or <strong>Feast</strong> of <strong>Lights</strong>; or <strong>Feast</strong> of <strong>Dedication</strong>; or <strong>Feast</strong> of the <strong>Maccabees</strong>]",
+          "<strong>Purim</strong> [or <strong>Feast</strong> of <strong>Lots</strong>]",
+          "<strong>Sukkot</strong> [or <strong>Sukkoth</strong>; or <strong>Succoth</strong>; or <strong>Sukkos</strong>; or <strong>Succot</strong>; or <strong>Succos</strong>; or <strong>Sukka</strong>] &lt;Spencer Johnson&gt;/&lt;ed. Jacob&gt;/&lt;ed. Seth Ebner&gt;"
+        ],
+        "wikipedia_urls": [
+          null,
+          null,
+          null
+        ],
+        "url": "https://www.quizdb.org/api/bonus/34831",
+        "type": "bonus",
+        "tournament": {
+          "id": 343,
+          "year": 2016,
+          "name": "2016 WHAQ I",
+          "address": "",
+          "quality": "okay",
+          "type": null,
+          "link": "",
+          "created_at": "2017-09-12T03:35:54.392Z",
+          "updated_at": "2018-09-09T18:53:11.240Z",
+          "difficulty": "Easy High School",
+          "difficulty_num": 2,
+          "url": "https://www.quizdb.org/api/tournaments/343"
+        },
+        "category": {
+          "id": 19,
+          "name": "Religion",
+          "created_at": "2017-08-27T19:30:45.887Z",
+          "updated_at": "2017-08-27T19:30:45.887Z",
+          "url": "https://www.quizdb.org/api/categories/19"
+        },
+        "subcategory": {
+        }
+      }
+    ]
+  }
+}

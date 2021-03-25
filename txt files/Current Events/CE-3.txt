@@ -1,0 +1,378 @@
+For 10 points each, answer the following about misuse of your data:
+The largest data breach in history was among customers of this credit reporting agency; free credit monitoring or up to $125 cash were among settlement options for victims of that breach.
+In 2018, it was revealed that Cambridge Analytica had harvested personal data from this company’s social network partially for political purposes. That led to this company’s CEO, Mark Zuckerberg, testifying to Congress.
+Glenn Greenwald led reporting by this British newspaper with the Washington Post about Edward Snowden’s leaked details of NSA surveillance, including the PRISM program’s collection of phone metadata.
+Equifax Inc.
+Facebook, Inc.
+The Guardian &lt;Current Events — Gray&gt; [Edited]
+In November 2019, Swedish authorities dropped investigations of rape and sexual assault against this man. For ten points each:
+Name this man who was allegedly spied on during his seven years in the London Ecuadorian embassy. In April 2019, he was arrested by the Metropolitan Police after his asylum status was revoked.
+Assange was the founder and leader of this whistleblowing website that gained notoriety for publishing classified documents, like Hillary Clinton’s emails that were allegedly obtained by Russian hackers.
+WikiLeaks first gained major international attention when it published documents that were leaked by this U.S. Army intelligence analyst, whose sentence under the Espionage Act was later commuted by Barack Obama.
+Julian Assange
+WikiLeaks
+Chelsea Manning [or Chelsea Elizabeth Manning; accept Bradley Edward Manning] &lt;Current Events — Song&gt; [Edited]
+Protests in this city erupted after the introduction of a bill that would allow extradition to mainland China. For ten points each:
+Name this city, a Special Administrative Region of China, where, in 2019, protesters have been calling for Chief Executive Carrie Lam to step down.
+The Chinese government demanded that employees of this Hong Kong-based airline who participated in the protests be barred from entering China. Consequently, this company’s CEO, Rupert Hogg, resigned.
+Protesters in Hong Kong have widely used these objects to defend themselves from pepper spray and tear gas. A 2014 “movement” of Hong Kong pro-democracy protests was named after these objects.
+Hong Kong [or Hong Kong Special Administrative Region of the People's Republic of China]
+Cathay Pacific Airways
+umbrellas &lt;Current Events — Song&gt; [Edited]
+One candidate’s plan to implement this policy calls for the cost to be offset by an EU-like Value Added Tax. For 10 points each,
+Identify this type of program wherein a regular periodic cash payment is unconditionally delivered to all on an individual basis. Elon Musk tweeted that this policy “will be necessary over time if AI takes over most human jobs.”
+This Asian-American Democratic presidential candidate has made the “Freedom Dividend,” a $1,000-a-month UBI for all adults over 18, the center of his platform. His online supporters are known as his eponymous “gang.”
+Andrew Yang cites this state’s Permanent Fund, which pays residents a dividend based on oil revenue, as an example of a successful UBI. The fund paid over $3000 a person in 2008, due to the excess profits tax imposed by this state’s then-governor, Sarah Palin.
+Universal Basic Income
+Andrew Yang
+Alaska &lt;DB, Current Events&gt;
+In 2017, the California state senate introduced SB 562, a $400 billion plan to implement this type of system. For 10 points each:
+Identify this system, where the government collects taxes to pay and cover medical expenses for all of its residents. This alleviates the need for individuals to obtain private insurance.
+This longest serving African-American congressman from Michigan introduced a national single-payer system bill every year since 2003. He resigned in December 2017 after allegations of sexual harassment.
+A type of single-payer healthcare system is this national health insurance program, which Conyers sought to expand. It provides health insurance for Americans 65 and older.
+universal single-payer healthcare [prompt on healthcare, universal healthcare, or national healthcare]
+John James Conyers Jr.
+Medicare [do not accept “Medicaid”] &lt;Current Events, AK&gt;&lt;ed. KLu and AK&gt;
+After spending five months in Britain for treatment for an illness, the man denied rumors he had been replaced by a clone from Sudan. For 10 points each:
+Name this current president of an African country. In 2015, this leader of the APC defeated incumbent president Goodluck Jonathan.
+Buhari is president of this country. As leader of this country, Buhari oversees its oil industry centered in cities such as Lagos and Port Harcourt.
+In 2016, Buhari’s government negotiated a deal with this terrorist group for the release of 21 Chibok girls. This terrorist group is based in the Borno state of northeast Nigeria.
+Muhammadu Buhari
+Federal Republic of Nigeria
+Boko Haram [accept Islamic State in West Africa] &lt;Current Events, AK and KLu&gt;&lt;ed. AK and Klu&gt;
+In June 2017, President Donald Trump announced that the United States would be pulling out of an agreement named for this city. For ten points each:
+Name this city, the namesake of a 2015 climate change deal. That agreement all signing nations must pledge to reduce carbon emissions in an effort to stall global warming.
+When the US exited the Paris accords, the two countries that hadn’t joined were Syria and this other country which believed that the accords weren’t extreme enough. In October 2017, this country signalled that it would join.
+This French Minister of the Environment pledged that France would ban all diesel and petroleum fueled vehicles by 2040.
+Paris [accept Paris Agreement or equivalents]
+Nicaragua
+Nicolas Hulot
+<strong></strong> In July 2017, this country airlifted thousands of cows in an effort to build a dairy industry. For 10 points each:
+Name this country with capital at Doha. Since June 2017, this country has been embargoed by a Saudi-led group of Arab states, which accuse it of supporting Islamist militants.
+Saudi Arabia has demanded the closure of this Qatari state-owned broadcaster, whose English-language channel launched in 2006.
+After the outbreak of the diplomatic crisis, Qatar withdrew troops from the civil war in this country. Fighting between the Saudi-backed government and Houthi rebels in this country has led to massive cholera outbreaks.
+Qatar
+Al-Jazeera
+Yemen
+Text exchanges between Anthony Levandowski and this man included the cheerful phrases “second place is first [loser]”, “burn the village”, and “greed is good”. For 10 points each:
+Name this founder and former CEO of Uber who testified in a recent intellectual property lawsuit over driverless car technology. Uber shareholders forced this man to resign in June 2017.
+In February 2018, Uber settled its intellectual property suit with this company, which has accused Uber of stealing trade secrets. The settlement gives this company about $244 million worth of Uber equity.
+Waymo began as the self-driving car project at this company, which is now technically a subsidiary of Alphabet Inc. This company also created Gmail and operates a well-known search engine.
+Travis (Cordell) Kalanick
+Waymo
+Google LLC
+For 10 points each—answer the following about junior senators named Tammy:
+Tammy Baldwin, the first ever openly gay senator, represents this state. This state’s former senator Russ Feingold was defeated in his 2016 comeback bid by Republican Ron Johnson.
+Baldwin recently attracted controversy by announcing her opposition to this nominee for the Supreme Court just one day after the pick was announced.
+Illinois senator Tammy Duckworth came to prominence after an oversight hearing about the U.S. Department of these people’s affairs. Duckworth herself is one of these people, having served in Iraq, where she lost both legs.
+Wisconsin
+Neil (McGill) Gorsuch
+veterans [prompt on VA] &lt;JR&gt;
+This politician was due to become his country’s Chief of Staff in 2016, but a fraud investigation led to his appointment being blocked. For 10 points each:
+Name this politician, who was popular for programs like Bolsa Familia and Fome Zero. Dilma Rousseff succeeded this man as Brazil’s president in 2010.
+Lula’s house was raided as part of this massive corruption investigation. Dilma Rousseff’s 2016 impeachment was sparked by her involvement in this operation’s target company, Petrobras.
+Petrobras, as its name might suggest, is a company that mostly works with this commodity. Russia’s Rosneft produces this commodity, as does Secretary of State Rex Tillerson’s former company, ExxonMobil.
+(Luiz Inácio) Lula da Silva
+Operation Car Wash [or Operação Lava Jato]
+crude oil [or petroleum] &lt;MK&gt;
+Bonus: Five days after this event, its ringleader, Abdelhamid Abaaoud, was killed in a police raid. For ten points each:
+Name these coordinated bombings and shootings claimed by ISIS that occurred in places like the Bataclan Theatre and Stade de France. A description is acceptable.
+Afterwards, this Socialist President of France declared that “France will destroy ISIS”. He rose to power after succeeding Nicolas Sarkozy in 2012.
+After Abaaoud was found to have entered Europe by posing as a refugee, this German Chancellor faced criticism for allowing Syrian refugees to enter her country.
+November 2015 Paris Attacks (prompt on “Paris Attacks” and ask for the year, accept clear equivalents)
+François Gérard Georges Nicolas Hollande
+Angela Dorothea Merkel &lt;AN&gt;
+Bonus: The most recent FIFA World Cup was hosted in this country, for ten points each:
+Name this country whose city of Rio de Janeiro recently hosted the Summer Olympics.
+This president of Brazil from 2003-2011 founded the Worker’s Party and started a namesake movement for social reform that combined ideas from the left-wing and right-wing parties. In September 2016, he was filed for corruption charges.
+This woman served as Chief of Staff to Lula before becoming the President of Brazil on the first day of 2011. Michel Temer succeeded her after she was impeached in August of 2016.
+Federative Republic of Brazil
+Luiz Inácio Lula da Silva
+Dilma Vana Rousseff &lt;AN&gt;
+Bonus: Donald Trump called for the U.S. to seize this resource from Iraq, calling it “reimbursement”. For ten points each:
+Name this fossil fuel that is refined into gasoline, mainly produced by organizations in OPEC.
+This country, once led by Hugo Chavez, is the only South American country in OPEC besides Ecuador. It was one of that organization’s founding nations.
+This current president of Venezuela accused the United States of attempting to seize Venezuelan oil in June of 2016. He has since faced calls from his people to leave office after a major food crisis in Venezuela.
+crude oil (accept petroleum)
+Venezuela
+Nicolás Maduro Moros &lt;AN&gt;
+Bonus: This man was one of the leaders of the “Cheesehead Revolution”. For ten points each:
+Name this Wisconsin Republican, the current Republican National Committee chairman.
+In November 2016, President-elect Donald Trump named Reince Priebus to this position, currently held by Denis McDonough. This position, the highest ranked employee in the White House, used to be described as the private secretary and assistant to the President.
+This former Chief of Staff under President Obama is the current Mayor of Chicago, and faced controversy after allegedly hiding tapes of the Laquan McDonald shooting until he won re-election for mayor.
+Reinhold Richard “Reince” Priebus
+Chief of Staff
+Rahm Israel Emanuel &lt;AN&gt;
+Bonus: In June 2016, wing debris likely from this aircraft was found on a Tanzanian island. For ten points each:
+Name this commercial Boeing 777 that suddenly went missing in March 2014 after departing from Kuala Lumpur to Beijing.
+Another Malaysia Airlines flight, MH17, was shot down in 2014 in this European country, which includes the region of Crimea. Despite US intelligence, Russia denies its responsibility in the incident.
+This airplane part is extremely useful in investigating crashes since it contains data which gives insight into the recent history of the flight before it crashed. They usually give off “pings”, though MH370’s has not yet been found.
+Malaysia Airlines Flight 370 [also accept MH370, MAS370]
+Ukraine
+black boxes [accept flight recorders] &lt;AG&gt;
+Bonus: Two politicians in this city were unable to join its Legislative Council after making anti-China remarks in their oaths and displaying a flag saying “[this city] is not China. For ten points each:
+Identify this former British colony and current autonomous region, located on the southeast coast of China.
+Hong Kong was the sight of major pro-democracy protests in 2014, largely led by this now nonexistent student group, which advocated an education system in Hong Kong independent of Beijing’s authority.
+Those protests were often called a “revolution” of these items, which were used by protesters to defend themselves against pepper spray and tear gas. These items were often turned inside out to better shield activists from the tear gas.
+Hong Kong
+Scholarism
+umbrellas &lt;AG&gt;
+Bonus: The 969 movement is active in this country. For ten points each:
+Name this Southeast Asian country whose current president, Htin Kyaw, replaced Thein Sein in March 2016. This country’s capital became Naypyidaw in 2006, replacing Rangoon.
+This 1991 Nobel Peace Prize winner was under house arrest for roughly 15 years. She is currently the State Counsellor of Myanmar and leader of the National League for Democracy.
+Aung San Suu Kyi has faced criticism for ignoring the persecution of this Muslim Indo-Aryan ethnic group in Myanmar, which has been persecuted from Buddhists across the country. Thousands of these people mass migrated from Myanmar to other Southeast Asian countries in 2015.
+Myanmar [also accept Burma or Republic of the Union of Myanmar]
+Aung San Suu Kyi
+Rohingyas &lt;AG&gt;
+Bonus: This country’s city of Gaziantep has been the site of many terrorist attacks by Islamist groups in the past several years. For ten points each:
+Name this Eurasian country with its capital at Ankara, where an unsuccessful coup against the government took place in July of 2016.
+The coup of 2016 was largely aimed at this current Turkish president, who declared a state of emergency shortly after on July 20.
+Another large problem facing Turkey is dealing with the Kurdish people in the eastern part of the nation; this major Kurdish political party, created by Abdullah Ocalan and Murat Karayilan, has fought for the rights of Kurds in Turkey.
+Turkey
+Recep Tayyip Erdogan
+Kurdistan Workers Party [also accept PKK] &lt;AG&gt;
+In February 2017 this woman attempted to read text by Coretta Scott King while criticizing Jeff Sessions on the Senate floor. For 10 points each—
+Name this Senator whom the Republicans then censured, creating the meme “nevertheless, she persisted”.
+Elizabeth Warren represents this state whose current governor is Charlie Baker.
+In the 2016 Electoral College, two electors voted for Elizabeth Warren to be vice president despite Tim Kaine being the Democratic nominee. By what term are such electors who fail to follow their states’ results known?
+Elizabeth (Ann) Warren
+Massachusetts
+faithless electors
+An April 2017 audit found only 508 improper votes out of 4.8 million cast in this state's 2016 election, combatting the notion of widespread voter fraud. For 10 points each—
+Name this state whose 2013 voter ID law was struck down by the 4th Circuit Appeals Court. Its current governor is Roy Cooper.
+North Carolina's HB2 law, the so-called "bathroom bill," caused this event to be moved to the Smoothie King Center. The score of this February 2017 event was 192 to 182.
+The All-Star Game was originally to be played in this city, whose non-discrimination ordinance was nullified by HB2.
+North Carolina
+NBA All-Star Game (prompt on partial answer)
+Charlotte
+This airline suffered a public relations disaster in April 2017 when it bumped passenger David Dao and dragged him off a plane. For 10 points each—
+Name this airline led by CEO Oscar Munoz.
+Month and day required. United Airlines flights 175 and 93 were two of the planes hijacked on this date in 2001. The former was crashed into the World Trade Center south tower.
+United uses this George Gershwin composition in its advertising. This piece for solo piano and jazz band debuted at the "Experiment in Modern Music" concert in 1924.
+United Airlines
+September 11, 2001 (or 9/11, 2001)
+Rhapsody in Blue
+Xavier [Ha-vee-AIR] Becerra’s appointment as California Attorney General triggered one of these events. For 10 points each:
+Name these events, caused by a vacancy in the House of Representatives. In 2017, these events occurred in states like Kansas, South Carolina, and Utah.
+Prior to a special election in this state, Greg Gianforte body slammed reporter Ben Jacobs. Despite that, he won this state’s sole house seat, succeeding current Interior Secretary Ryan Zinke [zin-kee].
+Alabama called a special election for the Senate seat of this current Attorney General. Donald Trump lashed out at this man in a 2017 New York Times interview, accusing him of being soft on Hillary Clinton.
+Special Election [prompt on “election”]
+Montana
+Jefferson “Jeff” Sessions III
+The use of an exclamation point in this man’s logo was likely inspired by campaign staffers who had worked for Lamar Alexander in 1996. For 10 points each:
+Name this former Florida Governor, who frequently sparred with Donald Trump during his 2016 presidential bid. This man’s brother and father previously served as President.
+Jeb Bush and this bald Cuban-American rapper teamed up to bid on the Miami Marlins in 2017. This man’s record label derives its name from the Miami area code, reflecting his and Jeb’s mutual home city.
+Columba Bush, Jeb’s wife, hails from this country. They met while Jeb was building a school in this country’s city of León [lay-OAN]. The sale of “guaca-bowles” by Jeb’s campaign reflected the traditions of this country that Columba introduced to him.
+Jeb Bush [prompt on “Bush” or “Jeb”]
+Pitbull [accept Armando Christian Perez]
+Mexico
+Mayor Ed Murray’s office was accused of asking a UC-Berkeley report to rush publication in 2016. For 10 points each:
+That study counters a University of Washington report alleging that this city’s ordinance raising the now-highest minimum wage for a major US city to $15 for all workers by 2021, has led to modest reductions in employment
+A third study from April 2016 found that this European country’s policy where union-negotiated wages increase 40% when workers turn 18 cuts their employment by one third.
+This state’s Supreme Court ruled in 2016 that cities do not have the authority to raise the minimum wage. This state’s Governor Matt Bevin also signed an executive order removing increases in the wage for government workers and contractors.
+Seattle, Washington
+Denmark
+Kentucky &lt;David Dennis&gt;
+The National Assembly voted to give him full power, given the extended illness of Umaru Yar’Adua in 2010. For 10 points each:
+Name this first sitting president to be defeated in a Nigerian election. He lost to Muhammadu Buhari in 2015, after his inability to deal with Boko Haram.
+This former Gambian president’s 22-year reign came to an end after losing a 2015 election to Adama Barrow. He claimed he could cure AIDS in three days using medicinal herbs.
+Jammeh contested the election results, but ultimately left in 2016 after international condemnation and the threat of armed forces from this country that surrounds the Gambia.
+Goodluck Jonathan
+Yahya Jammeh
+Senegal [or Republic of Senegal; or Republique du Senegal] &lt;David Dennis&gt;
+During a phone call with the president of this country, Donald Trump referred to New Hampshire as a “drug infested den.” For 10 points each:
+Name this home country of President Enrique Peña Nieto [“En-ree-kay Pay-nyah”]. Nieto’s phone call with Trump also included discussion of a planned wall on this country’s northern border.
+The next day, Trump called this prime minister of Australia to discuss a deal made between this man and Barack Obama that would bring in 12,000 Syrian refugees.
+During his call with Turnbull, Trump claimed that the refugees would not be “wonderful people who go on to work for” people of this profession. Give the exact phrase used.
+Mexico [accept United Mexican States or Estados Unidos Mexicanos]
+Malcolm Bligh Turnbull
+local milk people [prompt on a partial answer; prompt on dairy farmers or equivalents] &lt;William Groger&gt;/&lt;ed. DD&gt;
+This man announced his presidential candidacy while riding down an escalator. For 10 points each:
+Name this candidate for the Republican presidential nomination, whose contract with NBC to star in The Apprentice was terminated as a result of his comments about Mexican immigrants bringing crime and drugs.
+During the first Republican debate, this hostess pressed Trump on his comments calling women “fat pigs, dogs, slobs, and disgusting animals.” Trump controversially mentioned that blood was coming out of her “wherever.”
+In August 2015, two men claimed that they were following Trump’s views after they assaulted a homeless man in this city. In 2013, the police department of this city captured a man who, with his brother, killed Sean Collier.
+Donald Trump
+Megyn Kelly
+Boston &lt;CD&gt;
+Bonus: This action’s codename was Operation Neptune Spear, and a picture titled <em>Situation Room</em> shows a roomful of national security advisors watching over this action. For 10 points:
+Name this May 2011 action carried out by the US Navy Seals. The target of this action had masterminded the 9/11 plot against the World Trade Center.
+This then-Secretary of State is seen covering her mouth in the Situation Room, though she claimed seasonal allergies. This woman is currently the frontrunner for the 2016 Democratic presidential nomination.
+Osama bin Laden’s private compound was located in this Pakistani city approximately 100 kilometers north of Islamabad.
+killing of Osama bin Laden
+Hillary Clinton [accept either underlined name]
+Abbottabad &lt;EX&gt;
+Answer the following about big political campaign donations, for 10 points each:
+The Citizens United Supreme Court case paved the way for the “super” form of these organizations which raise money for candidates and campaigns.
+This man propped up Democratic candidates with more than 27 million dollars in 2014. This one-time Republican hates guns and soft drinks, and served as independent mayor of New York City from 2002 until 2013.
+This business magnate and important right-wing donor owns the pro-Netanyahu newspaper Israel HaYom and lent a lot of support to Newt Gingrich in 2012. He’s also the CEO of Las Vegas Sands.
+political action committees [or PACs; or super PACs]
+Michael Bloomberg
+Sheldon Adelson
+Name some donors to the Clinton foundation, for 10 points each:
+Apparently, a donation to the Clinton foundation was enough justification for Hillary to attend this man's 2005 wedding to Melania Knauss. This Republican candidate wants to build a big, beautiful wall to keep out Mexicans.
+This Australian right-wing mogul owns News Corps, with holdings like Twentieth Century Fox, The Times, and The Wall Street Journal, but nevertheless donated extensively to the Clinton foundation.
+This ABC news anchor and Clinton donor was criticized in April 2015 for a conflict of interest for holding an interview with Clinton Cash author Peter Schweizer and defending the foundation.
+Donald Trump
+Rupert Murdoch
+George Stephanopoulos
+Answer the following about crazy antics of American governors, for 10 points each:
+John Kitzhaber served as Democratic governor of this state for twelve years total before resigning in 2015 amid an ethics scandal involving his fiancée. This state’s current governor, Kate Brown, is openly bisexual.
+This state’s governor, who once compared the IRS to the Gestapo, vetoed 65 consecutive bills in June 2015. Bernie Sanders, and a man from this non-Vermont state, are the only Independents in the Senate.
+This current Republican governor of New Jersey and presidential candidate caused traffic nightmares for closing a few lanes on the George Washington bridge for a week in September 2013.
+Oregon
+Maine
+Chris Christie [or Christopher James Christie]
+Part D of this program, introduced in 2003, covers prescription drugs. For 10 points each:
+Name this entitlement program which constitutes 23 percent of mandatory spending out of the budget. It covers health insurance for the elderly.
+Both Canada and Australia have health insurance programs called Medicare, but those programs are examples of this system, in which the government covers all health care expenses, with no private health insurance companies.
+In April 2015, Congress renewed this program for another two years. It covers part of the cost of health insurance for children in families that are too wealthy to fall under Medicaid’s umbrella.
+Medicare
+single-payer health care
+Children’s Health Insurance Program [or CHIP; or State Children’s Health Insurance Program; or SCHIP]
+President Goodluck Jonathan declared a state of emergency in response to the actions of Boko Haram in this country.
+Name this West African country and member of the Commonwealth of Nations in which the group Boko Haram, active since 2001, has attacked cities such as Kano and Abuja in their effort to establish an Islamic state.
+The French-led Operation Serval in 2013 ousted Islamists from major cities in this former French colony in the Sahara. This country also shares its name with a polity governed by Mansa Musa in the fourteenth century.
+Recent tensions between the RENAMO and the FRELIMO threaten peace in this former Portuguese colony on the Indian Ocean that emerged from conflict twenty years ago. It lies west of a namesake channel.
+Federal Republic of Nigeria
+Republic of Mali [or RÃ©publique du Mali; or Mali ka Fasojamana]
+Republic of Mozambique [or RepÃºblica de MoÃ§ambique]
+Bonus: He ran effectively unopposed in his congressional district, getting 99% of the vote. For ten points each:
+Name this current Republican Speaker of the House.
+John Boehner is from the 8th Congressional District in this state, whose senators include Rob Portman and Sherrod Brown. The auto industry bailout helped Obama win this state’s 18 electoral votes in the 2012 election.
+This Democrat from Ohio lost his seat in the House to Marcy Kaptur due to legislative redistricting. Earlier, he sought the Democratic presidential nomination in 2008 and attempted to impeach Dick Cheney in 2007.
+John Andrew Boehner
+Ohio
+Dennis John Kucinich &lt;BZ&gt;
+Bonus: She opposed the FDA’s recommendation to make the morning after pill available over the counter. For ten points each:
+Name this current Secretary of Health and Human Services.
+Sebelius testified about the failures of a website created to implement this law, which included an individual mandate to buy health insurance.
+Unlike similar healthcare measures in Canada and the United Kingdom, the Affordable Care Act did not set up one of these systems, in which the government is the sole provider of insurance.
+Kathleen Sebelius
+Patient Protection and Affordable Care Act [or PPACA; accept Obamacare]
+single-payer system &lt;BZ&gt;
+Bonus: In April 2013, the drug company Novartis lost a patent case. For ten points each:
+Name this country, whose Supreme Court ruled that companies could continue making generic versions of Novartis’s leukemia drug Gleevec.
+In August 2013, this country took steps to limit software patents. It was earlier the site of a police raid that led to the arrest of the owner of Megaupload, Kim Dotcom.
+In June 2013, the US Supreme Court ruled in Association for Molecular Pathology v. Myriad Genetics that these naturally occurring segments of human DNA could not be patented just because they were isolated.
+India
+New Zealand
+genes &lt;BZ&gt;
+Bonus: She was attacked by a gunman in Pakistan’s Swat Valley. For ten points each:
+Name this BBC blogger who advocates for women’s rights and education and was considered a frontrunner for the 2013 Nobel Peace Prize.
+Malala Yousafzai was targeted by a member of this Islamic fundamentalist organization, whose influence in Afghanistan diminished after the NATO-led invasion.
+In October 2013, the European Union awarded Malala Yousafzai a prize named after this Soviet dissident scientist.
+Malala Yousafzai
+Taliban
+Andrei Dmitrievich Sakharov &lt;BZ&gt;
+Bonus: Kevyn Orr became emergency manager of this city after the governor declared a state of financial emergency. For ten points each:
+Name this city which recently filed for bankruptcy in July 2013.
+This state’s governor, Rick Snyder, was the one who declared Detroit to be in a state of financial emergency.
+This former mayor of Detroit was convicted of fraud and racketeering in 2013, and resigned as mayor after he was convicted on other felony charges.
+Detroit [prompt on "Motor City" and "Motown"]
+Michigan
+Kwame Malik Kilpatrick &lt;BZ&gt;
+Bonus: This country’s Islamic Courts Union administers sharia law. For ten points each:
+Name this country on the Horn of Africa, which was once led by a Transitional Federal Government that had little control over piracy.
+Somalia is home to this branch of al-Qaeda, which also has relations with the Islamic Courts Union. Its name means “The Youth” and it may be most famous for an attack on a shopping mall in September 2013.
+That aforementioned attack on a Westgate mall took place in this capital city. This city is also home to the only major United Nations office in Africa.
+Federal Republic of Somalia
+al-Shabaab [or Harakat al-Shabaab al-Mujahidin; do not accept “Mujahidin”]
+Nairobi &lt;BZ&gt;
+Bonus: Answer the following about statewide elections, for ten points each:
+This Republican senatorial candidate and former representative from Missouri once claimed that women would rarely get pregnant in cases of “legitimate rape”, leading to his defeat by Claire McCaskill.
+This state’s 2013 gubernatorial election saw the Republican candidate Ken Cuccinelli lose to Terry McAuliffe by a margin of 2.5 percentage points.
+A candidate in this state, Richard Mourdock, faced electoral woes after making comments about life and pregnancy. This state contains a prison facility in Terre Haute and hosts an annual 500-mile car race.
+William Todd Akin
+Virginia
+Indiana &lt;BZ&gt;
+[missing]
+Name this man, who was ousted as Prime Minister by his deputy, only to regain the post. In September 2013, he lost another election, this time to Liberal leader Tony Abbott.
+Kevin Rudd's time as prime minister of this country saw a formal apology issued to Aborigines [a-boe-RIH-jih-nees] who were part of the Stolen Generation.
+This woman became Australia's first female prime minister when she defeated Kevin Rudd in a leadership vote within the Labour Party in 2010.
+Kevin Rudd
+Commonwealth of Australia
+Julia Gillard
+[missing]
+Senate President John Morse and representative Angela Giron were the targets of recall campaigns within this state after voting in favor of gun control.
+Colorado's government moved fairly quickly to enact tougher gun control laws in the wake of a mass shooting at a movie theater in this city.
+To fight the money contributed by the National Rifle Association, this then-New York mayor contributed $350,000 to support the two incumbents.
+Colorado
+Aurora
+Michael Bloomberg
+Under the Defense of Marriage Act, states did not have to recognize these unions as performed in other states. For 10 points each:
+Name these unions between two people of the same gender.
+The Supreme Court struck down DOMA in June 2013 under the 5-4 ruling of this case.
+Anthony Kennedy authored the majority opinion striking down DOMA under a clause of this name, which is present in both the 5th and 14th Amendments.
+ same-sex marriage (or "homosexual" or "gay" in place of same-sex; prompt on "marriage")
+ Windsor v. United States
+ Due Process
+This country's fate has been uncertain ever since Hosni Mubarak was overthrown in the Arab Spring in 2011. For 10 points each:
+More recently, the democratically elected Mohamed Morsi was overthrown by the army in what North African country?
+Morsi belonged to this political party long oppressed under Mubarak's regime. Protesters for this party were killed at staggering levels in August.
+This Commander-in-Chief of Egypt's armed forces was largely responsible for what may or may not have been a coup.
+Arab Republic of Egypt
+ Muslim Brotherhood
+General Abdel Fattah el-Sisi
+For 10 points each, answer some questions about current events that have involved race relations:
+This Florida teenager's shooting by George Zimmerman sparked a nationwide debate and a contentious trial.
+This New York City policing policy of halting suspicious persons prompted arguments that it led to racial profiling. In August, a federal judge ruled it unconstitutional under the 4th Amendment.
+In June, the Supreme Court struck down part of the Voting Rights Act after this Alabama county filed a case against the law.
+Trayvon Martin
+ stop-and-frisk [exact phrase necessary]
+ Shelby County
+Ann Richardson joked that this US politician was "born with a silver foot in his mouth." For 10 points each:
+Name this former Texas governor. As president, he sent troops to Iraq to overthrow Saddam Hussein.
+This hispanic served as Bush's Attorney General. While serving in that position, this man dismissed many US Attorneys and used the NSA to wiretap U.S citizens without a warrant.
+Bush pushed for this education initiative sponsored by Edward Kennedy. Partially replaced by the Reach for the Top program, many have criticized this initiative for its reliance on standardized testing and unrealistic goals.
+George Walker Bush [accept Bush 43 or Bush the Younger; prompt on "Bush" or "George Bush"]
+Alberto Gonzales
+No Child Left Behind Act of 2001 [accept NCLB]
+The majority of this law was upheld 5 to 4 in the case of National Federation of Independent Business v. Sebelius. For 10 points each:
+Name this health care law which includes a contentious individual mandate and that is often informally referred to by the name of the president that signed it.
+Obamacare calls for the establishment of these health insurance markets. States have the option to create their own versions of these markets, partner with the federal government, or let the federal government establish one for them.
+This Canadian company, the main contractor for healthcare.gov, was criticized after the relative failure of the website.
+Patient Protection and Affordable Care Act [accept PPACA; accept Obamacare]
+health insurance exchanges (or HIX; do not accept or prompt on "HIEs")
+ CGI Group
+On August 7, President Obama cancelled a one-on-one summit with Vladimir Putin. For 10 points each:
+That cancellation effectively wiped out attempts to "reset" relations between the U.S. and this country, which Putin is president of.
+In 2012, the Duma passed the Anti-Magnitsky bill, which forbid Americans from doing this action. Dima Yakolev died after a family which had done this action left her in a car for nine hours.
+Meanwhile in Russia, this blogger has heavily criticized Putin and Russian corruption. He was sentenced to five years in jail for embezzlement, but ran anyways in elections for mayor of Moscow.
+ Russia (or Russian Federation)
+ adopting Russian children (accept word forms and clear equivalents of knowledge)
+Alexei Navalny
+In 2013, this city elected its first Democrat mayor since 1993. For 10 points each:
+Name this city in which Bill de Blasio defeated Republican Joe Lhota to replace Michael Bloomsberg as mayor?
+In Virginia, Terry McAuliffe defeated Ken Cuccinelli to become governor. Cuccinelli previously held this position now being contested by Mark Obenshain and Mark Herring over a margin of less than 500 votes.
+This man won a Democratic primary to succeed Thomas Menino after Menino decided not to run for a sixth term as Mayor of Boston.
+New York City or NYC
+Attorney General of Virginia
+Marty Walsh
+Under the Defense of Marriage Act, states did not have to recognize these unions as performed in other states. For 10 points each:
+Name these unions between two people of the same gender.
+The Supreme Court struck down DOMA in June 2013 under the 5-4 ruling of this case.
+Anthony Kennedy authored the majority opinion striking down DOMA under a clause of this name, which is present in both the 5th and 14th Amendments.
+ same-sex marriage (or "homosexual" or "gay" in place of same-sex; prompt on "marriage")
+ Windsor v. United States
+ Due Process
+Answer some questions about protests in a certain country. For ten points each:
+Massive protests began in this country after the recent rape of a woman on a bus in New Delhi.
+This current Prime Minister of India repeatedly called for the protests to calm down, with little effect.
+Responsibility for handling the protests falls to Sushilkumar Shinde, who holds this post in India’s government, commanding the police forces and maintaining internal security.
+India
+Manmohan Singh
+Home Minister (or Union Minister of Home Affairs) &lt;DA&gt;
+Bonus: It was the seat of the rebellion government until the liberation of Tripoli. For ten points each:
+Identify this city, in which a September 11, 2012 attack on the US Embassy led to the death of Ambassador Chris Stevens.
+This UN Ambassador was considered for appointment to Secretary of State in President Obama’s second term, but withdrew her name due to the expected controversy over the Benghazi attacks..
+This Arizona senator and former presidential candidate attacked Rice for claiming that the Benghazi attack was the result of a video. He appeared on Face the Nation with Rice in November.
+Benghazi
+Susan Rice
+John McCain &lt;DA&gt;
+Bonus: This man defeated Martha Coakley in a special election for Ted Kennedy’s Senate seat. For ten points each:
+Identify this politician from Massachusetts who was beaten by Elizabeth Warren in his 2012 re-election bid.
+Scott Brown may have another shot at the Senate after this senior Massachusetts senator and failed 2004 Democratic presidential candidate was confirmed as Secretary of State.
+Because Kerry resigned his Senate seat, this Democratic governor of Massachusetts appointed temporary office-holder Mo Cowan until a special election could be held.
+Scott Brown
+John Kerry
+Deval Patrick &lt;DA&gt;
